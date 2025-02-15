@@ -1,0 +1,31 @@
+           word  js_divergence Dissimilarity Category
+0       perched       0.005392                  Small
+1        rested       0.006364                  Small
+2    pointed at       0.018742                  Small
+3       floated       0.018742                  Small
+4       smashed       0.038840                  Small
+5     regretted       0.044251                  Small
+6       gave to       0.054216                  Small
+7         hoped       0.079064                  Small
+8        obeyed       0.079766                  Small
+9        lifted       0.102525                  Small
+10       walked       0.112415                  Small
+11  argued with       0.115533                  Small
+12       warned       0.122573                  Small
+13       rushed       0.127996                  Small
+14    respected       0.137838                  Small
+15     impacted       0.144111                  Small
+16       hunted       0.145163                  Small
+17         sank       0.145728                  Small
+18         flew       0.155236                  Small
+19      tempted       0.158756                  Small
+20       bombed       0.173301                  Small
+21       pushed       0.197413                  Small
+22       pulled       0.203059                  Small
+23         fled       0.203059                  Small
+24     offended       0.230175                  Small
+25        owned       0.260606               Moderate
+26    increased       0.263844               Moderate
+27    succeeded       0.278721               Moderate
+28       showed       0.278910               Moderate
+29       wanted       0.297951               Moderate

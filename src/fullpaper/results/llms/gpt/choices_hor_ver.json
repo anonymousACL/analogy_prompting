@@ -1,0 +1,1466 @@
+{
+  "pseudo_3.5": {
+    "fled": [
+      9,
+      15
+    ],
+    "pointed at": [
+      0,
+      24
+    ],
+    "pulled": [
+      12,
+      12
+    ],
+    "pushed": [
+      8,
+      16
+    ],
+    "walked": [
+      0,
+      24
+    ],
+    "hunted": [
+      0,
+      24
+    ],
+    "impacted": [
+      11,
+      13
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      9,
+      15
+    ],
+    "smashed": [
+      14,
+      10
+    ],
+    "bombed": [
+      22,
+      2
+    ],
+    "flew": [
+      23,
+      1
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      0,
+      24
+    ],
+    "gave to": [
+      0,
+      24
+    ],
+    "offended": [
+      16,
+      8
+    ],
+    "rushed": [
+      3,
+      21
+    ],
+    "warned": [
+      24,
+      0
+    ],
+    "owned": [
+      5,
+      19
+    ],
+    "regretted": [
+      9,
+      15
+    ],
+    "rested": [
+      24,
+      0
+    ],
+    "tempted": [
+      0,
+      24
+    ],
+    "wanted": [
+      13,
+      11
+    ],
+    "hoped": [
+      23,
+      1
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      23,
+      1
+    ],
+    "respected": [
+      24,
+      0
+    ],
+    "succeeded": [
+      21,
+      3
+    ]
+  },
+  "pseudo_3.5_analogy": {
+    "fled": [
+      2,
+      22
+    ],
+    "pointed at": [
+      1,
+      23
+    ],
+    "pulled": [
+      2,
+      22
+    ],
+    "pushed": [
+      5,
+      19
+    ],
+    "walked": [
+      1,
+      23
+    ],
+    "hunted": [
+      0,
+      24
+    ],
+    "impacted": [
+      0,
+      24
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      4,
+      20
+    ],
+    "smashed": [
+      16,
+      8
+    ],
+    "bombed": [
+      21,
+      3
+    ],
+    "flew": [
+      19,
+      5
+    ],
+    "floated": [
+      17,
+      7
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      0,
+      24
+    ],
+    "gave to": [
+      0,
+      24
+    ],
+    "offended": [
+      16,
+      8
+    ],
+    "rushed": [
+      0,
+      24
+    ],
+    "warned": [
+      10,
+      14
+    ],
+    "owned": [
+      8,
+      16
+    ],
+    "regretted": [
+      0,
+      24
+    ],
+    "rested": [
+      24,
+      0
+    ],
+    "tempted": [
+      0,
+      24
+    ],
+    "wanted": [
+      11,
+      13
+    ],
+    "hoped": [
+      18,
+      6
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      4,
+      20
+    ],
+    "respected": [
+      24,
+      0
+    ],
+    "succeeded": [
+      6,
+      18
+    ]
+  },
+  "pseudo_4-mini": {
+    "fled": [
+      0,
+      24
+    ],
+    "pointed at": [
+      0,
+      24
+    ],
+    "pulled": [
+      0,
+      24
+    ],
+    "pushed": [
+      0,
+      24
+    ],
+    "walked": [
+      0,
+      24
+    ],
+    "hunted": [
+      6,
+      18
+    ],
+    "impacted": [
+      10,
+      14
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      0,
+      24
+    ],
+    "smashed": [
+      11,
+      13
+    ],
+    "bombed": [
+      22,
+      2
+    ],
+    "flew": [
+      24,
+      0
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      0,
+      24
+    ],
+    "gave to": [
+      0,
+      24
+    ],
+    "offended": [
+      3,
+      21
+    ],
+    "rushed": [
+      0,
+      24
+    ],
+    "warned": [
+      19,
+      5
+    ],
+    "owned": [
+      0,
+      24
+    ],
+    "regretted": [
+      0,
+      24
+    ],
+    "rested": [
+      24,
+      0
+    ],
+    "tempted": [
+      0,
+      24
+    ],
+    "wanted": [
+      2,
+      22
+    ],
+    "hoped": [
+      17,
+      7
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      1,
+      23
+    ],
+    "respected": [
+      21,
+      3
+    ],
+    "succeeded": [
+      13,
+      11
+    ]
+  },
+  "pseudo_4-mini_analogy": {
+    "fled": [
+      13,
+      11
+    ],
+    "pointed at": [
+      1,
+      23
+    ],
+    "pulled": [
+      10,
+      14
+    ],
+    "pushed": [
+      0,
+      24
+    ],
+    "walked": [
+      0,
+      24
+    ],
+    "hunted": [
+      4,
+      20
+    ],
+    "impacted": [
+      13,
+      11
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      6,
+      18
+    ],
+    "smashed": [
+      22,
+      2
+    ],
+    "bombed": [
+      24,
+      0
+    ],
+    "flew": [
+      24,
+      0
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      0,
+      24
+    ],
+    "gave to": [
+      0,
+      24
+    ],
+    "offended": [
+      14,
+      10
+    ],
+    "rushed": [
+      12,
+      12
+    ],
+    "warned": [
+      18,
+      6
+    ],
+    "owned": [
+      14,
+      10
+    ],
+    "regretted": [
+      13,
+      11
+    ],
+    "rested": [
+      24,
+      0
+    ],
+    "tempted": [
+      15,
+      9
+    ],
+    "wanted": [
+      9,
+      15
+    ],
+    "hoped": [
+      24,
+      0
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      3,
+      21
+    ],
+    "respected": [
+      24,
+      0
+    ],
+    "succeeded": [
+      16,
+      8
+    ]
+  },
+  "pseudo_4": {
+    "fled": [
+      0,
+      24
+    ],
+    "pointed at": [
+      0,
+      24
+    ],
+    "pulled": [
+      0,
+      24
+    ],
+    "pushed": [
+      0,
+      24
+    ],
+    "walked": [
+      0,
+      24
+    ],
+    "hunted": [
+      0,
+      24
+    ],
+    "impacted": [
+      12,
+      12
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      3,
+      21
+    ],
+    "smashed": [
+      24,
+      0
+    ],
+    "bombed": [
+      24,
+      0
+    ],
+    "flew": [
+      24,
+      0
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      0,
+      24
+    ],
+    "gave to": [
+      0,
+      24
+    ],
+    "offended": [
+      3,
+      21
+    ],
+    "rushed": [
+      2,
+      22
+    ],
+    "warned": [
+      12,
+      12
+    ],
+    "owned": [
+      0,
+      24
+    ],
+    "regretted": [
+      3,
+      21
+    ],
+    "rested": [
+      24,
+      0
+    ],
+    "tempted": [
+      0,
+      24
+    ],
+    "wanted": [
+      5,
+      19
+    ],
+    "hoped": [
+      24,
+      0
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      2,
+      22
+    ],
+    "respected": [
+      23,
+      1
+    ],
+    "succeeded": [
+      24,
+      0
+    ]
+  },
+  "pseudo_4_analogy": {
+    "fled": [
+      8,
+      16
+    ],
+    "pointed at": [
+      0,
+      24
+    ],
+    "pulled": [
+      6,
+      18
+    ],
+    "pushed": [
+      0,
+      24
+    ],
+    "walked": [
+      0,
+      24
+    ],
+    "hunted": [
+      1,
+      23
+    ],
+    "impacted": [
+      12,
+      12
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      4,
+      20
+    ],
+    "smashed": [
+      24,
+      0
+    ],
+    "bombed": [
+      24,
+      0
+    ],
+    "flew": [
+      23,
+      1
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      1,
+      23
+    ],
+    "gave to": [
+      0,
+      24
+    ],
+    "offended": [
+      16,
+      8
+    ],
+    "rushed": [
+      3,
+      21
+    ],
+    "warned": [
+      15,
+      9
+    ],
+    "owned": [
+      14,
+      10
+    ],
+    "regretted": [
+      0,
+      24
+    ],
+    "rested": [
+      16,
+      8
+    ],
+    "tempted": [
+      5,
+      19
+    ],
+    "wanted": [
+      12,
+      12
+    ],
+    "hoped": [
+      24,
+      0
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      2,
+      22
+    ],
+    "respected": [
+      20,
+      4
+    ],
+    "succeeded": [
+      12,
+      12
+    ]
+  },
+  "text_3.5": {
+    "fled": [
+      5,
+      19
+    ],
+    "pointed at": [
+      3,
+      21
+    ],
+    "pulled": [
+      11,
+      13
+    ],
+    "pushed": [
+      0,
+      24
+    ],
+    "walked": [
+      6,
+      18
+    ],
+    "hunted": [
+      8,
+      16
+    ],
+    "impacted": [
+      2,
+      22
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      21,
+      3
+    ],
+    "smashed": [
+      20,
+      4
+    ],
+    "bombed": [
+      23,
+      1
+    ],
+    "flew": [
+      24,
+      0
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      0,
+      24
+    ],
+    "gave to": [
+      0,
+      24
+    ],
+    "offended": [
+      2,
+      22
+    ],
+    "rushed": [
+      7,
+      17
+    ],
+    "warned": [
+      12,
+      12
+    ],
+    "owned": [
+      1,
+      23
+    ],
+    "regretted": [
+      7,
+      17
+    ],
+    "rested": [
+      24,
+      0
+    ],
+    "tempted": [
+      0,
+      24
+    ],
+    "wanted": [
+      11,
+      13
+    ],
+    "hoped": [
+      24,
+      0
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      17,
+      7
+    ],
+    "respected": [
+      21,
+      3
+    ],
+    "succeeded": [
+      19,
+      5
+    ]
+  },
+  "text_3.5_analogy": {
+    "fled": [
+      8,
+      16
+    ],
+    "pointed at": [
+      1,
+      23
+    ],
+    "pulled": [
+      6,
+      18
+    ],
+    "pushed": [
+      0,
+      24
+    ],
+    "walked": [
+      14,
+      10
+    ],
+    "hunted": [
+      4,
+      20
+    ],
+    "impacted": [
+      1,
+      23
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      6,
+      18
+    ],
+    "smashed": [
+      24,
+      0
+    ],
+    "bombed": [
+      24,
+      0
+    ],
+    "flew": [
+      22,
+      2
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      0,
+      24
+    ],
+    "gave to": [
+      10,
+      14
+    ],
+    "offended": [
+      22,
+      2
+    ],
+    "rushed": [
+      5,
+      19
+    ],
+    "warned": [
+      2,
+      22
+    ],
+    "owned": [
+      13,
+      11
+    ],
+    "regretted": [
+      2,
+      22
+    ],
+    "rested": [
+      24,
+      0
+    ],
+    "tempted": [
+      2,
+      22
+    ],
+    "wanted": [
+      18,
+      6
+    ],
+    "hoped": [
+      24,
+      0
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      0,
+      24
+    ],
+    "respected": [
+      24,
+      0
+    ],
+    "succeeded": [
+      18,
+      6
+    ]
+  },
+  "text_4-mini": {
+    "fled": [
+      13,
+      11
+    ],
+    "pointed at": [
+      11,
+      13
+    ],
+    "pulled": [
+      24,
+      0
+    ],
+    "pushed": [
+      11,
+      13
+    ],
+    "walked": [
+      13,
+      11
+    ],
+    "hunted": [
+      14,
+      10
+    ],
+    "impacted": [
+      22,
+      2
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      14,
+      10
+    ],
+    "smashed": [
+      24,
+      0
+    ],
+    "bombed": [
+      24,
+      0
+    ],
+    "flew": [
+      24,
+      0
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      4,
+      20
+    ],
+    "gave to": [
+      9,
+      15
+    ],
+    "offended": [
+      10,
+      14
+    ],
+    "rushed": [
+      12,
+      12
+    ],
+    "warned": [
+      12,
+      12
+    ],
+    "owned": [
+      12,
+      12
+    ],
+    "regretted": [
+      12,
+      12
+    ],
+    "rested": [
+      23,
+      1
+    ],
+    "tempted": [
+      12,
+      12
+    ],
+    "wanted": [
+      12,
+      12
+    ],
+    "hoped": [
+      24,
+      0
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      13,
+      11
+    ],
+    "respected": [
+      14,
+      10
+    ],
+    "succeeded": [
+      23,
+      1
+    ]
+  },
+  "text_4-mini_analogy": {
+    "fled": [
+      16,
+      8
+    ],
+    "pointed at": [
+      5,
+      19
+    ],
+    "pulled": [
+      18,
+      6
+    ],
+    "pushed": [
+      8,
+      16
+    ],
+    "walked": [
+      11,
+      13
+    ],
+    "hunted": [
+      20,
+      4
+    ],
+    "impacted": [
+      13,
+      11
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      5,
+      19
+    ],
+    "smashed": [
+      24,
+      0
+    ],
+    "bombed": [
+      24,
+      0
+    ],
+    "flew": [
+      24,
+      0
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      5,
+      19
+    ],
+    "gave to": [
+      8,
+      16
+    ],
+    "offended": [
+      10,
+      14
+    ],
+    "rushed": [
+      20,
+      4
+    ],
+    "warned": [
+      6,
+      18
+    ],
+    "owned": [
+      14,
+      10
+    ],
+    "regretted": [
+      18,
+      6
+    ],
+    "rested": [
+      24,
+      0
+    ],
+    "tempted": [
+      13,
+      11
+    ],
+    "wanted": [
+      17,
+      7
+    ],
+    "hoped": [
+      24,
+      0
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      12,
+      12
+    ],
+    "respected": [
+      18,
+      6
+    ],
+    "succeeded": [
+      24,
+      0
+    ]
+  },
+  "text_4": {
+    "fled": [
+      0,
+      24
+    ],
+    "pointed at": [
+      0,
+      24
+    ],
+    "pulled": [
+      24,
+      0
+    ],
+    "pushed": [
+      21,
+      3
+    ],
+    "walked": [
+      2,
+      22
+    ],
+    "hunted": [
+      24,
+      0
+    ],
+    "impacted": [
+      24,
+      0
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      24,
+      0
+    ],
+    "smashed": [
+      24,
+      0
+    ],
+    "bombed": [
+      24,
+      0
+    ],
+    "flew": [
+      24,
+      0
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      0,
+      24
+    ],
+    "gave to": [
+      6,
+      18
+    ],
+    "offended": [
+      1,
+      23
+    ],
+    "rushed": [
+      20,
+      4
+    ],
+    "warned": [
+      6,
+      18
+    ],
+    "owned": [
+      12,
+      12
+    ],
+    "regretted": [
+      7,
+      17
+    ],
+    "rested": [
+      23,
+      1
+    ],
+    "tempted": [
+      9,
+      15
+    ],
+    "wanted": [
+      19,
+      5
+    ],
+    "hoped": [
+      24,
+      0
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      3,
+      21
+    ],
+    "respected": [
+      22,
+      2
+    ],
+    "succeeded": [
+      24,
+      0
+    ]
+  },
+  "text_4_analogy": {
+    "fled": [
+      13,
+      11
+    ],
+    "pointed at": [
+      0,
+      24
+    ],
+    "pulled": [
+      20,
+      4
+    ],
+    "pushed": [
+      1,
+      23
+    ],
+    "walked": [
+      8,
+      16
+    ],
+    "hunted": [
+      4,
+      20
+    ],
+    "impacted": [
+      20,
+      4
+    ],
+    "perched": [
+      24,
+      0
+    ],
+    "showed": [
+      20,
+      4
+    ],
+    "smashed": [
+      24,
+      0
+    ],
+    "bombed": [
+      24,
+      0
+    ],
+    "flew": [
+      24,
+      0
+    ],
+    "floated": [
+      24,
+      0
+    ],
+    "lifted": [
+      24,
+      0
+    ],
+    "sank": [
+      24,
+      0
+    ],
+    "argued with": [
+      0,
+      24
+    ],
+    "gave to": [
+      4,
+      20
+    ],
+    "offended": [
+      17,
+      7
+    ],
+    "rushed": [
+      14,
+      10
+    ],
+    "warned": [
+      11,
+      13
+    ],
+    "owned": [
+      19,
+      5
+    ],
+    "regretted": [
+      5,
+      19
+    ],
+    "rested": [
+      23,
+      1
+    ],
+    "tempted": [
+      11,
+      13
+    ],
+    "wanted": [
+      24,
+      0
+    ],
+    "hoped": [
+      24,
+      0
+    ],
+    "increased": [
+      24,
+      0
+    ],
+    "obeyed": [
+      9,
+      15
+    ],
+    "respected": [
+      21,
+      3
+    ],
+    "succeeded": [
+      24,
+      0
+    ]
+  }
+}

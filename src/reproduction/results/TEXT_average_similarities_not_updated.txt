@@ -1,0 +1,3 @@
+Model	Average Similarity
+gpt-3.5-turbo-instruct	0.5583833333333333
+gpt-4	0.5435166666666666

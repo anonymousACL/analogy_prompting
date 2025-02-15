@@ -1,0 +1,1440 @@
+fled	↑, ↓, ←, →	concept: '→'
+----------
+fled	↑, ↓, →, ←	concept: '←'
+----------
+fled	↑, ←, ↓, →	'→'
+----------
+fled	↑, ←, →, ↓	'→'
+----------
+fled	↑, →, ↓, ←	concept: '→'
+----------
+fled	↑, →, ←, ↓	concept: '→'
+----------
+fled	↓, ↑, ←, →	concept: '→'
+----------
+fled	↓, ↑, →, ←	concept: '→'
+----------
+fled	↓, ←, ↑, →	concept: '→'
+----------
+fled	↓, ←, →, ↑	'→'
+----------
+fled	↓, →, ↑, ←	'→'
+----------
+fled	↓, →, ←, ↑	'→'
+----------
+fled	←, ↑, ↓, →	'→'
+----------
+fled	←, ↑, →, ↓	concept: '→'
+----------
+fled	←, ↓, ↑, →	concept: '→'
+----------
+fled	←, ↓, →, ↑	concept: '→'
+----------
+fled	←, →, ↑, ↓	'→'
+----------
+fled	←, →, ↓, ↑	'→'
+----------
+fled	→, ↑, ↓, ←	concept: '←'
+----------
+fled	→, ↑, ←, ↓	concept: '→'
+----------
+fled	→, ↓, ↑, ←	concept: '→'
+----------
+fled	→, ↓, ←, ↑	concept: '←'
+----------
+fled	→, ←, ↑, ↓	'←'
+----------
+fled	→, ←, ↓, ↑	concept: '←'
+----------
+pointed at	↑, ↓, ←, →	concept: '→'
+----------
+pointed at	↑, ↓, →, ←	'→'
+----------
+pointed at	↑, ←, ↓, →	'→'
+----------
+pointed at	↑, ←, →, ↓	concept: '→'
+----------
+pointed at	↑, →, ↓, ←	'→'
+----------
+pointed at	↑, →, ←, ↓	concept: '→'
+----------
+pointed at	↓, ↑, ←, →	concept: '→'
+----------
+pointed at	↓, ↑, →, ←	concept: '→'
+----------
+pointed at	↓, ←, ↑, →	'→'
+----------
+pointed at	↓, ←, →, ↑	'→'
+----------
+pointed at	↓, →, ↑, ←	'→'
+----------
+pointed at	↓, →, ←, ↑	'→'
+----------
+pointed at	←, ↑, ↓, →	'→'
+----------
+pointed at	←, ↑, →, ↓	'→'
+----------
+pointed at	←, ↓, ↑, →	'→'
+----------
+pointed at	←, ↓, →, ↑	'→'
+----------
+pointed at	←, →, ↑, ↓	'→'
+----------
+pointed at	←, →, ↓, ↑	'→'
+----------
+pointed at	→, ↑, ↓, ←	'→'
+----------
+pointed at	→, ↑, ←, ↓	'→'
+----------
+pointed at	→, ↓, ↑, ←	concept: '→'
+----------
+pointed at	→, ↓, ←, ↑	'→'
+----------
+pointed at	→, ←, ↑, ↓	'→'
+----------
+pointed at	→, ←, ↓, ↑	'→'
+----------
+pulled	↑, ↓, ←, →	concept: '←'
+----------
+pulled	↑, ↓, →, ←	concept: '←'
+----------
+pulled	↑, ←, ↓, →	concept: '←'
+----------
+pulled	↑, ←, →, ↓	concept: '←'
+----------
+pulled	↑, →, ↓, ←	concept: '←'
+----------
+pulled	↑, →, ←, ↓	concept: '←'
+----------
+pulled	↓, ↑, ←, →	'←'
+----------
+pulled	↓, ↑, →, ←	concept: '←'
+----------
+pulled	↓, ←, ↑, →	'←'
+----------
+pulled	↓, ←, →, ↑	concept: '←'
+----------
+pulled	↓, →, ↑, ←	'←'
+----------
+pulled	↓, →, ←, ↑	concept: '←'
+----------
+pulled	←, ↑, ↓, →	concept: '←'
+----------
+pulled	←, ↑, →, ↓	'←'
+----------
+pulled	←, ↓, ↑, →	'←'
+----------
+pulled	←, ↓, →, ↑	'←'
+----------
+pulled	←, →, ↑, ↓	concept: '←'
+----------
+pulled	←, →, ↓, ↑	'←'
+----------
+pulled	→, ↑, ↓, ←	concept: '←'
+----------
+pulled	→, ↑, ←, ↓	concept: '←'
+----------
+pulled	→, ↓, ↑, ←	'←'
+----------
+pulled	→, ↓, ←, ↑	concept: '←'
+----------
+pulled	→, ←, ↑, ↓	'←'
+----------
+pulled	→, ←, ↓, ↑	concept: '←'
+----------
+pushed	↑, ↓, ←, →	concept: '→'
+----------
+pushed	↑, ↓, →, ←	concept: '→'
+----------
+pushed	↑, ←, ↓, →	concept: '→'
+----------
+pushed	↑, ←, →, ↓	concept: '→'
+----------
+pushed	↑, →, ↓, ←	concept: '→'
+----------
+pushed	↑, →, ←, ↓	'→'
+----------
+pushed	↓, ↑, ←, →	concept: '→'
+----------
+pushed	↓, ↑, →, ←	'→'
+----------
+pushed	↓, ←, ↑, →	concept: '→'
+----------
+pushed	↓, ←, →, ↑	concept: '→'
+----------
+pushed	↓, →, ↑, ←	'→'
+----------
+pushed	↓, →, ←, ↑	concept: '→'
+----------
+pushed	←, ↑, ↓, →	concept: '→'
+----------
+pushed	←, ↑, →, ↓	'→'
+----------
+pushed	←, ↓, ↑, →	concept: '→'
+----------
+pushed	←, ↓, →, ↑	concept: '→'
+----------
+pushed	←, →, ↑, ↓	concept: '→'
+----------
+pushed	←, →, ↓, ↑	concept: '→'
+----------
+pushed	→, ↑, ↓, ←	concept: '→'
+----------
+pushed	→, ↑, ←, ↓	concept: '→'
+----------
+pushed	→, ↓, ↑, ←	'→'
+----------
+pushed	→, ↓, ←, ↑	concept: '→'
+----------
+pushed	→, ←, ↑, ↓	concept: '→'
+----------
+pushed	→, ←, ↓, ↑	concept: '→'
+----------
+walked	↑, ↓, ←, →	concept: '→'
+----------
+walked	↑, ↓, →, ←	concept: '→'
+----------
+walked	↑, ←, ↓, →	concept: '→'
+----------
+walked	↑, ←, →, ↓	concept: '→'
+----------
+walked	↑, →, ↓, ←	concept: '→'
+----------
+walked	↑, →, ←, ↓	concept: '→'
+----------
+walked	↓, ↑, ←, →	'→'
+----------
+walked	↓, ↑, →, ←	'→'
+----------
+walked	↓, ←, ↑, →	concept: '→'
+----------
+walked	↓, ←, →, ↑	concept: '→'
+----------
+walked	↓, →, ↑, ←	concept: '→'
+----------
+walked	↓, →, ←, ↑	concept: '→'
+----------
+walked	←, ↑, ↓, →	'→'
+----------
+walked	←, ↑, →, ↓	concept: '→'
+----------
+walked	←, ↓, ↑, →	concept: '→'
+----------
+walked	←, ↓, →, ↑	'→'
+----------
+walked	←, →, ↑, ↓	concept: '→'
+----------
+walked	←, →, ↓, ↑	concept: '→'
+----------
+walked	→, ↑, ↓, ←	concept: '→'
+----------
+walked	→, ↑, ←, ↓	'→'
+----------
+walked	→, ↓, ↑, ←	'→'
+----------
+walked	→, ↓, ←, ↑	'→'
+----------
+walked	→, ←, ↑, ↓	concept: '→'
+----------
+walked	→, ←, ↓, ↑	concept: '→'
+----------
+hunted	↑, ↓, ←, →	concept: '→'
+----------
+hunted	↑, ↓, →, ←	'→'
+----------
+hunted	↑, ←, ↓, →	concept: '→'
+----------
+hunted	↑, ←, →, ↓	'→'
+----------
+hunted	↑, →, ↓, ←	'→'
+----------
+hunted	↑, →, ←, ↓	'→'
+----------
+hunted	↓, ↑, ←, →	concept: '→'
+----------
+hunted	↓, ↑, →, ←	'→'
+----------
+hunted	↓, ←, ↑, →	'→'
+----------
+hunted	↓, ←, →, ↑	'→'
+----------
+hunted	↓, →, ↑, ←	concept: '→'
+----------
+hunted	↓, →, ←, ↑	concept: '→'
+----------
+hunted	←, ↑, ↓, →	concept: '→'
+----------
+hunted	←, ↑, →, ↓	'→'
+----------
+hunted	←, ↓, ↑, →	'→'
+----------
+hunted	←, ↓, →, ↑	'→'
+----------
+hunted	←, →, ↑, ↓	concept: '→'
+----------
+hunted	←, →, ↓, ↑	'→'
+----------
+hunted	→, ↑, ↓, ←	concept: '→'
+----------
+hunted	→, ↑, ←, ↓	concept: '→'
+----------
+hunted	→, ↓, ↑, ←	'→'
+----------
+hunted	→, ↓, ←, ↑	'→'
+----------
+hunted	→, ←, ↑, ↓	'→'
+----------
+hunted	→, ←, ↓, ↑	'→'
+----------
+impacted	↑, ↓, ←, →	concept: '↓'
+----------
+impacted	↑, ↓, →, ←	'↓'
+----------
+impacted	↑, ←, ↓, →	'←'
+----------
+impacted	↑, ←, →, ↓	concept: '→'
+----------
+impacted	↑, →, ↓, ←	'→'
+----------
+impacted	↑, →, ←, ↓	concept: '↓'
+----------
+impacted	↓, ↑, ←, →	'↓'
+----------
+impacted	↓, ↑, →, ←	concept: '↓'
+----------
+impacted	↓, ←, ↑, →	'←'
+----------
+impacted	↓, ←, →, ↑	concept: '↓'
+----------
+impacted	↓, →, ↑, ←	'→'
+----------
+impacted	↓, →, ←, ↑	'→'
+----------
+impacted	←, ↑, ↓, →	concept: '↓'
+----------
+impacted	←, ↑, →, ↓	concept: '→'
+----------
+impacted	←, ↓, ↑, →	concept: '↓'
+----------
+impacted	←, ↓, →, ↑	concept: '↓'
+----------
+impacted	←, →, ↑, ↓	concept: '→'
+----------
+impacted	←, →, ↓, ↑	concept: '→'
+----------
+impacted	→, ↑, ↓, ←	concept: '→'
+----------
+impacted	→, ↑, ←, ↓	'↓'
+----------
+impacted	→, ↓, ↑, ←	concept: '↓'
+----------
+impacted	→, ↓, ←, ↑	concept: '↓'
+----------
+impacted	→, ←, ↑, ↓	'→'
+----------
+impacted	→, ←, ↓, ↑	'→'
+----------
+perched	↑, ↓, ←, →	concept: '↑'
+----------
+perched	↑, ↓, →, ←	concept: '↑'
+----------
+perched	↑, ←, ↓, →	concept: '↑'
+----------
+perched	↑, ←, →, ↓	concept: '↑'
+----------
+perched	↑, →, ↓, ←	'↑'
+----------
+perched	↑, →, ←, ↓	'↑'
+----------
+perched	↓, ↑, ←, →	'↓'
+----------
+perched	↓, ↑, →, ←	'↓'
+----------
+perched	↓, ←, ↑, →	concept: '↓'
+----------
+perched	↓, ←, →, ↑	'↓'
+----------
+perched	↓, →, ↑, ←	'↓'
+----------
+perched	↓, →, ←, ↑	concept: '↓'
+----------
+perched	←, ↑, ↓, →	'↑'
+----------
+perched	←, ↑, →, ↓	concept: '↑'
+----------
+perched	←, ↓, ↑, →	'↑'
+----------
+perched	←, ↓, →, ↑	'↑'
+----------
+perched	←, →, ↑, ↓	'↑'
+----------
+perched	←, →, ↓, ↑	'↑'
+----------
+perched	→, ↑, ↓, ←	'↑'
+----------
+perched	→, ↑, ←, ↓	'↑'
+----------
+perched	→, ↓, ↑, ←	'↑'
+----------
+perched	→, ↓, ←, ↑	concept: '↑'
+----------
+perched	→, ←, ↑, ↓	concept: '↑'
+----------
+perched	→, ←, ↓, ↑	concept: '↑'
+----------
+showed	↑, ↓, ←, →	'↑'
+----------
+showed	↑, ↓, →, ←	concept: '→'
+----------
+showed	↑, ←, ↓, →	concept: '→'
+----------
+showed	↑, ←, →, ↓	'→'
+----------
+showed	↑, →, ↓, ←	concept: '→'
+----------
+showed	↑, →, ←, ↓	'→'
+----------
+showed	↓, ↑, ←, →	concept: '↑'
+----------
+showed	↓, ↑, →, ←	concept: '→'
+----------
+showed	↓, ←, ↑, →	'↑'
+----------
+showed	↓, ←, →, ↑	'→'
+----------
+showed	↓, →, ↑, ←	'→'
+----------
+showed	↓, →, ←, ↑	'→'
+----------
+showed	←, ↑, ↓, →	'→'
+----------
+showed	←, ↑, →, ↓	'→'
+----------
+showed	←, ↓, ↑, →	'→'
+----------
+showed	←, ↓, →, ↑	concept: '→'
+----------
+showed	←, →, ↑, ↓	'→'
+----------
+showed	←, →, ↓, ↑	concept: '→'
+----------
+showed	→, ↑, ↓, ←	'→'
+----------
+showed	→, ↑, ←, ↓	concept: '→'
+----------
+showed	→, ↓, ↑, ←	concept: '→'
+----------
+showed	→, ↓, ←, ↑	'→'
+----------
+showed	→, ←, ↑, ↓	concept: '→'
+----------
+showed	→, ←, ↓, ↑	'→'
+----------
+smashed	↑, ↓, ←, →	'↓'
+----------
+smashed	↑, ↓, →, ←	'↓'
+----------
+smashed	↑, ←, ↓, →	'↓'
+----------
+smashed	↑, ←, →, ↓	concept: '↓'
+----------
+smashed	↑, →, ↓, ←	concept: '↓'
+----------
+smashed	↑, →, ←, ↓	'↓'
+----------
+smashed	↓, ↑, ←, →	'↓'
+----------
+smashed	↓, ↑, →, ←	'↓'
+----------
+smashed	↓, ←, ↑, →	'↓'
+----------
+smashed	↓, ←, →, ↑	'↓'
+----------
+smashed	↓, →, ↑, ←	'↓'
+----------
+smashed	↓, →, ←, ↑	concept: '↓'
+----------
+smashed	←, ↑, ↓, →	'↓'
+----------
+smashed	←, ↑, →, ↓	'↓'
+----------
+smashed	←, ↓, ↑, →	'↓'
+----------
+smashed	←, ↓, →, ↑	'↓'
+----------
+smashed	←, →, ↑, ↓	'↓'
+----------
+smashed	←, →, ↓, ↑	'↓'
+----------
+smashed	→, ↑, ↓, ←	'↓'
+----------
+smashed	→, ↑, ←, ↓	'↓'
+----------
+smashed	→, ↓, ↑, ←	concept: '↓'
+----------
+smashed	→, ↓, ←, ↑	concept: '↓'
+----------
+smashed	→, ←, ↑, ↓	'↓'
+----------
+smashed	→, ←, ↓, ↑	'↓'
+----------
+bombed	↑, ↓, ←, →	'↓'
+----------
+bombed	↑, ↓, →, ←	'↓'
+----------
+bombed	↑, ←, ↓, →	concept: '↓'
+----------
+bombed	↑, ←, →, ↓	concept: '↓'
+----------
+bombed	↑, →, ↓, ←	'↓'
+----------
+bombed	↑, →, ←, ↓	'↓'
+----------
+bombed	↓, ↑, ←, →	'↓'
+----------
+bombed	↓, ↑, →, ←	'↓'
+----------
+bombed	↓, ←, ↑, →	concept: '↓'
+----------
+bombed	↓, ←, →, ↑	'↓'
+----------
+bombed	↓, →, ↑, ←	'↓'
+----------
+bombed	↓, →, ←, ↑	'↓'
+----------
+bombed	←, ↑, ↓, →	concept: '↓'
+----------
+bombed	←, ↑, →, ↓	concept: '↓'
+----------
+bombed	←, ↓, ↑, →	concept: '↓'
+----------
+bombed	←, ↓, →, ↑	'↓'
+----------
+bombed	←, →, ↑, ↓	'↓'
+----------
+bombed	←, →, ↓, ↑	concept: '↓'
+----------
+bombed	→, ↑, ↓, ←	concept: '↓'
+----------
+bombed	→, ↑, ←, ↓	concept: '↓'
+----------
+bombed	→, ↓, ↑, ←	concept: '↓'
+----------
+bombed	→, ↓, ←, ↑	'↓'
+----------
+bombed	→, ←, ↑, ↓	'↓'
+----------
+bombed	→, ←, ↓, ↑	'↓'
+----------
+flew	↑, ↓, ←, →	concept: '↑'
+----------
+flew	↑, ↓, →, ←	'↑'
+----------
+flew	↑, ←, ↓, →	concept: '↑'
+----------
+flew	↑, ←, →, ↓	'↑'
+----------
+flew	↑, →, ↓, ←	concept: '↑'
+----------
+flew	↑, →, ←, ↓	concept: '↑'
+----------
+flew	↓, ↑, ←, →	concept: '↑'
+----------
+flew	↓, ↑, →, ←	'↑'
+----------
+flew	↓, ←, ↑, →	'↑'
+----------
+flew	↓, ←, →, ↑	'↑'
+----------
+flew	↓, →, ↑, ←	concept: '↑'
+----------
+flew	↓, →, ←, ↑	'↑'
+----------
+flew	←, ↑, ↓, →	concept: '↑'
+----------
+flew	←, ↑, →, ↓	'↑'
+----------
+flew	←, ↓, ↑, →	concept: '↑'
+----------
+flew	←, ↓, →, ↑	'↑'
+----------
+flew	←, →, ↑, ↓	concept: '↑'
+----------
+flew	←, →, ↓, ↑	concept: '↑'
+----------
+flew	→, ↑, ↓, ←	'↑'
+----------
+flew	→, ↑, ←, ↓	'↑'
+----------
+flew	→, ↓, ↑, ←	'↑'
+----------
+flew	→, ↓, ←, ↑	'↑'
+----------
+flew	→, ←, ↑, ↓	'↑'
+----------
+flew	→, ←, ↓, ↑	'↑'
+----------
+floated	↑, ↓, ←, →	'↑'
+----------
+floated	↑, ↓, →, ←	'↑'
+----------
+floated	↑, ←, ↓, →	'↑'
+----------
+floated	↑, ←, →, ↓	'↑'
+----------
+floated	↑, →, ↓, ←	'↑'
+----------
+floated	↑, →, ←, ↓	'↑'
+----------
+floated	↓, ↑, ←, →	'↑'
+----------
+floated	↓, ↑, →, ←	'↑'
+----------
+floated	↓, ←, ↑, →	'↑'
+----------
+floated	↓, ←, →, ↑	'↑'
+----------
+floated	↓, →, ↑, ←	'↑'
+----------
+floated	↓, →, ←, ↑	'↑'
+----------
+floated	←, ↑, ↓, →	concept: '↑'
+----------
+floated	←, ↑, →, ↓	'↑'
+----------
+floated	←, ↓, ↑, →	'↑'
+----------
+floated	←, ↓, →, ↑	'↑'
+----------
+floated	←, →, ↑, ↓	'↑'
+----------
+floated	←, →, ↓, ↑	'↑'
+----------
+floated	→, ↑, ↓, ←	concept: '↑'
+----------
+floated	→, ↑, ←, ↓	concept: '↑'
+----------
+floated	→, ↓, ↑, ←	'↑'
+----------
+floated	→, ↓, ←, ↑	'↑'
+----------
+floated	→, ←, ↑, ↓	'↑'
+----------
+floated	→, ←, ↓, ↑	'↑'
+----------
+lifted	↑, ↓, ←, →	concept: '↑'
+----------
+lifted	↑, ↓, →, ←	concept: '↑'
+----------
+lifted	↑, ←, ↓, →	concept: '↑'
+----------
+lifted	↑, ←, →, ↓	concept: '↑'
+----------
+lifted	↑, →, ↓, ←	concept: '↑'
+----------
+lifted	↑, →, ←, ↓	concept: '↑'
+----------
+lifted	↓, ↑, ←, →	concept: '↑'
+----------
+lifted	↓, ↑, →, ←	'↑'
+----------
+lifted	↓, ←, ↑, →	concept: '↑'
+----------
+lifted	↓, ←, →, ↑	'↑'
+----------
+lifted	↓, →, ↑, ←	concept: '↑'
+----------
+lifted	↓, →, ←, ↑	concept: '↑'
+----------
+lifted	←, ↑, ↓, →	concept: '↑'
+----------
+lifted	←, ↑, →, ↓	'↑'
+----------
+lifted	←, ↓, ↑, →	concept: '↑'
+----------
+lifted	←, ↓, →, ↑	'↑'
+----------
+lifted	←, →, ↑, ↓	concept: '↑'
+----------
+lifted	←, →, ↓, ↑	concept: '↑'
+----------
+lifted	→, ↑, ↓, ←	concept: '↑'
+----------
+lifted	→, ↑, ←, ↓	concept: '↑'
+----------
+lifted	→, ↓, ↑, ←	concept: '↑'
+----------
+lifted	→, ↓, ←, ↑	'↑'
+----------
+lifted	→, ←, ↑, ↓	concept: '↑'
+----------
+lifted	→, ←, ↓, ↑	concept: '↑'
+----------
+sank	↑, ↓, ←, →	'↓'
+----------
+sank	↑, ↓, →, ←	'↓'
+----------
+sank	↑, ←, ↓, →	'↓'
+----------
+sank	↑, ←, →, ↓	'↓'
+----------
+sank	↑, →, ↓, ←	'↓'
+----------
+sank	↑, →, ←, ↓	concept: '↓'
+----------
+sank	↓, ↑, ←, →	'↓'
+----------
+sank	↓, ↑, →, ←	'↓'
+----------
+sank	↓, ←, ↑, →	'↓'
+----------
+sank	↓, ←, →, ↑	'↓'
+----------
+sank	↓, →, ↑, ←	concept: '↓'
+----------
+sank	↓, →, ←, ↑	'↓'
+----------
+sank	←, ↑, ↓, →	'↓'
+----------
+sank	←, ↑, →, ↓	'↓'
+----------
+sank	←, ↓, ↑, →	'↓'
+----------
+sank	←, ↓, →, ↑	'↓'
+----------
+sank	←, →, ↑, ↓	concept: '↓'
+----------
+sank	←, →, ↓, ↑	concept: '↓'
+----------
+sank	→, ↑, ↓, ←	concept: '↓'
+----------
+sank	→, ↑, ←, ↓	concept: '↓'
+----------
+sank	→, ↓, ↑, ←	'↓'
+----------
+sank	→, ↓, ←, ↑	'↓'
+----------
+sank	→, ←, ↑, ↓	'↓'
+----------
+sank	→, ←, ↓, ↑	'↓'
+----------
+argued with	↑, ↓, ←, →	concept: '←'
+----------
+argued with	↑, ↓, →, ←	'←'
+----------
+argued with	↑, ←, ↓, →	'←'
+----------
+argued with	↑, ←, →, ↓	'←'
+----------
+argued with	↑, →, ↓, ←	concept: '→'
+----------
+argued with	↑, →, ←, ↓	concept: '→'
+----------
+argued with	↓, ↑, ←, →	'←'
+----------
+argued with	↓, ↑, →, ←	'←'
+----------
+argued with	↓, ←, ↑, →	'←'
+----------
+argued with	↓, ←, →, ↑	concept: ←
+----------
+argued with	↓, →, ↑, ←	concept: '→'
+----------
+argued with	↓, →, ←, ↑	concept: '←'
+----------
+argued with	←, ↑, ↓, →	concept: '←'
+----------
+argued with	←, ↑, →, ↓	concept: '←'
+----------
+argued with	←, ↓, ↑, →	concept: '←'
+----------
+argued with	←, ↓, →, ↑	'←'
+----------
+argued with	←, →, ↑, ↓	concept: '←'
+----------
+argued with	←, →, ↓, ↑	concept: '→'
+----------
+argued with	→, ↑, ↓, ←	'←'
+----------
+argued with	→, ↑, ←, ↓	'←'
+----------
+argued with	→, ↓, ↑, ←	concept: '←'
+----------
+argued with	→, ↓, ←, ↑	'←'
+----------
+argued with	→, ←, ↑, ↓	'←'
+----------
+argued with	→, ←, ↓, ↑	'←'
+----------
+gave to	↑, ↓, ←, →	'→'
+----------
+gave to	↑, ↓, →, ←	concept: '→'
+----------
+gave to	↑, ←, ↓, →	concept: '→'
+----------
+gave to	↑, ←, →, ↓	'→'
+----------
+gave to	↑, →, ↓, ←	concept: '→'
+----------
+gave to	↑, →, ←, ↓	concept: '→'
+----------
+gave to	↓, ↑, ←, →	concept: '→'
+----------
+gave to	↓, ↑, →, ←	'→'
+----------
+gave to	↓, ←, ↑, →	'→'
+----------
+gave to	↓, ←, →, ↑	concept: '→'
+----------
+gave to	↓, →, ↑, ←	'→'
+----------
+gave to	↓, →, ←, ↑	concept: '→'
+----------
+gave to	←, ↑, ↓, →	concept: '→'
+----------
+gave to	←, ↑, →, ↓	concept: '→'
+----------
+gave to	←, ↓, ↑, →	concept: '→'
+----------
+gave to	←, ↓, →, ↑	'→'
+----------
+gave to	←, →, ↑, ↓	'→'
+----------
+gave to	←, →, ↓, ↑	concept: '→'
+----------
+gave to	→, ↑, ↓, ←	concept: '→'
+----------
+gave to	→, ↑, ←, ↓	concept: '→'
+----------
+gave to	→, ↓, ↑, ←	concept: '→'
+----------
+gave to	→, ↓, ←, ↑	'→'
+----------
+gave to	→, ←, ↑, ↓	concept: '→'
+----------
+gave to	→, ←, ↓, ↑	concept: '→'
+----------
+offended	↑, ↓, ←, →	'↓'
+----------
+offended	↑, ↓, →, ←	'↓'
+----------
+offended	↑, ←, ↓, →	concept: '←'
+----------
+offended	↑, ←, →, ↓	'←'
+----------
+offended	↑, →, ↓, ←	'←'
+----------
+offended	↑, →, ←, ↓	'←'
+----------
+offended	↓, ↑, ←, →	'←'
+----------
+offended	↓, ↑, →, ←	'←'
+----------
+offended	↓, ←, ↑, →	'←'
+----------
+offended	↓, ←, →, ↑	'←'
+----------
+offended	↓, →, ↑, ←	'←'
+----------
+offended	↓, →, ←, ↑	'←'
+----------
+offended	←, ↑, ↓, →	concept: '↓'
+----------
+offended	←, ↑, →, ↓	'←'
+----------
+offended	←, ↓, ↑, →	'←'
+----------
+offended	←, ↓, →, ↑	'←'
+----------
+offended	←, →, ↑, ↓	'←'
+----------
+offended	←, →, ↓, ↑	'←'
+----------
+offended	→, ↑, ↓, ←	concept: '←'
+----------
+offended	→, ↑, ←, ↓	'←'
+----------
+offended	→, ↓, ↑, ←	'←'
+----------
+offended	→, ↓, ←, ↑	'←'
+----------
+offended	→, ←, ↑, ↓	'←'
+----------
+offended	→, ←, ↓, ↑	'←'
+----------
+rushed	↑, ↓, ←, →	concept: '→'
+----------
+rushed	↑, ↓, →, ←	concept: '→'
+----------
+rushed	↑, ←, ↓, →	concept: '→'
+----------
+rushed	↑, ←, →, ↓	'→'
+----------
+rushed	↑, →, ↓, ←	concept: '→'
+----------
+rushed	↑, →, ←, ↓	'→'
+----------
+rushed	↓, ↑, ←, →	'→'
+----------
+rushed	↓, ↑, →, ←	'↑'
+----------
+rushed	↓, ←, ↑, →	concept: '→'
+----------
+rushed	↓, ←, →, ↑	concept: '→'
+----------
+rushed	↓, →, ↑, ←	concept: '→'
+----------
+rushed	↓, →, ←, ↑	'→'
+----------
+rushed	←, ↑, ↓, →	concept: '→'
+----------
+rushed	←, ↑, →, ↓	'→'
+----------
+rushed	←, ↓, ↑, →	concept: '→'
+----------
+rushed	←, ↓, →, ↑	concept: '→'
+----------
+rushed	←, →, ↑, ↓	concept: '→'
+----------
+rushed	←, →, ↓, ↑	concept: '→'
+----------
+rushed	→, ↑, ↓, ←	concept: '→'
+----------
+rushed	→, ↑, ←, ↓	concept: '→'
+----------
+rushed	→, ↓, ↑, ←	concept: '→'
+----------
+rushed	→, ↓, ←, ↑	'↑'
+----------
+rushed	→, ←, ↑, ↓	'→'
+----------
+rushed	→, ←, ↓, ↑	'→'
+----------
+warned	↑, ↓, ←, →	concept: '↑'
+----------
+warned	↑, ↓, →, ←	concept: '↑'
+----------
+warned	↑, ←, ↓, →	concept: '←'
+----------
+warned	↑, ←, →, ↓	'←'
+----------
+warned	↑, →, ↓, ←	concept: '→'
+----------
+warned	↑, →, ←, ↓	'→'
+----------
+warned	↓, ↑, ←, →	concept: '↑'
+----------
+warned	↓, ↑, →, ←	'↑'
+----------
+warned	↓, ←, ↑, →	'↑'
+----------
+warned	↓, ←, →, ↑	concept: '←'
+----------
+warned	↓, →, ↑, ←	'↑'
+----------
+warned	↓, →, ←, ↑	concept: '→'
+----------
+warned	←, ↑, ↓, →	concept: '↑'
+----------
+warned	←, ↑, →, ↓	'↑'
+----------
+warned	←, ↓, ↑, →	concept: '←'
+----------
+warned	←, ↓, →, ↑	'↑'
+----------
+warned	←, →, ↑, ↓	concept: '←'
+----------
+warned	←, →, ↓, ↑	'←'
+----------
+warned	→, ↑, ↓, ←	concept: '→'
+----------
+warned	→, ↑, ←, ↓	'↑'
+----------
+warned	→, ↓, ↑, ←	'↑'
+----------
+warned	→, ↓, ←, ↑	concept: '↑'
+----------
+warned	→, ←, ↑, ↓	'→'
+----------
+warned	→, ←, ↓, ↑	concept: '→'
+----------
+owned	↑, ↓, ←, →	'→'
+----------
+owned	↑, ↓, →, ←	'→'
+----------
+owned	↑, ←, ↓, →	'→'
+----------
+owned	↑, ←, →, ↓	'→'
+----------
+owned	↑, →, ↓, ←	'→'
+----------
+owned	↑, →, ←, ↓	'→'
+----------
+owned	↓, ↑, ←, →	'→'
+----------
+owned	↓, ↑, →, ←	'→'
+----------
+owned	↓, ←, ↑, →	'→'
+----------
+owned	↓, ←, →, ↑	'→'
+----------
+owned	↓, →, ↑, ←	'→'
+----------
+owned	↓, →, ←, ↑	'→'
+----------
+owned	←, ↑, ↓, →	'→'
+----------
+owned	←, ↑, →, ↓	concept: '→'
+----------
+owned	←, ↓, ↑, →	concept: '→'
+----------
+owned	←, ↓, →, ↑	concept: '→'
+----------
+owned	←, →, ↑, ↓	'→'
+----------
+owned	←, →, ↓, ↑	concept: '→'
+----------
+owned	→, ↑, ↓, ←	'→'
+----------
+owned	→, ↑, ←, ↓	concept: '→'
+----------
+owned	→, ↓, ↑, ←	concept: '→'
+----------
+owned	→, ↓, ←, ↑	'→'
+----------
+owned	→, ←, ↑, ↓	'→'
+----------
+owned	→, ←, ↓, ↑	'→'
+----------
+regretted	↑, ↓, ←, →	'↓'
+----------
+regretted	↑, ↓, →, ←	'↓'
+----------
+regretted	↑, ←, ↓, →	concept: '←'
+----------
+regretted	↑, ←, →, ↓	'←'
+----------
+regretted	↑, →, ↓, ←	concept: '↓'
+----------
+regretted	↑, →, ←, ↓	'←'
+----------
+regretted	↓, ↑, ←, →	'←'
+----------
+regretted	↓, ↑, →, ←	'←'
+----------
+regretted	↓, ←, ↑, →	'←'
+----------
+regretted	↓, ←, →, ↑	'←'
+----------
+regretted	↓, →, ↑, ←	'←'
+----------
+regretted	↓, →, ←, ↑	'←'
+----------
+regretted	←, ↑, ↓, →	concept: '←'
+----------
+regretted	←, ↑, →, ↓	'←'
+----------
+regretted	←, ↓, ↑, →	'←'
+----------
+regretted	←, ↓, →, ↑	'←'
+----------
+regretted	←, →, ↑, ↓	'←'
+----------
+regretted	←, →, ↓, ↑	'←'
+----------
+regretted	→, ↑, ↓, ←	concept: '←'
+----------
+regretted	→, ↑, ←, ↓	'←'
+----------
+regretted	→, ↓, ↑, ←	'←'
+----------
+regretted	→, ↓, ←, ↑	'←'
+----------
+regretted	→, ←, ↑, ↓	'←'
+----------
+regretted	→, ←, ↓, ↑	'←'
+----------
+rested	↑, ↓, ←, →	'↓'
+----------
+rested	↑, ↓, →, ←	'↓'
+----------
+rested	↑, ←, ↓, →	'↓'
+----------
+rested	↑, ←, →, ↓	'↓'
+----------
+rested	↑, →, ↓, ←	'↓'
+----------
+rested	↑, →, ←, ↓	'↓'
+----------
+rested	↓, ↑, ←, →	'↓'
+----------
+rested	↓, ↑, →, ←	'↓'
+----------
+rested	↓, ←, ↑, →	'↓'
+----------
+rested	↓, ←, →, ↑	'↓'
+----------
+rested	↓, →, ↑, ←	concept: '↓'
+----------
+rested	↓, →, ←, ↑	'↓'
+----------
+rested	←, ↑, ↓, →	concept: '↓'
+----------
+rested	←, ↑, →, ↓	concept: '↓'
+----------
+rested	←, ↓, ↑, →	concept: '↓'
+----------
+rested	←, ↓, →, ↑	'↓'
+----------
+rested	←, →, ↑, ↓	'↓'
+----------
+rested	←, →, ↓, ↑	'↓'
+----------
+rested	→, ↑, ↓, ←	'↓'
+----------
+rested	→, ↑, ←, ↓	'↓'
+----------
+rested	→, ↓, ↑, ←	'↓'
+----------
+rested	→, ↓, ←, ↑	'↓'
+----------
+rested	→, ←, ↑, ↓	'↓'
+----------
+rested	→, ←, ↓, ↑	'↓'
+----------
+tempted	↑, ↓, ←, →	'→'
+----------
+tempted	↑, ↓, →, ←	concept: '→'
+----------
+tempted	↑, ←, ↓, →	concept: '→'
+----------
+tempted	↑, ←, →, ↓	concept: '→'
+----------
+tempted	↑, →, ↓, ←	concept: '→'
+----------
+tempted	↑, →, ←, ↓	concept: '→'
+----------
+tempted	↓, ↑, ←, →	'→'
+----------
+tempted	↓, ↑, →, ←	'→'
+----------
+tempted	↓, ←, ↑, →	concept: '→'
+----------
+tempted	↓, ←, →, ↑	'→'
+----------
+tempted	↓, →, ↑, ←	'→'
+----------
+tempted	↓, →, ←, ↑	concept: '→'
+----------
+tempted	←, ↑, ↓, →	'→'
+----------
+tempted	←, ↑, →, ↓	concept: '→'
+----------
+tempted	←, ↓, ↑, →	concept: '→'
+----------
+tempted	←, ↓, →, ↑	concept: '→'
+----------
+tempted	←, →, ↑, ↓	concept: '→'
+----------
+tempted	←, →, ↓, ↑	'→'
+----------
+tempted	→, ↑, ↓, ←	concept: '→'
+----------
+tempted	→, ↑, ←, ↓	'→'
+----------
+tempted	→, ↓, ↑, ←	'→'
+----------
+tempted	→, ↓, ←, ↑	concept: '→'
+----------
+tempted	→, ←, ↑, ↓	'→'
+----------
+tempted	→, ←, ↓, ↑	concept: '→'
+----------
+wanted	↑, ↓, ←, →	concept: '↑'
+----------
+wanted	↑, ↓, →, ←	concept: '↑'
+----------
+wanted	↑, ←, ↓, →	concept: '→'
+----------
+wanted	↑, ←, →, ↓	'→'
+----------
+wanted	↑, →, ↓, ←	'→'
+----------
+wanted	↑, →, ←, ↓	'→'
+----------
+wanted	↓, ↑, ←, →	concept: '→'
+----------
+wanted	↓, ↑, →, ←	'↑'
+----------
+wanted	↓, ←, ↑, →	'↑'
+----------
+wanted	↓, ←, →, ↑	'→'
+----------
+wanted	↓, →, ↑, ←	'→'
+----------
+wanted	↓, →, ←, ↑	'↑'
+----------
+wanted	←, ↑, ↓, →	'→'
+----------
+wanted	←, ↑, →, ↓	'→'
+----------
+wanted	←, ↓, ↑, →	concept: '→'
+----------
+wanted	←, ↓, →, ↑	'→'
+----------
+wanted	←, →, ↑, ↓	concept: '→'
+----------
+wanted	←, →, ↓, ↑	concept: '→'
+----------
+wanted	→, ↑, ↓, ←	concept: '→'
+----------
+wanted	→, ↑, ←, ↓	concept: '→'
+----------
+wanted	→, ↓, ↑, ←	'→'
+----------
+wanted	→, ↓, ←, ↑	concept: '→'
+----------
+wanted	→, ←, ↑, ↓	'→'
+----------
+wanted	→, ←, ↓, ↑	concept: '→'
+----------
+hoped	↑, ↓, ←, →	concept: '↑'
+----------
+hoped	↑, ↓, →, ←	concept: '↑'
+----------
+hoped	↑, ←, ↓, →	concept: '↑'
+----------
+hoped	↑, ←, →, ↓	concept: '↑'
+----------
+hoped	↑, →, ↓, ←	'↑'
+----------
+hoped	↑, →, ←, ↓	concept: '↑'
+----------
+hoped	↓, ↑, ←, →	'↑'
+----------
+hoped	↓, ↑, →, ←	'↑'
+----------
+hoped	↓, ←, ↑, →	concept: '↑'
+----------
+hoped	↓, ←, →, ↑	concept: '↑'
+----------
+hoped	↓, →, ↑, ←	concept: '↑'
+----------
+hoped	↓, →, ←, ↑	concept: '↑'
+----------
+hoped	←, ↑, ↓, →	'↑'
+----------
+hoped	←, ↑, →, ↓	'↑'
+----------
+hoped	←, ↓, ↑, →	concept: '↑'
+----------
+hoped	←, ↓, →, ↑	'↑'
+----------
+hoped	←, →, ↑, ↓	'↑'
+----------
+hoped	←, →, ↓, ↑	concept: '↑'
+----------
+hoped	→, ↑, ↓, ←	concept: '↑'
+----------
+hoped	→, ↑, ←, ↓	concept: '↑'
+----------
+hoped	→, ↓, ↑, ←	concept: '↑'
+----------
+hoped	→, ↓, ←, ↑	'↑'
+----------
+hoped	→, ←, ↑, ↓	'↑'
+----------
+hoped	→, ←, ↓, ↑	concept: '↑'
+----------
+increased	↑, ↓, ←, →	concept: '↑'
+----------
+increased	↑, ↓, →, ←	concept: '↑'
+----------
+increased	↑, ←, ↓, →	concept: '↑'
+----------
+increased	↑, ←, →, ↓	concept: '↑'
+----------
+increased	↑, →, ↓, ←	concept: '↑'
+----------
+increased	↑, →, ←, ↓	concept: '↑'
+----------
+increased	↓, ↑, ←, →	concept: '↑'
+----------
+increased	↓, ↑, →, ←	'↑'
+----------
+increased	↓, ←, ↑, →	concept: '↑'
+----------
+increased	↓, ←, →, ↑	concept: '↑'
+----------
+increased	↓, →, ↑, ←	concept: '↑'
+----------
+increased	↓, →, ←, ↑	concept: '↑'
+----------
+increased	←, ↑, ↓, →	concept: '↑'
+----------
+increased	←, ↑, →, ↓	concept: '↑'
+----------
+increased	←, ↓, ↑, →	concept: '↑'
+----------
+increased	←, ↓, →, ↑	concept: '↑'
+----------
+increased	←, →, ↑, ↓	concept: '↑'
+----------
+increased	←, →, ↓, ↑	concept: '↑'
+----------
+increased	→, ↑, ↓, ←	concept: '↑'
+----------
+increased	→, ↑, ←, ↓	concept: '↑'
+----------
+increased	→, ↓, ↑, ←	concept: '↑'
+----------
+increased	→, ↓, ←, ↑	'↑'
+----------
+increased	→, ←, ↑, ↓	concept: '↑'
+----------
+increased	→, ←, ↓, ↑	concept: '↑'
+----------
+obeyed	↑, ↓, ←, →	'→'
+----------
+obeyed	↑, ↓, →, ←	concept: '→'
+----------
+obeyed	↑, ←, ↓, →	'→'
+----------
+obeyed	↑, ←, →, ↓	'→'
+----------
+obeyed	↑, →, ↓, ←	'→'
+----------
+obeyed	↑, →, ←, ↓	concept: '→'
+----------
+obeyed	↓, ↑, ←, →	'↓'
+----------
+obeyed	↓, ↑, →, ←	'↓'
+----------
+obeyed	↓, ←, ↑, →	'→'
+----------
+obeyed	↓, ←, →, ↑	'→'
+----------
+obeyed	↓, →, ↑, ←	'→'
+----------
+obeyed	↓, →, ←, ↑	concept: '→'
+----------
+obeyed	←, ↑, ↓, →	'→'
+----------
+obeyed	←, ↑, →, ↓	'→'
+----------
+obeyed	←, ↓, ↑, →	'→'
+----------
+obeyed	←, ↓, →, ↑	'→'
+----------
+obeyed	←, →, ↑, ↓	'→'
+----------
+obeyed	←, →, ↓, ↑	'→'
+----------
+obeyed	→, ↑, ↓, ←	concept: '→'
+----------
+obeyed	→, ↑, ←, ↓	'→'
+----------
+obeyed	→, ↓, ↑, ←	concept: '→'
+----------
+obeyed	→, ↓, ←, ↑	'→'
+----------
+obeyed	→, ←, ↑, ↓	'→'
+----------
+obeyed	→, ←, ↓, ↑	concept: '→'
+----------
+respected	↑, ↓, ←, →	'↑'
+----------
+respected	↑, ↓, →, ←	concept: '↑'
+----------
+respected	↑, ←, ↓, →	concept: '↑'
+----------
+respected	↑, ←, →, ↓	concept: '↑'
+----------
+respected	↑, →, ↓, ←	concept: '↑'
+----------
+respected	↑, →, ←, ↓	concept: '↑'
+----------
+respected	↓, ↑, ←, →	'↑'
+----------
+respected	↓, ↑, →, ←	'↑'
+----------
+respected	↓, ←, ↑, →	concept: '↑'
+----------
+respected	↓, ←, →, ↑	'↑'
+----------
+respected	↓, →, ↑, ←	'→'
+----------
+respected	↓, →, ←, ↑	'↑'
+----------
+respected	←, ↑, ↓, →	concept: '↑'
+----------
+respected	←, ↑, →, ↓	'↑'
+----------
+respected	←, ↓, ↑, →	concept: '↑'
+----------
+respected	←, ↓, →, ↑	'↑'
+----------
+respected	←, →, ↑, ↓	concept: '↑'
+----------
+respected	←, →, ↓, ↑	'↑'
+----------
+respected	→, ↑, ↓, ←	concept: '↑'
+----------
+respected	→, ↑, ←, ↓	'↑'
+----------
+respected	→, ↓, ↑, ←	'↑'
+----------
+respected	→, ↓, ←, ↑	'↑'
+----------
+respected	→, ←, ↑, ↓	concept: '↑'
+----------
+respected	→, ←, ↓, ↑	'↑'
+----------
+succeeded	↑, ↓, ←, →	'↑'
+----------
+succeeded	↑, ↓, →, ←	concept: '↑'
+----------
+succeeded	↑, ←, ↓, →	concept: '↑'
+----------
+succeeded	↑, ←, →, ↓	'↑'
+----------
+succeeded	↑, →, ↓, ←	concept: '↑'
+----------
+succeeded	↑, →, ←, ↓	concept: '↑'
+----------
+succeeded	↓, ↑, ←, →	concept: '↑'
+----------
+succeeded	↓, ↑, →, ←	concept: '↑'
+----------
+succeeded	↓, ←, ↑, →	concept: '↑'
+----------
+succeeded	↓, ←, →, ↑	'↑'
+----------
+succeeded	↓, →, ↑, ←	'↑'
+----------
+succeeded	↓, →, ←, ↑	'↑'
+----------
+succeeded	←, ↑, ↓, →	concept: '↑'
+----------
+succeeded	←, ↑, →, ↓	'↑'
+----------
+succeeded	←, ↓, ↑, →	'↑'
+----------
+succeeded	←, ↓, →, ↑	'↑'
+----------
+succeeded	←, →, ↑, ↓	concept: '↑'
+----------
+succeeded	←, →, ↓, ↑	concept: '↑'
+----------
+succeeded	→, ↑, ↓, ←	'↑'
+----------
+succeeded	→, ↑, ←, ↓	concept: '↑'
+----------
+succeeded	→, ↓, ↑, ←	'↑'
+----------
+succeeded	→, ↓, ←, ↑	'↑'
+----------
+succeeded	→, ←, ↑, ↓	concept: '↑'
+----------
+succeeded	→, ←, ↓, ↑	concept: '↑'
+----------

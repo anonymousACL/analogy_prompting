@@ -1,0 +1,2880 @@
+fled	↑, ↓, ←, →	 'fled' implies movement away from something, often quickly. The '←' or left arrow represents moving to the left or away from a central point, which can symbolize fleeing from a situation.
+        
+                concept: ←
+----------
+fled	↑, ↓, →, ←	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing or moving away.
+        
+                concept: ←
+----------
+fled	↑, ←, ↓, →	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	↑, ←, →, ↓	 'fled' implies movement away from something, often in a quick or urgent manner. The '→' symbol represents movement to the right, which can signify moving away or fleeing from a point of origin.
+        
+                concept: '→'
+----------
+fled	↑, →, ↓, ←	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing or moving away.
+        
+                concept: ←
+----------
+fled	↑, →, ←, ↓	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	↓, ↑, ←, →	 'fled' implies moving away quickly, often in a specific direction. The arrow pointing to the left (←) suggests movement in the opposite direction, indicating retreat or escape.
+        
+                concept: ←
+----------
+fled	↓, ↑, →, ←	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	↓, ←, ↑, →	 'fled' implies moving away quickly, often in a specific direction. The '←' arrow points to the left, indicating movement in the opposite direction, which can symbolize fleeing from a situation.
+        
+                concept: ←
+----------
+fled	↓, ←, →, ↑	 'fled' implies movement away from something, often in a quick or urgent manner. The '←' arrow points to the left, which can symbolize moving away or retreating from a situation.
+        
+                concept: ←
+----------
+fled	↓, →, ↑, ←	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	↓, →, ←, ↑	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	←, ↑, ↓, →	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	←, ↑, →, ↓	 'fled' implies moving away quickly, often in a specific direction. The arrow pointing to the left (←) suggests movement in the opposite direction, which can symbolize fleeing from a situation.
+        
+                concept: ←
+----------
+fled	←, ↓, ↑, →	 'fled' implies movement away from something, often in a quick or urgent manner. The arrow pointing to the left (←) suggests a direction away from the current position, indicating retreat or escape.
+        
+                concept: ←
+----------
+fled	←, ↓, →, ↑	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	←, →, ↑, ↓	 'fled' implies movement away from something, often quickly. The '←' arrow points to the left, indicating a direction away from the current position, which can symbolize fleeing.
+        
+                concept: '←'
+----------
+fled	←, →, ↓, ↑	 'fled' implies movement away from something, often quickly. The '←' arrow points to the left, indicating a direction away from the current position, which can symbolize fleeing.
+        
+                concept: '←'
+----------
+fled	→, ↑, ↓, ←	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	→, ↑, ←, ↓	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	→, ↓, ↑, ←	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	→, ↓, ←, ↑	 'fled' implies movement away from something, often quickly. The arrow pointing to the left (←) suggests moving in the opposite direction, which aligns with the idea of fleeing.
+        
+                concept: ←
+----------
+fled	→, ←, ↑, ↓	 'fled' implies movement away from something, often quickly. The '←' arrow points to the left, indicating a direction opposite to the source, symbolizing retreat or escape.
+        
+                concept: ←
+----------
+fled	→, ←, ↓, ↑	 'fled' implies movement away from something, often quickly. The '←' arrow points to the left, indicating a direction opposite to the source, symbolizing retreat or escape.
+        
+                concept: ←
+----------
+pointed at	↑, ↓, ←, →	 'pointed at' implies directionality, often towards a specific target or location. The '→' symbol, which is an arrow pointing to the right, can represent the act of pointing towards something.
+        
+                concept: '→'
+----------
+pointed at	↑, ↓, →, ←	 'pointed at' implies directionality, often towards a specific target. The arrow '→' signifies a clear direction towards something, indicating focus or attention towards a particular point.
+        
+                concept: '→'
+----------
+pointed at	↑, ←, ↓, →	 'pointed at' implies directionality, often indicating a specific target or focus. The arrow '→' symbolizes direction and attention towards something.
+        
+                concept: '→'
+----------
+pointed at	↑, ←, →, ↓	 'pointed at' implies directionality, often indicating a specific target or focus. The '→' symbol, which is a right-pointing arrow, naturally represents the act of pointing towards something.
+        
+                concept: '→'
+----------
+pointed at	↑, →, ↓, ←	 'pointed at' implies directionality, often towards a specific target. The '→' symbol, which is a right-pointing arrow, naturally represents the act of pointing towards something.
+        
+                concept: '→'
+----------
+pointed at	↑, →, ←, ↓	 'pointed at' implies directionality, often indicating a specific target or focus. The '→' symbol, which is a right-pointing arrow, naturally represents direction and attention towards something.
+        
+                concept: '→'
+----------
+pointed at	↓, ↑, ←, →	 'pointed at' implies directionality, often towards a specific target. The '→' symbol, which is an arrow pointing to the right, can represent the act of pointing towards something.
+        
+                concept: '→'
+----------
+pointed at	↓, ↑, →, ←	 'pointed at' implies directionality, often towards a specific target. The arrow '→' signifies a clear direction towards something, indicating focus or attention towards a particular point.
+        
+                concept: '→'
+----------
+pointed at	↓, ←, ↑, →	 'pointed at' implies directionality, often towards a specific target. The '→' symbol, an arrow pointing to the right, signifies direction and focus towards something.
+        
+                concept: '→'
+----------
+pointed at	↓, ←, →, ↑	 'pointed at' implies directionality, often indicating a specific target or focus. The '→' symbol, which is a right-pointing arrow, naturally represents the act of pointing towards something.
+        
+                concept: '→'
+----------
+pointed at	↓, →, ↑, ←	 'pointed at' implies directionality, often towards a specific target. The '→' symbol, representing a rightward arrow, can signify pointing towards something in that direction.
+        
+                concept: '→'
+----------
+pointed at	↓, →, ←, ↑	 'pointed at' implies directionality, often towards a specific target. The '→' symbol represents a rightward direction, which can be seen as pointing towards something.
+        
+                concept: '→'
+----------
+pointed at	←, ↑, ↓, →	 'pointed at' implies directionality, often towards a specific target or location. The arrow '→' signifies a clear direction towards something, indicating focus or attention towards that direction.
+        
+                concept: '→'
+----------
+pointed at	←, ↑, →, ↓	 'pointed at' implies directionality, often towards a specific target. The '→' symbol, which is a right-pointing arrow, naturally represents the act of pointing towards something.
+        
+                concept: '→'
+----------
+pointed at	←, ↓, ↑, →	 'pointed at' implies directionality, often towards a specific target or location. The arrow '→' signifies a clear direction, indicating where something is aimed or pointed.
+        
+                concept: '→'
+----------
+pointed at	←, ↓, →, ↑	 'pointed at' implies directionality, often towards a specific target. The arrow '→' signifies moving towards or indicating something ahead.
+        
+                concept: '→'
+----------
+pointed at	←, →, ↑, ↓	 Pointing at something often involves extending a limb or finger in a specific direction. The '→' symbol represents a direction to the right, which can be seen as pointing towards something.
+        
+                concept: '→'
+----------
+pointed at	←, →, ↓, ↑	 Pointing at something often involves extending a limb or an object in a specific direction. The '→' symbol represents a direction, indicating where something is being pointed towards.
+        
+                concept: '→'
+----------
+pointed at	→, ↑, ↓, ←	 'pointed at' implies directionality, as if guiding or indicating something. The '→' symbol, which is an arrow pointing to the right, effectively represents this action of directing attention or indicating a direction.
+        
+                concept: '→'
+----------
+pointed at	→, ↑, ←, ↓	 'pointed at' implies direction or indication towards something. The '→' symbol, which is an arrow pointing to the right, represents directionality and focus towards a specific target or object.
+        
+                concept: '→'
+----------
+pointed at	→, ↓, ↑, ←	 'pointed at' implies directionality, often towards a specific target or location. The '→' symbol, which is a right-pointing arrow, naturally represents the act of pointing towards something.
+        
+                concept: '→'
+----------
+pointed at	→, ↓, ←, ↑	 'pointed at' implies directionality, often indicating a specific target or focus. The '→' symbol, which is a right-pointing arrow, naturally represents direction and attention towards something.
+        
+                concept: '→'
+----------
+pointed at	→, ←, ↑, ↓	 'pointed at' implies directionality, often indicating a specific target or focus. The '→' symbol, which is a right-pointing arrow, naturally represents direction and attention towards something.
+        
+                concept: '→'
+----------
+pointed at	→, ←, ↓, ↑	 'pointed at' implies directionality, often towards a specific target or location. The '→' symbol, which is a right-pointing arrow, naturally represents the act of pointing towards something.
+        
+                concept: '→'
+----------
+pulled	↑, ↓, ←, →	 'pulled' implies a force or movement towards oneself. The arrow pointing towards the left (←) can symbolize something being drawn or moved in that direction, representing the action of pulling.
+        
+                concept: ←
+----------
+pulled	↑, ↓, →, ←	 'pulled' implies a force exerted to move something towards oneself. The arrow pointing towards the left (←) can represent this action as it signifies movement in the opposite direction, towards the origin.
+        
+                concept: ←
+----------
+pulled	↑, ←, ↓, →	 'pulled' implies a force or movement towards oneself. The arrow pointing towards the left (←) can symbolize something being drawn or moved in that direction, representing the action of pulling.
+        
+                concept: ←
+----------
+pulled	↑, ←, →, ↓	 'pulled' implies a force or movement towards oneself. The arrow pointing left (←) can represent something being drawn or moved towards the left side, symbolizing a pull in that direction.
+        
+                concept: ←
+----------
+pulled	↑, →, ↓, ←	 'pulled' implies a force or movement towards oneself. The arrow pointing left (←) can represent something being drawn back or towards the origin point.
+        
+                concept: ←
+----------
+pulled	↑, →, ←, ↓	 'pulled' implies a force or movement towards oneself. The arrow pointing towards the left (←) can symbolize something being drawn or moved in that direction, representing the action of pulling.
+        
+                concept: ←
+----------
+pulled	↓, ↑, ←, →	 'pulled' implies a force or movement towards oneself. The arrow pointing towards the left (←) can symbolize something being drawn or moved in that direction, representing the action of pulling.
+        
+                concept: ←
+----------
+pulled	↓, ↑, →, ←	 'pulled' implies a force or movement towards oneself. The arrow pointing left (←) can represent something being drawn or moved in the direction towards the origin point.
+        
+                concept: ←
+----------
+pulled	↓, ←, ↑, →	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn or moved in the opposite direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pulled	↓, ←, →, ↑	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent pulling something towards the left side, which metaphorically signifies bringing something closer or towards oneself.
+        
+                concept: ←
+----------
+pulled	↓, →, ↑, ←	 'pulled' implies a force or movement towards oneself. The arrow pointing left (←) can represent something being drawn or moved in the opposite direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pulled	↓, →, ←, ↑	 'pulled' implies a force or movement towards oneself. The arrow pointing left (←) can represent something being drawn or moved in the opposite direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pulled	←, ↑, ↓, →	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn or moved in the opposite direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pulled	←, ↑, →, ↓	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn or moved in the opposite direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pulled	←, ↓, ↑, →	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn or moved in that direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pulled	←, ↓, →, ↑	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn or moved in the opposite direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pulled	←, →, ↑, ↓	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn or moved in the opposite direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pulled	←, →, ↓, ↑	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn or moved in the opposite direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pulled	→, ↑, ↓, ←	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn back or towards the origin point.
+        
+                concept: ←
+----------
+pulled	→, ↑, ←, ↓	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn or moved in the opposite direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pulled	→, ↓, ↑, ←	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn back or towards the origin point.
+        
+                concept: ←
+----------
+pulled	→, ↓, ←, ↑	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn back or towards the origin point.
+        
+                concept: ←
+----------
+pulled	→, ←, ↑, ↓	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn back or towards the origin point.
+        
+                concept: ←
+----------
+pulled	→, ←, ↓, ↑	 'pulled' implies a force or movement towards oneself. The arrow pointing to the left (←) can represent something being drawn or moved in the opposite direction, symbolizing a pull.
+        
+                concept: ←
+----------
+pushed	↑, ↓, ←, →	 'pushed' implies a force applied in a direction. The arrow '→' signifies movement to the right, which can represent a push in that direction.
+        
+                concept: '→'
+----------
+pushed	↑, ↓, →, ←	 'pushed' implies a force applied in a direction. The arrow '→' signifies movement to the right, which can represent a push in that direction.
+        
+                concept: '→'
+----------
+pushed	↑, ←, ↓, →	 'pushed' implies a force applied in a direction. The arrow '→' signifies movement to the right, which can represent a push in that direction.
+        
+                concept: '→'
+----------
+pushed	↑, ←, →, ↓	 'pushed' implies a force applied in a direction. The arrow '→' signifies movement to the right, which can represent the direction of the push.
+        
+                concept: '→'
+----------
+pushed	↑, →, ↓, ←	 'pushed' implies a force applied in a direction. The arrow '→' represents a direction to the right, symbolizing the act of pushing something forward.
+        
+                concept: '→'
+----------
+pushed	↑, →, ←, ↓	 'pushed' implies a force applied in a direction. The '→' symbol represents a direction to the right, which can signify a push in that direction.
+        
+                concept: '→'
+----------
+pushed	↓, ↑, ←, →	 'pushed' implies a force applied in a direction. The arrow '→' signifies a direction to the right, which can represent the act of pushing something forward.
+        
+                concept: '→'
+----------
+pushed	↓, ↑, →, ←	 'pushed' implies a force applied in a direction. The concept '→' represents a direction to the right, which can symbolize pushing something forward or to the side.
+        
+                concept: '→'
+----------
+pushed	↓, ←, ↑, →	 'pushed' implies a force applied in a direction. The '→' symbol represents a direction to the right, which can signify a push in that direction.
+        
+                concept: '→'
+----------
+pushed	↓, ←, →, ↑	 'pushed' implies a force applied in a direction. The '→' symbol represents movement or direction to the right, which can signify a push in that direction.
+        
+                concept: '→'
+----------
+pushed	↓, →, ↑, ←	 'pushed' implies a force applied in a direction. The arrow '→' represents a direction to the right, symbolizing the act of pushing something forward.
+        
+                concept: '→'
+----------
+pushed	↓, →, ←, ↑	 'pushed' implies a force applied in a direction. The '→' symbol represents movement or direction to the right, which can signify a push in that direction.
+        
+                concept: '→'
+----------
+pushed	←, ↑, ↓, →	 'pushed' implies a force applied in a direction. The arrow '→' signifies movement or force directed to the right, which can represent pushing something in that direction.
+        
+                concept: '→'
+----------
+pushed	←, ↑, →, ↓	 'pushed' implies a force applied in a direction. The arrow '→' signifies a direction to the right, which can represent the act of pushing something forward.
+        
+                concept: '→'
+----------
+pushed	←, ↓, ↑, →	 'pushed' implies a force applied in a direction. The arrow '→' signifies a direction to the right, which can represent the act of pushing something forward.
+        
+                concept: '→'
+----------
+pushed	←, ↓, →, ↑	 'pushed' implies a force applied in a direction. The arrow '→' signifies movement to the right, which can represent the direction of the push.
+        
+                concept: '→'
+----------
+pushed	←, →, ↑, ↓	 'pushed' implies a force applied in a direction. The '→' symbol represents movement or direction to the right, which can signify a push in that direction.
+        
+                concept: '→'
+----------
+pushed	←, →, ↓, ↑	 'pushed' implies a force applied in a direction. The '→' symbol represents movement or direction to the right, which can signify a push in that direction.
+        
+                concept: '→'
+----------
+pushed	→, ↑, ↓, ←	 'pushed' implies a force or movement in a particular direction. The '→' symbol represents a direction to the right, which can signify a push in that direction.
+        
+                concept: '→'
+----------
+pushed	→, ↑, ←, ↓	 'pushed' implies a force or movement in a particular direction. The '→' symbol represents a rightward direction, which can signify a push forward or to the right.
+        
+                concept: '→'
+----------
+pushed	→, ↓, ↑, ←	 'pushed' implies a force or movement in a particular direction. The arrow '→' signifies a direction or movement to the right, which can represent the act of pushing something forward.
+        
+                concept: '→'
+----------
+pushed	→, ↓, ←, ↑	 'pushed' implies a force applied in a direction. The arrow '→' signifies movement or force directed to the right, which can represent the action of pushing something in that direction.
+        
+                concept: '→'
+----------
+pushed	→, ←, ↑, ↓	 'pushed' implies a force applied in a direction. The '→' symbol represents movement or direction to the right, which can signify a push in that direction.
+        
+                concept: '→'
+----------
+pushed	→, ←, ↓, ↑	 'pushed' implies a force or movement in a particular direction. The '→' symbol represents a direction to the right, which can signify a push forward or to the side.
+        
+                concept: '→'
+----------
+walked	↑, ↓, ←, →	 'walked' implies movement in a particular direction. The arrows represent different directions, so choosing the right arrow (→) would symbolize moving forward or progressing, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	↑, ↓, →, ←	 'walked' implies movement in a particular direction. The arrow '→' signifies moving forward, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	↑, ←, ↓, →	 The concept '→' represents movement in a forward direction, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	↑, ←, →, ↓	 The event 'walked' implies movement from one place to another. Among the given concepts, the arrows (←, →, ↑, ↓) represent different directions of movement. The most neutral and commonly associated direction with walking is the right arrow (→), which typically signifies forward movement.
+        
+                concept: →
+----------
+walked	↑, →, ↓, ←	 'walked' implies movement from one place to another. The arrow '→' signifies forward direction, which aligns with the idea of moving ahead or progressing.
+        
+                concept: '→'
+----------
+walked	↑, →, ←, ↓	 'walked' implies movement in a particular direction. The arrow '→' signifies moving forward, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	↓, ↑, ←, →	 The arrows represent movement in different directions. 'walked' implies movement in a particular direction, so the arrow pointing in that direction would best represent it.
+        
+                concept: '→'
+----------
+walked	↓, ↑, →, ←	 'walked' implies movement in a particular direction. The arrows represent different directions. The right arrow (→) signifies moving forward, which aligns with the action of walking.
+        
+                concept: →
+----------
+walked	↓, ←, ↑, →	 The concept '→' represents movement in a forward direction, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	↓, ←, →, ↑	 The concept '→' represents movement in a forward direction, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	↓, →, ↑, ←	 'walked' implies movement in a particular direction. The arrow '→' signifies moving forward, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	↓, →, ←, ↑	 'walked' implies movement in a particular direction. The arrows (→, ←, ↑, ↓) represent different directions. Choosing the right arrow (→) signifies moving forward, which aligns with the action of walking.
+        
+                concept: →
+----------
+walked	←, ↑, ↓, →	 Walking is a form of movement, typically in a forward direction. The '→' symbol represents movement to the right, which can be associated with moving forward or progressing, much like walking.
+        
+                concept: '→'
+----------
+walked	←, ↑, →, ↓	 Walking is a form of movement, typically in a forward direction. The '→' symbol represents movement to the right, which can be associated with moving forward or progressing.
+        
+                concept: '→'
+----------
+walked	←, ↓, ↑, →	 'walked' implies movement in a direction. The arrow '→' signifies moving forward, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	←, ↓, →, ↑	 'walked' implies movement in a direction. The arrows represent different directions. The '→' arrow points to the right, indicating forward movement, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	←, →, ↑, ↓	 Walking involves movement from one place to another, typically in a forward direction. The '→' symbol represents movement to the right, which can be associated with moving forward or progressing, much like walking.
+        
+                concept: '→'
+----------
+walked	←, →, ↓, ↑	 Walking involves movement from one place to another, typically in a forward direction. The '→' symbol represents movement to the right, which can be associated with moving forward or progressing, much like walking.
+        
+                concept: '→'
+----------
+walked	→, ↑, ↓, ←	 'walked' implies movement in a particular direction. The arrow '→' signifies forward movement, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	→, ↑, ←, ↓	 'walked' implies movement in a particular direction. The arrow '→' signifies forward movement, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	→, ↓, ↑, ←	 'walked' implies movement in a particular direction. The arrow '→' signifies moving forward, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	→, ↓, ←, ↑	 'walked' implies movement in a particular direction. The arrow '→' signifies moving forward, which aligns with the action of walking.
+        
+                concept: '→'
+----------
+walked	→, ←, ↑, ↓	 'walked' implies movement in a particular direction. The '→' symbol represents movement to the right, which can be associated with forward motion, similar to walking.
+        
+                concept: '→'
+----------
+walked	→, ←, ↓, ↑	 'walked' implies movement in a particular direction. The '→' symbol represents movement to the right, which can be associated with forward motion, similar to walking.
+        
+                concept: '→'
+----------
+hunted	↑, ↓, ←, →	 'hunted' implies movement in pursuit, often in a specific direction. The arrow '→' signifies moving forward or pursuing in a particular direction, which aligns with the idea of hunting.
+        
+                concept: '→'
+----------
+hunted	↑, ↓, →, ←	 'hunted' implies movement in pursuit, often in a specific direction. The arrow '→' signifies moving forward or pursuing in a particular direction, which aligns with the action of hunting.
+        
+                concept: '→'
+----------
+hunted	↑, ←, ↓, →	 'hunted' implies movement or pursuit in a particular direction. The '→' symbol represents a direction to the right, which could signify the direction in which someone is being hunted or the path they are taking to escape.
+        
+                concept: '→'
+----------
+hunted	↑, ←, →, ↓	 'hunted' implies movement or pursuit in a particular direction. The '→' symbol represents movement to the right, which could signify the direction of the hunt or pursuit.
+        
+                concept: '→'
+----------
+hunted	↑, →, ↓, ←	 'hunted' implies movement or pursuit in a particular direction. The arrow '→' signifies moving forward or pursuing in a specific path.
+        
+                concept: '→'
+----------
+hunted	↑, →, ←, ↓	 'hunted' implies movement in pursuit, often in a specific direction. The '→' symbol represents a direction, indicating the path or trajectory of the hunt.
+        
+                concept: '→'
+----------
+hunted	↓, ↑, ←, →	 'hunted' implies movement or pursuit in a particular direction. The arrow '→' signifies moving forward or pursuing in a specific path.
+        
+                concept: '→'
+----------
+hunted	↓, ↑, →, ←	 'hunted' implies movement in pursuit, often in a specific direction. The arrow '→' signifies moving forward or progressing in a particular direction, which aligns with the idea of someone or something being pursued in a specific path.
+        
+                concept: '→'
+----------
+hunted	↓, ←, ↑, →	 'hunted' implies movement in a specific direction, often with a sense of pursuit or tracking. The '→' symbol represents a direction, indicating movement towards a target, which aligns with the idea of hunting something down.
+        
+                concept: '→'
+----------
+hunted	↓, ←, →, ↑	 'hunted' implies movement or pursuit in a particular direction. The '→' symbol represents movement to the right, which could signify the direction of the hunt or pursuit.
+        
+                concept: '→'
+----------
+hunted	↓, →, ↑, ←	 'hunted' implies movement in pursuit, often in a specific direction. The right arrow (→) suggests forward movement or progression, which can represent the act of chasing or pursuing something.
+        
+                concept: →
+----------
+hunted	↓, →, ←, ↑	 'hunted' implies movement in pursuit, often in a specific direction. The '→' symbol represents a direction, indicating the path or trajectory of the hunt.
+        
+                concept: '→'
+----------
+hunted	←, ↑, ↓, →	 'hunted' implies movement or pursuit in a particular direction. The arrow '→' signifies moving forward or pursuing in a specific direction, which aligns with the idea of hunting.
+        
+                concept: '→'
+----------
+hunted	←, ↑, →, ↓	 'hunted' implies movement or pursuit in a particular direction. The arrow '→' signifies moving forward or pursuing something.
+        
+                concept: '→'
+----------
+hunted	←, ↓, ↑, →	 'hunted' implies movement in pursuit, often in a specific direction. The arrow '→' signifies moving forward or progressing in a particular direction, which aligns with the idea of someone or something being pursued in a specific path.
+        
+                concept: '→'
+----------
+hunted	←, ↓, →, ↑	 'hunted' implies movement in pursuit, often in a forward direction. The '→' symbol represents moving forward or progressing, which aligns with the action of hunting.
+        
+                concept: '→'
+----------
+hunted	←, →, ↑, ↓	 'hunted' implies movement or pursuit in a particular direction. The '→' symbol represents forward movement, which could signify the act of chasing or pursuing something.
+        
+                concept: '→'
+----------
+hunted	←, →, ↓, ↑	 'hunted' implies movement or pursuit in a particular direction. The '→' symbol represents forward movement, which could signify the act of chasing or pursuing something.
+        
+                concept: '→'
+----------
+hunted	→, ↑, ↓, ←	 'hunted' implies movement or pursuit in a particular direction. The arrow '→' signifies forward movement, which could represent the act of chasing or pursuing something.
+        
+                concept: '→'
+----------
+hunted	→, ↑, ←, ↓	 'hunted' implies movement in a specific direction, often with a sense of pursuit or tracking. The '→' symbol represents a clear direction, indicating the path or trajectory of the hunt.
+        
+                concept: '→'
+----------
+hunted	→, ↓, ↑, ←	 'hunted' implies movement or pursuit in a particular direction. The arrow '→' signifies forward movement, which could represent the act of chasing or pursuing something.
+        
+                concept: '→'
+----------
+hunted	→, ↓, ←, ↑	 'hunted' implies movement in a specific direction, often with a sense of pursuit or tracking. The arrow '→' signifies forward movement, which can represent the act of chasing or pursuing something.
+        
+                concept: '→'
+----------
+hunted	→, ←, ↑, ↓	 'hunted' implies movement in a specific direction, often with a sense of pursuit or tracking. The '→' symbol represents a clear direction, indicating the path or trajectory of the hunt.
+        
+                concept: '→'
+----------
+hunted	→, ←, ↓, ↑	 'hunted' implies movement or pursuit in a particular direction. The '→' symbol represents forward movement, which could signify the act of chasing or pursuing something.
+        
+                concept: '→'
+----------
+impacted	↑, ↓, ←, →	 The concept 'impacted' suggests a forceful collision or influence. The arrow pointing downwards (↓) can represent a direct and powerful impact, such as something striking from above.
+        
+                concept: ↓
+----------
+impacted	↑, ↓, →, ←	 The concept 'impacted' can be represented by '↓' as it symbolizes a downward force or pressure, which is often associated with impact.
+        
+                concept: ↓
+----------
+impacted	↑, ←, ↓, →	 The concept 'impacted' suggests a forceful collision or influence. The arrow pointing downwards (↓) can represent a direct, forceful impact, such as something striking from above.
+        
+                concept: ↓
+----------
+impacted	↑, ←, →, ↓	 The concept 'impacted' can be represented by the '↓' symbol, which signifies a downward force or pressure, much like an impact that presses or strikes something with force.
+        
+                concept: '↓'
+----------
+impacted	↑, →, ↓, ←	 The concept 'impacted' suggests a forceful collision or influence. The arrow pointing downwards (↓) can represent a direct, forceful impact, such as something striking from above.
+        
+                concept: ↓
+----------
+impacted	↑, →, ←, ↓	 The concept 'impacted' suggests a forceful collision or influence. The arrow pointing downwards (↓) can represent a direct, forceful impact, such as something striking from above.
+        
+                concept: ↓
+----------
+impacted	↓, ↑, ←, →	 The concept '↓' represents a downward direction, which can symbolize something being pressed down or impacted from above.
+        
+                concept: '↓'
+----------
+impacted	↓, ↑, →, ←	 The concept '↓' represents a downward direction, which can symbolize something coming down or impacting from above. This aligns with the idea of something being 'impacted' as it often involves a force or influence coming into contact with an object or system.
+        
+                concept: '↓'
+----------
+impacted	↓, ←, ↑, →	 'impacted' often implies a forceful collision or influence. The '↓' symbol represents a downward direction, which can signify a pressing force or weight, much like an impact pressing down on something.
+        
+                concept: '↓'
+----------
+impacted	↓, ←, →, ↑	 'impacted' often implies a forceful collision or influence. The '↓' symbol represents a downward direction, which can signify a pressing force or weight, much like an impact pressing down on something.
+        
+                concept: '↓'
+----------
+impacted	↓, →, ↑, ←	 'impacted' often implies a forceful collision or influence. The '↓' symbol represents a downward direction, which can signify a pressing force or weight, much like an impact pressing down on something.
+        
+                concept: '↓'
+----------
+impacted	↓, →, ←, ↑	 'impacted' often implies a forceful collision or influence. The '↓' symbol represents a downward direction, which can signify a pressing force or weight, much like an impact pressing down on something.
+        
+                concept: '↓'
+----------
+impacted	←, ↑, ↓, →	 'impacted' often implies a forceful collision or influence. The concept ↑ suggests an upward force or influence, which can represent the impact acting upon something.
+        
+                concept: ↑
+----------
+impacted	←, ↑, →, ↓	 The concept 'impacted' suggests a forceful collision or influence. The arrow pointing downwards (↓) can represent a direct, forceful impact, such as something striking from above.
+        
+                concept: ↓
+----------
+impacted	←, ↓, ↑, →	 'impacted' often implies a forceful collision or influence. The concept ↓ represents a downward force or pressure, which can symbolize the impact.
+        
+                concept: ↓
+----------
+impacted	←, ↓, →, ↑	 'impacted' often implies a forceful collision or influence. The concept ↓ represents a downward force or pressure, which can symbolize the impact.
+        
+                concept: ↓
+----------
+impacted	←, →, ↑, ↓	 The concept 'impacted' suggests a forceful collision or influence. The arrow '→' represents a direct and forceful movement towards something, indicating impact.
+        
+                concept: '→'
+----------
+impacted	←, →, ↓, ↑	 'impacted' often implies a forceful collision or influence. The concept '↓' represents a downward force or pressure, which can symbolize the impact.
+        
+                concept: '↓'
+----------
+impacted	→, ↑, ↓, ←	 The concept 'impacted' suggests a forceful collision or influence. The arrow '→' represents a direct and forceful movement towards something, indicating impact.
+        
+                concept: '→'
+----------
+impacted	→, ↑, ←, ↓	 The concept '→' represents a direct and forceful movement forward, which can symbolize the impact of one object hitting another. The arrow signifies a clear direction and intensity, much like the force exerted during an impact.
+                
+                concept: '→'
+----------
+impacted	→, ↓, ↑, ←	 'impacted' often implies a forceful collision or influence. The '↓' symbol represents a downward direction, which can signify a pressing force or weight, much like an impact pressing down on something.
+        
+                concept: ↓
+----------
+impacted	→, ↓, ←, ↑	 'impacted' often implies a forceful collision or influence. The '↓' symbol represents a downward direction, which can signify a pressing force or weight, much like an impact pressing down on something.
+        
+                concept: ↓
+----------
+impacted	→, ←, ↑, ↓	 The concept 'impacted' suggests a forceful collision or influence. The arrow '→' represents a direct and forceful movement towards something, indicating impact.
+        
+                concept: '→'
+----------
+impacted	→, ←, ↓, ↑	 The concept 'impacted' suggests a forceful collision or influence. The arrow '→' represents a direct and forceful movement towards something, indicating impact.
+        
+                concept: '→'
+----------
+perched	↑, ↓, ←, →	 'perched' suggests being in a position that is elevated or above something else. The '↑' symbol represents moving upwards, which aligns with the idea of being perched high.
+        
+                concept: '↑'
+----------
+perched	↑, ↓, →, ←	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow '↑' symbolizes moving upwards or being higher, which aligns with the idea of perching.
+        
+                concept: '↑'
+----------
+perched	↑, ←, ↓, →	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow '↑' symbolizes moving upwards or being higher, which aligns with the idea of perching.
+        
+                concept: '↑'
+----------
+perched	↑, ←, →, ↓	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow '↑' symbolizes moving upwards or being elevated, which aligns with the idea of perching.
+        
+                concept: '↑'
+----------
+perched	↑, →, ↓, ←	 'perched' suggests being in a position that is elevated or higher than the surroundings. The upward-pointing arrow '↑' symbolizes moving upwards or being elevated, which aligns with the idea of something being perched.
+        
+                concept: '↑'
+----------
+perched	↑, →, ←, ↓	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow '↑' symbolizes moving upwards or being higher, which aligns with the idea of perching.
+        
+                concept: '↑'
+----------
+perched	↓, ↑, ←, →	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow (↑) symbolizes moving upwards or being elevated, which aligns with the idea of perching.
+        
+                concept: ↑
+----------
+perched	↓, ↑, →, ←	 'perched' implies being in a position that is elevated or higher than the surroundings. The upward-pointing arrow (↑) symbolizes moving upwards or being elevated, which aligns with the idea of something being perched.
+        
+                concept: ↑
+----------
+perched	↓, ←, ↑, →	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow '↑' symbolizes moving upwards or being elevated, which aligns with the idea of perching.
+        
+                concept: '↑'
+----------
+perched	↓, ←, →, ↑	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow '↑' symbolizes moving upwards or being in a higher position, which aligns with the idea of perching.
+        
+                concept: '↑'
+----------
+perched	↓, →, ↑, ←	 'perched' suggests being in a position that is elevated or higher than the surroundings. The upward-pointing arrow (↑) symbolizes moving upwards or being elevated, which aligns with the idea of something being perched.
+        
+                concept: ↑
+----------
+perched	↓, →, ←, ↑	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow (↑) symbolizes moving upwards or being elevated, which aligns with the idea of perching.
+        
+                concept: ↑
+----------
+perched	←, ↑, ↓, →	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow (↑) symbolizes moving upwards or being higher, which aligns with the idea of perching.
+        
+                concept: ↑
+----------
+perched	←, ↑, →, ↓	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow (↑) symbolizes moving upwards or being in a higher position, which aligns with the idea of perching.
+        
+                concept: ↑
+----------
+perched	←, ↓, ↑, →	 'perched' implies being in a position that is elevated or higher than the surroundings. The upward-pointing arrow (↑) symbolizes moving upwards or being elevated, which aligns with the idea of something being perched.
+        
+                concept: ↑
+----------
+perched	←, ↓, →, ↑	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow (↑) symbolizes moving upwards or being in a higher position, which aligns with the idea of perching.
+        
+                concept: ↑
+----------
+perched	←, →, ↑, ↓	 'perched' implies being in a position that is elevated or above something else. The upward-pointing arrow (↑) symbolizes moving upwards or being elevated, which aligns with the idea of perching.
+        
+                concept: ↑
+----------
+perched	←, →, ↓, ↑	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow (↑) symbolizes moving upwards or being elevated, which aligns with the idea of perching.
+        
+                concept: ↑
+----------
+perched	→, ↑, ↓, ←	 'perched' suggests being in a position that is elevated or higher than the surroundings. The upward-pointing arrow (↑) symbolizes moving upwards or being at a higher level, which aligns with the idea of something being perched.
+        
+                concept: ↑
+----------
+perched	→, ↑, ←, ↓	 'perched' suggests being in a position that is elevated or higher than the surroundings, much like an upward-pointing arrow indicating ascent or elevation.
+        
+                concept: '↑'
+----------
+perched	→, ↓, ↑, ←	 'perched' suggests being in a position that is elevated or higher than the surroundings. The upward-pointing arrow (↑) symbolizes moving upwards or being elevated, which aligns with the idea of something being perched.
+        
+                concept: ↑
+----------
+perched	→, ↓, ←, ↑	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow (↑) symbolizes moving upwards or being elevated, which aligns with the idea of perching.
+        
+                concept: ↑
+----------
+perched	→, ←, ↑, ↓	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow (↑) symbolizes moving upwards or being in a higher position, which aligns with the idea of perching.
+        
+                concept: ↑
+----------
+perched	→, ←, ↓, ↑	 'perched' suggests being in a position that is elevated or above something else. The upward-pointing arrow (↑) symbolizes moving upwards or being elevated, which aligns with the idea of perching.
+        
+                concept: ↑
+----------
+showed	↑, ↓, ←, →	 'showing' can be thought of as directing or pointing something out. The right arrow (→) symbolizes direction or indication, as it points towards something to be shown.
+        
+                concept: '→'
+----------
+showed	↑, ↓, →, ←	 'showing' can be thought of as presenting or directing attention towards something. The '→' symbol, which points to the right, can represent directing or indicating something, much like how one might point to show something to another person.
+        
+                concept: '→'
+----------
+showed	↑, ←, ↓, →	 'showing' can be thought of as directing or pointing something out. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	↑, ←, →, ↓	 'showing' can be thought of as directing or pointing something out. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	↑, →, ↓, ←	 'showing' can be thought of as directing or pointing something out. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	↑, →, ←, ↓	 'showed' implies presenting or directing attention to something. The '→' symbol points towards something, indicating direction or presentation.
+        
+                concept: '→'
+----------
+showed	↓, ↑, ←, →	 'showing' can be thought of as directing or pointing something out. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	↓, ↑, →, ←	 'showing' can be thought of as directing or pointing something out. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	↓, ←, ↑, →	 'showing' can be thought of as directing or pointing something out. The right arrow (→) suggests direction or indication, as if guiding someone's attention to something.
+        
+                concept: →
+----------
+showed	↓, ←, →, ↑	 'showing' something often involves presenting or directing attention to it. The '→' symbol, which points to the right, can represent directing or indicating something, much like how one might point to show something to someone else.
+        
+                concept: '→'
+----------
+showed	↓, →, ↑, ←	 'showing' can be thought of as directing or pointing something out. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	↓, →, ←, ↑	 'showed' implies directing attention or indicating something, much like pointing. The '→' symbol is commonly used to indicate direction or to point towards something, making it a suitable representation for 'showed'.
+        
+                concept: '→'
+----------
+showed	←, ↑, ↓, →	 'showing' can be thought of as directing or pointing something out. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	←, ↑, →, ↓	 'showing' can be thought of as presenting or directing attention to something. The '→' symbol, which points to the right, can represent directing or indicating something in a specific direction.
+        
+                concept: '→'
+----------
+showed	←, ↓, ↑, →	 'showing' can be thought of as directing or pointing something out. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	←, ↓, →, ↑	 'showing' can be thought of as directing or pointing something out. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	←, →, ↑, ↓	 'showing' can be thought of as directing or pointing something out. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	←, →, ↓, ↑	 'showing' something often involves presenting or directing attention to it. The '→' symbol, which points to the right, can represent directing or indicating something, much like how one might point to show something to someone else.
+        
+                concept: '→'
+----------
+showed	→, ↑, ↓, ←	 'showing' something often involves pointing or directing attention towards it. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	→, ↑, ←, ↓	 'showed' implies directing attention or indicating something, much like pointing. The '→' symbol, which is an arrow pointing to the right, can represent the act of showing or directing someone towards something.
+        
+                concept: '→'
+----------
+showed	→, ↓, ↑, ←	 'showing' something often involves pointing or directing attention towards it. The '→' symbol, which is an arrow pointing to the right, can represent the act of indicating or showing something in a particular direction.
+        
+                concept: '→'
+----------
+showed	→, ↓, ←, ↑	 'showed' implies directing attention or indicating something, much like pointing. The '→' symbol, which is an arrow pointing to the right, can represent the act of showing or directing someone's attention in a specific direction.
+        
+                concept: '→'
+----------
+showed	→, ←, ↑, ↓	 'showed' implies directing attention or indicating something, much like pointing. The '→' symbol is commonly used to indicate direction or to point towards something, making it a suitable representation for 'showed'.
+        
+                concept: '→'
+----------
+showed	→, ←, ↓, ↑	 'showed' implies directing attention or indicating something, much like an arrow pointing in a specific direction to guide focus.
+        
+                concept: '→'
+----------
+smashed	↑, ↓, ←, →	 The event 'smashed' implies a forceful collision or impact, often involving a sudden and powerful movement. Among the given concepts, the downward arrow (↓) can represent the forceful downward motion that is typically associated with smashing something, like bringing an object down forcefully to break it.
+        
+                concept: ↓
+----------
+smashed	↑, ↓, →, ←	 The event 'smashed' implies a sudden, forceful impact, often involving a downward motion, like something being struck heavily from above.
+        
+                concept: ↓
+----------
+smashed	↑, ←, ↓, →	 The event 'smashed' implies a sudden, forceful impact, often resulting in destruction or breaking apart. The concept '↑' represents an upward direction or movement, which doesn't directly relate to the idea of smashing. However, if we consider the intensity and force associated with smashing, '↑' could symbolize the explosive or eruptive nature of the event, where something is being thrust upward with great force, leading to a smashing effect.
+        
+                concept: '↑'
+----------
+smashed	↑, ←, →, ↓	 The event 'smashed' implies a forceful collision or impact, often resulting in destruction or breaking apart. Among the given concepts, the arrow pointing downwards (↓) can represent a heavy, forceful downward motion, akin to smashing something with a hammer or a heavy object.
+        
+                concept: ↓
+----------
+smashed	↑, →, ↓, ←	 The event 'smashed' implies a sudden, forceful impact, often resulting in destruction or breaking apart. The concept '↓' represents a downward motion, which can symbolize something being forcefully struck or crushed from above, leading to a smashing effect.
+        
+                concept: '↓'
+----------
+smashed	↑, →, ←, ↓	 The event 'smashed' implies a sudden, forceful impact, often involving a collision or a downward motion. The concept ↓ represents a downward direction, which can symbolize the forceful impact associated with smashing.
+        
+                concept: ↓
+----------
+smashed	↓, ↑, ←, →	 'smashed' implies a forceful collision or impact, often involving a downward motion, like something being struck heavily from above.
+        
+                concept: '↓'
+----------
+smashed	↓, ↑, →, ←	 'smashed' implies a forceful downward motion, similar to something being struck or crushed heavily from above.
+        
+                concept: '↓'
+----------
+smashed	↓, ←, ↑, →	 'smashed' implies a forceful collision or impact, often associated with a downward motion, like something being struck from above.
+        
+                concept: '↓'
+----------
+smashed	↓, ←, →, ↑	 'smashed' implies a forceful or violent impact, often associated with a downward motion, like something being struck from above.
+        
+                concept: '↓'
+----------
+smashed	↓, →, ↑, ←	 'smashed' implies a forceful impact, often associated with a downward motion, like bringing something down heavily.
+        
+                concept: '↓'
+----------
+smashed	↓, →, ←, ↑	 'smashed' implies a forceful collision or impact, often associated with a downward motion, like something being struck from above.
+        
+                concept: '↓'
+----------
+smashed	←, ↑, ↓, →	 The event 'smashed' implies a forceful collision or impact, often involving a sudden and powerful movement. Among the given concepts, the arrow '→' represents a direct and forceful direction, symbolizing the energy and intensity associated with smashing.
+        
+                concept: '→'
+----------
+smashed	←, ↑, →, ↓	 The event 'smashed' implies a forceful collision or impact, often associated with a sudden, powerful movement. Among the given concepts, the arrow '↓' represents a downward direction, which can symbolize a heavy or forceful impact, similar to how something might smash downward onto a surface.
+        
+                concept: ↓
+----------
+smashed	←, ↓, ↑, →	 'smashed' implies a forceful impact or collision, often involving a sudden, powerful movement. The concept '↓' represents a downward motion, which can symbolize something being struck or pressed down forcefully, akin to smashing.
+        
+                concept: ↓
+----------
+smashed	←, ↓, →, ↑	 'smashed' implies a forceful impact or collision, often associated with a downward motion, like something being struck from above.
+        
+                concept: ↓
+----------
+smashed	←, →, ↑, ↓	 The event 'smashed' implies a forceful collision or impact, often involving a sudden and powerful movement. Among the given concepts, the arrow '→' represents a forward-moving direction, which can symbolize the force and energy associated with smashing.
+        
+                concept: '→'
+----------
+smashed	←, →, ↓, ↑	 'smashed' implies a forceful collision or impact, often involving a sudden, powerful movement. The concept '→' represents a direct, forward motion, which can symbolize the force and direction of a smash.
+        
+                concept: '→'
+----------
+smashed	→, ↑, ↓, ←	 'smashed' implies a forceful collision or impact, often in a direction. The '→' symbol represents a strong, direct movement or force, akin to something being smashed in a particular direction.
+        
+                concept: '→'
+----------
+smashed	→, ↑, ←, ↓	 The event 'smashed' implies a forceful or violent impact, often resulting in destruction or breaking apart. Among the given concepts, '→' represents a direct and forceful movement or action, similar to the idea of something being smashed with great force.
+        
+                concept: '→'
+----------
+smashed	→, ↓, ↑, ←	 'smashed' implies a forceful collision or impact, often in a downward direction, like something being struck heavily from above.
+        
+                concept: ↓
+----------
+smashed	→, ↓, ←, ↑	 'smashed' implies a forceful or violent impact, often in a downward direction, like something being struck heavily from above.
+        
+                concept: ↓
+----------
+smashed	→, ←, ↑, ↓	 'smashed' implies a forceful collision or impact, often involving a sudden, powerful movement. The concept '→' represents a direct and forceful direction, similar to the energy released in a smash.
+        
+                concept: '→'
+----------
+smashed	→, ←, ↓, ↑	 'smashed' implies a forceful collision or impact, often in a downward direction, like something being struck heavily from above.
+        
+                concept: ↓
+----------
+bombed	↑, ↓, ←, →	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The ↓ symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: ↓
+----------
+bombed	↑, ↓, →, ←	 bombing often involves a sudden, forceful impact or explosion, which can be represented by a downward motion, as if something is dropping or crashing down.
+        
+                concept: ↓
+----------
+bombed	↑, ←, ↓, →	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The '↓' symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: '↓'
+----------
+bombed	↑, ←, →, ↓	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The '↓' symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: '↓'
+----------
+bombed	↑, →, ↓, ←	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The ↓ symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: ↓
+----------
+bombed	↑, →, ←, ↓	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The ↓ symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: ↓
+----------
+bombed	↓, ↑, ←, →	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The '↓' symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: '↓'
+----------
+bombed	↓, ↑, →, ←	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The '↓' symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: '↓'
+----------
+bombed	↓, ←, ↑, →	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The '↓' symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: '↓'
+----------
+bombed	↓, ←, →, ↑	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The '↓' symbol represents a downward movement, which aligns with the action of a bomb being released and falling to its target.
+        
+                concept: '↓'
+----------
+bombed	↓, →, ↑, ←	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The '↓' symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: '↓'
+----------
+bombed	↓, →, ←, ↑	 The event 'bombed' can be associated with something going downward, as in a bomb dropping from the sky to its target. The '↓' symbol represents a downward direction, which aligns with the action of a bomb falling.
+        
+                concept: '↓'
+----------
+bombed	←, ↑, ↓, →	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The ↓ symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: ↓
+----------
+bombed	←, ↑, →, ↓	 The event 'bombed' can be associated with something going down or falling, much like a bomb dropping from the sky to its target. The downward arrow (↓) symbolizes this downward motion, representing the bomb's trajectory as it falls to detonate.
+        
+                concept: ↓
+----------
+bombed	←, ↓, ↑, →	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The ↓ symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: ↓
+----------
+bombed	←, ↓, →, ↑	 The event 'bombed' can be associated with a downward direction, as bombs typically fall from the sky to their target. The ↓ symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: ↓
+----------
+bombed	←, →, ↑, ↓	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The ↓ symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: ↓
+----------
+bombed	←, →, ↓, ↑	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The ↓ symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: ↓
+----------
+bombed	→, ↑, ↓, ←	 The event 'bombed' can be associated with a sudden, dramatic drop or decline, similar to how a bomb might cause destruction from above, leading to a downward movement or impact.
+        
+                concept: ↓
+----------
+bombed	→, ↑, ←, ↓	 The event 'bombed' can be associated with a downward direction, as bombs are typically dropped from above to below. The ↓ symbol represents this downward motion, which aligns with the action of bombing.
+        
+                concept: ↓
+----------
+bombed	→, ↓, ↑, ←	 The event 'bombed' can be associated with a sudden, impactful action, often resulting in a downward motion, such as a bomb dropping from the sky to its target.
+        
+                concept: ↓
+----------
+bombed	→, ↓, ←, ↑	 The event 'bombed' can be associated with a sudden, impactful action, often represented by a downward motion, similar to a bomb dropping from the sky.
+        
+                concept: ↓
+----------
+bombed	→, ←, ↑, ↓	 The event 'bombed' can be associated with a sudden, impactful action, often with a downward motion, similar to a bomb being dropped from above.
+        
+                concept: ↓
+----------
+bombed	→, ←, ↓, ↑	 The event 'bombed' can be associated with a sudden, impactful action, often resulting in a downward motion, such as a bomb dropping from the sky to its target.
+        
+                concept: ↓
+----------
+flew	↑, ↓, ←, →	 'flew' implies movement through the air, typically in an upward direction. The '↑' symbol represents upward movement, which aligns with the idea of flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	↑, ↓, →, ←	 'flew' implies movement through the air, typically in an upward direction. The '↑' symbol represents upward movement, which aligns with the idea of flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	↑, ←, ↓, →	 The event 'flew' implies movement through the air, which is often associated with going upward. The '↑' symbol represents an upward direction, which aligns with the idea of flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	↑, ←, →, ↓	 The event 'flew' implies movement through the air, which is typically associated with going upward. The '↑' symbol represents upward direction, which aligns with the idea of flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	↑, →, ↓, ←	 'flew' implies movement through the air, typically in an upward direction. The '↑' symbol represents upward movement, which aligns with the idea of flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	↑, →, ←, ↓	 The event 'flew' implies movement through the air, which is typically associated with going upward. The '↑' symbol represents an upward direction, which aligns with the idea of flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	↓, ↑, ←, →	 'flew' implies movement through the air, typically upwards. The '↑' symbol represents upward direction, which aligns with the idea of flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	↓, ↑, →, ←	 'flew' implies movement through the air, typically in an upward direction. The '↑' symbol represents upward movement, which aligns with the idea of flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	↓, ←, ↑, →	 'flew' implies movement through the air, often in an upward direction. The '↑' symbol represents upward movement, which aligns with the idea of flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	↓, ←, →, ↑	 'flew' implies movement through the air, often in various directions. The '↑' symbol represents upward movement, which is commonly associated with flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	↓, →, ↑, ←	 'flew' implies movement through the air, often in an upward direction, like a bird taking flight.
+        
+                concept: '↑'
+----------
+flew	↓, →, ←, ↑	 'flew' implies movement through the air, often in various directions. The '↑' symbol represents upward movement, which is commonly associated with flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	←, ↑, ↓, →	 'flew' implies movement through the air, often in an upward direction, like a bird taking flight.
+        
+                concept: ↑
+----------
+flew	←, ↑, →, ↓	 'flew' implies movement through the air, typically upwards. The ↑ symbol represents upward direction, which aligns with the idea of flying upwards into the sky.
+        
+                concept: ↑
+----------
+flew	←, ↓, ↑, →	 'flew' implies movement through the air, often in an upward direction. The ↑ symbol represents ascending or moving upwards, which aligns with the idea of flying.
+        
+                concept: ↑
+----------
+flew	←, ↓, →, ↑	 'flew' implies movement through the air, typically in an upward direction, like a bird taking flight.
+        
+                concept: ↑
+----------
+flew	←, →, ↑, ↓	 'flew' implies movement through the air, typically in an upward direction, like a bird taking flight.
+        
+                concept: '↑'
+----------
+flew	←, →, ↓, ↑	 'flew' implies movement through the air, often in various directions. The '↑' symbol represents upward movement, which is commonly associated with flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	→, ↑, ↓, ←	 The concept '↑' represents an upward direction, which is often associated with flying as objects or creatures move upwards into the air.
+        
+                concept: '↑'
+----------
+flew	→, ↑, ←, ↓	 The event 'flew' implies movement through the air, typically in an upward direction, similar to how birds or airplanes ascend into the sky.
+        
+                concept: ↑
+----------
+flew	→, ↓, ↑, ←	 'flew' implies movement through the air, often in an upward direction. The '↑' symbol represents upward movement, which aligns with the idea of flying upwards into the sky.
+        
+                concept: '↑'
+----------
+flew	→, ↓, ←, ↑	 'flew' implies movement through the air, often in an upward direction, like a bird taking flight.
+        
+                concept: '↑'
+----------
+flew	→, ←, ↑, ↓	 The event 'flew' implies movement through the air, typically in an upward direction, similar to how birds or airplanes ascend into the sky.
+        
+                concept: ↑
+----------
+flew	→, ←, ↓, ↑	 'flew' implies movement through the air, often in various directions. The '↑' symbol represents upward movement, which is commonly associated with flying upwards into the sky.
+        
+                concept: '↑'
+----------
+floated	↑, ↓, ←, →	 Floating implies moving upward, as in rising through the air or on water. The '↑' symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: '↑'
+----------
+floated	↑, ↓, →, ←	 Floating implies moving upward, as in rising through the air or on water. The '↑' symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: '↑'
+----------
+floated	↑, ←, ↓, →	 Floating implies moving upward, as in rising through the air or on water. The '↑' symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: '↑'
+----------
+floated	↑, ←, →, ↓	 Floating implies moving upward, as in rising through the air or on water. The '↑' symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: '↑'
+----------
+floated	↑, →, ↓, ←	 Floating implies moving upward, as in rising through the air or on water. The '↑' symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: '↑'
+----------
+floated	↑, →, ←, ↓	 Floating implies moving upward, as in rising through the air. The '↑' symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: '↑'
+----------
+floated	↓, ↑, ←, →	 Floating implies moving upward, as in rising through the air. The ↑ symbol represents an upward direction, which aligns with the idea of something moving upwards while floating.
+        
+                concept: ↑
+----------
+floated	↓, ↑, →, ←	 Floating implies moving upward, as in rising through the air. The ↑ symbol represents an upward direction, which aligns with the idea of something moving upwards while floating.
+        
+                concept: ↑
+----------
+floated	↓, ←, ↑, →	 Floating implies moving upward, as in rising through the air. The ↑ symbol represents an upward direction, which aligns with the idea of something moving upwards while floating.
+        
+                concept: ↑
+----------
+floated	↓, ←, →, ↑	 'floated' implies movement upwards, as in something rising or hovering in the air. The upward arrow '↑' symbolizes ascending or moving higher.
+        
+                concept: '↑'
+----------
+floated	↓, →, ↑, ←	 'floated' implies movement upwards, as in something rising or hovering in the air. The upward-pointing arrow (↑) symbolizes ascending motion, which aligns with the idea of floating upwards.
+        
+                concept: ↑
+----------
+floated	↓, →, ←, ↑	 'floated' implies movement upwards, as in something rising or hovering in the air. The upward-pointing arrow (↑) symbolizes ascending or moving upward, which aligns with the idea of floating.
+        
+                concept: ↑
+----------
+floated	←, ↑, ↓, →	 Floating often implies moving upward, as in rising through the air or on water. The ↑ symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: ↑
+----------
+floated	←, ↑, →, ↓	 Floating often implies moving upward, as in rising through the air or on water. The ↑ symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: ↑
+----------
+floated	←, ↓, ↑, →	 Floating implies moving upward, as in rising through the air. The ↑ symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: ↑
+----------
+floated	←, ↓, →, ↑	 'floated' implies movement upwards, as in something rising or hovering in the air. The ↑ symbol represents an upward direction, which aligns with the idea of floating upwards.
+        
+                concept: ↑
+----------
+floated	←, →, ↑, ↓	 Floating often implies moving upward, as in rising through the air or on water. The ↑ symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: ↑
+----------
+floated	←, →, ↓, ↑	 Floating often implies a sense of weightlessness or suspension in the air, which can be associated with moving upward.
+        
+                concept: ↑
+----------
+floated	→, ↑, ↓, ←	 Floating implies moving upward, as in rising through the air. The ↑ symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: ↑
+----------
+floated	→, ↑, ←, ↓	 Floating implies moving upward, as in rising through the air. The ↑ symbol represents an upward direction, which aligns with the idea of something moving upwards when it floats.
+        
+                concept: ↑
+----------
+floated	→, ↓, ↑, ←	 'floated' implies movement upwards, as in something rising or hovering in the air. The upward-pointing arrow (↑) symbolizes ascending motion, which aligns with the idea of floating upwards.
+        
+                concept: ↑
+----------
+floated	→, ↓, ←, ↑	 'floated' implies movement upwards, as in something rising or hovering in the air. The upward-pointing arrow (↑) symbolizes ascending or moving higher, which aligns with the idea of floating upwards.
+        
+                concept: ↑
+----------
+floated	→, ←, ↑, ↓	 Floating implies moving upward without sinking. The upward arrow (↑) represents movement in the vertical direction, which aligns with the idea of something rising or staying suspended in the air.
+        
+                concept: ↑
+----------
+floated	→, ←, ↓, ↑	 Floating implies moving upward, as in rising through the air. The upward-pointing arrow (↑) symbolizes movement in an ascending direction, which aligns with the idea of something floating upwards.
+        
+                concept: ↑
+----------
+lifted	↑, ↓, ←, →	 'lifted' implies moving something upward. The '↑' symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: '↑'
+----------
+lifted	↑, ↓, →, ←	 'lifted' implies moving something upward. The '↑' symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: '↑'
+----------
+lifted	↑, ←, ↓, →	 'lifted' implies moving something upward. The '↑' symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: '↑'
+----------
+lifted	↑, ←, →, ↓	 'lifted' implies moving something upward. The '↑' symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: '↑'
+----------
+lifted	↑, →, ↓, ←	 'lifted' implies moving something upward. The '↑' symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: '↑'
+----------
+lifted	↑, →, ←, ↓	 'lifted' implies moving something upward. The '↑' symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: '↑'
+----------
+lifted	↓, ↑, ←, →	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	↓, ↑, →, ←	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	↓, ←, ↑, →	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	↓, ←, →, ↑	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	↓, →, ↑, ←	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	↓, →, ←, ↑	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	←, ↑, ↓, →	 'lifted' implies moving something upwards. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	←, ↑, →, ↓	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	←, ↓, ↑, →	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	←, ↓, →, ↑	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	←, →, ↑, ↓	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	←, →, ↓, ↑	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	→, ↑, ↓, ←	 'lifted' implies moving upwards, which is represented by the ↑ symbol.
+        
+                concept: ↑
+----------
+lifted	→, ↑, ←, ↓	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	→, ↓, ↑, ←	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	→, ↓, ←, ↑	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	→, ←, ↑, ↓	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+lifted	→, ←, ↓, ↑	 'lifted' implies moving something upward. The ↑ symbol represents an upward direction, which aligns with the action of lifting.
+        
+                concept: ↑
+----------
+sank	↑, ↓, ←, →	 'sank' implies a downward movement, as in something going under the surface, like an object sinking in water.
+        
+                concept: ↓
+----------
+sank	↑, ↓, →, ←	 'sank' implies a downward movement, as in something going under the surface, like an object sinking in water.
+        
+                concept: ↓
+----------
+sank	↑, ←, ↓, →	 'sank' implies a downward movement, as in something going under the surface, like a ship sinking in water.
+        
+                concept: '↓'
+----------
+sank	↑, ←, →, ↓	 'sank' implies a downward movement, such as an object descending below the surface of water. The '↓' symbol represents a downward direction, which aligns with the idea of sinking.
+        
+                concept: '↓'
+----------
+sank	↑, →, ↓, ←	 'sank' implies a downward movement, as in something going under the surface, like an object sinking in water.
+        
+                concept: ↓
+----------
+sank	↑, →, ←, ↓	 'sank' implies a downward movement, as in something going under the surface, like an object sinking in water.
+        
+                concept: ↓
+----------
+sank	↓, ↑, ←, →	 'sank' implies a downward movement, such as an object descending below the surface of water. The '↓' symbol represents a downward direction, which aligns with the idea of sinking.
+        
+                concept: '↓'
+----------
+sank	↓, ↑, →, ←	 'sank' implies a downward movement, such as an object descending below the surface of water. The '↓' symbol represents a downward direction, which aligns with the idea of sinking.
+        
+                concept: '↓'
+----------
+sank	↓, ←, ↑, →	 'sank' implies a downward movement, such as an object descending below the surface of water. The '↓' symbol represents a downward direction, which aligns with the idea of sinking.
+        
+                concept: '↓'
+----------
+sank	↓, ←, →, ↑	 'sank' implies a downward movement, such as an object descending below the surface of water. The '↓' symbol represents a downward direction, which aligns with the idea of sinking.
+        
+                concept: '↓'
+----------
+sank	↓, →, ↑, ←	 'sank' implies a downward movement, such as an object descending below the surface of water or the ground. The '↓' symbol represents a downward direction, which aligns with the idea of something sinking or going down.
+        
+                concept: '↓'
+----------
+sank	↓, →, ←, ↑	 'sank' implies a downward movement, such as an object descending below the surface of water. The '↓' symbol represents a downward direction, which aligns with the idea of sinking.
+        
+                concept: '↓'
+----------
+sank	←, ↑, ↓, →	 'sank' implies a downward movement, as in something going under the surface, like an object sinking in water.
+        
+                concept: ↓
+----------
+sank	←, ↑, →, ↓	 'sank' implies a downward movement, as in something going under the surface, like an object sinking in water.
+        
+                concept: ↓
+----------
+sank	←, ↓, ↑, →	 'sank' implies a downward movement, such as an object descending below the surface of water or the ground. The ↓ symbol represents a direction pointing downwards, which aligns with the idea of something sinking or going down.
+        
+                concept: ↓
+----------
+sank	←, ↓, →, ↑	 'sank' implies a downward movement, such as an object descending below the surface of water or the ground. The ↓ symbol represents a direction pointing downwards, which aligns with the idea of something sinking or going down.
+        
+                concept: ↓
+----------
+sank	←, →, ↑, ↓	 'sank' implies a downward movement, such as an object descending below the surface of water or the ground. The '↓' symbol represents a downward direction, which aligns with the idea of something sinking or going down.
+        
+                concept: '↓'
+----------
+sank	←, →, ↓, ↑	 'sank' implies a downward movement, such as an object descending below the surface of water or the ground. The ↓ symbol represents a direction pointing downwards, which aligns with the idea of something sinking or going down.
+        
+                concept: ↓
+----------
+sank	→, ↑, ↓, ←	 'sank' implies a downward movement, as in something going under the surface, like an object sinking in water.
+        
+                concept: ↓
+----------
+sank	→, ↑, ←, ↓	 'sank' implies a downward movement, as in something going under the surface, like an object sinking in water.
+        
+                concept: '↓'
+----------
+sank	→, ↓, ↑, ←	 'sank' implies a downward movement, such as an object descending below the surface of water. The ↓ symbol represents a downward direction, which aligns with the idea of sinking.
+        
+                concept: ↓
+----------
+sank	→, ↓, ←, ↑	 'sank' implies a downward movement, such as an object descending below the surface of water. The ↓ symbol represents a downward direction, which aligns with the idea of sinking.
+        
+                concept: ↓
+----------
+sank	→, ←, ↑, ↓	 'sank' implies a downward movement, as in something going under the surface, like an object sinking in water.
+        
+                concept: '↓'
+----------
+sank	→, ←, ↓, ↑	 'sank' implies a downward movement, such as an object descending below the surface of water. The ↓ symbol represents a direction pointing downwards, which aligns with the idea of sinking.
+        
+                concept: ↓
+----------
+argued with	↑, ↓, ←, →	 'arguing' often involves a back-and-forth exchange, similar to the left and right arrows indicating a reciprocal or opposing action.
+        
+                concept: '←'
+----------
+argued with	↑, ↓, →, ←	 'arguing' often involves a back-and-forth exchange, similar to the back-and-forth movement of the arrows.
+        
+                concept: '←'
+----------
+argued with	↑, ←, ↓, →	 'arguing' often involves a back-and-forth exchange, similar to moving left and right in a debate or discussion.
+        
+                concept: ←'→'
+----------
+argued with	↑, ←, →, ↓	 'arguing' often involves a back-and-forth exchange, similar to moving left and right in a debate or discussion.
+        
+                concept: ←'→'
+----------
+argued with	↑, →, ↓, ←	 'arguing' often involves a back-and-forth exchange, similar to the movement of arrows going in opposite directions. The arrows represent the verbal sparring between two parties.
+        
+                concept: ←
+----------
+argued with	↑, →, ←, ↓	 'argued with' often involves a back-and-forth exchange, similar to the direction arrows indicating movement or communication in different directions.
+        
+                concept: ←
+----------
+argued with	↓, ↑, ←, →	 'arguing' often involves a back-and-forth exchange, similar to the left and right arrows indicating a reciprocal or opposing action.
+        
+                concept: '←'
+----------
+argued with	↓, ↑, →, ←	 'argued with' often involves a back-and-forth exchange, similar to a tug-of-war or a debate where ideas are exchanged in opposite directions.
+        
+                concept: '←'
+----------
+argued with	↓, ←, ↑, →	 'argued with' often involves a back-and-forth exchange, similar to moving left and right in a debate or discussion.
+        
+                concept: ←'→' (left and right arrows together)
+----------
+argued with	↓, ←, →, ↑	 'argued with' implies a back-and-forth exchange, similar to moving left and right in a debate or discussion.
+        
+                concept: ←'→'
+----------
+argued with	↓, →, ↑, ←	 'argued with' often involves a back-and-forth exchange, similar to the movement of arrows indicating direction changes or opposition.
+        
+                concept: ←
+----------
+argued with	↓, →, ←, ↑	 'argued with' often involves a back-and-forth exchange, similar to the arrows pointing in opposite directions indicating a conflict or debate.
+        
+                concept: ←
+----------
+argued with	←, ↑, ↓, →	 Arguing often involves a back-and-forth exchange, similar to moving left and right. The '←' and '→' arrows represent this reciprocal interaction. However, since only one choice is allowed, I'll go with '←' as it signifies a response or rebuttal in the argument.
+        
+                concept: '←'
+----------
+argued with	←, ↑, →, ↓	 Arguing often involves a back-and-forth exchange, similar to moving left and right. The '←' and '→' arrows represent this reciprocal interaction. However, since only one concept can be chosen, '←' signifies a response or rebuttal in the argument.
+        
+                concept: '←'
+----------
+argued with	←, ↓, ↑, →	 Arguing often involves a back-and-forth exchange, similar to moving left and right. The '←' and '→' arrows represent this reciprocal interaction. However, since only one choice is allowed, I'll go with '←' as it signifies a counteraction or response in the argument.
+        
+                concept: '←'
+----------
+argued with	←, ↓, →, ↑	 Arguing often involves a back-and-forth exchange, similar to moving left and right. The '←' and '→' arrows represent this dynamic interaction between two parties.
+        
+                concept: '←'
+----------
+argued with	←, →, ↑, ↓	 Arguing often involves a back-and-forth exchange, similar to moving left and right. The '←' and '→' arrows represent this reciprocal interaction.
+        
+                concept: '←'
+----------
+argued with	←, →, ↓, ↑	 'arguing' often involves a back-and-forth exchange of ideas or opinions, similar to the movement of arrows going in opposite directions.
+        
+                concept: '←'
+----------
+argued with	→, ↑, ↓, ←	 'arguing' often involves a back-and-forth exchange, similar to the movement of arrows going in opposite directions. The '←' and '→' arrows can represent the give-and-take nature of an argument.
+        
+                concept: '←'
+----------
+argued with	→, ↑, ←, ↓	 'argued with' implies a back-and-forth exchange, similar to the direction of the arrows indicating a reciprocal or opposing interaction.
+        
+                concept: '←'
+----------
+argued with	→, ↓, ↑, ←	 'arguing' often involves a back-and-forth exchange, similar to the movement of arrows going in opposite directions. The left and right arrows (← and →) can represent the give-and-take nature of an argument.
+        
+                concept: ←
+----------
+argued with	→, ↓, ←, ↑	 'argued with' implies a back-and-forth exchange, similar to a conversation where ideas are exchanged in opposite directions.
+        
+                concept: '←'
+----------
+argued with	→, ←, ↑, ↓	 'arguing' often involves a back-and-forth exchange of ideas or opinions, similar to the back-and-forth directionality of the arrows.
+        
+                concept: ←
+----------
+argued with	→, ←, ↓, ↑	 'arguing' often involves a back-and-forth exchange of ideas or opinions, similar to the back-and-forth directionality of the arrows.
+        
+                concept: ←
+----------
+gave to	↑, ↓, ←, →	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	↑, ↓, →, ←	 'gave to' implies a transfer or movement from one entity to another. The arrow '→' symbolizes direction and movement towards something, representing the act of giving.
+        
+                concept: '→'
+----------
+gave to	↑, ←, ↓, →	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	↑, ←, →, ↓	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	↑, →, ↓, ←	 'gave to' implies a transfer or movement from one entity to another. The right arrow (→) symbolizes direction and movement towards the right, which can represent the act of giving something to someone or something else.
+        
+                concept: →
+----------
+gave to	↑, →, ←, ↓	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents a directional movement towards something, indicating the act of giving.
+        
+                concept: '→'
+----------
+gave to	↓, ↑, ←, →	 'gave to' implies a transfer or movement from one entity to another. The right arrow (→) suggests direction towards someone or something, indicating the act of giving.
+        
+                concept: '→'
+----------
+gave to	↓, ↑, →, ←	 'gave to' implies a transfer or movement from one entity to another. The arrow '→' symbolizes direction and movement towards something, representing the act of giving.
+        
+                concept: '→'
+----------
+gave to	↓, ←, ↑, →	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	↓, ←, →, ↑	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	↓, →, ↑, ←	 'gave to' implies a transfer or movement from one entity to another. The right arrow (→) symbolizes direction towards the recipient, indicating the act of giving.
+        
+                concept: →
+----------
+gave to	↓, →, ←, ↑	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents a directional arrow pointing to the right, indicating movement towards a destination, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	←, ↑, ↓, →	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	←, ↑, →, ↓	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	←, ↓, ↑, →	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	←, ↓, →, ↑	 'gave to' implies a transfer or movement from one entity to another. The arrow '→' represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	←, →, ↑, ↓	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	←, →, ↓, ↑	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to a destination, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	→, ↑, ↓, ←	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents directionality, indicating movement from a starting point to an endpoint, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	→, ↑, ←, ↓	 The action of giving something to someone can be represented by a directional arrow indicating the transfer from one point to another. The '→' symbol signifies movement from the subject to the object, showing the direction of the giving.
+        
+                concept: '→'
+----------
+gave to	→, ↓, ↑, ←	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents a directional arrow pointing to the right, indicating movement towards a destination, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	→, ↓, ←, ↑	 'gave to' implies a transfer or movement from one entity to another. The '→' symbol represents a directional arrow pointing to the right, indicating movement towards a destination, which aligns with the idea of giving something to someone.
+        
+                concept: '→'
+----------
+gave to	→, ←, ↑, ↓	 The action of giving something to someone can be represented by a directional arrow indicating the transfer from one point to another. The '→' symbol signifies movement from the subject to the object, showing the direction of the giving.
+        
+                concept: '→'
+----------
+gave to	→, ←, ↓, ↑	 The action of giving something to someone can be represented by a directional arrow indicating the transfer from one point to another. The '→' symbol signifies movement from the subject to the object, showing the direction of the giving.
+        
+                concept: '→'
+----------
+offended	↑, ↓, ←, →	 When someone is offended, they might feel a sense of withdrawal or turning away from the situation. The '←' symbol, representing a leftward direction, could signify this turning away or moving back from the offensive stimulus.
+        
+                concept: ←
+----------
+offended	↑, ↓, →, ←	 When someone is offended, they might feel a sense of being pushed away or rejected, which can be represented by a direction that signifies moving away or turning back.
+        
+                concept: ←
+----------
+offended	↑, ←, ↓, →	 When someone is offended, they might feel a sense of rejection or turning away. The '←' symbol, representing a leftward direction, could signify a withdrawal or moving away from the situation.
+        
+                concept: ←
+----------
+offended	↑, ←, →, ↓	 When someone is offended, they might feel a sense of rejection or turning away. The '←' symbol, representing a leftward direction, could signify a withdrawal or moving away from the situation.
+        
+                concept: ←
+----------
+offended	↑, →, ↓, ←	 When someone is offended, they might feel a sense of being pushed away or rejected, which can be represented by a direction that signifies moving away or turning back.
+        
+                concept: ←
+----------
+offended	↑, →, ←, ↓	 When someone is offended, they might feel a sense of rejection or turning away, which can be represented by a direction that signifies moving away or back.
+        
+                concept: ←
+----------
+offended	↓, ↑, ←, →	 When someone is offended, they might feel a sense of being pushed away or rejected, which can be represented by a direction that signifies moving away or retreating.
+        
+                concept: ←
+----------
+offended	↓, ↑, →, ←	 When someone is offended, they might feel a sense of being pushed away or rejected, which can be represented by a direction that signifies moving away or turning back.
+        
+                concept: ←
+----------
+offended	↓, ←, ↑, →	 When someone is offended, they might feel a sense of being pushed away or rejected, which can be represented by a direction that signifies moving away or retreating.
+        
+                concept: ←
+----------
+offended	↓, ←, →, ↑	 When someone is offended, they might feel a sense of going down emotionally or a decline in their mood.
+        
+                concept: '↓'
+----------
+offended	↓, →, ↑, ←	 When someone is offended, they might feel a sense of being pushed away or rejected, which can be represented by a direction that signifies moving away or turning back.
+        
+                concept: ←
+----------
+offended	↓, →, ←, ↑	 When someone is offended, they might feel a downward emotional shift or a decline in their mood, similar to the direction indicated by '↓'.
+        
+                concept: '↓'
+----------
+offended	←, ↑, ↓, →	 When someone is offended, they might feel a sense of rejection or turning away. The '←' symbol, which represents moving to the left or going back, could symbolize this emotional withdrawal or rejection.
+        
+                concept: '←'
+----------
+offended	←, ↑, →, ↓	 When someone is offended, they might feel a sense of rejection or turning away. The '←' symbol, which represents moving to the left or going back, could symbolize this emotional withdrawal or rejection.
+        
+                concept: '←'
+----------
+offended	←, ↓, ↑, →	 When someone is offended, they might feel a sense of rejection or turning away. The '←' symbol, which represents moving to the left or going back, could symbolize this emotional withdrawal or rejection.
+        
+                concept: '←'
+----------
+offended	←, ↓, →, ↑	 When someone is offended, they might feel a sense of rejection or turning away. The '←' symbol, which points to the left, can represent a shift away from the original direction, signifying a negative reaction or offense.
+        
+                concept: ←
+----------
+offended	←, →, ↑, ↓	 When someone is offended, they might turn away or move back, indicating a withdrawal from the situation. The '←' symbol represents moving to the left or going back, which can signify this withdrawal or turning away in response to being offended.
+        
+                concept: '←'
+----------
+offended	←, →, ↓, ↑	 When someone is offended, they might feel a sense of rejection or turning away. The '←' symbol, representing a direction to the left or back, could signify a withdrawal or moving away from the situation, much like how someone might turn away when offended.
+        
+                concept: '←'
+----------
+offended	→, ↑, ↓, ←	 When someone is offended, they might feel a negative emotional pull or a downward shift in their mood. The '↓' symbol represents a decrease or a downward direction, which can symbolize the lowering of spirits or mood associated with feeling offended.
+        
+                concept: '↓'
+----------
+offended	→, ↑, ←, ↓	 When someone is offended, they might feel a negative emotional pull or a sense of being pushed away. The arrow pointing to the left (←) can symbolize a withdrawal or a negative reaction, as if being pushed back or turned away.
+        
+                concept: ←
+----------
+offended	→, ↓, ↑, ←	 When someone is offended, they might feel a downward emotional shift or a decline in their mood. The '↓' symbol represents a decrease or going downward, which can symbolize the negative emotional impact of being offended.
+        
+                concept: ↓
+----------
+offended	→, ↓, ←, ↑	 When someone is offended, they might feel a sense of being pushed away or directed negatively. The '←' symbol, which points to the left, can represent a reversal or turning away, indicating a negative reaction or offense.
+        
+                concept: ←
+----------
+offended	→, ←, ↑, ↓	 When someone is offended, they might feel a sense of rejection or pushing away, as if something is being directed back at them. The '←' symbol, representing a direction back or reversal, could symbolize this feeling of being pushed away or rejected.
+        
+                concept: ←
+----------
+offended	→, ←, ↓, ↑	 When someone is offended, they might feel a sense of rejection or pushing away, which can be represented by a direction that signifies moving away or back.
+        
+                concept: ←
+----------
+rushed	↑, ↓, ←, →	 'rushed' implies a sudden or swift movement, often in a particular direction. The '→' symbol represents a direction to the right, which can signify moving forward quickly.
+        
+                concept: '→'
+----------
+rushed	↑, ↓, →, ←	 'rushed' implies a sudden or swift movement, often in a particular direction. The '→' symbol represents a direction to the right, which can signify moving forward quickly.
+        
+                concept: '→'
+----------
+rushed	↑, ←, ↓, →	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents forward direction, which can signify moving quickly ahead.
+        
+                concept: '→'
+----------
+rushed	↑, ←, →, ↓	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents forward direction, which can signify moving quickly ahead.
+        
+                concept: '→'
+----------
+rushed	↑, →, ↓, ←	 'rushed' implies a sudden or swift movement, often in a particular direction. The '→' symbol represents a rightward direction, which can signify moving quickly towards a destination.
+        
+                concept: '→'
+----------
+rushed	↑, →, ←, ↓	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents forward direction, which can signify moving quickly ahead without hesitation.
+        
+                concept: '→'
+----------
+rushed	↓, ↑, ←, →	 'rushed' implies a sudden or swift movement, often in a particular direction. The '→' symbol represents a direction to the right, which can signify moving forward quickly.
+        
+                concept: '→'
+----------
+rushed	↓, ↑, →, ←	 'rushed' implies a sudden or swift movement, often in a particular direction. The concept ↑ could represent rushing upwards, symbolizing a quick ascent or acceleration.
+        
+                concept: ↑
+----------
+rushed	↓, ←, ↑, →	 'rushed' implies a sudden or swift movement, often in a particular direction. The '→' symbol represents a direction to the right, which can signify moving forward quickly.
+        
+                concept: '→'
+----------
+rushed	↓, ←, →, ↑	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents movement to the right, which can signify forward motion or progression, aligning with the idea of rushing.
+        
+                concept: '→'
+----------
+rushed	↓, →, ↑, ←	 'rushed' implies a sudden or swift movement, often in a particular direction. The '→' symbol represents movement to the right, which can signify a quick or hurried action in that direction.
+        
+                concept: '→'
+----------
+rushed	↓, →, ←, ↑	 'rushed' implies a sense of urgency or speed, often associated with moving quickly in a particular direction. The '→' symbol represents movement to the right, which can signify forward motion or progression, aligning with the idea of rushing ahead.
+        
+                concept: '→'
+----------
+rushed	←, ↑, ↓, →	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents forward direction, which can signify moving quickly ahead.
+        
+                concept: '→'
+----------
+rushed	←, ↑, →, ↓	 'rushed' implies a sudden or swift movement, often in a particular direction. The '→' symbol represents movement to the right, which can signify a quick or hurried action in that direction.
+        
+                concept: '→'
+----------
+rushed	←, ↓, ↑, →	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents forward direction, which can signify moving quickly ahead.
+        
+                concept: '→'
+----------
+rushed	←, ↓, →, ↑	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents forward direction, which can signify moving quickly ahead.
+        
+                concept: '→'
+----------
+rushed	←, →, ↑, ↓	 'rushed' implies a sudden or swift movement, often in a particular direction. The '→' symbol represents movement to the right, which can signify a quick or hurried action in that direction.
+        
+                concept: '→'
+----------
+rushed	←, →, ↓, ↑	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents forward direction, which can signify moving quickly ahead.
+        
+                concept: '→'
+----------
+rushed	→, ↑, ↓, ←	 'rushed' implies a sudden or swift movement, often in a particular direction. The '→' symbol represents a rightward direction, which can signify moving quickly towards a destination.
+        
+                concept: '→'
+----------
+rushed	→, ↑, ←, ↓	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents a direction forward, which can signify moving quickly ahead or progressing swiftly.
+        
+                concept: '→'
+----------
+rushed	→, ↓, ↑, ←	 'rushed' implies a sudden or swift movement, often in a particular direction. The '→' symbol represents a rightward direction, which can signify moving quickly towards a destination.
+        
+                concept: '→'
+----------
+rushed	→, ↓, ←, ↑	 'rushed' implies a sense of urgency or quick movement. The '→' symbol, which is a right-pointing arrow, suggests forward motion and progression, aligning with the idea of moving quickly or rushing in a particular direction.
+        
+                concept: '→'
+----------
+rushed	→, ←, ↑, ↓	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents forward direction and progression, which aligns with the idea of moving quickly towards something.
+        
+                concept: '→'
+----------
+rushed	→, ←, ↓, ↑	 'rushed' implies a sense of urgency or quick movement. The '→' symbol represents forward direction and movement, which aligns with the idea of rushing ahead.
+        
+                concept: '→'
+----------
+warned	↑, ↓, ←, →	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling someone about something.
+        
+                concept: '→'
+----------
+warned	↑, ↓, →, ←	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	↑, ←, ↓, →	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling someone about something.
+        
+                concept: '→'
+----------
+warned	↑, ←, →, ↓	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	↑, →, ↓, ←	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	↑, →, ←, ↓	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	↓, ↑, ←, →	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling someone about something.
+        
+                concept: '→'
+----------
+warned	↓, ↑, →, ←	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	↓, ←, ↑, →	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	↓, ←, →, ↑	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	↓, →, ↑, ←	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	↓, →, ←, ↑	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	←, ↑, ↓, →	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	←, ↑, →, ↓	 'warned' often involves signaling or indicating something. The '↑' symbol can represent a warning signal, such as a raised hand or flag, to alert someone of potential danger.
+        
+                concept: '↑'
+----------
+warned	←, ↓, ↑, →	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	←, ↓, →, ↑	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	←, →, ↑, ↓	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	←, →, ↓, ↑	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	→, ↑, ↓, ←	 'warned' implies a sense of caution or signaling something. The '↑' symbol, often used to indicate an increase or a rise, can metaphorically represent a warning signal going up or being raised to alert someone.
+        
+                concept: '↑'
+----------
+warned	→, ↑, ←, ↓	 'warned' often involves signaling or indicating something. The '↑' symbol can represent a warning signal, such as a raised hand or a flag being lifted to alert someone.
+        
+                concept: '↑'
+----------
+warned	→, ↓, ↑, ←	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	→, ↓, ←, ↑	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as guiding or signaling attention towards something.
+        
+                concept: '→'
+----------
+warned	→, ←, ↑, ↓	 'warned' often involves signaling or indicating something. The '→' symbol points in a direction, which can be seen as a visual warning or indicator.
+        
+                concept: '→'
+----------
+warned	→, ←, ↓, ↑	 'warned' implies a sense of caution or signaling. The '→' symbol, often used to indicate direction or a pointer, can be seen as a visual cue or signal, similar to how a warning sign directs attention to a potential hazard.
+        
+                concept: '→'
+----------
+owned	↑, ↓, ←, →	 'owned' can be thought of as having control or possession over something. The concept '↓' could represent bringing something under one's control, like lowering it into one's domain.
+        
+                concept: '↓'
+----------
+owned	↑, ↓, →, ←	 'owned' can be thought of as something being under one's control or possession. The concept '↓' could represent bringing something down into one's domain or ownership.
+        
+                concept: '↓'
+----------
+owned	↑, ←, ↓, →	 'owned' can be thought of as something being under one's control or possession. The concept '↓' could represent bringing something down into one's domain or ownership.
+        
+                concept: '↓'
+----------
+owned	↑, ←, →, ↓	 'owned' can be thought of as having control or possession over something. The concept '↓' represents bringing something down or into one's possession, symbolizing ownership.
+        
+                concept: '↓'
+----------
+owned	↑, →, ↓, ←	 'owned' can be thought of as something being under one's control or possession. The concept '↓' could represent bringing something down into one's domain or ownership.
+        
+                concept: '↓'
+----------
+owned	↑, →, ←, ↓	 'owned' can be thought of as having control or possession over something. The concept '↓' represents bringing something down or into one's possession, symbolizing ownership.
+        
+                concept: '↓'
+----------
+owned	↓, ↑, ←, →	 'owned' can imply possession or control. The concept '↓' could represent bringing something under one's control, like lowering it into one's possession.
+        
+                concept: '↓'
+----------
+owned	↓, ↑, →, ←	 'owned' can be thought of as something being under one's control or possession. The '↓' symbol, representing a downward direction, could signify bringing something under oneself, much like how one might lower an object to take possession of it.
+        
+                concept: '↓'
+----------
+owned	↓, ←, ↑, →	 'owned' can be thought of as something being under one's control or possession. The '↓' symbol, representing a downward direction, could signify bringing something under oneself, much like how one might lower an object to take possession of it.
+        
+                concept: '↓'
+----------
+owned	↓, ←, →, ↑	 'owned' can be thought of as something being under one's control or possession. The '↓' symbol, representing a downward direction, could signify bringing something under oneself, much like how one might lower an object to take possession of it.
+        
+                concept: '↓'
+----------
+owned	↓, →, ↑, ←	 'owned' can be thought of as something being under one's control or possession. The '↓' symbol, representing a downward direction, could signify bringing something under oneself, much like how one might lower an object to take possession of it.
+        
+                concept: '↓'
+----------
+owned	↓, →, ←, ↑	 'owned' can imply possession or control. The concept '↓' might represent something coming into one's possession, like receiving or acquiring something.
+        
+                concept: '↓'
+----------
+owned	←, ↑, ↓, →	 'owned' can imply possession or control, which is often represented by something coming towards you. The '→' symbol indicates direction towards the speaker, signifying something is coming to or being acquired by them.
+        
+                concept: '→'
+----------
+owned	←, ↑, →, ↓	 'owned' can be thought of as something being under one's control or possession. The concept '↓' could represent bringing something down to oneself, symbolizing ownership or possession.
+        
+                concept: '↓'
+----------
+owned	←, ↓, ↑, →	 'owned' can imply possession or control. The concept '↓' could represent bringing something under one's control, like pulling it down into one's domain.
+        
+                concept: ↓
+----------
+owned	←, ↓, →, ↑	 'owned' can imply possession or control. The concept '↓' could represent bringing something under one's control, like pulling it down into one's domain.
+        
+                concept: ↓
+----------
+owned	←, →, ↑, ↓	 'owned' can be thought of as something being under one's control or possession. The concept '↓' could represent bringing something down into one's domain or ownership.
+        
+                concept: '↓'
+----------
+owned	←, →, ↓, ↑	 'owned' can imply possession or control. The concept '↓' could represent bringing something under one's control, like pulling it down into one's domain.
+        
+                concept: '↓'
+----------
+owned	→, ↑, ↓, ←	 'owned' implies possession or control. The concept '→' represents direction or movement towards something, symbolizing taking control or moving towards ownership.
+        
+                concept: '→'
+----------
+owned	→, ↑, ←, ↓	1. 'owned' can be thought of as something being under one's control or possession. The concept '↑' represents an upward direction, which can symbolize growth, ascension, or dominance, aligning with the idea of ownership and control.
+        
+                concept: '↑'
+----------
+owned	→, ↓, ↑, ←	 'owned' can be thought of as something being under one's control or possession. The concept '↓' could represent bringing something down into one's domain or ownership.
+        
+                concept: '↓'
+----------
+owned	→, ↓, ←, ↑	 'owned' implies possession or control. The concept '↓' could represent something coming into one's possession, like an object falling into your hands, symbolizing acquisition or ownership.
+        
+                concept: '↓'
+----------
+owned	→, ←, ↑, ↓	 'owned' implies possession or control. The concept '→' represents direction or movement towards something, symbolizing taking control or moving towards ownership.
+        
+                concept: '→'
+----------
+owned	→, ←, ↓, ↑	 'owned' implies possession or control. The concept '→' represents direction or movement towards something, symbolizing taking control or moving towards ownership.
+        
+                concept: '→'
+----------
+regretted	↑, ↓, ←, →	 Regret often involves looking back or reflecting on past actions, similar to moving backward or retracing one's steps.
+        
+                concept: ←
+----------
+regretted	↑, ↓, →, ←	 Regret often involves looking back or reflecting on past actions, which can be symbolized by a direction that signifies moving backward or revisiting something.
+        
+                concept: ←
+----------
+regretted	↑, ←, ↓, →	 'regretting' often involves looking back or reflecting on past actions. The left arrow (←) symbolizes moving backward or revisiting something that has already happened.
+        
+                concept: ←
+----------
+regretted	↑, ←, →, ↓	 'regretting' often involves looking back or reflecting on past actions. The left arrow (←) symbolizes moving backward or revisiting something that has already happened.
+        
+                concept: ←
+----------
+regretted	↑, →, ↓, ←	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: ←
+----------
+regretted	↑, →, ←, ↓	 'regretting' often involves looking back or reflecting on past actions. The left arrow (←) symbolizes going back or revisiting something, which aligns with the idea of regretting a decision or action.
+        
+                concept: ←
+----------
+regretted	↓, ↑, ←, →	 'regret' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration.
+        
+                concept: ←
+----------
+regretted	↓, ↑, →, ←	 Regret often involves looking back or reflecting on past actions, which can be symbolized by a direction that signifies going back or returning.
+        
+                concept: ←
+----------
+regretted	↓, ←, ↑, →	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration.
+        
+                concept: ←
+----------
+regretted	↓, ←, →, ↑	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent looking back or moving backward in thought.
+        
+                concept: ←
+----------
+regretted	↓, →, ↑, ←	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol represents a direction to the left, which can signify going back or revisiting something.
+        
+                concept: ←
+----------
+regretted	↓, →, ←, ↑	 'regret' often involves looking back or reflecting on past actions. The left arrow (←) symbolizes moving backward or revisiting something, which aligns with the idea of regretting a decision or action.
+        
+                concept: ←
+----------
+regretted	←, ↑, ↓, →	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: '←'
+----------
+regretted	←, ↑, →, ↓	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: '←'
+----------
+regretted	←, ↓, ↑, →	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: '←'
+----------
+regretted	←, ↓, →, ↑	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: '←'
+----------
+regretted	←, →, ↑, ↓	 'regret' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: '←'
+----------
+regretted	←, →, ↓, ↑	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: '←'
+----------
+regretted	→, ↑, ↓, ←	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: ←
+----------
+regretted	→, ↑, ←, ↓	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: ←
+----------
+regretted	→, ↓, ↑, ←	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration.
+        
+                concept: ←
+----------
+regretted	→, ↓, ←, ↑	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: ←
+----------
+regretted	→, ←, ↑, ↓	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: ←
+----------
+regretted	→, ←, ↓, ↑	 'regretting' often involves looking back or reflecting on past actions. The '←' symbol, which points to the left, can represent a backward glance or reconsideration of something that has already happened.
+        
+                concept: ←
+----------
+rested	↑, ↓, ←, →	 'rested' implies a state of inactivity or stability, often associated with being still or stationary. Among the given directional symbols, none directly represent rest. However, the horizontal arrows (←, →) could imply movement, while the vertical arrows (↑, ↓) suggest upward or downward movement. Since 'rested' implies a lack of movement, none of these symbols perfectly fit, but the closest might be the absence of any arrow, which isn't an option here. Given the choices, '↓' could symbolize coming to a stop or settling down, similar to resting.
+        
+
+----------
+rested	↑, ↓, →, ←	 'rested' implies a state of inactivity or stability, often associated with being still or stationary. Among the given directional symbols, none directly represent rest. However, the horizontal arrows (→ and ←) could imply movement in opposite directions, suggesting balance or equilibrium, which might metaphorically relate to rest.
+        
+                concept: ←
+----------
+rested	↑, ←, ↓, →	 'rested' implies a state of being still or stationary. The ↓ symbol represents a downward direction, which can signify coming to a stop or settling down, much like resting.
+        
+                concept: ↓
+----------
+rested	↑, ←, →, ↓	 'rested' implies a state of being still or stationary. The ↓ symbol, often representing a downward direction, can signify coming to a stop or settling down, much like resting.
+        
+                concept: ↓
+----------
+rested	↑, →, ↓, ←	 'rested' implies a state of inactivity or stillness. The concept ↓ could represent a downward motion, which might symbolize coming to a stop or settling down, much like resting.
+        
+                concept: ↓
+----------
+rested	↑, →, ←, ↓	 'rested' implies a state of being still or stationary. The ↓ symbol represents a downward direction, which can signify coming to a stop or settling down, much like resting.
+        
+                concept: ↓
+----------
+rested	↓, ↑, ←, →	 'rested' implies a state of being still or inactive. The ↓ symbol, often representing a downward direction or decrease, can signify coming to a stop or settling down, much like resting.
+        
+                concept: ↓
+----------
+rested	↓, ↑, →, ←	 'rested' implies a state of being still or inactive. The ↓ symbol, often representing a downward direction or decrease, can signify coming to a stop or settling down, which aligns with the idea of resting.
+        
+                concept: ↓
+----------
+rested	↓, ←, ↑, →	 'rested' implies a state of being still or inactive. The ↓ symbol, often representing a downward direction or decrease, can signify coming to a stop or settling down, which aligns with resting.
+        
+                concept: ↓
+----------
+rested	↓, ←, →, ↑	 'rested' implies a state of being still or inactive. The ↓ symbol, often representing a downward direction or decrease, can signify coming to a stop or settling down, much like resting.
+        
+                concept: ↓
+----------
+rested	↓, →, ↑, ←	 'rested' implies a state of being still or inactive. The ↓ symbol, often representing a downward direction or decrease, can signify a reduction in activity or coming to a halt, much like resting.
+        
+                concept: ↓
+----------
+rested	↓, →, ←, ↑	 'rested' implies a state of being still or inactive. The ↓ symbol, often representing a downward direction or decrease, can signify coming to a stop or settling down, which aligns with the idea of resting.
+        
+                concept: ↓
+----------
+rested	←, ↑, ↓, →	 'rested' implies a state of being still or stationary. The concept '←' represents a direction to the left, which doesn't inherently convey rest. However, if we consider the absence of movement, '←' could symbolize a return to a previous state, implying a pause or rest from forward motion.
+        
+                concept: '←'
+----------
+rested	←, ↑, →, ↓	 The concept '↓' represents a downward direction, which can symbolize something coming to rest or settling down, much like how resting involves a state of being still or calm.
+        
+                concept: '↓'
+----------
+rested	←, ↓, ↑, →	 'rested' implies a state of being still or stationary. The ↓ symbol represents a downward direction, which can signify coming to a stop or settling into a resting position.
+        
+                concept: ↓
+----------
+rested	←, ↓, →, ↑	 'rested' implies a state of being still or stationary. The ↓ symbol represents a downward direction, which can signify coming to a stop or settling down, much like resting.
+        
+                concept: ↓
+----------
+rested	←, →, ↑, ↓	 'rested' implies a state of being still or stationary. The arrow pointing to the left (←) can symbolize moving back or reversing, which doesn't directly relate to resting. However, if we consider the absence of movement, perhaps the left arrow could imply a return to a resting state after moving forward.
+        
+                concept: ←
+----------
+rested	←, →, ↓, ↑	 'rested' implies a state of being still or inactive. The ↓ symbol, often representing a downward direction, can signify settling or coming to rest, much like an object falling until it stops.
+        
+                concept: ↓
+----------
+rested	→, ↑, ↓, ←	 'rested' implies a state of inactivity or stillness, often associated with being stationary or at rest. The concept '↓' could represent a downward motion, which might symbolize coming to a stop or settling down, much like resting.
+        
+                concept: '↓'
+----------
+rested	→, ↑, ←, ↓	 'rested' implies a state of being still or stationary. The arrow pointing downward (↓) can symbolize coming to a stop or settling down, much like resting.
+        
+                concept: ↓
+----------
+rested	→, ↓, ↑, ←	 'rested' implies a state of being still or inactive. The ↓ symbol, often representing a downward direction or decrease, can signify a reduction in activity or coming to a rest.
+        
+                concept: ↓
+----------
+rested	→, ↓, ←, ↑	 'rested' implies a state of being still or inactive. The ↓ symbol, often representing a downward direction or a decrease, can symbolize coming to rest or settling down.
+        
+                concept: ↓
+----------
+rested	→, ←, ↑, ↓	 The concept '↓' represents a downward direction, which can symbolize something coming to rest or settling down, much like how resting involves a state of being still or calm.
+        
+                concept: '↓'
+----------
+rested	→, ←, ↓, ↑	 'rested' implies a state of being still or inactive. The ↓ symbol, often representing a downward direction, can signify settling or coming to rest, much like an object falling until it stops.
+        
+                concept: ↓
+----------
+tempted	↑, ↓, ←, →	 Temptation often involves being drawn towards something desirable, which can be represented by a directional arrow pointing towards the object of desire.
+        
+                concept: →
+----------
+tempted	↑, ↓, →, ←	 The concept '↑' represents an upward direction, which can symbolize rising desires or being drawn towards something appealing, much like being tempted.
+        
+                concept: '↑'
+----------
+tempted	↑, ←, ↓, →	 Temptation often involves being drawn or pulled towards something. The right arrow (→) can represent being led or directed towards a tempting option.
+        
+                concept: →
+----------
+tempted	↑, ←, →, ↓	 Temptation often involves being drawn or pulled towards something. The right arrow (→) suggests movement towards an object of desire or influence.
+        
+                concept: →
+----------
+tempted	↑, →, ↓, ←	 'tempted' implies being drawn towards something, often in a specific direction. The right arrow (→) suggests movement towards the right, symbolizing being lured or attracted in that direction.
+        
+                concept: →
+----------
+tempted	↑, →, ←, ↓	 'tempted' often involves being drawn towards something, which can be represented by a directional arrow indicating movement towards the source of temptation.
+        
+                concept: →
+----------
+tempted	↓, ↑, ←, →	 Temptation often involves a pull or attraction towards something, which can be metaphorically represented by a directional arrow indicating movement towards the tempting object or idea.
+        
+                concept: →
+----------
+tempted	↓, ↑, →, ←	 The concept '→' represents moving towards something, which can symbolize being drawn or tempted towards an object or action.
+        
+                concept: '→'
+----------
+tempted	↓, ←, ↑, →	 Temptation often involves being drawn or pulled towards something. The right arrow (→) suggests movement towards or being directed towards an object of desire, indicating temptation.
+        
+                concept: →
+----------
+tempted	↓, ←, →, ↑	 'tempted' often involves being drawn or pulled towards something. The '→' symbol represents a direction or movement towards something, indicating being led or tempted in that direction.
+        
+                concept: '→'
+----------
+tempted	↓, →, ↑, ←	 'tempted' often involves being drawn towards something desirable or alluring. The right arrow (→) can represent moving towards or being directed towards something tempting.
+        
+                concept: →
+----------
+tempted	↓, →, ←, ↑	 'tempted' often involves being drawn towards something. The right arrow (→) can represent moving towards or being directed towards something, symbolizing the pull or attraction associated with temptation.
+        
+                concept: →
+----------
+tempted	←, ↑, ↓, →	 'tempted' often involves being drawn towards something desirable or alluring. The right arrow (→) can symbolize moving towards or being directed towards something, which aligns with the idea of being tempted by an attractive option.
+        
+                concept: →
+----------
+tempted	←, ↑, →, ↓	 The concept '←' represents a direction to the left, which can symbolize a deviation from the straight path or a distraction, much like being tempted leads one away from their intended course.
+        
+                concept: ←
+----------
+tempted	←, ↓, ↑, →	 'tempted' often involves being drawn towards something desirable or alluring. The right arrow (→) can symbolize moving towards or being directed towards something, which aligns with the idea of being tempted by an attractive option.
+        
+                concept: →
+----------
+tempted	←, ↓, →, ↑	 'tempted' often involves being drawn or pulled towards something. The arrow pointing to the right (→) suggests movement towards an object of desire or temptation.
+        
+                concept: '→'
+----------
+tempted	←, →, ↑, ↓	 Temptation often involves being drawn or pulled towards something. The right arrow (→) suggests movement towards an object of desire or influence.
+        
+                concept: '→'
+----------
+tempted	←, →, ↓, ↑	 'tempted' often involves being drawn towards something. The '→' symbol represents movement towards a direction, indicating being pulled or attracted to something.
+        
+                concept: '→'
+----------
+tempted	→, ↑, ↓, ←	 'tempted' implies a pull or attraction towards something. The '→' symbol represents a directional arrow pointing to the right, indicating movement or direction towards a particular object or goal, much like being drawn towards a tempting option.
+        
+                concept: '→'
+----------
+tempted	→, ↑, ←, ↓	 'tempted' implies a sense of being drawn towards something, often with a connotation of moving towards a direction that might be risky or alluring. The '→' symbol, which represents moving forward or to the right, can signify being led or tempted in a particular direction.
+        
+                concept: '→'
+----------
+tempted	→, ↓, ↑, ←	 'tempted' implies a pull or attraction towards something. The right arrow (→) suggests movement or direction towards an object or goal, symbolizing being drawn or tempted towards it.
+        
+                concept: '→'
+----------
+tempted	→, ↓, ←, ↑	 'tempted' implies a sense of being drawn or pulled towards something. The arrow pointing to the right (→) suggests movement or direction towards an object or goal, which aligns with the idea of being tempted or attracted to something.
+        
+                concept: '→'
+----------
+tempted	→, ←, ↑, ↓	 'tempted' implies a pull or attraction towards something. The '→' symbol represents a directional arrow pointing to the right, indicating movement or direction towards a particular object or goal, much like being tempted towards something.
+        
+                concept: '→'
+----------
+tempted	→, ←, ↓, ↑	 'tempted' implies being drawn towards something, often in a specific direction. The '→' symbol represents movement or direction towards the right, which can symbolize being lured or pulled in a particular direction by a temptation.
+        
+                concept: '→'
+----------
+wanted	↑, ↓, ←, →	 'wanted' can be associated with moving towards something desirable. The right arrow (→) symbolizes moving forward or in a positive direction, which aligns with the idea of wanting or seeking something.
+        
+                concept: →
+----------
+wanted	↑, ↓, →, ←	 The '↑' symbol represents an upward direction, which can symbolize growth, improvement, or something being desired and moving towards a higher state. It can be seen as wanting something to increase or ascend.
+        
+                concept: '↑'
+----------
+wanted	↑, ←, ↓, →	 The '→' symbol represents directionality, indicating movement towards a desired goal or target, which aligns with the idea of wanting something.
+        
+                concept: '→'
+----------
+wanted	↑, ←, →, ↓	 The '→' symbol represents directionality, indicating movement towards a desired goal or target, which aligns with the idea of wanting something.
+        
+                concept: '→'
+----------
+wanted	↑, →, ↓, ←	 The '↑' symbol represents an upward direction, which is often associated with positive movement, growth, or desire. When someone 'wants' something, it can be seen as striving upwards towards a goal or aspiration.
+        
+                concept: '↑'
+----------
+wanted	↑, →, ←, ↓	 The '↑' symbol represents an upward direction, which can signify growth, increase, or a positive movement. When something is 'wanted,' it often implies a desire for more or an upward trajectory in interest or demand.
+        
+                concept: '↑'
+----------
+wanted	↓, ↑, ←, →	 ↑ can represent wanting something because it symbolizes moving upward, which is often associated with positive progression or striving for something higher.
+        
+                concept: ↑
+----------
+wanted	↓, ↑, →, ←	 ↑ can represent wanting something because it symbolizes moving upward, which is often associated with positive progression or striving for something higher.
+        
+                concept: ↑
+----------
+wanted	↓, ←, ↑, →	 The '↑' symbol represents an upward direction, which can symbolize growth, improvement, or something being desired and moving towards a higher state. It can be seen as wanting something to increase or ascend.
+        
+                concept: '↑'
+----------
+wanted	↓, ←, →, ↑	 The '↑' symbol represents upward movement, which can symbolize growth, improvement, or something being desired and moving towards a higher state. It can be seen as wanting something to increase or rise.
+        
+                concept: '↑'
+----------
+wanted	↓, →, ↑, ←	 The '↑' symbol represents an upward direction, which can symbolize growth, improvement, or something being desired and moving towards a higher state. It can be seen as wanting something to increase or ascend.
+        
+                concept: '↑'
+----------
+wanted	↓, →, ←, ↑	 The '↑' symbol represents an upward direction, which can symbolize growth, improvement, or something being desired and moving towards a higher state. It can be seen as wanting something to increase or ascend.
+        
+                concept: '↑'
+----------
+wanted	←, ↑, ↓, →	 'wanted' can be associated with moving towards something desirable. The right arrow (→) symbolizes moving forward or progressing towards a goal, which aligns with the idea of wanting something.
+        
+                concept: →
+----------
+wanted	←, ↑, →, ↓	 The concept '→' represents moving forward or progressing towards something, which aligns with the idea of wanting or striving for something.
+        
+                concept: '→'
+----------
+wanted	←, ↓, ↑, →	 'wanted' implies a desire or longing, which can be associated with moving towards something. The right arrow (→) symbolizes moving forward or approaching, which aligns with the idea of seeking or wanting something.
+        
+                concept: →
+----------
+wanted	←, ↓, →, ↑	 The concept '→' represents moving forward or progressing towards something, which aligns with the idea of wanting or striving for something.
+        
+                concept: '→'
+----------
+wanted	←, →, ↑, ↓	 The concept '→' represents directionality, indicating movement towards something desired or wanted. It symbolizes aiming or focusing towards a target, much like wanting something specific.
+        
+                concept: '→'
+----------
+wanted	←, →, ↓, ↑	 'wanted' can be associated with moving towards something desirable. The '→' symbol represents moving forward or progressing towards a goal, which aligns with the idea of wanting something.
+        
+                concept: '→'
+----------
+wanted	→, ↑, ↓, ←	 The '↑' symbol represents an upward direction, which can signify growth, increase, or a positive movement. When someone 'wants' something, it often implies a desire for improvement or progression, much like moving upwards.
+        
+                concept: '↑'
+----------
+wanted	→, ↑, ←, ↓	 The '↑' symbol represents an upward direction, which is often associated with positive movement, growth, or desire. When someone 'wants' something, it can be seen as striving upwards towards a goal or aspiration.
+        
+                concept: '↑'
+----------
+wanted	→, ↓, ↑, ←	 The '↑' symbol represents an upward direction, which can symbolize growth, improvement, or something desirable. When someone 'wants' something, it often implies a desire for positive change or progression, much like moving upwards.
+        
+                concept: '↑'
+----------
+wanted	→, ↓, ←, ↑	 'wanted' implies a desire or longing, which can be represented by movement towards something. The '→' symbol signifies direction towards, indicating a yearning or pursuit.
+        
+                concept: '→'
+----------
+wanted	→, ←, ↑, ↓	 The '→' symbol represents directionality, indicating movement towards something. When someone 'wants' something, it often implies a desire to move towards or attain it.
+        
+                concept: '→'
+----------
+wanted	→, ←, ↓, ↑	 'wanted' implies a desire or longing, which can be represented by movement towards something. The '→' symbol signifies direction towards, indicating a yearning or pursuit.
+        
+                concept: '→'
+----------
+hoped	↑, ↓, ←, →	 Hoping is often associated with looking forward or aspiring towards something positive in the future. The upward arrow (↑) symbolizes ascending or moving upwards, which can represent the optimistic and aspirational nature of hope.
+        
+                concept: '↑'
+----------
+hoped	↑, ↓, →, ←	 Hoping is often associated with looking forward or aspiring towards something positive in the future. The upward arrow (↑) symbolizes ascending or moving upwards, which can represent the optimistic and aspirational nature of hope.
+        
+                concept: '↑'
+----------
+hoped	↑, ←, ↓, →	 Hoping is often associated with looking forward or aspiring towards something positive in the future. The upward arrow (↑) symbolizes ascension, growth, and optimism, which aligns with the idea of hoping for something better or higher.
+        
+                concept: '↑'
+----------
+hoped	↑, ←, →, ↓	 Hoping is often associated with looking forward or aspiring towards something positive in the future. The upward arrow (↑) symbolizes ascending or moving upwards, which can represent the optimistic and aspirational nature of hope.
+        
+                concept: '↑'
+----------
+hoped	↑, →, ↓, ←	 Hoping is often associated with looking forward or aspiring towards something positive in the future. The upward arrow (↑) symbolizes ascending or moving upwards, which can represent the optimistic and aspirational nature of hope.
+        
+                concept: '↑'
+----------
+hoped	↑, →, ←, ↓	 Hoping is often associated with looking forward or upward, symbolizing optimism and positive expectations for the future.
+        
+                concept: '↑'
+----------
+hoped	↓, ↑, ←, →	 Hoping is often associated with looking forward or upward, symbolizing optimism and positive expectations for the future.
+        
+                concept: ↑
+----------
+hoped	↓, ↑, →, ←	 Hoping is often associated with looking forward or upward, symbolizing optimism and positive expectations for the future.
+        
+                concept: ↑
+----------
+hoped	↓, ←, ↑, →	 Hoping is often associated with looking forward or aspiring towards something positive in the future. The upward arrow (↑) symbolizes ascending or moving upwards, which can represent the optimistic and aspirational nature of hope.
+        
+                concept: ↑
+----------
+hoped	↓, ←, →, ↑	 Hoping is often associated with looking forward or aspiring towards something positive in the future. The upward arrow (↑) symbolizes ascending or moving upwards, which can represent the optimistic and aspirational nature of hope.
+        
+                concept: ↑
+----------
+hoped	↓, →, ↑, ←	 Hoping is often associated with looking forward to something positive in the future. The upward arrow (↑) symbolizes ascending or moving upwards, which can represent aspirations and positive expectations.
+        
+                concept: ↑
+----------
+hoped	↓, →, ←, ↑	 Hoping is often associated with looking forward to something positive in the future. The upward arrow (↑) symbolizes looking up and moving towards higher or better things, which aligns with the idea of hope.
+        
+                concept: ↑
+----------
+hoped	←, ↑, ↓, →	 Hoping is often associated with looking forward or aspiring towards something. The upward arrow (↑) symbolizes moving upwards, which can represent striving for higher goals or positive aspirations.
+        
+                concept: ↑
+----------
+hoped	←, ↑, →, ↓	 Hoping is often associated with looking forward or upward, symbolizing optimism and positive expectations for the future.
+        
+                concept: ↑
+----------
+hoped	←, ↓, ↑, →	 Hoping is often associated with looking forward to something positive in the future. The upward arrow (↑) symbolizes looking up or aiming higher, which aligns with the optimistic nature of hope.
+        
+                concept: ↑
+----------
+hoped	←, ↓, →, ↑	 Hoping is often associated with looking forward to something positive in the future. The upward arrow (↑) symbolizes looking up and moving towards higher or better things, which aligns with the idea of hope.
+        
+                concept: ↑
+----------
+hoped	←, →, ↑, ↓	 Hoping is often associated with looking forward to something positive in the future. The upward arrow (↑) symbolizes looking up and moving towards higher or better things, which aligns with the idea of hope.
+        
+                concept: ↑
+----------
+hoped	←, →, ↓, ↑	 Hoping is often associated with looking forward to something positive in the future. The upward arrow (↑) symbolizes looking up or moving towards higher or better things, which aligns with the idea of hope.
+        
+                concept: ↑
+----------
+hoped	→, ↑, ↓, ←	 Hoping is often associated with looking forward or aspiring towards something positive. The upward arrow (↑) symbolizes moving upwards, which can represent growth, improvement, or a positive outlook, aligning with the idea of hoping for something better.
+        
+                concept: ↑
+----------
+hoped	→, ↑, ←, ↓	 Hoping is often associated with looking forward or aspiring towards something positive in the future. The upward arrow (↑) symbolizes ascension, growth, and optimism, which aligns with the idea of hoping for something better or higher.
+        
+                concept: ↑
+----------
+hoped	→, ↓, ↑, ←	 Hoping is often associated with looking forward to something positive in the future. The upward arrow (↑) symbolizes aspiration and rising towards a higher goal, which aligns with the idea of hoping for something better or more.
+        
+                concept: ↑
+----------
+hoped	→, ↓, ←, ↑	 Hoping is often associated with looking forward to something positive in the future. The upward arrow (↑) symbolizes aspiration and looking upwards towards higher or better things.
+        
+                concept: ↑
+----------
+hoped	→, ←, ↑, ↓	 Hoping is often associated with looking forward to something positive in the future. The upward arrow (↑) symbolizes aspiration and looking upwards towards higher or better things.
+        
+                concept: ↑
+----------
+hoped	→, ←, ↓, ↑	 Hoping is often associated with looking forward to something positive in the future. The upward arrow (↑) symbolizes aspiration and looking upwards towards a higher or better state.
+        
+                concept: ↑
+----------
+increased	↑, ↓, ←, →	 The '↑' symbol represents an upward direction, which is commonly associated with growth, improvement, or an increase in value or quantity. When something increases, it moves upward, much like how a graph might show an upward trend to indicate growth.
+        
+                concept: '↑'
+----------
+increased	↑, ↓, →, ←	 The '↑' symbol represents an upward direction, which is commonly associated with growth, improvement, or an increase in value or quantity. When something increases, it moves upward, much like how a graph might show an upward trend to indicate growth.
+        
+                concept: '↑'
+----------
+increased	↑, ←, ↓, →	 'increased' implies a movement upwards or a rise in value. The '↑' symbol represents an upward direction, which aligns with the idea of something going up or increasing.
+        
+                concept: '↑'
+----------
+increased	↑, ←, →, ↓	 The '↑' symbol represents an upward direction, which is commonly associated with growth, improvement, or an increase in value or quantity. When something increases, it moves upward, much like how a graph might show an upward trend to indicate growth.
+        
+                concept: '↑'
+----------
+increased	↑, →, ↓, ←	 The '↑' symbol represents an upward direction, which is commonly associated with growth, improvement, or an increase in value or quantity. When something increases, it moves upward, much like how a graph might show an upward trend to indicate growth.
+        
+                concept: '↑'
+----------
+increased	↑, →, ←, ↓	 The '↑' symbol represents an upward direction, which is commonly associated with growth, improvement, or an increase in value or quantity. When something increases, it moves upward, much like how a graph might show an upward trend to indicate growth.
+        
+                concept: '↑'
+----------
+increased	↓, ↑, ←, →	 An increase can be thought of as moving upward, similar to how a graph might show an upward trend when something increases.
+        
+                concept: ↑
+----------
+increased	↓, ↑, →, ←	 An increase can be represented by an upward movement, as it signifies growth or rising levels.
+        
+                concept: ↑
+----------
+increased	↓, ←, ↑, →	 'increased' implies movement upward or growth. The '↑' symbol represents an upward direction, which is commonly associated with rising values or growth.
+        
+                concept: '↑'
+----------
+increased	↓, ←, →, ↑	 'increased' implies movement upwards or a rise in value. The '↑' symbol represents an upward direction, which aligns with the idea of something going up or increasing.
+        
+                concept: '↑'
+----------
+increased	↓, →, ↑, ←	 'increased' implies movement upward, growth, or rising. The ↑ symbol represents an upward direction, which aligns with the idea of something going up or increasing.
+        
+                concept: ↑
+----------
+increased	↓, →, ←, ↑	 'increased' implies movement upward or growth. The '↑' symbol represents an upward direction, which is commonly associated with rising values or growth.
+        
+                concept: '↑'
+----------
+increased	←, ↑, ↓, →	 'increased' implies movement upwards, growth, or elevation. The ↑ symbol represents an upward direction, which aligns with the idea of something going up or rising.
+        
+                concept: ↑
+----------
+increased	←, ↑, →, ↓	 The ↑ symbol represents an upward direction, which is commonly associated with growth, improvement, or an increase in value or quantity.
+        
+                concept: ↑
+----------
+increased	←, ↓, ↑, →	 'increased' implies movement upwards or growth. The ↑ symbol represents an upward direction, which is commonly associated with rising values or growth.
+        
+                concept: ↑
+----------
+increased	←, ↓, →, ↑	 'increased' implies movement upwards or growth. The ↑ symbol represents an upward direction, which is commonly associated with rising values or improvement.
+        
+                concept: ↑
+----------
+increased	←, →, ↑, ↓	 'increased' implies movement in a positive or upward direction, often associated with growth or improvement.
+        
+                concept: '↑'
+----------
+increased	←, →, ↓, ↑	 'increased' implies movement upwards or growth. The '↑' symbol represents an upward direction, which is commonly associated with rising values or growth.
+        
+                concept: '↑'
+----------
+increased	→, ↑, ↓, ←	 An increase can be represented by an upward direction, symbolizing growth or rising values.
+        
+                concept: '↑'
+----------
+increased	→, ↑, ←, ↓	 An increase can be represented by an upward movement or trend, similar to how the '↑' symbol indicates going up or rising.
+        
+                concept: '↑'
+----------
+increased	→, ↓, ↑, ←	 An increase can be represented by an upward movement or trend. The '↑' symbol signifies going higher or moving upwards, which aligns with the idea of something growing or rising.
+        
+                concept: '↑'
+----------
+increased	→, ↓, ←, ↑	 An increase can be thought of as moving upward, similar to how the '↑' symbol points upwards, indicating growth or rise.
+        
+                concept: '↑'
+----------
+increased	→, ←, ↑, ↓	 An increase can be thought of as moving upward, which is often associated with growth or rising values.
+        
+                concept: ↑
+----------
+increased	→, ←, ↓, ↑	 An increase can be thought of as moving upward, similar to how an arrow pointing upwards (↑) signifies growth or ascension.
+        
+                concept: ↑
+----------
+obeyed	↑, ↓, ←, →	 'obeyed' implies following a direction or instruction. The right arrow (→) symbolizes moving in the correct or intended direction, which aligns with the idea of compliance or following orders.
+        
+                concept: '→'
+----------
+obeyed	↑, ↓, →, ←	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a specific direction, which aligns with the idea of following through on a command or instruction.
+        
+                concept: '→'
+----------
+obeyed	↑, ←, ↓, →	 'obeyed' implies following a direction or instruction. The right arrow (→) symbolizes moving in the correct or intended direction, signifying compliance or adherence to a command.
+        
+                concept: →
+----------
+obeyed	↑, ←, →, ↓	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a specific direction, which aligns with the idea of complying with a command or guidance.
+        
+                concept: '→'
+----------
+obeyed	↑, →, ↓, ←	 'obeyed' implies following a direction or instruction. The right arrow (→) symbolizes moving in the correct or intended direction, which aligns with the idea of compliance or following orders.
+        
+                concept: →
+----------
+obeyed	↑, →, ←, ↓	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward in a specific direction, which aligns with the idea of following through on a command or guidance.
+        
+                concept: '→'
+----------
+obeyed	↓, ↑, ←, →	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving in a specific direction, indicating compliance with a given command or guidance.
+        
+                concept: '→'
+----------
+obeyed	↓, ↑, →, ←	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving in a specific direction, indicating compliance with a given command or guidance.
+        
+                concept: '→'
+----------
+obeyed	↓, ←, ↑, →	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a direction, which aligns with the idea of complying with a command or guidance.
+        
+                concept: '→'
+----------
+obeyed	↓, ←, →, ↑	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a direction, which aligns with the idea of complying with a command or guidance.
+        
+                concept: '→'
+----------
+obeyed	↓, →, ↑, ←	 'obeyed' implies following a direction or instruction. The right arrow (→) symbolizes moving in the correct or intended direction, which aligns with the idea of compliance or following orders.
+        
+                concept: →
+----------
+obeyed	↓, →, ←, ↑	 'obeyed' implies following a direction or instruction. The right arrow (→) symbolizes moving in the correct or intended direction as instructed.
+        
+                concept: →
+----------
+obeyed	←, ↑, ↓, →	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving in a specific direction, signifying compliance with a given command or guidance.
+        
+                concept: '→'
+----------
+obeyed	←, ↑, →, ↓	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a specific direction, which aligns with the idea of complying with a command or guidance.
+        
+                concept: '→'
+----------
+obeyed	←, ↓, ↑, →	 'obeyed' implies following a direction or instruction. The right arrow (→) symbolizes moving in the correct or intended direction as instructed.
+        
+                concept: →
+----------
+obeyed	←, ↓, →, ↑	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a direction, which aligns with the idea of complying with a command or guidance.
+        
+                concept: '→'
+----------
+obeyed	←, →, ↑, ↓	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a specific direction, which aligns with the idea of following through on a command or instruction.
+        
+                concept: '→'
+----------
+obeyed	←, →, ↓, ↑	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a direction, which aligns with the idea of complying with a command or guidance.
+        
+                concept: '→'
+----------
+obeyed	→, ↑, ↓, ←	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a specific direction, which aligns with the idea of following through on a command or instruction.
+        
+                concept: '→'
+----------
+obeyed	→, ↑, ←, ↓	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a specific direction, which aligns with the idea of following through on a command or instruction.
+        
+                concept: '→'
+----------
+obeyed	→, ↓, ↑, ←	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a specific direction, which aligns with the idea of following through on a command or instruction.
+        
+                concept: '→'
+----------
+obeyed	→, ↓, ←, ↑	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a specific direction, which aligns with the idea of following through on a command or instruction.
+        
+                concept: '→'
+----------
+obeyed	→, ←, ↑, ↓	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a specific direction, which aligns with the idea of following through on a command or instruction.
+        
+                concept: '→'
+----------
+obeyed	→, ←, ↓, ↑	 'obeyed' implies following a direction or instruction. The '→' symbol represents moving forward or proceeding in a specific direction, which aligns with the idea of following through on a command or instruction.
+        
+                concept: '→'
+----------
+respected	↑, ↓, ←, →	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: '↑'
+----------
+respected	↑, ↓, →, ←	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: '↑'
+----------
+respected	↑, ←, ↓, →	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: '↑'
+----------
+respected	↑, ←, →, ↓	 Respect can be associated with looking up to someone or something, symbolizing admiration or esteem. The upward arrow '↑' represents this upward gaze or elevation in status.
+        
+                concept: '↑'
+----------
+respected	↑, →, ↓, ←	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: '↑'
+----------
+respected	↑, →, ←, ↓	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: '↑'
+----------
+respected	↓, ↑, ←, →	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	↓, ↑, →, ←	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	↓, ←, ↑, →	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	↓, ←, →, ↑	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	↓, →, ↑, ←	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	↓, →, ←, ↑	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	←, ↑, ↓, →	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	←, ↑, →, ↓	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	←, ↓, ↑, →	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	←, ↓, →, ↑	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	←, →, ↑, ↓	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	←, →, ↓, ↑	 Respect can be associated with moving forward or upward, symbolizing growth and positive progression. The '↑' arrow represents ascending or rising, which aligns with the idea of earning respect and moving upwards in social or personal standings.
+        
+                concept: '↑'
+----------
+respected	→, ↑, ↓, ←	 Respect can be seen as moving upwards, symbolizing growth, admiration, and positive regard. The upward arrow (↑) represents this ascent and elevation in stature or esteem.
+        
+                concept: ↑
+----------
+respected	→, ↑, ←, ↓	 Respect can be associated with looking up to someone or something, which is often symbolized by an upward direction.
+        
+                concept: ↑
+----------
+respected	→, ↓, ↑, ←	 Respect can be seen as a positive upward movement, symbolizing growth, admiration, and looking up to someone or something.
+        
+                concept: ↑
+----------
+respected	→, ↓, ←, ↑	 Respect can be seen as a positive upward movement, symbolizing growth, admiration, and looking up to someone or something.
+        
+                concept: ↑
+----------
+respected	→, ←, ↑, ↓	 Respect can be seen as a positive upward movement, symbolizing growth, admiration, and looking up to someone or something.
+        
+                concept: ↑
+----------
+respected	→, ←, ↓, ↑	 Respect can be seen as a positive upward movement, symbolizing growth, admiration, and looking up to someone or something.
+        
+                concept: ↑
+----------
+succeeded	↑, ↓, ←, →	 'succeeded' implies moving upward or achieving a higher status. The '↑' symbol represents upward movement, which aligns with the idea of rising to success.
+        
+                concept: '↑'
+----------
+succeeded	↑, ↓, →, ←	 'succeeded' implies moving upward or achieving a higher status. The '↑' symbol represents an upward direction, which can signify growth, progress, or rising above previous levels, aligning with the idea of success.
+        
+                concept: '↑'
+----------
+succeeded	↑, ←, ↓, →	 'succeeded' implies moving forward or progressing. The right arrow (→) symbolizes moving in a positive direction, indicating success or achievement.
+        
+                concept: →
+----------
+succeeded	↑, ←, →, ↓	 'succeeded' often implies moving forward or progressing. The right arrow (→) symbolizes moving in a positive direction, indicating success or achievement.
+        
+                concept: →
+----------
+succeeded	↑, →, ↓, ←	 'succeeded' implies moving upward or achieving a higher status. The '↑' symbol represents an upward direction, which can signify growth, progress, or rising above previous levels, aligning with the idea of success.
+        
+                concept: '↑'
+----------
+succeeded	↑, →, ←, ↓	 'succeeded' implies moving forward or progressing. The right arrow (→) symbolizes moving in a positive direction, indicating success or achievement.
+        
+                concept: →
+----------
+succeeded	↓, ↑, ←, →	 'succeeded' often implies moving upward or achieving a higher status. The '↑' symbol represents an upward direction, which can signify growth, progress, or rising above previous levels, aligning with the idea of success.
+        
+                concept: '↑'
+----------
+succeeded	↓, ↑, →, ←	 'succeeded' implies moving upward or rising to a higher level, similar to how the '↑' symbol represents an upward direction or increase.
+        
+                concept: ↑
+----------
+succeeded	↓, ←, ↑, →	 'succeeded' implies moving forward or progressing. The '→' symbol represents moving to the right, which is often associated with forward movement or progression.
+        
+                concept: '→'
+----------
+succeeded	↓, ←, →, ↑	 'succeeded' implies moving forward or progressing. The right arrow (→) symbolizes moving in a positive direction, indicating success or achievement.
+        
+                concept: →
+----------
+succeeded	↓, →, ↑, ←	 'succeeded' implies moving forward or progressing. The right arrow (→) symbolizes moving in a positive direction, indicating success or achievement.
+        
+                concept: →
+----------
+succeeded	↓, →, ←, ↑	 'succeeded' implies moving forward or progressing. The right arrow (→) symbolizes moving in a positive direction, indicating success or advancement.
+        
+                concept: →
+----------
+succeeded	←, ↑, ↓, →	 'succeeded' implies moving forward or progressing. The right arrow (→) symbolizes moving in a positive direction, indicating success or achievement.
+        
+                concept: '→'
+----------
+succeeded	←, ↑, →, ↓	 'succeeded' implies moving forward or achieving progress. The '→' symbol represents moving forward or proceeding in a positive direction.
+        
+                concept: '→'
+----------
+succeeded	←, ↓, ↑, →	 'succeeded' implies moving forward or achieving progress. The right arrow (→) symbolizes moving forward or advancing, which aligns with the idea of success.
+        
+                concept: →
+----------
+succeeded	←, ↓, →, ↑	 'succeeded' implies moving forward or progressing. The '→' symbol represents moving to the right, which is often associated with forward movement or progression.
+        
+                concept: '→'
+----------
+succeeded	←, →, ↑, ↓	 'succeeded' implies moving forward or progressing. The '→' symbol represents moving to the right, which is often associated with forward movement or progression.
+        
+                concept: '→'
+----------
+succeeded	←, →, ↓, ↑	 'succeeded' implies moving forward or progressing. The '→' symbol represents moving to the right, which is often associated with forward movement or progression.
+        
+                concept: '→'
+----------
+succeeded	→, ↑, ↓, ←	 'succeeded' implies moving forward or progressing. The '→' symbol represents directionality, indicating movement in a positive or forward direction, which aligns with the idea of achieving success.
+        
+                concept: '→'
+----------
+succeeded	→, ↑, ←, ↓	 'succeeded' implies moving forward or progressing. The '→' symbol represents directionality, indicating movement in a positive or forward direction, which aligns with the idea of achieving success.
+        
+                concept: '→'
+----------
+succeeded	→, ↓, ↑, ←	 'succeeded' implies moving forward or progressing. The '→' symbol represents directionality towards a goal or positive outcome.
+        
+                concept: '→'
+----------
+succeeded	→, ↓, ←, ↑	 'succeeded' implies moving forward or progressing towards a goal. The '→' symbol represents directionality and forward movement, which aligns with the idea of achieving success.
+        
+                concept: '→'
+----------
+succeeded	→, ←, ↑, ↓	 'succeeded' implies moving forward or progressing. The '→' symbol represents moving to the right, which is often associated with forward movement or progression.
+        
+                concept: '→'
+----------
+succeeded	→, ←, ↓, ↑	 'succeeded' implies moving forward or progressing. The '→' symbol represents moving to the right, which is often associated with forward movement or progression.
+        
+                concept: '→'
+----------

@@ -1,0 +1,1440 @@
+fled	↑, ↓, ←, →	oncept:  ←
+----------
+fled	↑, ↓, →, ←	oncept:  →
+----------
+fled	↑, ←, ↓, →	oncept:  →
+----------
+fled	↑, ←, →, ↓	oncept:  →
+----------
+fled	↑, →, ↓, ←	oncept:  ↓
+----------
+fled	↑, →, ←, ↓	oncept:  ←
+----------
+fled	↓, ↑, ←, →	oncept:  ←
+----------
+fled	↓, ↑, →, ←	oncept:  →
+----------
+fled	↓, ←, ↑, →	oncept:  ←
+----------
+fled	↓, ←, →, ↑	oncept:  ←
+----------
+fled	↓, →, ↑, ←	oncept:  ←
+----------
+fled	↓, →, ←, ↑	oncept:  ←
+----------
+fled	←, ↑, ↓, →	cept:  '←'
+----------
+fled	←, ↑, →, ↓	cept:  '←'
+----------
+fled	←, ↓, ↑, →	oncept:  ←
+----------
+fled	←, ↓, →, ↑	oncept:  →
+----------
+fled	←, →, ↑, ↓	cept:  '←'
+----------
+fled	←, →, ↓, ↑	cept:  '←'
+----------
+fled	→, ↑, ↓, ←	oncept:  ←
+----------
+fled	→, ↑, ←, ↓	oncept:  ←
+----------
+fled	→, ↓, ↑, ←	oncept:  ←
+----------
+fled	→, ↓, ←, ↑	oncept:  ←
+----------
+fled	→, ←, ↑, ↓	oncept:  ←
+----------
+fled	→, ←, ↓, ↑	oncept:  ←
+----------
+pointed at	↑, ↓, ←, →	oncept:  →
+----------
+pointed at	↑, ↓, →, ←	oncept:  →
+----------
+pointed at	↑, ←, ↓, →	oncept:  →
+----------
+pointed at	↑, ←, →, ↓	oncept:  →
+----------
+pointed at	↑, →, ↓, ←	oncept:  →
+----------
+pointed at	↑, →, ←, ↓	oncept:  →
+----------
+pointed at	↓, ↑, ←, →	oncept:  →
+----------
+pointed at	↓, ↑, →, ←	oncept:  →
+----------
+pointed at	↓, ←, ↑, →	oncept:  →
+----------
+pointed at	↓, ←, →, ↑	oncept:  →
+----------
+pointed at	↓, →, ↑, ←	oncept:  →
+----------
+pointed at	↓, →, ←, ↑	oncept:  →
+----------
+pointed at	←, ↑, ↓, →	oncept:  ↑
+----------
+pointed at	←, ↑, →, ↓	oncept:  ↑
+----------
+pointed at	←, ↓, ↑, →	oncept:  →
+----------
+pointed at	←, ↓, →, ↑	oncept:  →
+----------
+pointed at	←, →, ↑, ↓	oncept:  →
+----------
+pointed at	←, →, ↓, ↑	oncept:  →
+----------
+pointed at	→, ↑, ↓, ←	cept:  '→'
+----------
+pointed at	→, ↑, ←, ↓	cept:  '→'
+----------
+pointed at	→, ↓, ↑, ←	cept:  '→'
+----------
+pointed at	→, ↓, ←, ↑	cept:  '→'
+----------
+pointed at	→, ←, ↑, ↓	cept:  '→'
+----------
+pointed at	→, ←, ↓, ↑	cept:  '→'
+----------
+pulled	↑, ↓, ←, →	oncept:  ↓
+----------
+pulled	↑, ↓, →, ←	oncept:  ↓
+----------
+pulled	↑, ←, ↓, →	oncept:  ←
+----------
+pulled	↑, ←, →, ↓	oncept:  ←
+----------
+pulled	↑, →, ↓, ←	cept:  '←'
+----------
+pulled	↑, →, ←, ↓	oncept:  ←
+----------
+pulled	↓, ↑, ←, →	cept:  '↓'
+----------
+pulled	↓, ↑, →, ←	cept:  '↓'
+----------
+pulled	↓, ←, ↑, →	oncept:  ←
+----------
+pulled	↓, ←, →, ↑	oncept:  ←
+----------
+pulled	↓, →, ↑, ←	cept:  '↓'
+----------
+pulled	↓, →, ←, ↑	cept:  '↓'
+----------
+pulled	←, ↑, ↓, →	cept:  '←'
+----------
+pulled	←, ↑, →, ↓	oncept:  ←
+----------
+pulled	←, ↓, ↑, →	oncept:  ←
+----------
+pulled	←, ↓, →, ↑	oncept:  ←
+----------
+pulled	←, →, ↑, ↓	cept:  '←'
+----------
+pulled	←, →, ↓, ↑	cept:  '←'
+----------
+pulled	→, ↑, ↓, ←	cept:  '←'
+----------
+pulled	→, ↑, ←, ↓	oncept:  ←
+----------
+pulled	→, ↓, ↑, ←	oncept:  ←
+----------
+pulled	→, ↓, ←, ↑	oncept:  ←
+----------
+pulled	→, ←, ↑, ↓	oncept:  ←
+----------
+pulled	→, ←, ↓, ↑	oncept:  ←
+----------
+pushed	↑, ↓, ←, →	oncept:  →
+----------
+pushed	↑, ↓, →, ←	oncept:  →
+----------
+pushed	↑, ←, ↓, →	oncept:  →
+----------
+pushed	↑, ←, →, ↓	oncept:  →
+----------
+pushed	↑, →, ↓, ←	oncept:  →
+----------
+pushed	↑, →, ←, ↓	oncept:  →
+----------
+pushed	↓, ↑, ←, →	oncept:  ↑
+----------
+pushed	↓, ↑, →, ←	oncept:  →
+----------
+pushed	↓, ←, ↑, →	oncept:  →
+----------
+pushed	↓, ←, →, ↑	oncept:  →
+----------
+pushed	↓, →, ↑, ←	oncept:  →
+----------
+pushed	↓, →, ←, ↑	oncept:  →
+----------
+pushed	←, ↑, ↓, →	oncept:  →
+----------
+pushed	←, ↑, →, ↓	oncept:  →
+----------
+pushed	←, ↓, ↑, →	oncept:  →
+----------
+pushed	←, ↓, →, ↑	oncept:  →
+----------
+pushed	←, →, ↑, ↓	oncept:  →
+----------
+pushed	←, →, ↓, ↑	oncept:  →
+----------
+pushed	→, ↑, ↓, ←	cept:  '→'
+----------
+pushed	→, ↑, ←, ↓	cept:  '→'
+----------
+pushed	→, ↓, ↑, ←	oncept:  ↓
+----------
+pushed	→, ↓, ←, ↑	cept:  '→'
+----------
+pushed	→, ←, ↑, ↓	cept:  '→'
+----------
+pushed	→, ←, ↓, ↑	cept:  '→'
+----------
+walked	↑, ↓, ←, →	oncept:  →
+----------
+walked	↑, ↓, →, ←	oncept:  →
+----------
+walked	↑, ←, ↓, →	oncept:  →
+----------
+walked	↑, ←, →, ↓	oncept:  →
+----------
+walked	↑, →, ↓, ←	oncept:  →
+----------
+walked	↑, →, ←, ↓	oncept:  →
+----------
+walked	↓, ↑, ←, →	oncept:  →
+----------
+walked	↓, ↑, →, ←	oncept:  →
+----------
+walked	↓, ←, ↑, →	oncept:  →
+----------
+walked	↓, ←, →, ↑	oncept:  →
+----------
+walked	↓, →, ↑, ←	oncept:  →
+----------
+walked	↓, →, ←, ↑	oncept:  →
+----------
+walked	←, ↑, ↓, →	oncept:  →
+----------
+walked	←, ↑, →, ↓	oncept:  →
+----------
+walked	←, ↓, ↑, →	oncept:  →
+----------
+walked	←, ↓, →, ↑	oncept:  →
+----------
+walked	←, →, ↑, ↓	oncept:  →
+----------
+walked	←, →, ↓, ↑	oncept:  →
+----------
+walked	→, ↑, ↓, ←	cept:  '→'
+----------
+walked	→, ↑, ←, ↓	cept:  '→'
+----------
+walked	→, ↓, ↑, ←	cept:  '→'
+----------
+walked	→, ↓, ←, ↑	cept:  '→'
+----------
+walked	→, ←, ↑, ↓	cept:  '→'
+----------
+walked	→, ←, ↓, ↑	cept:  '→'
+----------
+hunted	↑, ↓, ←, →	oncept:  →
+----------
+hunted	↑, ↓, →, ←	oncept:  →
+----------
+hunted	↑, ←, ↓, →	oncept:  →
+----------
+hunted	↑, ←, →, ↓	oncept:  →
+----------
+hunted	↑, →, ↓, ←	oncept:  →
+----------
+hunted	↑, →, ←, ↓	oncept:  →
+----------
+hunted	↓, ↑, ←, →	oncept:  →
+----------
+hunted	↓, ↑, →, ←	oncept:  →
+----------
+hunted	↓, ←, ↑, →	oncept:  →
+----------
+hunted	↓, ←, →, ↑	oncept:  →
+----------
+hunted	↓, →, ↑, ←	oncept:  →
+----------
+hunted	↓, →, ←, ↑	oncept:  →
+----------
+hunted	←, ↑, ↓, →	oncept:  ↓
+----------
+hunted	←, ↑, →, ↓	oncept:  ↑
+----------
+hunted	←, ↓, ↑, →	oncept:  ↓
+----------
+hunted	←, ↓, →, ↑	oncept:  ↓
+----------
+hunted	←, →, ↑, ↓	oncept:  →
+----------
+hunted	←, →, ↓, ↑	oncept:  →
+----------
+hunted	→, ↑, ↓, ←	oncept:  ↓
+----------
+hunted	→, ↑, ←, ↓	cept:  '→'
+----------
+hunted	→, ↓, ↑, ←	oncept:  ↓
+----------
+hunted	→, ↓, ←, ↑	oncept:  ↓
+----------
+hunted	→, ←, ↑, ↓	oncept:  ←
+----------
+hunted	→, ←, ↓, ↑	oncept:  ←
+----------
+impacted	↑, ↓, ←, →	oncept:  ↓
+----------
+impacted	↑, ↓, →, ←	oncept:  ↓
+----------
+impacted	↑, ←, ↓, →	oncept:  ↓
+----------
+impacted	↑, ←, →, ↓	oncept:  ↓
+----------
+impacted	↑, →, ↓, ←	oncept:  ↓
+----------
+impacted	↑, →, ←, ↓	oncept:  ↓
+----------
+impacted	↓, ↑, ←, →	oncept:  ↓
+----------
+impacted	↓, ↑, →, ←	oncept:  ↓
+----------
+impacted	↓, ←, ↑, →	oncept:  ↓
+----------
+impacted	↓, ←, →, ↑	oncept:  ↓
+----------
+impacted	↓, →, ↑, ←	oncept:  ↓
+----------
+impacted	↓, →, ←, ↑	oncept:  ↓
+----------
+impacted	←, ↑, ↓, →	oncept:  ↓
+----------
+impacted	←, ↑, →, ↓	oncept:  ↓
+----------
+impacted	←, ↓, ↑, →	oncept:  ↓
+----------
+impacted	←, ↓, →, ↑	oncept:  ↓
+----------
+impacted	←, →, ↑, ↓	oncept:  →
+----------
+impacted	←, →, ↓, ↑	oncept:  ↓
+----------
+impacted	→, ↑, ↓, ←	oncept:  ↓
+----------
+impacted	→, ↑, ←, ↓	cept:  '→'
+----------
+impacted	→, ↓, ↑, ←	oncept:  ↓
+----------
+impacted	→, ↓, ←, ↑	oncept:  ↓
+----------
+impacted	→, ←, ↑, ↓	cept:  '→'
+----------
+impacted	→, ←, ↓, ↑	oncept:  ↓
+----------
+perched	↑, ↓, ←, →	oncept:  ↑
+----------
+perched	↑, ↓, →, ←	oncept:  ↑
+----------
+perched	↑, ←, ↓, →	oncept:  ↑
+----------
+perched	↑, ←, →, ↓	oncept:  ↑
+----------
+perched	↑, →, ↓, ←	oncept:  ↑
+----------
+perched	↑, →, ←, ↓	oncept:  ↑
+----------
+perched	↓, ↑, ←, →	oncept:  ↑
+----------
+perched	↓, ↑, →, ←	oncept:  ↑
+----------
+perched	↓, ←, ↑, →	oncept:  ↑
+----------
+perched	↓, ←, →, ↑	oncept:  ↑
+----------
+perched	↓, →, ↑, ←	oncept:  ↑
+----------
+perched	↓, →, ←, ↑	oncept:  ↑
+----------
+perched	←, ↑, ↓, →	oncept:  ↑
+----------
+perched	←, ↑, →, ↓	oncept:  ↑
+----------
+perched	←, ↓, ↑, →	oncept:  ↑
+----------
+perched	←, ↓, →, ↑	oncept:  ↑
+----------
+perched	←, →, ↑, ↓	oncept:  ↑
+----------
+perched	←, →, ↓, ↑	oncept:  ↑
+----------
+perched	→, ↑, ↓, ←	oncept:  ↑
+----------
+perched	→, ↑, ←, ↓	oncept:  ↑
+----------
+perched	→, ↓, ↑, ←	oncept:  ↑
+----------
+perched	→, ↓, ←, ↑	oncept:  ↑
+----------
+perched	→, ←, ↑, ↓	oncept:  ↑
+----------
+perched	→, ←, ↓, ↑	oncept:  ↑
+----------
+showed	↑, ↓, ←, →	oncept:  ↑
+----------
+showed	↑, ↓, →, ←	oncept:  ↑
+----------
+showed	↑, ←, ↓, →	oncept:  ↑
+----------
+showed	↑, ←, →, ↓	oncept:  ↑
+----------
+showed	↑, →, ↓, ←	oncept:  ↑
+----------
+showed	↑, →, ←, ↓	oncept:  ↑
+----------
+showed	↓, ↑, ←, →	oncept:  ↑
+----------
+showed	↓, ↑, →, ←	oncept:  ↑
+----------
+showed	↓, ←, ↑, →	oncept:  ↑
+----------
+showed	↓, ←, →, ↑	oncept:  ↑
+----------
+showed	↓, →, ↑, ←	oncept:  ↑
+----------
+showed	↓, →, ←, ↑	oncept:  ↑
+----------
+showed	←, ↑, ↓, →	oncept:  ↑
+----------
+showed	←, ↑, →, ↓	oncept:  ↑
+----------
+showed	←, ↓, ↑, →	oncept:  ↑
+----------
+showed	←, ↓, →, ↑	oncept:  ↑
+----------
+showed	←, →, ↑, ↓	oncept:  ↑
+----------
+showed	←, →, ↓, ↑	oncept:  →
+----------
+showed	→, ↑, ↓, ←	oncept:  ↑
+----------
+showed	→, ↑, ←, ↓	oncept:  ↑
+----------
+showed	→, ↓, ↑, ←	oncept:  ↑
+----------
+showed	→, ↓, ←, ↑	oncept:  ↑
+----------
+showed	→, ←, ↑, ↓	oncept:  ↑
+----------
+showed	→, ←, ↓, ↑	oncept:  ↑
+----------
+smashed	↑, ↓, ←, →	oncept:  ↓
+----------
+smashed	↑, ↓, →, ←	oncept:  ↓
+----------
+smashed	↑, ←, ↓, →	oncept:  ↓
+----------
+smashed	↑, ←, →, ↓	oncept:  ↓
+----------
+smashed	↑, →, ↓, ←	oncept:  ↓
+----------
+smashed	↑, →, ←, ↓	oncept:  ↓
+----------
+smashed	↓, ↑, ←, →	oncept:  ↓
+----------
+smashed	↓, ↑, →, ←	oncept:  ↓
+----------
+smashed	↓, ←, ↑, →	oncept:  ↓
+----------
+smashed	↓, ←, →, ↑	oncept:  ↓
+----------
+smashed	↓, →, ↑, ←	oncept:  ↓
+----------
+smashed	↓, →, ←, ↑	oncept:  ↓
+----------
+smashed	←, ↑, ↓, →	oncept:  ↓
+----------
+smashed	←, ↑, →, ↓	oncept:  ↓
+----------
+smashed	←, ↓, ↑, →	oncept:  ↓
+----------
+smashed	←, ↓, →, ↑	oncept:  ↓
+----------
+smashed	←, →, ↑, ↓	oncept:  ↓
+----------
+smashed	←, →, ↓, ↑	oncept:  ↓
+----------
+smashed	→, ↑, ↓, ←	oncept:  ↓
+----------
+smashed	→, ↑, ←, ↓	oncept:  ↓
+----------
+smashed	→, ↓, ↑, ←	oncept:  ↓
+----------
+smashed	→, ↓, ←, ↑	oncept:  ↓
+----------
+smashed	→, ←, ↑, ↓	oncept:  ↓
+----------
+smashed	→, ←, ↓, ↑	oncept:  ↓
+----------
+bombed	↑, ↓, ←, →	oncept:  ↓
+----------
+bombed	↑, ↓, →, ←	oncept:  ↓
+----------
+bombed	↑, ←, ↓, →	oncept:  ↓
+----------
+bombed	↑, ←, →, ↓	oncept:  ↓
+----------
+bombed	↑, →, ↓, ←	oncept:  ↓
+----------
+bombed	↑, →, ←, ↓	oncept:  ↓
+----------
+bombed	↓, ↑, ←, →	oncept:  ↓
+----------
+bombed	↓, ↑, →, ←	oncept:  ↓
+----------
+bombed	↓, ←, ↑, →	oncept:  ↓
+----------
+bombed	↓, ←, →, ↑	oncept:  ↓
+----------
+bombed	↓, →, ↑, ←	oncept:  ↓
+----------
+bombed	↓, →, ←, ↑	oncept:  ↓
+----------
+bombed	←, ↑, ↓, →	oncept:  ↓
+----------
+bombed	←, ↑, →, ↓	oncept:  ↓
+----------
+bombed	←, ↓, ↑, →	oncept:  ↓
+----------
+bombed	←, ↓, →, ↑	oncept:  ↓
+----------
+bombed	←, →, ↑, ↓	oncept:  ↓
+----------
+bombed	←, →, ↓, ↑	oncept:  ↓
+----------
+bombed	→, ↑, ↓, ←	oncept:  ↓
+----------
+bombed	→, ↑, ←, ↓	oncept:  ↓
+----------
+bombed	→, ↓, ↑, ←	oncept:  ↓
+----------
+bombed	→, ↓, ←, ↑	oncept:  ↓
+----------
+bombed	→, ←, ↑, ↓	oncept:  ↓
+----------
+bombed	→, ←, ↓, ↑	oncept:  ↓
+----------
+flew	↑, ↓, ←, →	oncept:  ↑
+----------
+flew	↑, ↓, →, ←	oncept:  ↑
+----------
+flew	↑, ←, ↓, →	oncept:  ↑
+----------
+flew	↑, ←, →, ↓	oncept:  ↑
+----------
+flew	↑, →, ↓, ←	oncept:  ↑
+----------
+flew	↑, →, ←, ↓	oncept:  ↑
+----------
+flew	↓, ↑, ←, →	oncept:  ↑
+----------
+flew	↓, ↑, →, ←	oncept:  ↑
+----------
+flew	↓, ←, ↑, →	oncept:  ↑
+----------
+flew	↓, ←, →, ↑	oncept:  ↑
+----------
+flew	↓, →, ↑, ←	oncept:  ↑
+----------
+flew	↓, →, ←, ↑	oncept:  ↑
+----------
+flew	←, ↑, ↓, →	oncept:  ↑
+----------
+flew	←, ↑, →, ↓	oncept:  ↑
+----------
+flew	←, ↓, ↑, →	oncept:  ↑
+----------
+flew	←, ↓, →, ↑	oncept:  ↑
+----------
+flew	←, →, ↑, ↓	oncept:  ↑
+----------
+flew	←, →, ↓, ↑	oncept:  ↑
+----------
+flew	→, ↑, ↓, ←	oncept:  ↑
+----------
+flew	→, ↑, ←, ↓	oncept:  ↑
+----------
+flew	→, ↓, ↑, ←	oncept:  ↑
+----------
+flew	→, ↓, ←, ↑	oncept:  ↑
+----------
+flew	→, ←, ↑, ↓	oncept:  ↑
+----------
+flew	→, ←, ↓, ↑	oncept:  ↑
+----------
+floated	↑, ↓, ←, →	oncept:  ↑
+----------
+floated	↑, ↓, →, ←	oncept:  ↑
+----------
+floated	↑, ←, ↓, →	oncept:  ↑
+----------
+floated	↑, ←, →, ↓	oncept:  ↑
+----------
+floated	↑, →, ↓, ←	oncept:  ↑
+----------
+floated	↑, →, ←, ↓	oncept:  ↑
+----------
+floated	↓, ↑, ←, →	oncept:  ↑
+----------
+floated	↓, ↑, →, ←	oncept:  ↑
+----------
+floated	↓, ←, ↑, →	oncept:  ↑
+----------
+floated	↓, ←, →, ↑	oncept:  ↑
+----------
+floated	↓, →, ↑, ←	oncept:  ↑
+----------
+floated	↓, →, ←, ↑	oncept:  ↑
+----------
+floated	←, ↑, ↓, →	oncept:  ↑
+----------
+floated	←, ↑, →, ↓	oncept:  ↑
+----------
+floated	←, ↓, ↑, →	oncept:  ↑
+----------
+floated	←, ↓, →, ↑	oncept:  ↑
+----------
+floated	←, →, ↑, ↓	oncept:  ↑
+----------
+floated	←, →, ↓, ↑	oncept:  ↑
+----------
+floated	→, ↑, ↓, ←	oncept:  ↑
+----------
+floated	→, ↑, ←, ↓	oncept:  ↑
+----------
+floated	→, ↓, ↑, ←	oncept:  ↑
+----------
+floated	→, ↓, ←, ↑	oncept:  ↑
+----------
+floated	→, ←, ↑, ↓	oncept:  ↑
+----------
+floated	→, ←, ↓, ↑	oncept:  ↑
+----------
+lifted	↑, ↓, ←, →	cept:  '↑'
+----------
+lifted	↑, ↓, →, ←	cept:  '↑'
+----------
+lifted	↑, ←, ↓, →	cept:  '↑'
+----------
+lifted	↑, ←, →, ↓	oncept:  ↑
+----------
+lifted	↑, →, ↓, ←	cept:  '↑'
+----------
+lifted	↑, →, ←, ↓	cept:  '↑'
+----------
+lifted	↓, ↑, ←, →	oncept:  ↑
+----------
+lifted	↓, ↑, →, ←	oncept:  ↑
+----------
+lifted	↓, ←, ↑, →	oncept:  ↑
+----------
+lifted	↓, ←, →, ↑	oncept:  ↑
+----------
+lifted	↓, →, ↑, ←	oncept:  ↑
+----------
+lifted	↓, →, ←, ↑	oncept:  ↑
+----------
+lifted	←, ↑, ↓, →	oncept:  ↑
+----------
+lifted	←, ↑, →, ↓	oncept:  ↑
+----------
+lifted	←, ↓, ↑, →	oncept:  ↑
+----------
+lifted	←, ↓, →, ↑	oncept:  ↑
+----------
+lifted	←, →, ↑, ↓	oncept:  ↑
+----------
+lifted	←, →, ↓, ↑	oncept:  ↑
+----------
+lifted	→, ↑, ↓, ←	oncept:  ↑
+----------
+lifted	→, ↑, ←, ↓	oncept:  ↑
+----------
+lifted	→, ↓, ↑, ←	oncept:  ↑
+----------
+lifted	→, ↓, ←, ↑	oncept:  ↑
+----------
+lifted	→, ←, ↑, ↓	oncept:  ↑
+----------
+lifted	→, ←, ↓, ↑	oncept:  ↑
+----------
+sank	↑, ↓, ←, →	oncept:  ↓
+----------
+sank	↑, ↓, →, ←	oncept:  ↓
+----------
+sank	↑, ←, ↓, →	oncept:  ↓
+----------
+sank	↑, ←, →, ↓	oncept:  ↓
+----------
+sank	↑, →, ↓, ←	oncept:  ↓
+----------
+sank	↑, →, ←, ↓	oncept:  ↓
+----------
+sank	↓, ↑, ←, →	oncept:  ↓
+----------
+sank	↓, ↑, →, ←	oncept:  ↓
+----------
+sank	↓, ←, ↑, →	oncept:  ↓
+----------
+sank	↓, ←, →, ↑	oncept:  ↓
+----------
+sank	↓, →, ↑, ←	oncept:  ↓
+----------
+sank	↓, →, ←, ↑	oncept:  ↓
+----------
+sank	←, ↑, ↓, →	oncept:  ↓
+----------
+sank	←, ↑, →, ↓	oncept:  ↓
+----------
+sank	←, ↓, ↑, →	oncept:  ↓
+----------
+sank	←, ↓, →, ↑	oncept:  ↓
+----------
+sank	←, →, ↑, ↓	oncept:  ↓
+----------
+sank	←, →, ↓, ↑	oncept:  ↓
+----------
+sank	→, ↑, ↓, ←	oncept:  ↓
+----------
+sank	→, ↑, ←, ↓	oncept:  ↓
+----------
+sank	→, ↓, ↑, ←	oncept:  ↓
+----------
+sank	→, ↓, ←, ↑	oncept:  ↓
+----------
+sank	→, ←, ↑, ↓	oncept:  ↓
+----------
+sank	→, ←, ↓, ↑	oncept:  ↓
+----------
+argued with	↑, ↓, ←, →	oncept:  ↓
+----------
+argued with	↑, ↓, →, ←	oncept:  ↓
+----------
+argued with	↑, ←, ↓, →	oncept:  ←
+----------
+argued with	↑, ←, →, ↓	oncept:  ←
+----------
+argued with	↑, →, ↓, ←	oncept:  →
+----------
+argued with	↑, →, ←, ↓	oncept:  →
+----------
+argued with	↓, ↑, ←, →	oncept:  ↑
+----------
+argued with	↓, ↑, →, ←	oncept:  ↑
+----------
+argued with	↓, ←, ↑, →	oncept:  ←
+----------
+argued with	↓, ←, →, ↑	oncept:  ←
+----------
+argued with	↓, →, ↑, ←	oncept:  →
+----------
+argued with	↓, →, ←, ↑	oncept:  →
+----------
+argued with	←, ↑, ↓, →	cept:  '←'
+----------
+argued with	←, ↑, →, ↓	cept:  '←'
+----------
+argued with	←, ↓, ↑, →	oncept:  ↓
+----------
+argued with	←, ↓, →, ↑	cept:  '←'
+----------
+argued with	←, →, ↑, ↓	cept:  '←'
+----------
+argued with	←, →, ↓, ↑	cept:  '←'
+----------
+argued with	→, ↑, ↓, ←	oncept:  ↓
+----------
+argued with	→, ↑, ←, ↓	cept:  '→'
+----------
+argued with	→, ↓, ↑, ←	oncept:  ↓
+----------
+argued with	→, ↓, ←, ↑	oncept:  ↓
+----------
+argued with	→, ←, ↑, ↓	oncept:  ←
+----------
+argued with	→, ←, ↓, ↑	oncept:  ←
+----------
+gave to	↑, ↓, ←, →	oncept:  →
+----------
+gave to	↑, ↓, →, ←	oncept:  →
+----------
+gave to	↑, ←, ↓, →	oncept:  →
+----------
+gave to	↑, ←, →, ↓	oncept:  →
+----------
+gave to	↑, →, ↓, ←	oncept:  →
+----------
+gave to	↑, →, ←, ↓	oncept:  →
+----------
+gave to	↓, ↑, ←, →	oncept:  →
+----------
+gave to	↓, ↑, →, ←	oncept:  →
+----------
+gave to	↓, ←, ↑, →	oncept:  →
+----------
+gave to	↓, ←, →, ↑	oncept:  →
+----------
+gave to	↓, →, ↑, ←	oncept:  →
+----------
+gave to	↓, →, ←, ↑	oncept:  →
+----------
+gave to	←, ↑, ↓, →	oncept:  →
+----------
+gave to	←, ↑, →, ↓	oncept:  →
+----------
+gave to	←, ↓, ↑, →	oncept:  →
+----------
+gave to	←, ↓, →, ↑	oncept:  →
+----------
+gave to	←, →, ↑, ↓	oncept:  →
+----------
+gave to	←, →, ↓, ↑	oncept:  →
+----------
+gave to	→, ↑, ↓, ←	cept:  '→'
+----------
+gave to	→, ↑, ←, ↓	cept:  '→'
+----------
+gave to	→, ↓, ↑, ←	cept:  '→'
+----------
+gave to	→, ↓, ←, ↑	cept:  '→'
+----------
+gave to	→, ←, ↑, ↓	cept:  '→'
+----------
+gave to	→, ←, ↓, ↑	cept:  '→'
+----------
+offended	↑, ↓, ←, →	oncept:  ↓
+----------
+offended	↑, ↓, →, ←	oncept:  ↓
+----------
+offended	↑, ←, ↓, →	oncept:  ↓
+----------
+offended	↑, ←, →, ↓	oncept:  ←
+----------
+offended	↑, →, ↓, ←	oncept:  ↓
+----------
+offended	↑, →, ←, ↓	oncept:  ←
+----------
+offended	↓, ↑, ←, →	oncept:  ↓
+----------
+offended	↓, ↑, →, ←	oncept:  ↓
+----------
+offended	↓, ←, ↑, →	oncept:  ←
+----------
+offended	↓, ←, →, ↑	oncept:  ←
+----------
+offended	↓, →, ↑, ←	oncept:  ↓
+----------
+offended	↓, →, ←, ↑	oncept:  ↓
+----------
+offended	←, ↑, ↓, →	oncept:  ↓
+----------
+offended	←, ↑, →, ↓	cept:  '←'
+----------
+offended	←, ↓, ↑, →	oncept:  ↓
+----------
+offended	←, ↓, →, ↑	oncept:  ↓
+----------
+offended	←, →, ↑, ↓	oncept:  ←
+----------
+offended	←, →, ↓, ↑	cept:  '←'
+----------
+offended	→, ↑, ↓, ←	oncept:  ↓
+----------
+offended	→, ↑, ←, ↓	oncept:  ←
+----------
+offended	→, ↓, ↑, ←	oncept:  ↓
+----------
+offended	→, ↓, ←, ↑	oncept:  ↓
+----------
+offended	→, ←, ↑, ↓	oncept:  ←
+----------
+offended	→, ←, ↓, ↑	oncept:  ←
+----------
+rushed	↑, ↓, ←, →	oncept:  ↓
+----------
+rushed	↑, ↓, →, ←	oncept:  →
+----------
+rushed	↑, ←, ↓, →	oncept:  ↓
+----------
+rushed	↑, ←, →, ↓	oncept:  →
+----------
+rushed	↑, →, ↓, ←	oncept:  →
+----------
+rushed	↑, →, ←, ↓	oncept:  →
+----------
+rushed	↓, ↑, ←, →	oncept:  ↑
+----------
+rushed	↓, ↑, →, ←	oncept:  ↑
+----------
+rushed	↓, ←, ↑, →	oncept:  →
+----------
+rushed	↓, ←, →, ↑	oncept:  →
+----------
+rushed	↓, →, ↑, ←	oncept:  →
+----------
+rushed	↓, →, ←, ↑	oncept:  →
+----------
+rushed	←, ↑, ↓, →	oncept:  →
+----------
+rushed	←, ↑, →, ↓	oncept:  →
+----------
+rushed	←, ↓, ↑, →	oncept:  →
+----------
+rushed	←, ↓, →, ↑	oncept:  →
+----------
+rushed	←, →, ↑, ↓	oncept:  →
+----------
+rushed	←, →, ↓, ↑	oncept:  →
+----------
+rushed	→, ↑, ↓, ←	oncept:  ↑
+----------
+rushed	→, ↑, ←, ↓	oncept:  ↑
+----------
+rushed	→, ↓, ↑, ←	oncept:  ↓
+----------
+rushed	→, ↓, ←, ↑	cept:  '→'
+----------
+rushed	→, ←, ↑, ↓	oncept:  →
+----------
+rushed	→, ←, ↓, ↑	cept:  '→'
+----------
+warned	↑, ↓, ←, →	oncept:  ↓
+----------
+warned	↑, ↓, →, ←	oncept:  ↓
+----------
+warned	↑, ←, ↓, →	oncept:  ↓
+----------
+warned	↑, ←, →, ↓	oncept:  →
+----------
+warned	↑, →, ↓, ←	oncept:  →
+----------
+warned	↑, →, ←, ↓	oncept:  →
+----------
+warned	↓, ↑, ←, →	oncept:  ↑
+----------
+warned	↓, ↑, →, ←	oncept:  ↑
+----------
+warned	↓, ←, ↑, →	oncept:  ←
+----------
+warned	↓, ←, →, ↑	oncept:  →
+----------
+warned	↓, →, ↑, ←	oncept:  →
+----------
+warned	↓, →, ←, ↑	oncept:  →
+----------
+warned	←, ↑, ↓, →	oncept:  ↑
+----------
+warned	←, ↑, →, ↓	oncept:  ↑
+----------
+warned	←, ↓, ↑, →	oncept:  ↓
+----------
+warned	←, ↓, →, ↑	oncept:  ↓
+----------
+warned	←, →, ↑, ↓	oncept:  →
+----------
+warned	←, →, ↓, ↑	oncept:  →
+----------
+warned	→, ↑, ↓, ←	oncept:  ↑
+----------
+warned	→, ↑, ←, ↓	oncept:  ↑
+----------
+warned	→, ↓, ↑, ←	oncept:  ↓
+----------
+warned	→, ↓, ←, ↑	oncept:  ↓
+----------
+warned	→, ←, ↑, ↓	oncept:  ←
+----------
+warned	→, ←, ↓, ↑	oncept:  ←
+----------
+owned	↑, ↓, ←, →	oncept:  ↑
+----------
+owned	↑, ↓, →, ←	oncept:  ↑
+----------
+owned	↑, ←, ↓, →	oncept:  ↑
+----------
+owned	↑, ←, →, ↓	oncept:  ↑
+----------
+owned	↑, →, ↓, ←	oncept:  ↑
+----------
+owned	↑, →, ←, ↓	oncept:  ↑
+----------
+owned	↓, ↑, ←, →	oncept:  ↑
+----------
+owned	↓, ↑, →, ←	oncept:  ↑
+----------
+owned	↓, ←, ↑, →	oncept:  ↑
+----------
+owned	↓, ←, →, ↑	oncept:  ↑
+----------
+owned	↓, →, ↑, ←	oncept:  ↑
+----------
+owned	↓, →, ←, ↑	oncept:  →
+----------
+owned	←, ↑, ↓, →	oncept:  ↑
+----------
+owned	←, ↑, →, ↓	oncept:  ↑
+----------
+owned	←, ↓, ↑, →	oncept:  ↑
+----------
+owned	←, ↓, →, ↑	oncept:  ↓
+----------
+owned	←, →, ↑, ↓	oncept:  ↑
+----------
+owned	←, →, ↓, ↑	oncept:  →
+----------
+owned	→, ↑, ↓, ←	oncept:  ↑
+----------
+owned	→, ↑, ←, ↓	oncept:  ↑
+----------
+owned	→, ↓, ↑, ←	oncept:  ↓
+----------
+owned	→, ↓, ←, ↑	oncept:  ↓
+----------
+owned	→, ←, ↑, ↓	oncept:  ↑
+----------
+owned	→, ←, ↓, ↑	oncept:  ↓
+----------
+regretted	↑, ↓, ←, →	cept:  '←'
+----------
+regretted	↑, ↓, →, ←	cept:  '↓'
+----------
+regretted	↑, ←, ↓, →	oncept:  ←
+----------
+regretted	↑, ←, →, ↓	oncept:  ←
+----------
+regretted	↑, →, ↓, ←	cept:  '←'
+----------
+regretted	↑, →, ←, ↓	oncept:  ←
+----------
+regretted	↓, ↑, ←, →	cept:  '←'
+----------
+regretted	↓, ↑, →, ←	cept:  '↓'
+----------
+regretted	↓, ←, ↑, →	oncept:  ←
+----------
+regretted	↓, ←, →, ↑	oncept:  ←
+----------
+regretted	↓, →, ↑, ←	cept:  '↓'
+----------
+regretted	↓, →, ←, ↑	oncept:  ←
+----------
+regretted	←, ↑, ↓, →	cept:  '←'
+----------
+regretted	←, ↑, →, ↓	cept:  '←'
+----------
+regretted	←, ↓, ↑, →	cept:  '←'
+----------
+regretted	←, ↓, →, ↑	cept:  '←'
+----------
+regretted	←, →, ↑, ↓	cept:  '←'
+----------
+regretted	←, →, ↓, ↑	cept:  '←'
+----------
+regretted	→, ↑, ↓, ←	cept:  '←'
+----------
+regretted	→, ↑, ←, ↓	oncept:  ←
+----------
+regretted	→, ↓, ↑, ←	oncept:  ←
+----------
+regretted	→, ↓, ←, ↑	oncept:  ←
+----------
+regretted	→, ←, ↑, ↓	oncept:  ←
+----------
+regretted	→, ←, ↓, ↑	oncept:  ←
+----------
+rested	↑, ↓, ←, →	oncept:  ↓
+----------
+rested	↑, ↓, →, ←	oncept:  ↓
+----------
+rested	↑, ←, ↓, →	oncept:  ↓
+----------
+rested	↑, ←, →, ↓	oncept:  ↓
+----------
+rested	↑, →, ↓, ←	oncept:  ↓
+----------
+rested	↑, →, ←, ↓	oncept:  ↓
+----------
+rested	↓, ↑, ←, →	oncept:  ↓
+----------
+rested	↓, ↑, →, ←	oncept:  ↓
+----------
+rested	↓, ←, ↑, →	oncept:  ↓
+----------
+rested	↓, ←, →, ↑	oncept:  ↓
+----------
+rested	↓, →, ↑, ←	oncept:  ↓
+----------
+rested	↓, →, ←, ↑	oncept:  ↓
+----------
+rested	←, ↑, ↓, →	cept:  '←'
+----------
+rested	←, ↑, →, ↓	cept:  '←'
+----------
+rested	←, ↓, ↑, →	oncept:  ↓
+----------
+rested	←, ↓, →, ↑	oncept:  ↓
+----------
+rested	←, →, ↑, ↓	cept:  '↓'
+----------
+rested	←, →, ↓, ↑	oncept:  ↓
+----------
+rested	→, ↑, ↓, ←	oncept:  ↑
+----------
+rested	→, ↑, ←, ↓	oncept:  ↑
+----------
+rested	→, ↓, ↑, ←	oncept:  ↓
+----------
+rested	→, ↓, ←, ↑	oncept:  ↓
+----------
+rested	→, ←, ↑, ↓	cept:  '→'
+----------
+rested	→, ←, ↓, ↑	oncept:  ↓
+----------
+tempted	↑, ↓, ←, →	oncept:  →
+----------
+tempted	↑, ↓, →, ←	oncept:  →
+----------
+tempted	↑, ←, ↓, →	oncept:  →
+----------
+tempted	↑, ←, →, ↓	oncept:  →
+----------
+tempted	↑, →, ↓, ←	oncept:  →
+----------
+tempted	↑, →, ←, ↓	oncept:  →
+----------
+tempted	↓, ↑, ←, →	oncept:  ↑
+----------
+tempted	↓, ↑, →, ←	oncept:  ↑
+----------
+tempted	↓, ←, ↑, →	oncept:  →
+----------
+tempted	↓, ←, →, ↑	oncept:  →
+----------
+tempted	↓, →, ↑, ←	oncept:  →
+----------
+tempted	↓, →, ←, ↑	oncept:  →
+----------
+tempted	←, ↑, ↓, →	oncept:  ↑
+----------
+tempted	←, ↑, →, ↓	oncept:  ↑
+----------
+tempted	←, ↓, ↑, →	oncept:  ↑
+----------
+tempted	←, ↓, →, ↑	oncept:  →
+----------
+tempted	←, →, ↑, ↓	oncept:  →
+----------
+tempted	←, →, ↓, ↑	oncept:  →
+----------
+tempted	→, ↑, ↓, ←	oncept:  ↑
+----------
+tempted	→, ↑, ←, ↓	oncept:  ↑
+----------
+tempted	→, ↓, ↑, ←	oncept:  ↓
+----------
+tempted	→, ↓, ←, ↑	cept:  '→'
+----------
+tempted	→, ←, ↑, ↓	cept:  '→'
+----------
+tempted	→, ←, ↓, ↑	cept:  '→'
+----------
+wanted	↑, ↓, ←, →	oncept:  ↑
+----------
+wanted	↑, ↓, →, ←	oncept:  ↑
+----------
+wanted	↑, ←, ↓, →	oncept:  ↑
+----------
+wanted	↑, ←, →, ↓	oncept:  ↑
+----------
+wanted	↑, →, ↓, ←	oncept:  ↑
+----------
+wanted	↑, →, ←, ↓	oncept:  ↑
+----------
+wanted	↓, ↑, ←, →	oncept:  ↑
+----------
+wanted	↓, ↑, →, ←	oncept:  ↑
+----------
+wanted	↓, ←, ↑, →	oncept:  ↑
+----------
+wanted	↓, ←, →, ↑	oncept:  ↑
+----------
+wanted	↓, →, ↑, ←	oncept:  ↑
+----------
+wanted	↓, →, ←, ↑	oncept:  →
+----------
+wanted	←, ↑, ↓, →	oncept:  ↑
+----------
+wanted	←, ↑, →, ↓	oncept:  ↑
+----------
+wanted	←, ↓, ↑, →	oncept:  ↑
+----------
+wanted	←, ↓, →, ↑	oncept:  ↑
+----------
+wanted	←, →, ↑, ↓	oncept:  →
+----------
+wanted	←, →, ↓, ↑	oncept:  →
+----------
+wanted	→, ↑, ↓, ←	oncept:  ↑
+----------
+wanted	→, ↑, ←, ↓	oncept:  ↑
+----------
+wanted	→, ↓, ↑, ←	oncept:  ↑
+----------
+wanted	→, ↓, ←, ↑	oncept:  →
+----------
+wanted	→, ←, ↑, ↓	oncept:  →
+----------
+wanted	→, ←, ↓, ↑	cept:  '→'
+----------
+hoped	↑, ↓, ←, →	oncept:  ↑
+----------
+hoped	↑, ↓, →, ←	oncept:  ↑
+----------
+hoped	↑, ←, ↓, →	oncept:  ↑
+----------
+hoped	↑, ←, →, ↓	oncept:  ↑
+----------
+hoped	↑, →, ↓, ←	oncept:  ↑
+----------
+hoped	↑, →, ←, ↓	oncept:  ↑
+----------
+hoped	↓, ↑, ←, →	oncept:  ↑
+----------
+hoped	↓, ↑, →, ←	oncept:  ↑
+----------
+hoped	↓, ←, ↑, →	oncept:  ↑
+----------
+hoped	↓, ←, →, ↑	oncept:  ↑
+----------
+hoped	↓, →, ↑, ←	oncept:  ↑
+----------
+hoped	↓, →, ←, ↑	oncept:  ↑
+----------
+hoped	←, ↑, ↓, →	oncept:  ↑
+----------
+hoped	←, ↑, →, ↓	oncept:  ↑
+----------
+hoped	←, ↓, ↑, →	oncept:  ↑
+----------
+hoped	←, ↓, →, ↑	oncept:  ↑
+----------
+hoped	←, →, ↑, ↓	oncept:  ↑
+----------
+hoped	←, →, ↓, ↑	oncept:  ↑
+----------
+hoped	→, ↑, ↓, ←	oncept:  ↑
+----------
+hoped	→, ↑, ←, ↓	oncept:  ↑
+----------
+hoped	→, ↓, ↑, ←	oncept:  ↑
+----------
+hoped	→, ↓, ←, ↑	oncept:  ↑
+----------
+hoped	→, ←, ↑, ↓	oncept:  ↑
+----------
+hoped	→, ←, ↓, ↑	oncept:  ↑
+----------
+increased	↑, ↓, ←, →	oncept:  ↑
+----------
+increased	↑, ↓, →, ←	oncept:  ↑
+----------
+increased	↑, ←, ↓, →	cept:  '↑'
+----------
+increased	↑, ←, →, ↓	oncept:  ↑
+----------
+increased	↑, →, ↓, ←	oncept:  ↑
+----------
+increased	↑, →, ←, ↓	oncept:  ↑
+----------
+increased	↓, ↑, ←, →	oncept:  ↑
+----------
+increased	↓, ↑, →, ←	oncept:  ↑
+----------
+increased	↓, ←, ↑, →	oncept:  ↑
+----------
+increased	↓, ←, →, ↑	oncept:  ↑
+----------
+increased	↓, →, ↑, ←	oncept:  ↑
+----------
+increased	↓, →, ←, ↑	oncept:  ↑
+----------
+increased	←, ↑, ↓, →	oncept:  ↑
+----------
+increased	←, ↑, →, ↓	oncept:  ↑
+----------
+increased	←, ↓, ↑, →	oncept:  ↑
+----------
+increased	←, ↓, →, ↑	oncept:  ↑
+----------
+increased	←, →, ↑, ↓	oncept:  ↑
+----------
+increased	←, →, ↓, ↑	oncept:  ↑
+----------
+increased	→, ↑, ↓, ←	oncept:  ↑
+----------
+increased	→, ↑, ←, ↓	oncept:  ↑
+----------
+increased	→, ↓, ↑, ←	oncept:  ↑
+----------
+increased	→, ↓, ←, ↑	oncept:  ↑
+----------
+increased	→, ←, ↑, ↓	oncept:  ↑
+----------
+increased	→, ←, ↓, ↑	oncept:  ↑
+----------
+obeyed	↑, ↓, ←, →	oncept:  →
+----------
+obeyed	↑, ↓, →, ←	oncept:  →
+----------
+obeyed	↑, ←, ↓, →	oncept:  →
+----------
+obeyed	↑, ←, →, ↓	oncept:  →
+----------
+obeyed	↑, →, ↓, ←	oncept:  →
+----------
+obeyed	↑, →, ←, ↓	oncept:  →
+----------
+obeyed	↓, ↑, ←, →	oncept:  ↑
+----------
+obeyed	↓, ↑, →, ←	oncept:  ↑
+----------
+obeyed	↓, ←, ↑, →	oncept:  →
+----------
+obeyed	↓, ←, →, ↑	oncept:  →
+----------
+obeyed	↓, →, ↑, ←	oncept:  →
+----------
+obeyed	↓, →, ←, ↑	oncept:  →
+----------
+obeyed	←, ↑, ↓, →	oncept:  ↑
+----------
+obeyed	←, ↑, →, ↓	oncept:  ↑
+----------
+obeyed	←, ↓, ↑, →	oncept:  →
+----------
+obeyed	←, ↓, →, ↑	oncept:  →
+----------
+obeyed	←, →, ↑, ↓	oncept:  →
+----------
+obeyed	←, →, ↓, ↑	oncept:  →
+----------
+obeyed	→, ↑, ↓, ←	oncept:  ↑
+----------
+obeyed	→, ↑, ←, ↓	oncept:  ↑
+----------
+obeyed	→, ↓, ↑, ←	oncept:  →
+----------
+obeyed	→, ↓, ←, ↑	oncept:  →
+----------
+obeyed	→, ←, ↑, ↓	cept:  '→'
+----------
+obeyed	→, ←, ↓, ↑	cept:  '→'
+----------
+respected	↑, ↓, ←, →	oncept:  ↑
+----------
+respected	↑, ↓, →, ←	oncept:  ↑
+----------
+respected	↑, ←, ↓, →	oncept:  ↑
+----------
+respected	↑, ←, →, ↓	oncept:  ↑
+----------
+respected	↑, →, ↓, ←	oncept:  ↑
+----------
+respected	↑, →, ←, ↓	oncept:  ↑
+----------
+respected	↓, ↑, ←, →	oncept:  ↑
+----------
+respected	↓, ↑, →, ←	oncept:  ↑
+----------
+respected	↓, ←, ↑, →	oncept:  ↑
+----------
+respected	↓, ←, →, ↑	oncept:  ↑
+----------
+respected	↓, →, ↑, ←	oncept:  ↑
+----------
+respected	↓, →, ←, ↑	oncept:  ↑
+----------
+respected	←, ↑, ↓, →	oncept:  ↑
+----------
+respected	←, ↑, →, ↓	oncept:  ↑
+----------
+respected	←, ↓, ↑, →	oncept:  ↑
+----------
+respected	←, ↓, →, ↑	oncept:  ↑
+----------
+respected	←, →, ↑, ↓	oncept:  ↑
+----------
+respected	←, →, ↓, ↑	oncept:  ↑
+----------
+respected	→, ↑, ↓, ←	oncept:  ↑
+----------
+respected	→, ↑, ←, ↓	oncept:  ↑
+----------
+respected	→, ↓, ↑, ←	oncept:  ↑
+----------
+respected	→, ↓, ←, ↑	oncept:  ↑
+----------
+respected	→, ←, ↑, ↓	oncept:  ↑
+----------
+respected	→, ←, ↓, ↑	oncept:  ↑
+----------
+succeeded	↑, ↓, ←, →	oncept:  ↑
+----------
+succeeded	↑, ↓, →, ←	oncept:  ↑
+----------
+succeeded	↑, ←, ↓, →	oncept:  ↑
+----------
+succeeded	↑, ←, →, ↓	oncept:  ↑
+----------
+succeeded	↑, →, ↓, ←	oncept:  ↑
+----------
+succeeded	↑, →, ←, ↓	oncept:  ↑
+----------
+succeeded	↓, ↑, ←, →	oncept:  ↑
+----------
+succeeded	↓, ↑, →, ←	oncept:  ↑
+----------
+succeeded	↓, ←, ↑, →	oncept:  ↑
+----------
+succeeded	↓, ←, →, ↑	oncept:  ↑
+----------
+succeeded	↓, →, ↑, ←	oncept:  ↑
+----------
+succeeded	↓, →, ←, ↑	oncept:  ↑
+----------
+succeeded	←, ↑, ↓, →	oncept:  ↑
+----------
+succeeded	←, ↑, →, ↓	oncept:  ↑
+----------
+succeeded	←, ↓, ↑, →	oncept:  ↑
+----------
+succeeded	←, ↓, →, ↑	oncept:  ↑
+----------
+succeeded	←, →, ↑, ↓	oncept:  ↑
+----------
+succeeded	←, →, ↓, ↑	oncept:  →
+----------
+succeeded	→, ↑, ↓, ←	oncept:  ↑
+----------
+succeeded	→, ↑, ←, ↓	oncept:  ↑
+----------
+succeeded	→, ↓, ↑, ←	oncept:  ↑
+----------
+succeeded	→, ↓, ←, ↑	oncept:  ↑
+----------
+succeeded	→, ←, ↑, ↓	oncept:  ↑
+----------
+succeeded	→, ←, ↓, ↑	oncept:  ↑
+----------

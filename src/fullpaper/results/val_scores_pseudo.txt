@@ -1,0 +1,28 @@
+Number of inputs used to compute probability sum: 30
+Testing Prompt Ending: CHOICE: 
+Average Probability: 0.646
+
+Testing Prompt Ending: Choice: 
+Average Probability: 0.721
+
+Testing Prompt Ending: choice: 
+Average Probability: 0.774
+
+Testing Prompt Ending: SELECTION: 
+Average Probability: 0.73
+
+Testing Prompt Ending: Selection: 
+Average Probability: 0.747
+
+Testing Prompt Ending: selection: 
+Average Probability: 0.746
+
+Testing Prompt Ending: CONCEPT: 
+Average Probability: 0.75
+
+Testing Prompt Ending: Concept: 
+Average Probability: 0.728
+
+Testing Prompt Ending: concept: 
+Average Probability: 0.756
+

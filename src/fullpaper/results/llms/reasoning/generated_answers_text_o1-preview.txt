@@ -1,0 +1,1440 @@
+fled	up, down, left, right	concept: 'left'
+----------
+fled	up, down, right, left	concept: 'left'
+----------
+fled	up, left, down, right	concept: 'left'
+----------
+fled	up, left, right, down	concept: 'left'
+----------
+fled	up, right, down, left	concept: 'left'
+----------
+fled	up, right, left, down	concept: 'left'
+----------
+fled	down, up, left, right	concept: 'left'
+----------
+fled	down, up, right, left	concept: 'left'
+----------
+fled	down, left, up, right	concept: 'left'
+----------
+fled	down, left, right, up	concept: 'left'
+----------
+fled	down, right, up, left	concept: 'left'
+----------
+fled	down, right, left, up	concept: 'left'
+----------
+fled	left, up, down, right	concept: 'left'
+----------
+fled	left, up, right, down	concept: 'left'
+----------
+fled	left, down, up, right	concept: 'left'
+----------
+fled	left, down, right, up	concept: 'left'
+----------
+fled	left, right, up, down	concept: 'left'
+----------
+fled	left, right, down, up	concept: 'left'
+----------
+fled	right, up, down, left	concept: 'left'
+----------
+fled	right, up, left, down	concept: 'left'
+----------
+fled	right, down, up, left	concept: 'left'
+----------
+fled	right, down, left, up	concept: 'left'
+----------
+fled	right, left, up, down	concept: 'left'
+----------
+fled	right, left, down, up	concept: 'left'
+----------
+pointed at	up, down, left, right	concept: 'right'
+----------
+pointed at	up, down, right, left	concept: 'right'
+----------
+pointed at	up, left, down, right	concept: 'right'
+----------
+pointed at	up, left, right, down	concept: 'right'
+----------
+pointed at	up, right, down, left	concept: 'right'
+----------
+pointed at	up, right, left, down	concept: 'right'
+----------
+pointed at	down, up, left, right	concept: 'right'
+----------
+pointed at	down, up, right, left	concept: 'right'
+----------
+pointed at	down, left, up, right	concept: 'right'
+----------
+pointed at	down, left, right, up	concept: 'right'
+----------
+pointed at	down, right, up, left	concept: 'right'
+----------
+pointed at	down, right, left, up	concept: 'right'
+----------
+pointed at	left, up, down, right	concept: 'right'
+----------
+pointed at	left, up, right, down	concept: 'right'
+----------
+pointed at	left, down, up, right	concept: 'right'
+----------
+pointed at	left, down, right, up	concept: 'right'
+----------
+pointed at	left, right, up, down	concept: 'right'
+----------
+pointed at	left, right, down, up	concept: 'right'
+----------
+pointed at	right, up, down, left	concept: 'right'
+----------
+pointed at	right, up, left, down	concept: 'up'
+----------
+pointed at	right, down, up, left	concept: 'right'
+----------
+pointed at	right, down, left, up	concept: 'right'
+----------
+pointed at	right, left, up, down	concept: 'up'
+----------
+pointed at	right, left, down, up	concept: 'right'
+----------
+pulled	up, down, left, right	concept: 'down'
+----------
+pulled	up, down, right, left	concept: 'down'
+----------
+pulled	up, left, down, right	concept: 'down'
+----------
+pulled	up, left, right, down	concept: 'down'
+----------
+pulled	up, right, down, left	concept: 'down'
+----------
+pulled	up, right, left, down	concept: 'down'
+----------
+pulled	down, up, left, right	concept: 'down'
+----------
+pulled	down, up, right, left	concept: 'down'
+----------
+pulled	down, left, up, right	concept: 'down'
+----------
+pulled	down, left, right, up	concept: 'up'
+----------
+pulled	down, right, up, left	concept: 'down'
+----------
+pulled	down, right, left, up	concept: 'down'
+----------
+pulled	left, up, down, right	concept: 'up'
+----------
+pulled	left, up, right, down	concept: 'down'
+----------
+pulled	left, down, up, right	concept: 'down'
+----------
+pulled	left, down, right, up	concept: 'down'
+----------
+pulled	left, right, up, down	concept: 'down'
+----------
+pulled	left, right, down, up	concept: 'down'
+----------
+pulled	right, up, down, left	concept: 'down'
+----------
+pulled	right, up, left, down	concept: 'down'
+----------
+pulled	right, down, up, left	concept: 'up'
+----------
+pulled	right, down, left, up	concept: 'down'
+----------
+pulled	right, left, up, down	concept: 'down'
+----------
+pulled	right, left, down, up	concept: 'down'
+----------
+pushed	up, down, left, right	concept: 'right'
+----------
+pushed	up, down, right, left	concept: 'right'
+----------
+pushed	up, left, down, right	concept: 'right'
+----------
+pushed	up, left, right, down	concept: 'down'
+----------
+pushed	up, right, down, left	concept: 'right'
+----------
+pushed	up, right, left, down	concept: 'down'
+----------
+pushed	down, up, left, right	concept: 'down'
+----------
+pushed	down, up, right, left	concept: 'down'
+----------
+pushed	down, left, up, right	concept: 'down'
+----------
+pushed	down, left, right, up	concept: 'down'
+----------
+pushed	down, right, up, left	concept: 'down'
+----------
+pushed	down, right, left, up	concept: 'down'
+----------
+pushed	left, up, down, right	concept: 'up'
+----------
+pushed	left, up, right, down	concept: 'down'
+----------
+pushed	left, down, up, right	concept: 'down'
+----------
+pushed	left, down, right, up	concept: 'down'
+----------
+pushed	left, right, up, down	concept: 'down'
+----------
+pushed	left, right, down, up	concept: 'down'
+----------
+pushed	right, up, down, left	concept: 'right'
+----------
+pushed	right, up, left, down	concept: 'right'
+----------
+pushed	right, down, up, left	concept: 'up'
+----------
+pushed	right, down, left, up	concept: 'down'
+----------
+pushed	right, left, up, down	concept: 'down'
+----------
+pushed	right, left, down, up	concept: 'down'
+----------
+walked	up, down, left, right	concept: 'right'
+----------
+walked	up, down, right, left	concept: 'right'
+----------
+walked	up, left, down, right	concept: 'up'
+----------
+walked	up, left, right, down	concept: 'up'
+----------
+walked	up, right, down, left	concept: 'up'
+----------
+walked	up, right, left, down	concept: 'right'
+----------
+walked	down, up, left, right	concept: 'right'
+----------
+walked	down, up, right, left	concept: 'right'
+----------
+walked	down, left, up, right	concept: 'right'
+----------
+walked	down, left, right, up	concept: 'forward'
+----------
+walked	down, right, up, left	concept: 'up'
+----------
+walked	down, right, left, up	concept: 'up'
+----------
+walked	left, up, down, right	concept: 'up'
+----------
+walked	left, up, right, down	concept: 'right'
+----------
+walked	left, down, up, right	concept: 'up'
+----------
+walked	left, down, right, up	concept: 'up'
+----------
+walked	left, right, up, down	concept: 'up'
+----------
+walked	left, right, down, up	concept: 'left'
+----------
+walked	right, up, down, left	concept: 'up'
+----------
+walked	right, up, left, down	concept: 'up'
+----------
+walked	right, down, up, left	concept: 'right'
+----------
+walked	right, down, left, up	concept: 'right'
+----------
+walked	right, left, up, down	concept: 'up'
+----------
+walked	right, left, down, up	concept: 'up'
+----------
+hunted	up, down, left, right	concept: 'down'
+----------
+hunted	up, down, right, left	concept: 'down'
+----------
+hunted	up, left, down, right	concept: 'down'
+----------
+hunted	up, left, right, down	concept: 'down'
+----------
+hunted	up, right, down, left	concept: 'down'
+----------
+hunted	up, right, left, down	concept: 'down'
+----------
+hunted	down, up, left, right	concept: 'down'
+----------
+hunted	down, up, right, left	concept: 'down'
+----------
+hunted	down, left, up, right	concept: 'down'
+----------
+hunted	down, left, right, up	concept: 'down'
+----------
+hunted	down, right, up, left	concept: 'down'
+----------
+hunted	down, right, left, up	concept: 'down'
+----------
+hunted	left, up, down, right	concept: 'down'
+----------
+hunted	left, up, right, down	concept: 'down'
+----------
+hunted	left, down, up, right	concept: 'down'
+----------
+hunted	left, down, right, up	concept: 'down'
+----------
+hunted	left, right, up, down	concept: 'down'
+----------
+hunted	left, right, down, up	concept: 'down'
+----------
+hunted	right, up, down, left	concept: 'down'
+----------
+hunted	right, up, left, down	concept: 'down'
+----------
+hunted	right, down, up, left	concept: 'down'
+----------
+hunted	right, down, left, up	concept: 'down'
+----------
+hunted	right, left, up, down	concept: 'down'
+----------
+hunted	right, left, down, up	concept: 'down'
+----------
+impacted	up, down, left, right	concept: 'down'
+----------
+impacted	up, down, right, left	concept: 'down'
+----------
+impacted	up, left, down, right	concept: 'down'
+----------
+impacted	up, left, right, down	concept: 'down'
+----------
+impacted	up, right, down, left	concept: 'down'
+----------
+impacted	up, right, left, down	concept: 'down'
+----------
+impacted	down, up, left, right	concept: 'down'
+----------
+impacted	down, up, right, left	concept: 'down'
+----------
+impacted	down, left, up, right	concept: 'down'
+----------
+impacted	down, left, right, up	concept: 'down'
+----------
+impacted	down, right, up, left	concept: 'down'
+----------
+impacted	down, right, left, up	concept: 'down'
+----------
+impacted	left, up, down, right	concept: 'down'
+----------
+impacted	left, up, right, down	concept: 'down'
+----------
+impacted	left, down, up, right	concept: 'down'
+----------
+impacted	left, down, right, up	concept: 'down'
+----------
+impacted	left, right, up, down	concept: 'down'
+----------
+impacted	left, right, down, up	concept: 'down'
+----------
+impacted	right, up, down, left	concept: 'down'
+----------
+impacted	right, up, left, down	concept: 'down'
+----------
+impacted	right, down, up, left	concept: 'down'
+----------
+impacted	right, down, left, up	concept: 'down'
+----------
+impacted	right, left, up, down	concept: 'down'
+----------
+impacted	right, left, down, up	concept: 'down'
+----------
+perched	up, down, left, right	concept: 'up'
+----------
+perched	up, down, right, left	concept: 'up'
+----------
+perched	up, left, down, right	concept: 'up'
+----------
+perched	up, left, right, down	concept: 'up'
+----------
+perched	up, right, down, left	concept: 'up'
+----------
+perched	up, right, left, down	concept: 'down'
+----------
+perched	down, up, left, right	concept: 'up'
+----------
+perched	down, up, right, left	concept: 'up'
+----------
+perched	down, left, up, right	concept: 'up'
+----------
+perched	down, left, right, up	concept: 'up'
+----------
+perched	down, right, up, left	concept: 'up'
+----------
+perched	down, right, left, up	concept: 'up'
+----------
+perched	left, up, down, right	concept: 'up'
+----------
+perched	left, up, right, down	concept: 'up'
+----------
+perched	left, down, up, right	concept: 'down'
+----------
+perched	left, down, right, up	concept: 'up'
+----------
+perched	left, right, up, down	concept: 'up'
+----------
+perched	left, right, down, up	concept: 'up'
+----------
+perched	right, up, down, left	concept: 'up'
+----------
+perched	right, up, left, down	concept: 'up'
+----------
+perched	right, down, up, left	concept: 'up'
+----------
+perched	right, down, left, up	concept: 'up'
+----------
+perched	right, left, up, down	concept: 'up'
+----------
+perched	right, left, down, up	concept: 'up'
+----------
+showed	up, down, left, right	concept: 'up'
+----------
+showed	up, down, right, left	concept: 'down'
+----------
+showed	up, left, down, right	concept: 'up'
+----------
+showed	up, left, right, down	concept: 'up'
+----------
+showed	up, right, down, left	concept: 'up'
+----------
+showed	up, right, left, down	concept: 'up'
+----------
+showed	down, up, left, right	concept: 'up'
+----------
+showed	down, up, right, left	concept: 'up'
+----------
+showed	down, left, up, right	concept: 'down'
+----------
+showed	down, left, right, up	concept: 'up'
+----------
+showed	down, right, up, left	concept: 'up'
+----------
+showed	down, right, left, up	concept: 'up'
+----------
+showed	left, up, down, right	concept: 'left'
+----------
+showed	left, up, right, down	concept: 'right'
+----------
+showed	left, down, up, right	concept: 'right'
+----------
+showed	left, down, right, up	concept: 'up'
+----------
+showed	left, right, up, down	concept: 'up'
+----------
+showed	left, right, down, up	concept: 'up'
+----------
+showed	right, up, down, left	concept: 'left'
+----------
+showed	right, up, left, down	concept: 'up'
+----------
+showed	right, down, up, left	concept: 'up'
+----------
+showed	right, down, left, up	concept: 'down'
+----------
+showed	right, left, up, down	concept: 'up'
+----------
+showed	right, left, down, up	concept: 'up'
+----------
+smashed	up, down, left, right	concept: 'down'
+----------
+smashed	up, down, right, left	concept: 'down'
+----------
+smashed	up, left, down, right	concept: 'down'
+----------
+smashed	up, left, right, down	concept: 'down'
+----------
+smashed	up, right, down, left	concept: 'down'
+----------
+smashed	up, right, left, down	concept: 'down'
+----------
+smashed	down, up, left, right	concept: 'down'
+----------
+smashed	down, up, right, left	concept: 'down'
+----------
+smashed	down, left, up, right	concept: 'down'
+----------
+smashed	down, left, right, up	concept: 'down'
+----------
+smashed	down, right, up, left	concept: 'down'
+----------
+smashed	down, right, left, up	concept: 'down'
+----------
+smashed	left, up, down, right	concept: 'down'
+----------
+smashed	left, up, right, down	concept: 'down'
+----------
+smashed	left, down, up, right	concept: 'down'
+----------
+smashed	left, down, right, up	concept: 'down'
+----------
+smashed	left, right, up, down	concept: 'down'
+----------
+smashed	left, right, down, up	concept: 'down'
+----------
+smashed	right, up, down, left	concept: 'down'
+----------
+smashed	right, up, left, down	concept: 'down'
+----------
+smashed	right, down, up, left	concept: 'down'
+----------
+smashed	right, down, left, up	concept: 'down'
+----------
+smashed	right, left, up, down	concept: 'down'
+----------
+smashed	right, left, down, up	concept: 'down'
+----------
+bombed	up, down, left, right	concept: 'down'
+----------
+bombed	up, down, right, left	concept: 'down'
+----------
+bombed	up, left, down, right	concept: 'down'
+----------
+bombed	up, left, right, down	concept: 'down'
+----------
+bombed	up, right, down, left	concept: 'down'
+----------
+bombed	up, right, left, down	concept: 'down'
+----------
+bombed	down, up, left, right	concept: 'down'
+----------
+bombed	down, up, right, left	concept: 'down'
+----------
+bombed	down, left, up, right	concept: 'down'
+----------
+bombed	down, left, right, up	concept: 'down'
+----------
+bombed	down, right, up, left	concept: 'down'
+----------
+bombed	down, right, left, up	concept: 'down'
+----------
+bombed	left, up, down, right	concept: 'down'
+----------
+bombed	left, up, right, down	concept: 'down'
+----------
+bombed	left, down, up, right	concept: 'down'
+----------
+bombed	left, down, right, up	concept: 'down'
+----------
+bombed	left, right, up, down	concept: 'down'
+----------
+bombed	left, right, down, up	concept: 'down'
+----------
+bombed	right, up, down, left	concept: 'down'
+----------
+bombed	right, up, left, down	concept: 'down'
+----------
+bombed	right, down, up, left	concept: 'down'
+----------
+bombed	right, down, left, up	concept: 'down'
+----------
+bombed	right, left, up, down	concept: 'down'
+----------
+bombed	right, left, down, up	concept: 'down'
+----------
+flew	up, down, left, right	concept: 'up'
+----------
+flew	up, down, right, left	concept: 'up'
+----------
+flew	up, left, down, right	concept: 'up'
+----------
+flew	up, left, right, down	concept: 'up'
+----------
+flew	up, right, down, left	concept: 'up'
+----------
+flew	up, right, left, down	concept: 'up'
+----------
+flew	down, up, left, right	concept: 'up'
+----------
+flew	down, up, right, left	concept: 'up'
+----------
+flew	down, left, up, right	concept: 'up'
+----------
+flew	down, left, right, up	concept: 'up'
+----------
+flew	down, right, up, left	concept: 'up'
+----------
+flew	down, right, left, up	concept: 'up'
+----------
+flew	left, up, down, right	concept: 'up'
+----------
+flew	left, up, right, down	concept: 'up'
+----------
+flew	left, down, up, right	concept: 'up'
+----------
+flew	left, down, right, up	concept: 'up'
+----------
+flew	left, right, up, down	concept: 'up'
+----------
+flew	left, right, down, up	concept: 'up'
+----------
+flew	right, up, down, left	concept: 'up'
+----------
+flew	right, up, left, down	concept: 'up'
+----------
+flew	right, down, up, left	concept: 'up'
+----------
+flew	right, down, left, up	concept: 'up'
+----------
+flew	right, left, up, down	concept: 'up'
+----------
+flew	right, left, down, up	concept: 'up'
+----------
+floated	up, down, left, right	concept: 'up'
+----------
+floated	up, down, right, left	concept: 'up'
+----------
+floated	up, left, down, right	concept: 'up'
+----------
+floated	up, left, right, down	concept: 'up'
+----------
+floated	up, right, down, left	concept: 'up'
+----------
+floated	up, right, left, down	concept: 'up'
+----------
+floated	down, up, left, right	concept: 'up'
+----------
+floated	down, up, right, left	concept: 'up'
+----------
+floated	down, left, up, right	concept: 'up'
+----------
+floated	down, left, right, up	concept: 'up'
+----------
+floated	down, right, up, left	concept: 'up'
+----------
+floated	down, right, left, up	concept: 'up'
+----------
+floated	left, up, down, right	concept: 'up'
+----------
+floated	left, up, right, down	concept: 'up'
+----------
+floated	left, down, up, right	concept: 'up'
+----------
+floated	left, down, right, up	concept: 'up'
+----------
+floated	left, right, up, down	concept: 'up'
+----------
+floated	left, right, down, up	concept: 'up'
+----------
+floated	right, up, down, left	concept: 'up'
+----------
+floated	right, up, left, down	concept: 'up'
+----------
+floated	right, down, up, left	concept: 'up'
+----------
+floated	right, down, left, up	concept: 'up'
+----------
+floated	right, left, up, down	concept: 'up'
+----------
+floated	right, left, down, up	concept: 'up'
+----------
+lifted	up, down, left, right	concept: 'up'
+----------
+lifted	up, down, right, left	concept: 'up'
+----------
+lifted	up, left, down, right	concept: 'up'
+----------
+lifted	up, left, right, down	concept: 'up'
+----------
+lifted	up, right, down, left	concept: 'up'
+----------
+lifted	up, right, left, down	concept: 'up'
+----------
+lifted	down, up, left, right	concept: 'up'
+----------
+lifted	down, up, right, left	concept: 'up'
+----------
+lifted	down, left, up, right	concept: 'up'
+----------
+lifted	down, left, right, up	concept: 'up'
+----------
+lifted	down, right, up, left	concept: 'up'
+----------
+lifted	down, right, left, up	concept: 'up'
+----------
+lifted	left, up, down, right	concept: 'up'
+----------
+lifted	left, up, right, down	concept: 'up'
+----------
+lifted	left, down, up, right	concept: 'up'
+----------
+lifted	left, down, right, up	concept: 'up'
+----------
+lifted	left, right, up, down	concept: 'up'
+----------
+lifted	left, right, down, up	concept: 'up'
+----------
+lifted	right, up, down, left	concept: 'up'
+----------
+lifted	right, up, left, down	concept: 'up'
+----------
+lifted	right, down, up, left	concept: 'up'
+----------
+lifted	right, down, left, up	concept: 'up'
+----------
+lifted	right, left, up, down	concept: 'up'
+----------
+lifted	right, left, down, up	concept: 'up'
+----------
+sank	up, down, left, right	concept: 'down'
+----------
+sank	up, down, right, left	concept: 'down'
+----------
+sank	up, left, down, right	concept: 'down'
+----------
+sank	up, left, right, down	concept: 'down'
+----------
+sank	up, right, down, left	concept: 'down'
+----------
+sank	up, right, left, down	concept: 'down'
+----------
+sank	down, up, left, right	concept: 'down'
+----------
+sank	down, up, right, left	concept: 'down'
+----------
+sank	down, left, up, right	concept: 'down'
+----------
+sank	down, left, right, up	concept: 'down'
+----------
+sank	down, right, up, left	concept: 'down'
+----------
+sank	down, right, left, up	concept: 'down'
+----------
+sank	left, up, down, right	concept: 'down'
+----------
+sank	left, up, right, down	concept: 'down'
+----------
+sank	left, down, up, right	concept: 'down'
+----------
+sank	left, down, right, up	concept: 'down'
+----------
+sank	left, right, up, down	concept: 'down'
+----------
+sank	left, right, down, up	concept: 'down'
+----------
+sank	right, up, down, left	concept: 'down'
+----------
+sank	right, up, left, down	concept: 'down'
+----------
+sank	right, down, up, left	concept: 'down'
+----------
+sank	right, down, left, up	concept: 'down'
+----------
+sank	right, left, up, down	concept: 'down'
+----------
+sank	right, left, down, up	concept: 'down'
+----------
+argued with	up, down, left, right	concept: 'left'
+----------
+argued with	up, down, right, left	concept: 'right'
+----------
+argued with	up, left, down, right	concept: 'left'
+----------
+argued with	up, left, right, down	concept: 'left'
+----------
+argued with	up, right, down, left	concept: 'right'
+----------
+argued with	up, right, left, down	concept: 'left'
+----------
+argued with	down, up, left, right	concept: 'left'
+----------
+argued with	down, up, right, left	concept: 'left'
+----------
+argued with	down, left, up, right	concept: 'left'
+----------
+argued with	down, left, right, up	concept: 'left'
+----------
+argued with	down, right, up, left	concept: 'left'
+----------
+argued with	down, right, left, up	concept: 'left'
+----------
+argued with	left, up, down, right	concept: 'left'
+----------
+argued with	left, up, right, down	concept: 'left'
+----------
+argued with	left, down, up, right	concept: 'left'
+----------
+argued with	left, down, right, up	concept: 'left'
+----------
+argued with	left, right, up, down	concept: 'left'
+----------
+argued with	left, right, down, up	concept: 'left'
+----------
+argued with	right, up, down, left	concept: 'left'
+----------
+argued with	right, up, left, down	concept: 'right'
+----------
+argued with	right, down, up, left	concept: 'left'
+----------
+argued with	right, down, left, up	concept: 'left'
+----------
+argued with	right, left, up, down	concept: 'left'
+----------
+argued with	right, left, down, up	concept: 'left'
+----------
+gave to	up, down, left, right	concept: 'right'
+----------
+gave to	up, down, right, left	concept: 'right'
+----------
+gave to	up, left, down, right	concept: 'right'
+----------
+gave to	up, left, right, down	concept: 'down'
+----------
+gave to	up, right, down, left	concept: 'right'
+----------
+gave to	up, right, left, down	concept: 'right'
+----------
+gave to	down, up, left, right	concept: 'left'
+----------
+gave to	down, up, right, left	concept: 'right'
+----------
+gave to	down, left, up, right	concept: 'right'
+----------
+gave to	down, left, right, up	concept: 'right'
+----------
+gave to	down, right, up, left	concept: 'right'
+----------
+gave to	down, right, left, up	concept: 'right'
+----------
+gave to	left, up, down, right	concept: 'left'
+----------
+gave to	left, up, right, down	concept: 'left'
+----------
+gave to	left, down, up, right	concept: 'right'
+----------
+gave to	left, down, right, up	concept: 'right'
+----------
+gave to	left, right, up, down	concept: 'right'
+----------
+gave to	left, right, down, up	concept: 'left'
+----------
+gave to	right, up, down, left	concept: 'left'
+----------
+gave to	right, up, left, down	concept: 'right'
+----------
+gave to	right, down, up, left	concept: 'right'
+----------
+gave to	right, down, left, up	concept: 'right'
+----------
+gave to	right, left, up, down	concept: 'right'
+----------
+gave to	right, left, down, up	concept: 'right'
+----------
+offended	up, down, left, right	concept: 'down'
+----------
+offended	up, down, right, left	concept: 'down'
+----------
+offended	up, left, down, right	concept: 'down'
+----------
+offended	up, left, right, down	concept: 'left'
+----------
+offended	up, right, down, left	concept: 'down'
+----------
+offended	up, right, left, down	concept: 'down'
+----------
+offended	down, up, left, right	concept: 'left'
+----------
+offended	down, up, right, left	concept: 'down'
+----------
+offended	down, left, up, right	concept: 'down'
+----------
+offended	down, left, right, up	concept: 'down'
+----------
+offended	down, right, up, left	concept: 'down'
+----------
+offended	down, right, left, up	concept: 'down'
+----------
+offended	left, up, down, right	concept: 'down'
+----------
+offended	left, up, right, down	concept: 'down'
+----------
+offended	left, down, up, right	concept: 'down'
+----------
+offended	left, down, right, up	concept: 'down'
+----------
+offended	left, right, up, down	concept: 'down'
+----------
+offended	left, right, down, up	concept: 'down'
+----------
+offended	right, up, down, left	concept: 'left'
+----------
+offended	right, up, left, down	concept: 'down'
+----------
+offended	right, down, up, left	concept: 'left'
+----------
+offended	right, down, left, up	concept: 'down'
+----------
+offended	right, left, up, down	concept: 'down'
+----------
+offended	right, left, down, up	concept: 'down'
+----------
+rushed	up, down, left, right	concept: 'up'
+----------
+rushed	up, down, right, left	concept: 'down'
+----------
+rushed	up, left, down, right	concept: 'down'
+----------
+rushed	up, left, right, down	concept: 'up'
+----------
+rushed	up, right, down, left	concept: 'right'
+----------
+rushed	up, right, left, down	concept: 'down'
+----------
+rushed	down, up, left, right	concept: 'up'
+----------
+rushed	down, up, right, left	concept: 'up'
+----------
+rushed	down, left, up, right	concept: 'up'
+----------
+rushed	down, left, right, up	concept: 'down'
+----------
+rushed	down, right, up, left	concept: 'right'
+----------
+rushed	down, right, left, up	concept: 'up'
+----------
+rushed	left, up, down, right	concept: 'up'
+----------
+rushed	left, up, right, down	concept: 'right'
+----------
+rushed	left, down, up, right	concept: 'right'
+----------
+rushed	left, down, right, up	concept: 'down'
+----------
+rushed	left, right, up, down	concept: 'down'
+----------
+rushed	left, right, down, up	concept: 'down'
+----------
+rushed	right, up, down, left	concept: 'down'
+----------
+rushed	right, up, left, down	concept: 'right'
+----------
+rushed	right, down, up, left	concept: 'right'
+----------
+rushed	right, down, left, up	concept: 'down'
+----------
+rushed	right, left, up, down	concept: 'right'
+----------
+rushed	right, left, down, up	concept: 'up'
+----------
+warned	up, down, left, right	concept: 'up'
+----------
+warned	up, down, right, left	concept: 'down'
+----------
+warned	up, left, down, right	concept: 'up'
+----------
+warned	up, left, right, down	concept: 'up'
+----------
+warned	up, right, down, left	concept: 'up'
+----------
+warned	up, right, left, down	concept: 'left'
+----------
+warned	down, up, left, right	concept: 'left'
+----------
+warned	down, up, right, left	concept: 'up'
+----------
+warned	down, left, up, right	concept: 'down'
+----------
+warned	down, left, right, up	concept: 'down'
+----------
+warned	down, right, up, left	concept: 'up'
+----------
+warned	down, right, left, up	concept: 'right'
+----------
+warned	left, up, down, right	concept: 'down'
+----------
+warned	left, up, right, down	concept: 'left'
+----------
+warned	left, down, up, right	concept: 'up'
+----------
+warned	left, down, right, up	concept: 'down'
+----------
+warned	left, right, up, down	concept: 'left'
+----------
+warned	left, right, down, up	concept: 'down'
+----------
+warned	right, up, down, left	concept: 'left'
+----------
+warned	right, up, left, down	concept: 'up'
+----------
+warned	right, down, up, left	concept: 'right'
+----------
+warned	right, down, left, up	concept: 'down'
+----------
+warned	right, left, up, down	concept: 'down'
+----------
+warned	right, left, down, up	concept: 'down'
+----------
+owned	up, down, left, right	concept: 'down'
+----------
+owned	up, down, right, left	concept: 'down'
+----------
+owned	up, left, down, right	concept: 'down'
+----------
+owned	up, left, right, down	concept: 'down'
+----------
+owned	up, right, down, left	concept: 'down'
+----------
+owned	up, right, left, down	concept: 'down'
+----------
+owned	down, up, left, right	concept: 'down'
+----------
+owned	down, up, right, left	concept: 'down'
+----------
+owned	down, left, up, right	concept: 'down'
+----------
+owned	down, left, right, up	concept: 'down'
+----------
+owned	down, right, up, left	concept: 'down'
+----------
+owned	down, right, left, up	concept: 'down'
+----------
+owned	left, up, down, right	concept: 'down'
+----------
+owned	left, up, right, down	concept: 'down'
+----------
+owned	left, down, up, right	concept: 'down'
+----------
+owned	left, down, right, up	concept: 'down'
+----------
+owned	left, right, up, down	concept: 'right'
+----------
+owned	left, right, down, up	concept: 'down'
+----------
+owned	right, up, down, left	concept: 'down'
+----------
+owned	right, up, left, down	concept: 'down'
+----------
+owned	right, down, up, left	concept: 'right'
+----------
+owned	right, down, left, up	concept: 'down'
+----------
+owned	right, left, up, down	concept: 'down'
+----------
+owned	right, left, down, up	concept: 'down'
+----------
+regretted	up, down, left, right	concept: 'down'
+----------
+regretted	up, down, right, left	concept: 'down'
+----------
+regretted	up, left, down, right	concept: 'down'
+----------
+regretted	up, left, right, down	concept: 'left'
+----------
+regretted	up, right, down, left	concept: 'down'
+----------
+regretted	up, right, left, down	concept: 'down'
+----------
+regretted	down, up, left, right	concept: 'down'
+----------
+regretted	down, up, right, left	concept: 'down'
+----------
+regretted	down, left, up, right	concept: 'down'
+----------
+regretted	down, left, right, up	concept: 'down'
+----------
+regretted	down, right, up, left	concept: 'down'
+----------
+regretted	down, right, left, up	concept: 'left'
+----------
+regretted	left, up, down, right	concept: 'left'
+----------
+regretted	left, up, right, down	concept: 'down'
+----------
+regretted	left, down, up, right	concept: 'left'
+----------
+regretted	left, down, right, up	concept: 'down'
+----------
+regretted	left, right, up, down	concept: 'down'
+----------
+regretted	left, right, down, up	concept: 'down'
+----------
+regretted	right, up, down, left	concept: 'left'
+----------
+regretted	right, up, left, down	concept: 'left'
+----------
+regretted	right, down, up, left	concept: 'left'
+----------
+regretted	right, down, left, up	concept: 'down'
+----------
+regretted	right, left, up, down	concept: 'down'
+----------
+regretted	right, left, down, up	concept: 'left'
+----------
+rested	up, down, left, right	concept: 'down'
+----------
+rested	up, down, right, left	concept: 'down'
+----------
+rested	up, left, down, right	concept: 'down'
+----------
+rested	up, left, right, down	concept: 'down'
+----------
+rested	up, right, down, left	concept: 'down'
+----------
+rested	up, right, left, down	concept: 'down'
+----------
+rested	down, up, left, right	concept: 'down'
+----------
+rested	down, up, right, left	concept: 'down'
+----------
+rested	down, left, up, right	concept: 'down'
+----------
+rested	down, left, right, up	concept: 'down'
+----------
+rested	down, right, up, left	concept: 'down'
+----------
+rested	down, right, left, up	concept: 'down'
+----------
+rested	left, up, down, right	concept: 'down'
+----------
+rested	left, up, right, down	concept: 'down'
+----------
+rested	left, down, up, right	concept: 'down'
+----------
+rested	left, down, right, up	concept: 'down'
+----------
+rested	left, right, up, down	concept: 'down'
+----------
+rested	left, right, down, up	concept: 'down'
+----------
+rested	right, up, down, left	concept: 'down'
+----------
+rested	right, up, left, down	concept: 'down'
+----------
+rested	right, down, up, left	concept: 'down'
+----------
+rested	right, down, left, up	concept: 'down'
+----------
+rested	right, left, up, down	concept: 'down'
+----------
+rested	right, left, down, up	concept: 'down'
+----------
+tempted	up, down, left, right	concept: 'left'
+----------
+tempted	up, down, right, left	concept: 'down'
+----------
+tempted	up, left, down, right	concept: 'down'
+----------
+tempted	up, left, right, down	concept: 'down'
+----------
+tempted	up, right, down, left	concept: 'down'
+----------
+tempted	up, right, left, down	concept: 'down'
+----------
+tempted	down, up, left, right	concept: 'down'
+----------
+tempted	down, up, right, left	concept: 'down'
+----------
+tempted	down, left, up, right	concept: 'left'
+----------
+tempted	down, left, right, up	concept: 'left'
+----------
+tempted	down, right, up, left	concept: 'down'
+----------
+tempted	down, right, left, up	concept: 'left'
+----------
+tempted	left, up, down, right	concept: 'down'
+----------
+tempted	left, up, right, down	concept: 'left'
+----------
+tempted	left, down, up, right	concept: 'down'
+----------
+tempted	left, down, right, up	concept: 'down'
+----------
+tempted	left, right, up, down	concept: 'left'
+----------
+tempted	left, right, down, up	concept: 'left'
+----------
+tempted	right, up, down, left	concept: 'down'
+----------
+tempted	right, up, left, down	concept: 'left'
+----------
+tempted	right, down, up, left	concept: 'down'
+----------
+tempted	right, down, left, up	concept: 'down'
+----------
+tempted	right, left, up, down	concept: 'down'
+----------
+tempted	right, left, down, up	concept: 'down'
+----------
+wanted	up, down, left, right	concept: 'up'
+----------
+wanted	up, down, right, left	concept: 'down'
+----------
+wanted	up, left, down, right	concept: 'up'
+----------
+wanted	up, left, right, down	concept: 'up'
+----------
+wanted	up, right, down, left	concept: 'up'
+----------
+wanted	up, right, left, down	concept: 'up'
+----------
+wanted	down, up, left, right	concept: 'right'
+----------
+wanted	down, up, right, left	concept: 'up'
+----------
+wanted	down, left, up, right	concept: 'up'
+----------
+wanted	down, left, right, up	concept: 'up'
+----------
+wanted	down, right, up, left	concept: 'up'
+----------
+wanted	down, right, left, up	concept: 'up'
+----------
+wanted	left, up, down, right	concept: 'up'
+----------
+wanted	left, up, right, down	concept: 'right'
+----------
+wanted	left, down, up, right	concept: 'right'
+----------
+wanted	left, down, right, up	concept: 'right'
+----------
+wanted	left, right, up, down	concept: 'up'
+----------
+wanted	left, right, down, up	concept: 'right'
+----------
+wanted	right, up, down, left	concept: 'up'
+----------
+wanted	right, up, left, down	concept: 'right'
+----------
+wanted	right, down, up, left	concept: 'right'
+----------
+wanted	right, down, left, up	concept: 'right'
+----------
+wanted	right, left, up, down	concept: 'left'
+----------
+wanted	right, left, down, up	concept: 'up'
+----------
+hoped	up, down, left, right	concept: 'up'
+----------
+hoped	up, down, right, left	concept: 'up'
+----------
+hoped	up, left, down, right	concept: 'up'
+----------
+hoped	up, left, right, down	concept: 'up'
+----------
+hoped	up, right, down, left	concept: 'up'
+----------
+hoped	up, right, left, down	concept: 'up'
+----------
+hoped	down, up, left, right	concept: 'up'
+----------
+hoped	down, up, right, left	concept: 'up'
+----------
+hoped	down, left, up, right	concept: 'up'
+----------
+hoped	down, left, right, up	concept: 'up'
+----------
+hoped	down, right, up, left	concept: 'up'
+----------
+hoped	down, right, left, up	concept: 'up'
+----------
+hoped	left, up, down, right	concept: 'up'
+----------
+hoped	left, up, right, down	concept: 'up'
+----------
+hoped	left, down, up, right	concept: 'up'
+----------
+hoped	left, down, right, up	concept: 'up'
+----------
+hoped	left, right, up, down	concept: 'up'
+----------
+hoped	left, right, down, up	concept: 'up'
+----------
+hoped	right, up, down, left	concept: 'up'
+----------
+hoped	right, up, left, down	concept: 'up'
+----------
+hoped	right, down, up, left	concept: 'up'
+----------
+hoped	right, down, left, up	concept: 'up'
+----------
+hoped	right, left, up, down	concept: 'up'
+----------
+hoped	right, left, down, up	concept: 'up'
+----------
+increased	up, down, left, right	concept: 'up'
+----------
+increased	up, down, right, left	concept: 'up'
+----------
+increased	up, left, down, right	concept: 'up'
+----------
+increased	up, left, right, down	concept: 'up'
+----------
+increased	up, right, down, left	concept: 'up'
+----------
+increased	up, right, left, down	concept: 'up'
+----------
+increased	down, up, left, right	concept: 'up'
+----------
+increased	down, up, right, left	concept: 'up'
+----------
+increased	down, left, up, right	concept: 'up'
+----------
+increased	down, left, right, up	concept: 'up'
+----------
+increased	down, right, up, left	concept: 'up'
+----------
+increased	down, right, left, up	concept: 'up'
+----------
+increased	left, up, down, right	concept: 'up'
+----------
+increased	left, up, right, down	concept: 'up'
+----------
+increased	left, down, up, right	concept: 'up'
+----------
+increased	left, down, right, up	concept: 'up'
+----------
+increased	left, right, up, down	concept: 'up'
+----------
+increased	left, right, down, up	concept: 'up'
+----------
+increased	right, up, down, left	concept: 'up'
+----------
+increased	right, up, left, down	concept: 'up'
+----------
+increased	right, down, up, left	concept: 'up'
+----------
+increased	right, down, left, up	concept: 'up'
+----------
+increased	right, left, up, down	concept: 'up'
+----------
+increased	right, left, down, up	concept: 'up'
+----------
+obeyed	up, down, left, right	concept: 'right'
+----------
+obeyed	up, down, right, left	concept: 'right'
+----------
+obeyed	up, left, down, right	concept: 'down'
+----------
+obeyed	up, left, right, down	concept: 'down'
+----------
+obeyed	up, right, down, left	concept: 'right'
+----------
+obeyed	up, right, left, down	concept: 'right'
+----------
+obeyed	down, up, left, right	concept: 'down'
+----------
+obeyed	down, up, right, left	concept: 'right'
+----------
+obeyed	down, left, up, right	concept: 'down'
+----------
+obeyed	down, left, right, up	concept: 'down'
+----------
+obeyed	down, right, up, left	concept: 'right'
+----------
+obeyed	down, right, left, up	concept: 'down'
+----------
+obeyed	left, up, down, right	concept: 'right'
+----------
+obeyed	left, up, right, down	concept: 'down'
+----------
+obeyed	left, down, up, right	concept: 'right'
+----------
+obeyed	left, down, right, up	concept: 'right'
+----------
+obeyed	left, right, up, down	concept: 'down'
+----------
+obeyed	left, right, down, up	concept: 'right'
+----------
+obeyed	right, up, down, left	concept: 'right'
+----------
+obeyed	right, up, left, down	concept: 'right'
+----------
+obeyed	right, down, up, left	concept: 'down'
+----------
+obeyed	right, down, left, up	concept: 'right'
+----------
+obeyed	right, left, up, down	concept: 'right'
+----------
+obeyed	right, left, down, up	concept: 'down'
+----------
+respected	up, down, left, right	concept: 'up'
+----------
+respected	up, down, right, left	concept: 'up'
+----------
+respected	up, left, down, right	concept: 'up'
+----------
+respected	up, left, right, down	concept: 'up'
+----------
+respected	up, right, down, left	concept: 'up'
+----------
+respected	up, right, left, down	concept: 'up'
+----------
+respected	down, up, left, right	concept: 'up'
+----------
+respected	down, up, right, left	concept: 'up'
+----------
+respected	down, left, up, right	concept: 'up'
+----------
+respected	down, left, right, up	concept: 'up'
+----------
+respected	down, right, up, left	concept: 'up'
+----------
+respected	down, right, left, up	concept: 'right'
+----------
+respected	left, up, down, right	concept: 'up'
+----------
+respected	left, up, right, down	concept: 'down'
+----------
+respected	left, down, up, right	concept: 'up'
+----------
+respected	left, down, right, up	concept: 'up'
+----------
+respected	left, right, up, down	concept: 'right'
+----------
+respected	left, right, down, up	concept: 'up'
+----------
+respected	right, up, down, left	concept: 'right'
+----------
+respected	right, up, left, down	concept: 'up'
+----------
+respected	right, down, up, left	concept: 'up'
+----------
+respected	right, down, left, up	concept: 'right'
+----------
+respected	right, left, up, down	concept: 'up'
+----------
+respected	right, left, down, up	concept: 'right'
+----------
+succeeded	up, down, left, right	concept: 'up'
+----------
+succeeded	up, down, right, left	concept: 'up'
+----------
+succeeded	up, left, down, right	concept: 'up'
+----------
+succeeded	up, left, right, down	concept: 'up'
+----------
+succeeded	up, right, down, left	concept: 'up'
+----------
+succeeded	up, right, left, down	concept: 'up'
+----------
+succeeded	down, up, left, right	concept: 'up'
+----------
+succeeded	down, up, right, left	concept: 'right'
+----------
+succeeded	down, left, up, right	concept: 'up'
+----------
+succeeded	down, left, right, up	concept: 'up'
+----------
+succeeded	down, right, up, left	concept: 'up'
+----------
+succeeded	down, right, left, up	concept: 'right'
+----------
+succeeded	left, up, down, right	concept: 'right'
+----------
+succeeded	left, up, right, down	concept: 'up'
+----------
+succeeded	left, down, up, right	concept: 'up'
+----------
+succeeded	left, down, right, up	concept: 'right'
+----------
+succeeded	left, right, up, down	concept: 'up'
+----------
+succeeded	left, right, down, up	concept: 'up'
+----------
+succeeded	right, up, down, left	concept: 'right'
+----------
+succeeded	right, up, left, down	concept: 'up'
+----------
+succeeded	right, down, up, left	concept: 'up'
+----------
+succeeded	right, down, left, up	concept: 'right'
+----------
+succeeded	right, left, up, down	concept: 'up'
+----------
+succeeded	right, left, down, up	concept: 'up'
+----------

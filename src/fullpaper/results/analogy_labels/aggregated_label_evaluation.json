@@ -1,0 +1,88 @@
+{
+  "LLM": {
+    "gpt": {
+      "pseudo_4-mini": {
+        "average_spearman": 0.1404343269323677,
+        "average_f1": 0.4005816268087683
+      },
+      "text_4-mini": {
+        "average_spearman": 0.12303151446606636,
+        "average_f1": 0.3913163633467981
+      },
+      "pseudo_4": {
+        "average_spearman": 0.13795263814578862,
+        "average_f1": 0.4098933845398107
+      },
+      "text_4": {
+        "average_spearman": 0.11593319185232676,
+        "average_f1": 0.40550815944498814
+      },
+      "text_3.5": {
+        "average_spearman": 0.16581990419701084,
+        "average_f1": 0.4251356350009574
+      },
+      "pseudo_3.5": {
+        "average_spearman": 0.14385019694806908,
+        "average_f1": 0.42399612999952835
+      }
+    },
+    "llama": {
+      "text_70b": {
+        "average_spearman": 0.15606956746159367,
+        "average_f1": 0.42983034473809084
+      },
+      "text_r1-llama": {
+        "average_spearman": 0.1405220055606537,
+        "average_f1": 0.4171526403917528
+      },
+      "pseudo_70b_inst": {
+        "average_spearman": 0.19852711690780414,
+        "average_f1": 0.42642257686960594
+      },
+      "pseudo_70b": {
+        "average_spearman": 0.156962621982888,
+        "average_f1": 0.408123336066774
+      },
+      "text_70b_inst": {
+        "average_spearman": 0.16596588519973893,
+        "average_f1": 0.42576014856354066
+      },
+      "pseudo_r1-llama": {
+        "average_spearman": 0.13742432125494602,
+        "average_f1": 0.42674071977405315
+      }
+    },
+    "reasoning": {
+      "pseudo_o1-preview": {
+        "average_spearman": 0.00037384685993092914,
+        "average_f1": 0.3675411903287929
+      },
+      "text_o1-preview": {
+        "average_spearman": 0.0821344729090359,
+        "average_f1": 0.4303449215387296
+      }
+    }
+  },
+  "VLM": {
+    "molmo": {
+      "72b": {
+        "average_spearman": 0.3508222759557602,
+        "average_f1": 0.4278128106886728
+      },
+      "7b": {
+        "average_spearman": 0.23380318459542535,
+        "average_f1": 0.4237919740090126
+      }
+    },
+    "qwen-vl": {
+      "7b": {
+        "average_spearman": 0.5488536039564639,
+        "average_f1": 0.5216766314760858
+      },
+      "-72b": {
+        "average_spearman": 0.23785021923209618,
+        "average_f1": 0.42151425191424013
+      }
+    }
+  }
+}

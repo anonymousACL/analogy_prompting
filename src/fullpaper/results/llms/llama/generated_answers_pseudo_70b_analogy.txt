@@ -1,0 +1,2883 @@
+fled	↑, ↓, ←, →	      analogy:  fleeing implies moving away from something quickly. The arrow pointing upwards (↑) suggests upward movement which could represent escaping or running away from danger.
+                
+                concept: ↑}<|end_of_text|>
+----------
+fled	↑, ↓, →, ←	      analogy:  fleeing implies moving away from something quickly. The arrow pointing away from the center represents this idea well.
+                
+                concept: ← } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } }
+----------
+fled	↑, ←, ↓, →	      analogy:  'fleeing' often involves moving away from something quickly. A person running away from danger for example.
+                
+                concept: '←' or '→' depending on which direction they were fleeing in. }<|end_of_text|>
+----------
+fled	↑, ←, →, ↓	      analogy:  'fleeing' often involves moving away from something quickly. A person running away from danger for example.
+                
+                concept: '←' or '→' depending on which direction they were fleeing in. }user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user
+----------
+fled	↑, →, ↓, ←	      analogy:  fleeing implies moving away from something, usually quickly. The arrow pointing left (←) suggests this motion most clearly.
+                
+                concept: ←}<|end_of_text|>
+----------
+fled	↑, →, ←, ↓	      analogy:  'fleeing' often involves moving away from something quickly. A person running away from danger for example.
+                
+                concept: '←' or '→' depending on which direction they were fleeing in. }<|end_of_text|>
+----------
+fled	↓, ↑, ←, →	      analogy:  fleeing implies moving away from something, usually quickly. The arrow pointing downwards (↓) suggests a downward motion, which could represent running away or escaping.
+                
+                concept: ↓}<|end_of_text|>
+----------
+fled	↓, ↑, →, ←	      analogy:  fleeing implies moving away from something, usually quickly. The arrow pointing downwards (↓) suggests a downward motion, which could represent running away or escaping.
+                
+                concept: ↓}<|end_of_text|>
+----------
+fled	↓, ←, ↑, →	      analogy:  'fleeing' often involves moving away from something quickly. A person running away from danger for example.
+                
+                concept: '←' or '→' depending on which direction they were fleeing in. }<|end_of_text|>
+----------
+fled	↓, ←, →, ↑	      analogy:  'fleeing' often involves moving away from something quickly. A person running away from danger for example.
+                
+                concept: '←' or '→' depending on which direction they were fleeing in. }user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user
+----------
+fled	↓, →, ↑, ←	      analogy:  fleeing implies moving away from something, usually quickly. The arrow pointing downwards (↓) suggests a downward motion, which could represent running away or escaping.
+                
+                concept: ↓}<|end_of_text|>
+----------
+fled	↓, →, ←, ↑	      analogy:  fleeing implies moving away from something quickly. The arrow pointing downwards could represent this as it suggests movement downwards and away from the observer.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+fled	←, ↑, ↓, →	      analogy:  'fleeing' often involves moving away from something or someone. The arrow pointing left (←) represents this idea of moving away from something.
+                
+                concept: '←' }<|end_of_text|>
+----------
+fled	←, ↑, →, ↓	      analogy:  fleeing implies moving away from something, usually quickly. The arrow pointing left (←) suggests moving away from something, while the other arrows suggest moving towards something.
+                
+                concept: ←}<|end_of_text|>
+----------
+fled	←, ↓, ↑, →	      analogy:  'fleeing' often involves moving away from something or someone. The arrow pointing left (←) represents this idea of moving away from something.
+                
+                concept: '←' }<|end_of_text|>
+----------
+fled	←, ↓, →, ↑	      analogy:  'fleeing' often involves moving away from something or someone. The arrow pointing left (←) represents this idea of moving away from something.
+                
+                concept: '←' }<|end_of_text|>
+----------
+fled	←, →, ↑, ↓	      analogy:  fleeing implies moving away from something, usually quickly. The arrow pointing left (←) suggests this motion most clearly.
+                
+                concept: ←}<|end_of_text|>
+----------
+fled	←, →, ↓, ↑	      analogy:  fleeing implies moving away from something, usually quickly. The arrow pointing left (←) suggests this motion most clearly.
+                
+                concept: ←}<|end_of_text|>
+----------
+fled	→, ↑, ↓, ←	      analogy:  'fleeing' often involves moving away from something quickly. A person running away from danger for example.
+                
+                concept: '←' }<|end_of_text|>
+----------
+fled	→, ↑, ←, ↓	      analogy:  'fleeing' often involves moving away from something quickly. A person running away from danger for example.
+                
+                concept: '←' or '→' depending on whether they are fleeing towards or away from the observer. }<|end_of_text|>
+----------
+fled	→, ↓, ↑, ←	      analogy:  fleeing implies moving away from something quickly. The arrow pointing left (←) suggests this motion.
+                
+                concept: ←}<|end_of_text|>
+----------
+fled	→, ↓, ←, ↑	      analogy:  fleeing implies moving away from something quickly. The arrow pointing downwards (↓) suggests a downward motion which could represent running away from danger.
+                
+                concept: ↓}<|end_of_text|>
+----------
+fled	→, ←, ↑, ↓	      analogy:  fleeing implies moving away from something, usually quickly. The arrow pointing left (←) suggests this motion most clearly.
+                
+                concept: ←}<|end_of_text|>
+----------
+fled	→, ←, ↓, ↑	      analogy:  'fleeing' often involves moving away from something quickly. A person running away from danger for example.
+                
+                concept: '←' or '→' depending on whether they are fleeing towards or away from the observer. }<|end_of_text|>
+----------
+pointed at	↑, ↓, ←, →	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	↑, ↓, →, ←	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' or '←' depending on the direction of the pointing. }<|end_of_text|>
+----------
+pointed at	↑, ←, ↓, →	      analogy:  'pointing' often involves directing attention towards something. Raising a finger and gesturing towards something for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	↑, ←, →, ↓	      analogy:  'pointing' often involves directing attention towards something. Raising a finger and pointing it at something for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	↑, →, ↓, ←	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	↑, →, ←, ↓	      analogy:  'pointing' often involves directing attention towards something. Raising a finger and pointing it at something for example.
+                
+                concept: '→' or '←' depending on the direction of the pointing. }<|end_of_text|>
+----------
+pointed at	↓, ↑, ←, →	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	↓, ↑, →, ←	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' or '←' depending on the direction of the pointing. }<|end_of_text|>
+----------
+pointed at	↓, ←, ↑, →	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	↓, ←, →, ↑	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	↓, →, ↑, ←	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	↓, →, ←, ↑	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' or '←' depending on the direction of the pointing. }<|end_of_text|>
+----------
+pointed at	←, ↑, ↓, →	      analogy:  'pointing' often involves directing attention towards something. Raising a finger and gesturing towards something for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	←, ↑, →, ↓	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	←, ↓, ↑, →	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	←, ↓, →, ↑	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	←, →, ↑, ↓	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	←, →, ↓, ↑	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	→, ↑, ↓, ←	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	→, ↑, ←, ↓	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	→, ↓, ↑, ←	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	→, ↓, ←, ↑	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pointed at	→, ←, ↑, ↓	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' or '←' depending on the direction of the pointing. }<|end_of_text|>
+----------
+pointed at	→, ←, ↓, ↑	      analogy:  'pointing' often involves directing attention towards something. A finger pointing towards a specific direction for example.
+                
+                concept: '→' or '←' depending on the direction of the pointing. }<|end_of_text|>
+----------
+pulled	↑, ↓, ←, →	      analogy:  pulling is a force applied in a direction. The arrow pointing towards the direction of the pull is a good representation of this.
+                
+                concept: → }<|end_of_text|>
+----------
+pulled	↑, ↓, →, ←	      analogy:  pulling is a force applied in a direction. The arrow pointing towards the direction of the pull is a good representation of this.
+                
+                concept: → }<|end_of_text|>
+----------
+pulled	↑, ←, ↓, →	      analogy:  pulling is a force applied in a direction. The arrow pointing up represents a force applied in the upward direction.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+pulled	↑, ←, →, ↓	      analogy:  pulling is a force applied in a direction. The arrow pointing up represents a force applied in the upward direction.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+pulled	↑, →, ↓, ←	      analogy:  pulling is a force applied in a direction. The arrow pointing up represents a force applied in the upward direction.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+pulled	↑, →, ←, ↓	      analogy:  pulling is a force applied in a direction. The arrow pointing up represents a force applied in the upward direction.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+pulled	↓, ↑, ←, →	      analogy:  pulling is a force applied in a direction. The arrow pointing down represents a downward force, which could be used to pull something towards the ground.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+pulled	↓, ↑, →, ←	      analogy:  pulling is a force applied in a direction. The arrow pointing down represents a downward force, which could be used to pull something towards the ground.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+pulled	↓, ←, ↑, →	      analogy:  pulling is a force applied in a direction. The arrow pointing down represents a force applied downwards.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+pulled	↓, ←, →, ↑	      analogy:  pulling is a force applied in a direction. The arrow pointing down represents a force applied downwards.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+pulled	↓, →, ↑, ←	      analogy:  pulling is a force applied in a direction. The arrow pointing down represents a force applied downwards.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+pulled	↓, →, ←, ↑	      analogy:  pulling is a force applied in a direction. The arrow pointing down represents a force applied downwards.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+pulled	←, ↑, ↓, →	      analogy:  pulling is a force applied in a direction. The arrow pointing left indicates a force applied in that direction.
+                
+                concept: '←' }<|end_of_text|>
+----------
+pulled	←, ↑, →, ↓	      analogy:  pulling is a force applied in a direction. The arrow pointing towards the direction of the pull is a good representation of this.
+                
+                concept: '←' or '→' depending on the direction of the pull. }<|end_of_text|>
+----------
+pulled	←, ↓, ↑, →	      analogy:  pulling is a force applied in a direction. The arrow pointing left indicates a force applied in that direction.
+                
+                concept: '←' }<|end_of_text|>
+----------
+pulled	←, ↓, →, ↑	      analogy:  pulling is a force applied in a direction. The arrow pointing down represents a force applied downwards.
+                
+                concept: ↓}<|end_of_text|>
+----------
+pulled	←, →, ↑, ↓	      analogy:  pulling is a force applied in a direction. The arrow pointing towards the direction of the pull is a good representation of this.
+                
+                concept: '←' or '→' depending on the direction of the pull. }<|end_of_text|>
+----------
+pulled	←, →, ↓, ↑	      analogy:  pulling is a force applied in a direction. The arrow pointing towards the direction of the pull is the most appropriate choice.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pulled	→, ↑, ↓, ←	      analogy:  pulling is a force applied in a direction. The arrow pointing to the right represents a force applied in that direction.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pulled	→, ↑, ←, ↓	      analogy:  pulling is a force applied in a direction. The arrow pointing to the right represents a force applied in that direction.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pulled	→, ↓, ↑, ←	      analogy:  pulling is a force applied in a direction. The arrow pointing towards the direction of the pull is a good representation of this.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pulled	→, ↓, ←, ↑	      analogy:  pulling is a force applied in a direction. The arrow pointing towards the direction of the pull is a good representation of this.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pulled	→, ←, ↑, ↓	      analogy:  pulling is a force applied in a direction. The arrow pointing towards the direction of the pull is a good representation of this.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pulled	→, ←, ↓, ↑	      analogy:  pulling is a force applied in a direction. The arrow pointing towards the direction of the pull is a good representation of this.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↑, ↓, ←, →	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↑, ↓, →, ←	      analogy:  'pushing' often involves exerting force against something to move it away from oneself. For example, pushing a door open or pushing a button to activate a machine.
+                
+                concept: '→' (right arrow) because it represents moving something away from oneself. }<|end_of_text|>
+----------
+pushed	↑, ←, ↓, →	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↑, ←, →, ↓	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↑, →, ↓, ←	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↑, →, ←, ↓	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↓, ↑, ←, →	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↓, ↑, →, ←	      analogy:  'pushing' often involves exerting force against something to move it away from oneself. For example, pushing a door open or pushing a button to activate a machine.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↓, ←, ↑, →	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↓, ←, →, ↑	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↓, →, ↑, ←	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	↓, →, ←, ↑	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' or '←' depending on the direction of the push. }<|end_of_text|>
+----------
+pushed	←, ↑, ↓, →	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	←, ↑, →, ↓	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	←, ↓, ↑, →	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	←, ↓, →, ↑	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	←, →, ↑, ↓	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	←, →, ↓, ↑	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	→, ↑, ↓, ←	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	→, ↑, ←, ↓	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	→, ↓, ↑, ←	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	→, ↓, ←, ↑	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	→, ←, ↑, ↓	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+pushed	→, ←, ↓, ↑	      analogy:  'pushing' often involves exerting force in a particular direction. For example, pushing a door open or pushing a button.
+                
+                concept: '→' }<|end_of_text|>
+----------
+walked	↑, ↓, ←, →	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by an arrow pointing upwards (↑) as it indicates movement in a positive direction.
+                
+                concept: ↑}<|end_of_text|>
+----------
+walked	↑, ↓, →, ←	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by an arrow pointing upwards (↑) as it indicates movement in a positive direction.
+                
+                concept: ↑}<|end_of_text|>
+----------
+walked	↑, ←, ↓, →	      analogy:  walking is a form of locomotion that involves moving forward. The arrow pointing upwards represents this idea well because it suggests movement in a positive direction.
+                
+                concept: ↑}<|end_of_text|>
+----------
+walked	↑, ←, →, ↓	      analogy:  walking is a form of locomotion that involves moving forward. The arrow pointing upwards represents this idea well because it suggests movement in a positive direction.
+                
+                concept: ↑}<|end_of_text|>
+----------
+walked	↑, →, ↓, ←	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by an arrow pointing upwards (↑) as it indicates movement in a positive direction.
+                
+                concept: ↑}<|end_of_text|>
+----------
+walked	↑, →, ←, ↓	      analogy:  walking is a form of locomotion that involves moving forward. The arrow pointing upwards represents this idea well because it suggests movement in a positive direction.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+walked	↓, ↑, ←, →	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by the arrow pointing downwards (↓) as it indicates movement in a downward direction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+walked	↓, ↑, →, ←	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by an arrow pointing upwards (↑) as it indicates movement in a positive direction.
+                
+                concept: ↑}<|end_of_text|>
+----------
+walked	↓, ←, ↑, →	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. The arrow pointing right (→) represents this motion well.
+                
+                concept: →}<|end_of_text|>
+----------
+walked	↓, ←, →, ↑	      analogy:  walking is a form of locomotion that involves moving forward. The arrow pointing upwards represents this movement.
+                
+                concept: ↑}<|end_of_text|>
+----------
+walked	↓, →, ↑, ←	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by an arrow pointing downwards (↓) as it indicates movement in a downward direction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+walked	↓, →, ←, ↑	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. The arrow pointing downwards represents this motion as it indicates a direction of movement.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+walked	←, ↑, ↓, →	      analogy:  'walking' involves moving forward in a straight line. The arrow pointing right (→) represents this motion well.
+                
+                concept: →}<|end_of_text|>
+----------
+walked	←, ↑, →, ↓	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by the arrow pointing upwards (↑).
+                
+                concept: ↑}<|end_of_text|>
+----------
+walked	←, ↓, ↑, →	      analogy:  'walking' involves moving forward in a straight line. The arrow pointing right (→) represents this motion well.
+                
+                concept: →}<|end_of_text|>
+----------
+walked	←, ↓, →, ↑	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by the arrow pointing upwards (↑).
+                
+                concept: ↑}<|end_of_text|>
+----------
+walked	←, →, ↑, ↓	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by the arrow pointing upwards (↑).
+                
+                concept: ↑}<|end_of_text|>
+----------
+walked	←, →, ↓, ↑	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by the arrow pointing downwards (↓) as it indicates movement in a downward direction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+walked	→, ↑, ↓, ←	      analogy:  'walking' involves moving forward in a straight line. The arrow pointing right (→) represents this motion well.
+                
+                concept: '→' }<|end_of_text|>
+----------
+walked	→, ↑, ←, ↓	      analogy:  walking is a form of locomotion that involves moving forward in a straight line. The arrow pointing right (→) represents this motion well.
+                
+                concept: →}<|end_of_text|>
+----------
+walked	→, ↓, ↑, ←	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by an arrow pointing in the direction of movement.
+                
+                concept: '→' }<|end_of_text|>
+----------
+walked	→, ↓, ←, ↑	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by an arrow pointing in the direction of movement.
+                
+                concept: '→' }<|end_of_text|>
+----------
+walked	→, ←, ↑, ↓	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by an arrow pointing in the direction of movement.
+                
+                concept: '→' }<|end_of_text|>
+----------
+walked	→, ←, ↓, ↑	      analogy:  walking is a form of locomotion where one moves forward by placing one foot in front of the other. This can be represented by an arrow pointing in the direction of movement.
+                
+                concept: '→' }<|end_of_text|>
+----------
+hunted	↑, ↓, ←, →	      analogy:  'hunting' often involves pursuing or chasing after something. The arrow pointing upwards could represent the hunter moving towards their prey.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hunted	↑, ↓, →, ←	      analogy:  'hunting' often involves pursuing or chasing after something. A predator stalking its prey for example.
+                
+                concept: '→' or '←' depending on whether the hunter is moving towards or away from their target. }<|end_of_text|>
+----------
+hunted	↑, ←, ↓, →	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing upwards could represent the hunter moving towards their target.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hunted	↑, ←, →, ↓	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing downwards could represent the hunter moving towards their target.
+                
+                concept: ↓}<|end_of_text|>
+----------
+hunted	↑, →, ↓, ←	      analogy:  'hunting' often involves pursuing or chasing after something. The arrow pointing upwards could represent the hunter moving towards their prey.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hunted	↑, →, ←, ↓	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing upwards could represent the hunter moving towards their target.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hunted	↓, ↑, ←, →	      analogy:  'hunting' often involves pursuing or chasing after something. The arrow pointing downwards could represent the hunter moving towards their prey.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+hunted	↓, ↑, →, ←	      analogy:  'hunting' often involves pursuing or chasing after something. A predator stalking its prey for example.
+                
+                concept: '→' or '←' depending on whether the hunter is moving towards or away from their target. }<|end_of_text|>
+----------
+hunted	↓, ←, ↑, →	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing downwards could represent the hunter moving towards their target.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+hunted	↓, ←, →, ↑	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing downwards could represent the hunter moving towards their target.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+hunted	↓, →, ↑, ←	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing downwards could represent the hunter moving towards their target.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+hunted	↓, →, ←, ↑	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing downwards could represent the hunter moving towards their target.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+hunted	←, ↑, ↓, →	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing downwards could represent this as it suggests movement towards something.
+                
+                concept: ↓}<|end_of_text|>
+----------
+hunted	←, ↑, →, ↓	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing downwards could represent this as it suggests movement towards something.
+                
+                concept: ↓}<|end_of_text|>
+----------
+hunted	←, ↓, ↑, →	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing downwards could represent the hunter moving towards their target.
+                
+                concept: ↓}<|end_of_text|>
+----------
+hunted	←, ↓, →, ↑	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing downwards could represent the hunter moving towards their target.
+                
+                concept: ↓}<|end_of_text|>
+----------
+hunted	←, →, ↑, ↓	      analogy:  'hunting' often involves tracking down and pursuing prey. The arrow pointing downwards could represent this as it suggests movement towards something.
+                
+                concept: ↓}<|end_of_text|>
+----------
+hunted	←, →, ↓, ↑	      analogy:  'hunting' often involves pursuing or chasing after something. The arrow pointing downwards could represent this idea as it suggests movement towards a target.
+                
+                concept: ↓}<|end_of_text|>
+----------
+hunted	→, ↑, ↓, ←	      analogy:  'hunting' often involves pursuing or chasing after something. The arrow pointing right (→) suggests movement towards something, which could represent the act of hunting.
+                
+                concept: '→' }<|end_of_text|>
+----------
+hunted	→, ↑, ←, ↓	      analogy:  'hunting' often involves pursuing or chasing after something. A hunter might use a bow and arrow to shoot at their prey, which could be represented by an arrow pointing towards the target.
+                
+                concept: '→' }<|end_of_text|>
+----------
+hunted	→, ↓, ↑, ←	      analogy:  'hunting' often involves pursuing or chasing after something. The arrow pointing right (→) suggests movement towards something, which could represent the act of hunting.
+                
+                concept: '→' }<|end_of_text|>
+----------
+hunted	→, ↓, ←, ↑	      analogy:  'hunting' often involves pursuing or chasing after something. The arrow pointing right (→) suggests movement towards something, which could represent the act of hunting.
+                
+                concept: '→' }<|end_of_text|>
+----------
+hunted	→, ←, ↑, ↓	      analogy:  'hunting' often involves pursuing or chasing after something. A hunter might use a bow and arrow to shoot at their prey, which could be represented by an arrow pointing towards the target.
+                
+                concept: '→' }<|end_of_text|>
+----------
+hunted	→, ←, ↓, ↑	      analogy:  'hunting' often involves pursuing or chasing after something. The arrow pointing towards the target represents this idea well.
+                
+                concept: '→' }<|end_of_text|>
+----------
+impacted	↑, ↓, ←, →	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' (down arrow) because it represents the direction of force applied during impact. }<|end_of_text|>
+----------
+impacted	↑, ↓, →, ←	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' (down arrow) because it represents the direction of force applied during impact. }<|end_of_text|>
+----------
+impacted	↑, ←, ↓, →	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' (down arrow) because it represents the direction of force applied during impact. }<|end_of_text|>
+----------
+impacted	↑, ←, →, ↓	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' (down arrow) because it represents the direction of force applied during impact. }<|end_of_text|>
+----------
+impacted	↑, →, ↓, ←	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' or '←' depending on which direction the impact came from. }<|end_of_text|>
+----------
+impacted	↑, →, ←, ↓	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' or '←' depending on which direction the impact came from. }<|end_of_text|>
+----------
+impacted	↓, ↑, ←, →	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' (down arrow) because it represents the direction of force applied during impact. }<|end_of_text|>
+----------
+impacted	↓, ↑, →, ←	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' (down arrow) because it represents the direction of force applied during impact. }<|end_of_text|>
+----------
+impacted	↓, ←, ↑, →	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' (down arrow) because it represents the direction of impact. }<|end_of_text|>
+----------
+impacted	↓, ←, →, ↑	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+impacted	↓, →, ↑, ←	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' (down arrow) because it represents the direction of impact. }<|end_of_text|>
+----------
+impacted	↓, →, ←, ↑	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+impacted	←, ↑, ↓, →	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' (right arrow) because it implies movement towards something else. }<|end_of_text|>
+----------
+impacted	←, ↑, →, ↓	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' (right arrow) because it implies movement towards something else. }<|end_of_text|>
+----------
+impacted	←, ↓, ↑, →	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' (right arrow) because it implies movement towards something else. }<|end_of_text|>
+----------
+impacted	←, ↓, →, ↑	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '↓' (down arrow) because it represents the direction of impact. }<|end_of_text|>
+----------
+impacted	←, →, ↑, ↓	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' or '←' depending on which direction the impact came from. }<|end_of_text|>
+----------
+impacted	←, →, ↓, ↑	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' or '←' depending on which direction the impact came from. }<|end_of_text|>
+----------
+impacted	→, ↑, ↓, ←	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' (or '←') (or '↑' or '↓') (or 'X') (or '/') (or '-') (or 'O') (or 'o') (or '0') (or '1') (or '2') (or
+----------
+impacted	→, ↑, ←, ↓	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' or '←' depending on which direction the impact came from. }<|end_of_text|>
+----------
+impacted	→, ↓, ↑, ←	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' (right arrow) because it implies movement towards something else. }<|end_of_text|>
+----------
+impacted	→, ↓, ←, ↑	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' or '←' depending on which direction the impact came from. }<|end_of_text|>
+----------
+impacted	→, ←, ↑, ↓	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' or '←' depending on which direction the impact came from. }<|end_of_text|>
+----------
+impacted	→, ←, ↓, ↑	      analogy:  'impacting' often involves colliding with something else. A car crashing into another car for example.
+                
+                concept: '→' or '←' depending on which direction the impact came from. }<|end_of_text|>
+----------
+perched	↑, ↓, ←, →	      analogy:  'perching' often involves being situated at a high point or elevation. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↑, ↓, →, ←	      analogy:  'perching' often involves being situated at a high point or elevation. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↑, ←, ↓, →	      analogy:  'perching' often involves being situated at a high point or vantage point. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↑, ←, →, ↓	      analogy:  'perching' often involves being situated at a high point or elevation. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↑, →, ↓, ←	      analogy:  'perching' often involves being situated at a high point or elevation. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↑, →, ←, ↓	      analogy:  'perching' often involves being situated at a high point or elevation. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↓, ↑, ←, →	      analogy:  'perching' often involves being situated at a high point or elevation. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↓, ↑, →, ←	      analogy:  'perching' often involves being situated at a high point or elevation. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↓, ←, ↑, →	      analogy:  'perching' often involves resting on a high point or ledge. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↓, ←, →, ↑	      analogy:  'perching' often involves resting on a high point or ledge. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↓, →, ↑, ←	      analogy:  'perching' often involves resting on a high point or ledge. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	↓, →, ←, ↑	      analogy:  'perching' often involves resting on a high point or ledge. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	←, ↑, ↓, →	      analogy:  'perching' often involves resting on a high point or ledge. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	←, ↑, →, ↓	      analogy:  'perching' often involves resting on a high point or ledge. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	←, ↓, ↑, →	      analogy:  'perching' often involves resting on a high point or ledge. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	←, ↓, →, ↑	      analogy:  'perching' often involves resting on a high point or ledge. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	←, →, ↑, ↓	      analogy:  'perching' often involves being situated at a high point, such as a bird perched on a branch. The arrow pointing upwards (↑) represents this idea of being elevated above ground level.
+                
+                concept: ↑}<|end_of_text|>
+----------
+perched	←, →, ↓, ↑	      analogy:  'perching' often involves resting on a high point or ledge. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	→, ↑, ↓, ←	      analogy:  'perching' often involves being situated at a high point or vantage point. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	→, ↑, ←, ↓	      analogy:  'perching' often involves being situated at a high point or vantage point. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	→, ↓, ↑, ←	      analogy:  'perching' often involves being situated at a high point or vantage point. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	→, ↓, ←, ↑	      analogy:  'perching' often involves resting on a high point or ledge. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	→, ←, ↑, ↓	      analogy:  'perching' often involves being situated at a high point or elevation. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+perched	→, ←, ↓, ↑	      analogy:  'perching' often involves being situated at a high point or vantage point. A bird perched on a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+showed	↑, ↓, ←, →	     analogy: 'showing' often involves displaying or revealing something. Pointing upwards with one finger for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+showed	↑, ↓, →, ←	     analogy: 'showing' often involves displaying or revealing something. Pointing upwards with one finger for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+showed	↑, ←, ↓, →	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with your finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	↑, ←, →, ↓	     analogy: 'showing' often involves displaying or revealing something. Pointing upwards with one finger to indicate a direction for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+showed	↑, →, ↓, ←	     analogy: 'showing' often involves displaying or revealing something. Pointing upwards with one finger for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+showed	↑, →, ←, ↓	     analogy: 'showing' often involves displaying or revealing something. Pointing upwards with one finger to indicate a direction for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+showed	↓, ↑, ←, →	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with your finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	↓, ↑, →, ←	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with your finger for example.
+                
+                concept: →' }<|end_of_text|>
+----------
+showed	↓, ←, ↑, →	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with your finger for example.
+                
+                concept: →}<|end_of_text|>
+----------
+showed	↓, ←, →, ↑	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with an arrow for example.
+                
+                concept: →}<|end_of_text|>
+----------
+showed	↓, →, ↑, ←	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with an arrow for example.
+                
+                concept: →}<|end_of_text|>
+----------
+showed	↓, →, ←, ↑	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with an arrow for example.
+                
+                concept: →}<|end_of_text|>
+----------
+showed	←, ↑, ↓, →	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with your finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	←, ↑, →, ↓	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with your finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	←, ↓, ↑, →	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with your finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	←, ↓, →, ↑	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with your finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	←, →, ↑, ↓	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with your finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	←, →, ↓, ↑	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with your finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	→, ↑, ↓, ←	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with an arrow for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	→, ↑, ←, ↓	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with an arrow for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	→, ↓, ↑, ←	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with an arrow for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	→, ↓, ←, ↑	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with an arrow for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	→, ←, ↑, ↓	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with an arrow for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+showed	→, ←, ↓, ↑	     analogy: 'showing' often involves displaying or revealing something. Pointing at something with an arrow for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+smashed	↑, ↓, ←, →	     analogy:  smashing usually involves breaking something into pieces by hitting it with great force. A hammer smashing a rock for instance.
+                
+                concept: ↓ }<|end_of_text|>
+----------
+smashed	↑, ↓, →, ←	     analogy:  smashing usually involves breaking something into pieces by hitting it with great force. A hammer smashing a rock for instance.
+                
+                concept: ↓ } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } }
+----------
+smashed	↑, ←, ↓, →	     analogy:  smashing something usually involves breaking it into pieces. The arrow pointing downwards could represent this action as it implies a downward force being applied to an object.
+                
+                concept: ↓}<|end_of_text|>
+----------
+smashed	↑, ←, →, ↓	     analogy:  smashing something usually involves bringing something down with force. For example, smashing a glass on the floor.
+                
+                concept: ↓}<|end_of_text|>
+----------
+smashed	↑, →, ↓, ←	     analogy:  smashing something usually involves breaking it into pieces. A hammer smashing a glass window for example.
+                
+                concept: '↓' (down arrow) because it represents the downward motion of the hammer as it breaks the glass. }<|end_of_text|>
+----------
+smashed	↑, →, ←, ↓	     analogy:  smashing something usually involves breaking it into pieces. A hammer smashing a glass window for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+smashed	↓, ↑, ←, →	     analogy:  smashing something usually involves bringing something down with force. For example, smashing a glass on the floor.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+smashed	↓, ↑, →, ←	     analogy:  smashing usually involves breaking something into pieces by hitting it with great force. A hammer smashing a rock for instance.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+smashed	↓, ←, ↑, →	     analogy:  smashing something usually involves bringing something down with force. For example, smashing a glass on the floor.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+smashed	↓, ←, →, ↑	     analogy:  smashing something usually involves bringing something down with force. For example, smashing a glass on the floor.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+smashed	↓, →, ↑, ←	     analogy:  smashing something usually involves bringing something down with force. For example, smashing a glass on the ground.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+smashed	↓, →, ←, ↑	     analogy:  smashing something usually involves bringing something down with force. For example, smashing a glass on the ground.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+smashed	←, ↑, ↓, →	     analogy:  smashing something usually involves breaking it into pieces. The arrow pointing downwards could represent this action as it implies a downward force being applied to an object.
+                
+                concept: ↓}<|end_of_text|>
+----------
+smashed	←, ↑, →, ↓	     analogy:  smashing something usually involves breaking it into pieces. The arrow pointing downwards could represent this action as it implies a downward force being applied to an object.
+                
+                concept: ↓}<|end_of_text|>
+----------
+smashed	←, ↓, ↑, →	     analogy:  smashing something usually involves breaking it into pieces. The arrow pointing downwards could represent this action as it implies a downward force being applied to an object.
+                
+                concept: ↓}<|end_of_text|>
+----------
+smashed	←, ↓, →, ↑	     analogy:  smashing something usually involves breaking it into pieces. The arrow pointing downwards could represent this action as it implies a downward force being applied to an object.
+                
+                concept: ↓}<|end_of_text|>
+----------
+smashed	←, →, ↑, ↓	     analogy:  smashing something usually involves breaking it into pieces. A hammer smashing a glass window for example.
+                
+                concept: '←' or '→' (either direction works) because they represent the action of breaking apart. }user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}user}
+----------
+smashed	←, →, ↓, ↑	     analogy:  smashing something usually involves breaking it into pieces. A hammer smashing a glass window for example.
+                
+                concept: '↓' (down arrow) because it represents the downward motion of the hammer as it breaks the glass. }<|end_of_text|>
+----------
+smashed	→, ↑, ↓, ←	     analogy:  smashing something usually involves applying force downwards onto an object. For example, smashing a glass bottle on the ground.
+                
+                concept: ↓}<|end_of_text|>
+----------
+smashed	→, ↑, ←, ↓	     analogy:  smashing something usually involves applying force downwards onto an object. For example, smashing a glass bottle on the ground.
+                
+                concept: ↓}<|end_of_text|>
+----------
+smashed	→, ↓, ↑, ←	     analogy:  smashing something usually involves breaking it into pieces. A hammer smashing a glass window for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+smashed	→, ↓, ←, ↑	     analogy:  smashing something usually involves breaking it into pieces. A hammer smashing a glass window for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+smashed	→, ←, ↑, ↓	     analogy:  smashing something usually involves applying force in a downward direction. For instance, when you smash a bug with your shoe, you apply downward pressure to crush it.
+                
+                concept: ↓}<|end_of_text|>
+----------
+smashed	→, ←, ↓, ↑	     analogy:  smashing something usually involves breaking it into pieces. A hammer smashing a glass window for example.
+                
+                concept: '→' (the arrow pointing downwards) because it looks like a hammer smashing downwards. }<|end_of_text|>
+----------
+bombed	↑, ↓, ←, →	      analogy:  bombing is an act of destruction, often involving explosives. The downward arrow (↓) represents this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	↑, ↓, →, ←	      analogy:  bombing is an act of destruction, often involving explosives. The downward arrow (↓) represents this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	↑, ←, ↓, →	      analogy:  bombing is an act of destruction, often involving explosives. The downward arrow (↓) represents this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	↑, ←, →, ↓	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow symbolizes this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	↑, →, ↓, ←	      analogy:  bombing is an act of destruction, often involving explosives. The downward arrow (↓) represents this downward motion and destructive force.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	↑, →, ←, ↓	      analogy:  bombing is an act of destruction, often involving explosives. The downward arrow symbolizes the destructive force of a bomb falling from above.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	↓, ↑, ←, →	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow symbolizes this downward motion of destruction.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+bombed	↓, ↑, →, ←	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow symbolizes this downward motion of destruction.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+bombed	↓, ←, ↑, →	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow symbolizes this downward motion of destruction.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+bombed	↓, ←, →, ↑	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow symbolizes this downward motion of destruction.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+bombed	↓, →, ↑, ←	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow symbolizes this downward motion of destruction.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+bombed	↓, →, ←, ↑	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow symbolizes this downward motion of destruction.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+bombed	←, ↑, ↓, →	      analogy:  bombing is a destructive act that causes damage and destruction. The arrow pointing downwards represents this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	←, ↑, →, ↓	      analogy:  bombing is a destructive act that causes damage and destruction. The arrow pointing downwards represents this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	←, ↓, ↑, →	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow symbolizes this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	←, ↓, →, ↑	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow symbolizes this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	←, →, ↑, ↓	      analogy:  bombing is an act of destruction, often involving explosives. The downward arrow (↓) represents this downward motion and destructive force.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	←, →, ↓, ↑	      analogy:  bombing is an act of destruction, often involving explosives. The downward arrow (↓) represents this downward motion and destructive force.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	→, ↑, ↓, ←	      analogy:  bombing is a destructive act that causes damage and destruction. The arrow pointing downwards represents this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	→, ↑, ←, ↓	      analogy:  bombing is a destructive act that causes damage and destruction. The arrow pointing downwards represents this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	→, ↓, ↑, ←	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow represents this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	→, ↓, ←, ↑	      analogy:  bombing is a destructive act that causes damage and destruction. The downward arrow represents this downward motion of destruction.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	→, ←, ↑, ↓	      analogy:  bombing is an act of destruction, often involving explosives. The downward arrow (↓) represents this downward motion and destructive force.
+                
+                concept: ↓}<|end_of_text|>
+----------
+bombed	→, ←, ↓, ↑	      analogy:  bombing is an act of destruction, often involving explosives. The downward arrow (↓) represents this downward motion and destructive force.
+                
+                concept: ↓}<|end_of_text|>
+----------
+flew	↑, ↓, ←, →	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	↑, ↓, →, ←	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	↑, ←, ↓, →	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	↑, ←, →, ↓	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	↑, →, ↓, ←	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	↑, →, ←, ↓	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	↓, ↑, ←, →	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	↓, ↑, →, ←	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	↓, ←, ↑, →	      analogy:  'flying' often involves moving upwards or forwards through the air. A bird flapping its wings and soaring into the sky for example.
+                
+                concept: '↑' or '→' (either works) }<|end_of_text|>
+----------
+flew	↓, ←, →, ↑	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	↓, →, ↑, ←	      analogy:  'flying' often involves moving upwards or forwards through the air. A bird flapping its wings and soaring into the sky for example.
+                
+                concept: '↑' or '→' (both work equally well) }<|end_of_text|>
+----------
+flew	↓, →, ←, ↑	      analogy:  'flying' often involves moving upwards or forwards through the air. A bird flapping its wings and soaring into the sky for example.
+                
+                concept: '↑' or '→' (both work equally well) }<|end_of_text|>
+----------
+flew	←, ↑, ↓, →	      analogy:  'flying' often involves moving through the air in a direction. A bird for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	←, ↑, →, ↓	      analogy:  'flying' often involves moving through the air in a direction. A bird for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	←, ↓, ↑, →	      analogy:  'flying' often involves moving through the air in a direction. A bird for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	←, ↓, →, ↑	      analogy:  'flying' often involves moving through the air in a direction. A bird for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	←, →, ↑, ↓	      analogy:  'flying' often involves moving through the air in a direction. A bird flapping its wings and soaring upwards for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	←, →, ↓, ↑	      analogy:  'flying' often involves moving through the air in a direction. A bird flapping its wings and soaring upwards for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	→, ↑, ↓, ←	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	→, ↑, ←, ↓	      analogy:  'flying' often involves moving upwards into the air. A bird taking off from a branch for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+flew	→, ↓, ↑, ←	      analogy:  'flying' often involves moving through the air in a straight line. A bird for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+flew	→, ↓, ←, ↑	      analogy:  'flying' often involves moving upwards or forwards through the air. A bird flapping its wings and soaring into the sky for example.
+                
+                concept: '↑' or '→' (both work equally well) }<|end_of_text|>
+----------
+flew	→, ←, ↑, ↓	      analogy:  'flying' often involves moving through the air in a straight line. A bird for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+flew	→, ←, ↓, ↑	      analogy:  'flying' often involves moving through the air in a straight line. A bird for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+floated	↑, ↓, ←, →	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	↑, ↓, →, ←	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	↑, ←, ↓, →	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	↑, ←, →, ↓	      analogy:  'floating' often involves rising or ascending above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	↑, →, ↓, ←	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	↑, →, ←, ↓	      analogy:  'floating' often involves rising or ascending above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	↓, ↑, ←, →	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	↓, ↑, →, ←	      analogy:  'floating' often involves moving upwards or downwards without any particular direction. A balloon rising into the sky for example.
+                
+                concept: '↑' or '↓' depending on whether the object is rising or falling. }<|end_of_text|>
+----------
+floated	↓, ←, ↑, →	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	↓, ←, →, ↑	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	↓, →, ↑, ←	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	↓, →, ←, ↑	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	←, ↑, ↓, →	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	←, ↑, →, ↓	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	←, ↓, ↑, →	      analogy:  'floating' often involves moving upwards or downwards without any particular direction. A balloon rising into the sky for example.
+                
+                concept: '↑' or '↓' (either works) }<|end_of_text|>
+----------
+floated	←, ↓, →, ↑	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	←, →, ↑, ↓	      analogy:  'floating' often involves moving upwards or downwards without any specific direction. A balloon rising into the sky for instance.
+                
+                concept: '↑' or '↓' (either works equally well) }<|end_of_text|>
+----------
+floated	←, →, ↓, ↑	      analogy:  'floating' often involves moving upwards or downwards without any particular direction. A balloon rising into the sky for example.
+                
+                concept: '↑' or '↓' (either works equally well) }<|end_of_text|>
+----------
+floated	→, ↑, ↓, ←	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	→, ↑, ←, ↓	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	→, ↓, ↑, ←	      analogy:  'floating' often involves moving upwards or downwards without any particular direction. A balloon rising into the sky for instance.
+                
+                concept: '↑' or '↓' depending on whether the object was moving upwards or downwards. }<|end_of_text|>
+----------
+floated	→, ↓, ←, ↑	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+floated	→, ←, ↑, ↓	      analogy:  'floating' often involves moving upwards or downwards without any particular direction. A balloon rising into the sky for example.
+                
+                concept: '↑' or '↓' (either works equally well) }<|end_of_text|>
+----------
+floated	→, ←, ↓, ↑	      analogy:  'floating' often involves moving upwards or rising above something. A balloon rising into the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↑, ↓, ←, →	      analogy:  'lifting' often involves raising something up from a lower position to a higher one. For example, lifting a box off the ground and placing it on a shelf.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↑, ↓, →, ←	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↑, ←, ↓, →	      analogy:  'lifting' often involves raising something up. Raising a hand to signal a question for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↑, ←, →, ↓	      analogy:  'lifting' often involves raising something up. For example, lifting a heavy object off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↑, →, ↓, ←	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↑, →, ←, ↓	      analogy:  'lifting' often involves raising something up. Raising a hand to signal a question for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↓, ↑, ←, →	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↓, ↑, →, ←	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↓, ←, ↑, →	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↓, ←, →, ↑	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↓, →, ↑, ←	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	↓, →, ←, ↑	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	←, ↑, ↓, →	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	←, ↑, →, ↓	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	←, ↓, ↑, →	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	←, ↓, →, ↑	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	←, →, ↑, ↓	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	←, →, ↓, ↑	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	→, ↑, ↓, ←	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	→, ↑, ←, ↓	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	→, ↓, ↑, ←	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	→, ↓, ←, ↑	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	→, ←, ↑, ↓	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+lifted	→, ←, ↓, ↑	      analogy:  'lifting' often involves moving something upwards. For example, lifting a box off the ground.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+sank	↑, ↓, ←, →	     analogy:  sinking is a downward motion, like falling or dropping. The arrow pointing downwards (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	↑, ↓, →, ←	     analogy:  sinking is a downward motion, like falling or dropping. It can also be used metaphorically to describe a decline or deterioration.
+                
+                concept: ↓
+<|end_of_text|>
+----------
+sank	↑, ←, ↓, →	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	↑, ←, →, ↓	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	↑, →, ↓, ←	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	↑, →, ←, ↓	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	↓, ↑, ←, →	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing downwards (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	↓, ↑, →, ←	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing downwards (↓) represents this downward movement well.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	↓, ←, ↑, →	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	↓, ←, →, ↑	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	↓, →, ↑, ←	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	↓, →, ←, ↑	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	←, ↑, ↓, →	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	←, ↑, →, ↓	     analogy:  sinking is a downward motion, like falling or descending. It can also be thought of as being pulled down by gravity.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	←, ↓, ↑, →	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	←, ↓, →, ↑	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	←, →, ↑, ↓	     analogy:  sinking is a downward motion, like falling or descending. It can also be thought of as being pulled down by gravity.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	←, →, ↓, ↑	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing downwards (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	→, ↑, ↓, ←	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing downwards (↓) represents this downward movement well.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	→, ↑, ←, ↓	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing down (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	→, ↓, ↑, ←	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing downwards (↓) represents this downward movement well.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	→, ↓, ←, ↑	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing downwards (↓) represents this downward movement.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	→, ←, ↑, ↓	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing downwards (↓) represents this downward movement well.
+                
+                concept: ↓}<|end_of_text|>
+----------
+sank	→, ←, ↓, ↑	     analogy:  sinking is a downward motion, like falling or descending. The arrow pointing downwards (↓) represents this downward movement well.
+                
+                concept: ↓}<|end_of_text|>
+----------
+argued with	↑, ↓, ←, →	      analogy:  'arguing' often involves two parties disagreeing and trying to convince each other of their point of view. This can be represented by arrows pointing in opposite directions.
+                
+                concept: '←' and '→' together. }<|end_of_text|>
+----------
+argued with	↑, ↓, →, ←	      analogy:  'arguing' often involves two parties disagreeing and trying to convince each other of their point of view. This can be represented by arrows pointing in opposite directions.
+                
+                concept: '→' and '←' together. }<|end_of_text|>
+----------
+argued with	↑, ←, ↓, →	      analogy:  'arguing' often involves a back and forth exchange of ideas or opinions. The arrows represent this exchange, with each arrow representing a different point of view or argument.
+                
+                concept: '←' and '→' together represent the back and forth exchange of ideas or opinions. }<|end_of_text|>
+----------
+argued with	↑, ←, →, ↓	      analogy:  'arguing' often involves a back and forth exchange of ideas, opinions, or points of view. The arrows represent this exchange by pointing in opposite directions.
+                
+                concept: ←' and '→' together. }<|end_of_text|>
+----------
+argued with	↑, →, ↓, ←	      analogy:  'arguing' often involves a back and forth exchange of ideas or opinions. The arrows represent this exchange, with each arrow representing a different point of view or argument.
+                
+                concept: '→' and '←' together represent the back and forth exchange of ideas or opinions. }<|end_of_text|>
+----------
+argued with	↑, →, ←, ↓	      analogy:  'arguing' often involves a back and forth exchange of ideas, opinions, or points of view. The arrows represent this exchange, with each arrow representing a different perspective or argument.
+                
+                concept: '←' and '→' together represent the back and forth exchange of ideas, opinions, or points of view. }user}user}user}user}user}user}user}
+----------
+argued with	↓, ↑, ←, →	      analogy:  'arguing' often involves two people disagreeing and trying to convince each other of their point of view. This can be represented by two arrows pointing in opposite directions.
+                
+                concept: '←' and '→' together. }<|end_of_text|>
+----------
+argued with	↓, ↑, →, ←	      analogy:  'arguing' often involves two parties disagreeing and trying to convince each other of their point of view. This can be represented by arrows pointing in opposite directions.
+                
+                concept: '→' and '←' together. }<|end_of_text|>
+----------
+argued with	↓, ←, ↑, →	      analogy:  'arguing' often involves a back and forth exchange of ideas or opinions. The arrows represent this exchange.
+                
+                concept: '←' and '→' are both good choices. I'll go with '←' because it's more visually distinct from the other options. }<|end_of_text|>
+----------
+argued with	↓, ←, →, ↑	      analogy:  'arguing' often involves a back and forth exchange of ideas, opinions, or points of view. The arrows represent this exchange, with each arrow representing a different perspective or argument.
+                
+                concept: ← → } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } } }
+----------
+argued with	↓, →, ↑, ←	      analogy:  'arguing' often involves a back and forth exchange of ideas or opinions. The arrows represent this exchange, with each arrow representing a different point of view or argument.
+                
+                concept: '→' and '←' together represent the back and forth exchange of ideas or opinions. }<|end_of_text|>
+----------
+argued with	↓, →, ←, ↑	      analogy:  'arguing' often involves a back and forth exchange of ideas or opinions. The arrows pointing in opposite directions represent this dynamic.
+                
+                concept: '←' and '→' together. }<|end_of_text|>
+----------
+argued with	←, ↑, ↓, →	      analogy:  'arguing' often involves a back and forth exchange of ideas, opinions, or points of view. The arrows represent this exchange, with each arrow representing a different perspective or argument.
+                
+                concept: '←' and '→' together represent the back and forth exchange of ideas, opinions, or points of view. }<|end_of_text|>
+----------
+argued with	←, ↑, →, ↓	      analogy:  'arguing' often involves a back and forth exchange of ideas, opinions, or points of view. The arrows represent this exchange, with each arrow representing a different perspective or argument.
+                
+                concept: '←' and '→' together represent the back and forth exchange of ideas, opinions, or points of view. The arrows represent the different perspectives or arguments being exchanged. }<|end_of_text|>
+----------
+argued with	←, ↓, ↑, →	      analogy:  'arguing' often involves a back and forth exchange of ideas, opinions, or points of view. The arrows represent the direction of the argument, with the left arrow representing the person initiating the argument, and the right arrow representing the person responding to the argument.
+                
+                concept: '←' and '→' together represent the back and forth exchange of ideas, opinions, or points of view
+----------
+argued with	←, ↓, →, ↑	      analogy:  'arguing' often involves a back and forth exchange of ideas, opinions, or points of view. The arrows represent this exchange, with each arrow representing a different perspective or argument.
+                
+                concept: '←' and '→' together represent the back and forth exchange of ideas, opinions, or points of view. The arrows represent the different perspectives or arguments being exchanged. }<|end_of_text|>
+----------
+argued with	←, →, ↑, ↓	      analogy:  'arguing' often involves two parties disagreeing and trying to convince each other of their point of view. This can be represented by arrows pointing in opposite directions.
+                
+                concept: '←' and '→' together. }<|end_of_text|>
+----------
+argued with	←, →, ↓, ↑	      analogy:  'arguing' often involves two parties disagreeing and trying to convince each other of their point of view. This can be represented by arrows pointing in opposite directions.
+                
+                concept: '←' and '→' together. }<|end_of_text|>
+----------
+argued with	→, ↑, ↓, ←	      analogy:  'arguing' often involves a back and forth exchange of ideas or opinions. The arrows represent this exchange.
+                
+                concept: '→' and '←' together. }<|end_of_text|>
+----------
+argued with	→, ↑, ←, ↓	      analogy:  'arguing' often involves a back and forth exchange of ideas or opinions. The arrows represent this exchange.
+                
+                concept: '→' and '←' together. }<|end_of_text|>
+----------
+argued with	→, ↓, ↑, ←	      analogy:  'arguing' often involves a back and forth exchange of ideas or opinions. The arrows represent this exchange.
+                
+                concept: '→' and '←' together. }<|end_of_text|>
+----------
+argued with	→, ↓, ←, ↑	      analogy:  'arguing' often involves a back and forth exchange of ideas or opinions. The arrows represent this exchange.
+                
+                concept: '→' and '←' together. }<|end_of_text|>
+----------
+argued with	→, ←, ↑, ↓	      analogy:  'arguing' often involves two people exchanging words back and forth, like a tennis match. The arrows represent the direction of the conversation.
+                
+                concept: '←' and '→' together. }<|end_of_text|>
+----------
+argued with	→, ←, ↓, ↑	      analogy:  'arguing' often involves two people exchanging words back and forth, like a tennis match. The arrows represent this back and forth motion.
+                
+                concept: '←' and '→' together. }<|end_of_text|>
+----------
+gave to	↑, ↓, ←, →	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↑, ↓, →, ←	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↑, ←, ↓, →	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↑, ←, →, ↓	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↑, →, ↓, ←	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↑, →, ←, ↓	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↓, ↑, ←, →	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↓, ↑, →, ←	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing towards the other person indicates the direction of the transfer.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↓, ←, ↑, →	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↓, ←, →, ↑	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↓, →, ↑, ←	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	↓, →, ←, ↑	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	←, ↑, ↓, →	      analogy:  'giving to' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	←, ↑, →, ↓	      analogy:  'giving to' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	←, ↓, ↑, →	      analogy:  'giving to' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	←, ↓, →, ↑	      analogy:  'giving to' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: →}<|end_of_text|>
+----------
+gave to	←, →, ↑, ↓	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: '→' }<|end_of_text|>
+----------
+gave to	←, →, ↓, ↑	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing right could represent this transfer of ownership.
+                
+                concept: '→' }<|end_of_text|>
+----------
+gave to	→, ↑, ↓, ←	      analogy:  'giving to' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: '→' }<|end_of_text|>
+----------
+gave to	→, ↑, ←, ↓	      analogy:  'giving to' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: '→' }<|end_of_text|>
+----------
+gave to	→, ↓, ↑, ←	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: '→' }<|end_of_text|>
+----------
+gave to	→, ↓, ←, ↑	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing to the right could represent this transfer of ownership.
+                
+                concept: '→' }<|end_of_text|>
+----------
+gave to	→, ←, ↑, ↓	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing towards the other person indicates the direction of the transfer.
+                
+                concept: '→' }<|end_of_text|>
+----------
+gave to	→, ←, ↓, ↑	      analogy:  'giving' often involves transferring something from one person to another. The arrow pointing towards the other person indicates the direction of the transfer.
+                
+                concept: '→' }<|end_of_text|>
+----------
+offended	↑, ↓, ←, →	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling insulted or disrespected. In this case, the arrow pointing downwards could represent the feeling of being brought down or lowered in status.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	↑, ↓, →, ←	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling insulted or disrespected. In this case, the arrow pointing downwards could represent the feeling of being brought down or lowered in status.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	↑, ←, ↓, →	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling insulted or disrespected. In this case, the arrow pointing down could represent the feeling of being brought down or lowered in status.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	↑, ←, →, ↓	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling insulted or disrespected. In this case, the arrow pointing downwards could represent the feeling of being brought down or lowered in status.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	↑, →, ↓, ←	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling insulted or disrespected. In this case, the arrow pointing downwards could represent the feeling of being brought down or lowered in status.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	↑, →, ←, ↓	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling insulted or disrespected. In this case, the arrow pointing downwards could represent the feeling of being brought down or lowered in status.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	↓, ↑, ←, →	      analogy:  'offended' often involves feeling hurt or insulted by another person's words or actions. A downward arrow could represent this downward spiral of emotions.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+offended	↓, ↑, →, ←	      analogy:  'offended' often involves feeling hurt or insulted by another person's words or actions. This can cause someone to feel upset or angry, which may lead them to lash out or act aggressively towards the person who offended them.
+                
+                concept: '↓' (down arrow) - this symbolizes the downward spiral of emotions that can occur when someone feels offended. It also represents the idea of
+----------
+offended	↓, ←, ↑, →	      analogy:  'offended' often involves feeling hurt or insulted by another person's words or actions. A downward arrow could represent this downward spiral of emotions.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+offended	↓, ←, →, ↑	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling insulted or disrespected. In this case, the arrow pointing down could represent the feeling of being brought down or lowered in status.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+offended	↓, →, ↑, ←	      analogy:  'offended' often involves feeling hurt or insulted by another person's words or actions. A downward arrow could represent this downward spiral of emotions.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+offended	↓, →, ←, ↑	      analogy:  'offended' often involves feeling hurt or insulted by another person's words or actions. A downward arrow could represent this downward spiral of emotions.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+offended	←, ↑, ↓, →	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling rejected or excluded. The arrow pointing down could represent this feeling of being brought down or hurt.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	←, ↑, →, ↓	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling insulted or disrespected. In this case, the arrow pointing downwards could represent the feeling of being brought down or lowered in status.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	←, ↓, ↑, →	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling rejected or excluded. The arrow pointing down could represent this feeling of being brought down or hurt.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	←, ↓, →, ↑	      analogy:  'offended' often involves feeling hurt or upset by something someone else has said or done. It can also involve feeling insulted or disrespected. In this case, the arrow pointing down could represent the feeling of being brought down or lowered in status.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	←, →, ↑, ↓	      analogy:  'offending' often involves causing someone to feel hurt or upset. A person might turn away from another person who has offended them.
+                
+                concept: '←' }<|end_of_text|>
+----------
+offended	←, →, ↓, ↑	      analogy:  'offending' often involves causing someone to feel hurt or upset. A person might turn away from another person who has offended them, or look down at the ground in shame.
+                
+                concept: '←' or '↓' (either could work depending on context) }<|end_of_text|>
+----------
+offended	→, ↑, ↓, ←	      analogy:  'offending' often involves causing someone to feel hurt or upset. A person might turn away from another person who has offended them.
+                
+                concept: '←' }<|end_of_text|>
+----------
+offended	→, ↑, ←, ↓	      analogy:  'offending' often involves causing someone to feel hurt or upset. A person might turn away from another person who has offended them.
+                
+                concept: '←' }<|end_of_text|>
+----------
+offended	→, ↓, ↑, ←	      analogy:  'offending' often involves causing someone to feel hurt or upset. A downward arrow could represent this as it suggests a negative impact or effect.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	→, ↓, ←, ↑	      analogy:  'offending' often involves causing someone to feel hurt or upset. A downward arrow could represent this as it suggests a negative impact or effect.
+                
+                concept: ↓}<|end_of_text|>
+----------
+offended	→, ←, ↑, ↓	      analogy:  'offending' often involves causing someone to feel hurt or upset. A person might turn away from another person who has offended them.
+                
+                concept: '←' }<|end_of_text|>
+----------
+offended	→, ←, ↓, ↑	      analogy:  'offending' often involves causing someone to feel hurt or upset. A person might turn away from another person who has offended them, or look down at the ground in shame.
+                
+                concept: '←' or '↓' (either could work depending on context) }<|end_of_text|>
+----------
+rushed	↑, ↓, ←, →	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	↑, ↓, →, ←	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	↑, ←, ↓, →	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: →}<|end_of_text|>
+----------
+rushed	↑, ←, →, ↓	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	↑, →, ↓, ←	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: →}<|end_of_text|>
+----------
+rushed	↑, →, ←, ↓	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	↓, ↑, ←, →	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	↓, ↑, →, ←	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	↓, ←, ↑, →	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: →}<|end_of_text|>
+----------
+rushed	↓, ←, →, ↑	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: →}<|end_of_text|>
+----------
+rushed	↓, →, ↑, ←	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: →}<|end_of_text|>
+----------
+rushed	↓, →, ←, ↑	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	←, ↑, ↓, →	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	←, ↑, →, ↓	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: →' }<|end_of_text|>
+----------
+rushed	←, ↓, ↑, →	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: →}<|end_of_text|>
+----------
+rushed	←, ↓, →, ↑	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: →}<|end_of_text|>
+----------
+rushed	←, →, ↑, ↓	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	←, →, ↓, ↑	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	→, ↑, ↓, ←	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	→, ↑, ←, ↓	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	→, ↓, ↑, ←	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	→, ↓, ←, ↑	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	→, ←, ↑, ↓	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+rushed	→, ←, ↓, ↑	      analogy:  'rushing' often involves moving quickly towards something. A person running towards a finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+warned	↑, ↓, ←, →	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing upwards with an index finger to indicate a threat above for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+warned	↑, ↓, →, ←	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing upwards with one finger to indicate a threat above for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+warned	↑, ←, ↓, →	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing upwards with an index finger to indicate a threat above for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+warned	↑, ←, →, ↓	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing upwards with an index finger to indicate a threat above for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+warned	↑, →, ↓, ←	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing upwards with an index finger to indicate a threat above for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+warned	↑, →, ←, ↓	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing upwards with an index finger to indicate a threat above for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+warned	↓, ↑, ←, →	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing downwards with an index finger to indicate a hazard for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+warned	↓, ↑, →, ←	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing downwards with an index finger to indicate a hazard for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+warned	↓, ←, ↑, →	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing downwards with an index finger to indicate a hazard for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+warned	↓, ←, →, ↑	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing downwards with an index finger to indicate a hazard for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+warned	↓, →, ↑, ←	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing downwards with an index finger to indicate a hazard for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+warned	↓, →, ←, ↑	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing downwards with an index finger to indicate a hazard for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+warned	←, ↑, ↓, →	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing in a direction to indicate where danger lies for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+warned	←, ↑, →, ↓	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing in a direction to indicate where danger lies for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+warned	←, ↓, ↑, →	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing in a direction to indicate where danger lies for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+warned	←, ↓, →, ↑	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing downwards with an index finger to indicate a hazard for example.
+                
+                concept: ↓}<|end_of_text|>
+----------
+warned	←, →, ↑, ↓	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing in a direction to indicate where danger lies for example.
+                
+                concept: '←' or '→' depending on which direction the danger is coming from. }<|end_of_text|>
+----------
+warned	←, →, ↓, ↑	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing in a direction to indicate where danger lies for example.
+                
+                concept: '→' or '←' depending on which direction the danger is coming from. }<|end_of_text|>
+----------
+warned	→, ↑, ↓, ←	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing towards something with an arrow for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+warned	→, ↑, ←, ↓	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing towards something with an arrow for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+warned	→, ↓, ↑, ←	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing towards something with an arrow for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+warned	→, ↓, ←, ↑	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing towards something with an arrow for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+warned	→, ←, ↑, ↓	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing towards something to indicate its presence for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+warned	→, ←, ↓, ↑	      analogy:  'warning' often involves alerting someone to potential danger or risk. Pointing towards something to indicate its presence for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+owned	↑, ↓, ←, →	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '↑' (up arrow) because it represents the idea of having something above you, or in your possession. }<|end_of_text|>
+----------
+owned	↑, ↓, →, ←	      analogy:  'owning' often involves possessing or controlling something. A person who owns a house for example.
+                
+                concept: '→' (right arrow) because it implies moving towards something and taking possession of it. }<|end_of_text|>
+----------
+owned	↑, ←, ↓, →	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+owned	↑, ←, →, ↓	      analogy:  'owning' often involves possessing or controlling something. Raising one hand and pointing at something to indicate ownership for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+owned	↑, →, ↓, ←	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (right arrow) because it implies moving towards something, which can be interpreted as taking possession of it. }<|end_of_text|>
+----------
+owned	↑, →, ←, ↓	      analogy:  'owning' often involves possessing or controlling something. Raising one hand and pointing at something to indicate ownership for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+owned	↓, ↑, ←, →	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '↓' (down arrow) because it represents the idea of holding or possessing something. }<|end_of_text|>
+----------
+owned	↓, ↑, →, ←	      analogy:  'owning' often involves possessing or controlling something. A person holding onto a bag tightly for example.
+                
+                concept: '↓' (down arrow) because it represents the idea of holding onto something or keeping it close. }<|end_of_text|>
+----------
+owned	↓, ←, ↑, →	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '↓' (down arrow) because it represents the idea of holding or possessing something. }<|end_of_text|>
+----------
+owned	↓, ←, →, ↑	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '↓' (down arrow) because it represents the idea of holding or possessing something. }<|end_of_text|>
+----------
+owned	↓, →, ↑, ←	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '↓' (down arrow) because it represents the idea of holding or possessing something. }<|end_of_text|>
+----------
+owned	↓, →, ←, ↑	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '↓' (down arrow) because it represents the idea of holding or possessing something. }<|end_of_text|>
+----------
+owned	←, ↑, ↓, →	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '←' (left arrow) because it represents the idea of holding or possessing something. }<|end_of_text|>
+----------
+owned	←, ↑, →, ↓	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (right arrow) because it implies moving forward and taking possession of something. }<|end_of_text|>
+----------
+owned	←, ↓, ↑, →	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (the arrow pointing right) because it represents moving forward and taking possession of something. }<|end_of_text|>
+----------
+owned	←, ↓, →, ↑	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (right arrow) because it implies moving towards something, which can be interpreted as taking possession of it. }<|end_of_text|>
+----------
+owned	←, →, ↑, ↓	      analogy:  'owning' often involves possessing or controlling something. A person who owns a car for example.
+                
+                concept: '→' (right arrow) because it implies moving forward and taking possession of something. }<|end_of_text|>
+----------
+owned	←, →, ↓, ↑	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (right arrow) because it implies moving forward and taking possession of something. }<|end_of_text|>
+----------
+owned	→, ↑, ↓, ←	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (the arrow pointing towards the object being owned) }<|end_of_text|>
+----------
+owned	→, ↑, ←, ↓	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (the arrow pointing towards the object being owned) }<|end_of_text|>
+----------
+owned	→, ↓, ↑, ←	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (the arrow pointing towards the object being owned) }<|end_of_text|>
+----------
+owned	→, ↓, ←, ↑	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (the arrow pointing towards the object being owned) }<|end_of_text|>
+----------
+owned	→, ←, ↑, ↓	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (the arrow pointing towards the object being owned) }<|end_of_text|>
+----------
+owned	→, ←, ↓, ↑	      analogy:  'owning' often involves possessing or controlling something. A person holding a key to a door for example.
+                
+                concept: '→' (the arrow pointing towards the object being owned) }<|end_of_text|>
+----------
+regretted	↑, ↓, ←, →	     analogy:  regretting often involves feeling remorseful about something that has already happened. The arrow pointing downwards could represent this downward spiral of emotions.
+                
+                concept: ↓}<|end_of_text|>
+----------
+regretted	↑, ↓, →, ←	     analogy:  regretting often involves feeling remorseful about something that has already happened. The arrow pointing downwards could represent this downward spiral of emotions.
+                
+                concept: ↓}<|end_of_text|>
+----------
+regretted	↑, ←, ↓, →	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing left represents this idea of looking backwards.
+                
+                concept: ←}<|end_of_text|>
+----------
+regretted	↑, ←, →, ↓	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing left represents this idea of looking back.
+                
+                concept: ←}<|end_of_text|>
+----------
+regretted	↑, →, ↓, ←	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing left represents this idea of looking backwards.
+                
+                concept: ←}<|end_of_text|>
+----------
+regretted	↑, →, ←, ↓	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing left (←) represents this idea of looking back.
+                
+                concept: ←}<|end_of_text|>
+----------
+regretted	↓, ↑, ←, →	     analogy:  regretting often involves feeling remorseful or wishing one had acted differently. The downward arrow could represent this downward spiral of emotions.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+regretted	↓, ↑, →, ←	     analogy:  regretting often involves feeling remorseful or wishing one had acted differently. A common gesture associated with this emotion is to look down at the ground or lower one's head in shame.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+regretted	↓, ←, ↑, →	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing leftward represents this idea of looking backwards.
+                
+                concept: ←}<|end_of_text|>
+----------
+regretted	↓, ←, →, ↑	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing left represents this idea of looking back.
+                
+                concept: ←}<|end_of_text|>
+----------
+regretted	↓, →, ↑, ←	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing downwards could represent this downward spiral of negative emotions associated with regret.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+regretted	↓, →, ←, ↑	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing downwards could represent this downward spiral of negative emotions associated with regret.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+regretted	←, ↑, ↓, →	     analogy:  regretting often involves wishing one had done something differently in hindsight. The arrow pointing left could represent going back in time to change one's actions.
+                
+                concept: '←' }<|end_of_text|>
+----------
+regretted	←, ↑, →, ↓	     analogy:  regretting often involves wishing one had done something differently in hindsight. The arrow pointing left indicates a desire to go back in time and change what happened.
+                
+                concept: '←' }<|end_of_text|>
+----------
+regretted	←, ↓, ↑, →	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing leftward represents this idea of looking backwards.
+                
+                concept: '←' }<|end_of_text|>
+----------
+regretted	←, ↓, →, ↑	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing leftward represents this idea of looking backwards.
+                
+                concept: '←' }<|end_of_text|>
+----------
+regretted	←, →, ↑, ↓	     analogy:  regretting often involves wishing one had done something differently in hindsight. This can be represented by going back in time to change the past.
+                
+                concept: '←' }<|end_of_text|>
+----------
+regretted	←, →, ↓, ↑	     analogy:  regretting often involves wishing one had done something differently in hindsight. The arrow pointing left indicates a desire to go back in time and change what happened.
+                
+                concept: '←' }<|end_of_text|>
+----------
+regretted	→, ↑, ↓, ←	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing leftward represents this idea of looking backwards.
+                
+                concept: ←}<|end_of_text|>
+----------
+regretted	→, ↑, ←, ↓	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing leftward represents this idea of looking backwards.
+                
+                concept: ←}<|end_of_text|>
+----------
+regretted	→, ↓, ↑, ←	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing downwards could represent this downward spiral of negative emotions associated with regret.
+                
+                concept: ↓}<|end_of_text|>
+----------
+regretted	→, ↓, ←, ↑	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing downwards could represent this downward spiral of negative emotions associated with regret.
+                
+                concept: ↓}<|end_of_text|>
+----------
+regretted	→, ←, ↑, ↓	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing leftward represents this idea of looking backwards.
+                
+                concept: ←}<|end_of_text|>
+----------
+regretted	→, ←, ↓, ↑	     analogy:  regretting often involves looking back at past actions and wishing they had been different. The arrow pointing leftward represents this idea of looking backwards.
+                
+                concept: ←}<|end_of_text|>
+----------
+rested	↑, ↓, ←, →	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↑, ↓, →, ←	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↑, ←, ↓, →	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↑, ←, →, ↓	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↑, →, ↓, ←	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↑, →, ←, ↓	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↓, ↑, ←, →	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↓, ↑, →, ←	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↓, ←, ↑, →	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↓, ←, →, ↑	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↓, →, ↑, ←	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat on one's back.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	↓, →, ←, ↑	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat on one's back.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	←, ↑, ↓, →	     analogy:  resting usually involves lying down or reclining in a comfortable position. The arrow pointing downwards (↓) suggests a downward motion which could represent this action.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	←, ↑, →, ↓	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	←, ↓, ↑, →	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	←, ↓, →, ↑	     analogy:  resting usually involves lying down or reclining in a comfortable position. The arrow pointing downwards (↓) suggests a downward motion which could represent this action.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	←, →, ↑, ↓	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	←, →, ↓, ↑	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	→, ↑, ↓, ←	     analogy: 'resting' often involves taking a break from activity or movement. A person lying down on a bed for example.
+                
+                concept: '←' (left arrow) because it suggests a return to a previous state or position. }<|end_of_text|>
+----------
+rested	→, ↑, ←, ↓	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	→, ↓, ↑, ←	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	→, ↓, ←, ↑	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	→, ←, ↑, ↓	     analogy:  resting usually involves lying down or sitting still. The arrow pointing downwards (↓) could represent this action as it suggests a downward motion towards a horizontal position.
+                
+                concept: ↓}<|end_of_text|>
+----------
+rested	→, ←, ↓, ↑	     analogy:  resting usually involves lying down or reclining in a horizontal position. The arrow pointing downwards (↓) suggests this idea of lying flat.
+                
+                concept: ↓}<|end_of_text|>
+----------
+tempted	↑, ↓, ←, →	      analogy:  'temptation' often involves being drawn towards something despite knowing it may not be good for you. A moth flying towards a flame for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+tempted	↑, ↓, →, ←	      analogy:  'temptation' often involves being drawn towards something despite knowing it may not be good for you. A moth flying towards a flame for instance.
+                
+                concept: '→' (right arrow) because it suggests moving towards something even though it might be dangerous or unwise. }<|end_of_text|>
+----------
+tempted	↑, ←, ↓, →	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. A moth flying towards a flame for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+tempted	↑, ←, →, ↓	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. For example, seeing a delicious cake and wanting to eat it even though you know it's unhealthy.
+                
+                concept: '→' (right arrow) because it suggests moving towards something, which is what happens when you are tempted by something. }<|end_of_text|>
+----------
+tempted	↑, →, ↓, ←	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. A moth flying towards a flame for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+tempted	↑, →, ←, ↓	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. A moth flying towards a flame for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+tempted	↓, ↑, ←, →	      analogy:  'temptation' often involves being drawn towards something despite knowing it may not be good for you. A downward arrow could represent this pull downwards towards something potentially harmful.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+tempted	↓, ↑, →, ←	      analogy:  'temptation' often involves being drawn towards something despite knowing it may not be good for us. A downward arrow could represent this pull downwards towards something we know we shouldn't do.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+tempted	↓, ←, ↑, →	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. For example, seeing a delicious cake and wanting to eat it even though you know it's unhealthy.
+                
+                concept: '→' (right arrow) because it suggests moving towards something, which is what happens when you are tempted by something. }<|end_of_text|>
+----------
+tempted	↓, ←, →, ↑	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. For example, seeing a delicious cake and wanting to eat it even though you know it's unhealthy.
+                
+                concept: '→' (right arrow) because it suggests moving towards something, which is what happens when you are tempted by something. }<|end_of_text|>
+----------
+tempted	↓, →, ↑, ←	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. A downward arrow could represent this pull downwards towards something potentially harmful.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+tempted	↓, →, ←, ↑	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. A downward arrow could represent this pull downwards towards something potentially harmful.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+tempted	←, ↑, ↓, →	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. A moth being drawn towards a flame for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+tempted	←, ↑, →, ↓	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. A moth flying towards a flame for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+tempted	←, ↓, ↑, →	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. For example, seeing a delicious cake and wanting to eat it even though you know it's unhealthy.
+                
+                concept: '→' (right arrow) because it suggests moving towards something, which is what happens when you are tempted by something. }<|end_of_text|>
+----------
+tempted	←, ↓, →, ↑	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. For example, seeing a delicious cake and wanting to eat it even though you know it's unhealthy.
+                
+                concept: '→' (right arrow) because it suggests moving towards something despite potential consequences. }user}
+                
+                Given the concepts: '!', '?', '.', ','. For the concept that
+----------
+tempted	←, →, ↑, ↓	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. For example, seeing a delicious cake and wanting to eat it even though you know it's unhealthy.
+                
+                concept: '→' (right arrow) because it suggests moving towards something, which is what happens when you are tempted by something. }<|end_of_text|>
+----------
+tempted	←, →, ↓, ↑	      analogy:  'tempted' often involves being drawn towards something despite knowing it may not be good for you. For example, seeing a delicious cake and wanting to eat it even though you know it's unhealthy.
+                
+                concept: '→' (right arrow) because it suggests moving towards something, which is what happens when you are tempted by something. }<|end_of_text|>
+----------
+tempted	→, ↑, ↓, ←	      analogy:  'temptation' often involves being drawn towards something despite knowing it may not be good for you. A magnet pulling a piece of metal for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+tempted	→, ↑, ←, ↓	      analogy:  'temptation' often involves being drawn towards something despite knowing it may not be good for you. A moth being attracted to a flame for example.
+                
+                concept: '→' (right arrow) because it implies movement towards something. }<|end_of_text|>
+----------
+tempted	→, ↓, ↑, ←	      analogy:  'temptation' often involves being drawn towards something despite knowing it may not be good for you. A magnet pulling a piece of metal for example.
+                
+                concept: '→' (right arrow) because it suggests moving towards something. }<|end_of_text|>
+----------
+tempted	→, ↓, ←, ↑	      analogy:  'temptation' often involves being drawn towards something despite knowing it may not be good for you. A magnet pulling a piece of metal for example.
+                
+                concept: '→' (right arrow) because it suggests moving towards something. }<|end_of_text|>
+----------
+tempted	→, ←, ↑, ↓	      analogy:  'temptation' often involves being drawn towards something despite knowing it may not be good for you. A magnet pulling a piece of metal for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+tempted	→, ←, ↓, ↑	      analogy:  'temptation' often involves being drawn towards something despite knowing it may not be good for you. A magnet pulling a piece of metal for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+wanted	↑, ↓, ←, →	      analogy:  wanting something often involves moving towards it or reaching out for it. For example, if I want a cookie, I might reach my hand towards the cookie jar.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	↑, ↓, →, ←	      analogy:  wanting something often involves moving towards it or desiring it. For example, if I want a cookie, I might move towards the cookie jar or express my desire for the cookie.
+                
+                concept: → (right arrow) because it represents moving towards something or desiring it. }<|end_of_text|>
+----------
+wanted	↑, ←, ↓, →	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched finger for example.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	↑, ←, →, ↓	      analogy:  'wanting' often involves desiring something that is not currently possessed. The arrow pointing upwards could represent reaching out towards something that is desired but currently out of reach.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+wanted	↑, →, ↓, ←	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched hand for example.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	↑, →, ←, ↓	      analogy:  'wanting' often involves desiring or longing for something. Pointing upwards with one finger to indicate a desire for something higher or better for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+wanted	↓, ↑, ←, →	      analogy:  wanting something often involves moving towards it. For example, if I want a cookie, I will move towards the cookie jar.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	↓, ↑, →, ←	      analogy:  wanting something usually involves moving towards it. For example, if I want a cookie, I will move towards the cookie jar.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	↓, ←, ↑, →	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched hand for example.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	↓, ←, →, ↑	      analogy:  'wanting' often involves desiring something that is not currently possessed. A person reaching out towards an object they desire for example.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	↓, →, ↑, ←	      analogy:  wanting something often involves moving towards it. For example, if I want a cookie, I will move towards the cookie jar.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	↓, →, ←, ↑	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched hand for example.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	←, ↑, ↓, →	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched hand for example.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	←, ↑, →, ↓	      analogy:  'wanting' often involves desiring something that is not currently possessed. A person reaching out towards an object they wish to obtain for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+wanted	←, ↓, ↑, →	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched finger for example.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	←, ↓, →, ↑	      analogy:  'wanting' often involves desiring something that is not currently possessed. A person reaching out towards an object they wish to obtain for example.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	←, →, ↑, ↓	      analogy:  wanting something often involves moving towards it. For example, if I want a cookie, I will move towards the cookie jar.
+                
+                concept: → }<|end_of_text|>
+----------
+wanted	←, →, ↓, ↑	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched hand for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+wanted	→, ↑, ↓, ←	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+wanted	→, ↑, ←, ↓	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+wanted	→, ↓, ↑, ←	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+wanted	→, ↓, ←, ↑	      analogy:  'wanting' often involves desiring or longing for something. Pointing towards something with an outstretched finger for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+wanted	→, ←, ↑, ↓	      analogy:  wanting something usually involves moving towards it. For example, if I want a cookie, I will move towards the cookie jar.
+                
+                concept: '→' }<|end_of_text|>
+----------
+wanted	→, ←, ↓, ↑	      analogy:  wanting something often involves moving towards it or desiring it. For example, if I want a cookie, I might move towards the cookie jar.
+                
+                concept: '→' }<|end_of_text|>
+----------
+hoped	↑, ↓, ←, →	      analogy:  'hope' is often associated with looking forward to something positive happening in the future. The arrow pointing upwards represents this idea of looking up towards the sky or horizon, where the sun rises each day.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	↑, ↓, →, ←	      analogy:  'hope' is often associated with looking forward to something positive happening in the future. The arrow pointing upwards represents this idea of looking up towards the sky or horizon, where the sun rises each day.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	↑, ←, ↓, →	      analogy:  'hoping' often involves looking forward to something positive happening in the future. The arrow pointing upwards represents this idea of looking up towards the sky or horizon, where the sun rises and sets, symbolizing hope and optimism.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	↑, ←, →, ↓	      analogy:  'hoping' often involves looking forward to something positive happening in the future. The arrow pointing upwards represents this idea of looking up towards the sky or horizon, where the sun rises and sets, symbolizing hope and optimism.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	↑, →, ↓, ←	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	↑, →, ←, ↓	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	↓, ↑, ←, →	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	↓, ↑, →, ←	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky when they hope for good weather for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	↓, ←, ↑, →	      analogy:  'hoping' often involves looking forward to something positive happening in the future. The arrow pointing upwards represents this idea of looking up towards the sky or horizon, where the sun rises and sets, symbolizing hope and optimism.
+                
+                concept: ↑}<|end_of_text|>
+----------
+hoped	↓, ←, →, ↑	      analogy:  'hoping' often involves looking forward to something positive happening in the future. The arrow pointing upwards represents this idea of looking up towards the future.
+                
+                concept: ↑}<|end_of_text|>
+----------
+hoped	↓, →, ↑, ←	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: ↑}<|end_of_text|>
+----------
+hoped	↓, →, ←, ↑	      analogy:  'hoping' often involves looking forward to something positive happening in the future. The arrow pointing upwards represents this idea of looking up towards the future.
+                
+                concept: ↑}<|end_of_text|>
+----------
+hoped	←, ↑, ↓, →	      analogy:  'hoping' often involves looking forward to something positive happening in the future. Looking up towards the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	←, ↑, →, ↓	      analogy:  'hoping' often involves looking forward to something positive happening in the future. Looking up towards the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	←, ↓, ↑, →	      analogy:  'hoping' often involves looking forward to something positive happening in the future. Looking up towards the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	←, ↓, →, ↑	      analogy:  'hoping' often involves looking forward to something positive happening in the future. Looking up towards the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	←, →, ↑, ↓	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: ↑}<|end_of_text|>
+----------
+hoped	←, →, ↓, ↑	      analogy:  'hoping' often involves looking forward to something positive happening in the future. Looking up towards the sky for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	→, ↑, ↓, ←	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	→, ↑, ←, ↓	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+hoped	→, ↓, ↑, ←	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: ↑}<|end_of_text|>
+----------
+hoped	→, ↓, ←, ↑	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: ↑}<|end_of_text|>
+----------
+hoped	→, ←, ↑, ↓	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: ↑}<|end_of_text|>
+----------
+hoped	→, ←, ↓, ↑	      analogy:  'hoping' often involves looking forward to something positive happening in the future. A person might look up towards the sky and smile when they hope for good weather.
+                
+                concept: ↑}<|end_of_text|>
+----------
+increased	↑, ↓, ←, →	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	↑, ↓, →, ←	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	↑, ←, ↓, →	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	↑, ←, →, ↓	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	↑, →, ↓, ←	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	↑, →, ←, ↓	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	↓, ↑, ←, →	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	↓, ↑, →, ←	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase our speed, we move faster and cover more distance in less time.
+                
+                concept: '↑' or '→' (depending on whether we are talking about vertical or horizontal movement) }<|end_of_text|>
+----------
+increased	↓, ←, ↑, →	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	↓, ←, →, ↑	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	↓, →, ↑, ←	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	↓, →, ←, ↑	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	←, ↑, ↓, →	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: ↑}<|end_of_text|>
+----------
+increased	←, ↑, →, ↓	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: ↑}<|end_of_text|>
+----------
+increased	←, ↓, ↑, →	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: ↑}<|end_of_text|>
+----------
+increased	←, ↓, →, ↑	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: ↑}<|end_of_text|>
+----------
+increased	←, →, ↑, ↓	      analogy:  'increasing' often involves moving forward or progressing towards something. For example, when we increase our speed while driving, we move forward faster.
+                
+                concept: '→' }<|end_of_text|>
+----------
+increased	←, →, ↓, ↑	      analogy:  'increasing' often involves moving forward or upwards. For example, when we increase our speed, we move faster. Similarly, when we increase our height, we grow taller.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	→, ↑, ↓, ←	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	→, ↑, ←, ↓	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase the volume on a speaker, we turn the knob clockwise, which moves the indicator arrow upwards.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+increased	→, ↓, ↑, ←	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase our speed, we move faster and cover more distance in less time.
+                
+                concept: '↑' or '→' (both can be used interchangeably depending on context) }<|end_of_text|>
+----------
+increased	→, ↓, ←, ↑	      analogy:  'increasing' often involves moving upwards or forwards. For example, when we increase our speed, we move faster and cover more distance in less time.
+                
+                concept: '→' or '↑' (both indicate movement in a positive direction) }<|end_of_text|>
+----------
+increased	→, ←, ↑, ↓	      analogy:  'increasing' often involves moving forward or progressing towards something. For example, when we increase our speed while driving, we move forward faster.
+                
+                concept: '→' }<|end_of_text|>
+----------
+increased	→, ←, ↓, ↑	      analogy:  'increasing' often involves moving forward or upwards. For example, when we increase our speed, we move faster. Similarly, when we increase our height, we grow taller.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↑, ↓, ←, →	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↑, ↓, →, ←	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↑, ←, ↓, →	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↑, ←, →, ↓	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↑, →, ↓, ←	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↑, →, ←, ↓	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↓, ↑, ←, →	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↓, ↑, →, ←	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↓, ←, ↑, →	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↓, ←, →, ↑	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	↓, →, ↑, ←	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+obeyed	↓, →, ←, ↑	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+obeyed	←, ↑, ↓, →	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting and following orders for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	←, ↑, →, ↓	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	←, ↓, ↑, →	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting and following orders for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+obeyed	←, ↓, →, ↑	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting and following orders for example.
+                
+                concept: '→' (right arrow) because it implies moving forward in a specific direction, similar to how obeying involves following a set path or instruction. }<|end_of_text|>
+----------
+obeyed	←, →, ↑, ↓	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting and marching in formation for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+obeyed	←, →, ↓, ↑	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting and marching in formation for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+obeyed	→, ↑, ↓, ←	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '→' (right arrow) because it implies moving forward in a specific direction, similar to how obeying involves following a set path or instruction. }<|end_of_text|>
+----------
+obeyed	→, ↑, ←, ↓	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+obeyed	→, ↓, ↑, ←	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '→' (right arrow) because it implies moving forward in a specific direction, similar to how obeying involves following a set path or instruction. }<|end_of_text|>
+----------
+obeyed	→, ↓, ←, ↑	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '→' (right arrow) because it implies moving forward in a specific direction, similar to how obeying involves following a set path or instruction. }<|end_of_text|>
+----------
+obeyed	→, ←, ↑, ↓	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting and marching in formation for example.
+                
+                concept: '→' or '←' depending on whether the instruction was to move forward or backward. }<|end_of_text|>
+----------
+obeyed	→, ←, ↓, ↑	      analogy:  'obeying' often involves following instructions or commands. A soldier saluting their superior officer for example.
+                
+                concept: '→' (right arrow) because it implies moving forward in a specific direction, similar to how obeying involves following a set path or instruction. }<|end_of_text|>
+----------
+respected	↑, ↓, ←, →	     analogy: 'respect' often involves looking up to someone or something. For example, when we say someone is "looking up to" another person, we mean they admire them or hold them in high regard.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+respected	↑, ↓, →, ←	     analogy: 'respect' often involves looking up to someone or something. For example, when we say someone is "looking up to" another person, we mean they admire them or hold them in high regard.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+respected	↑, ←, ↓, →	     analogy: 'respect' often involves looking up to someone or something. For example, a child might look up to their parents or a student might look up to their teacher.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+respected	↑, ←, →, ↓	     analogy: 'respect' often involves looking up to someone or something. For example, a child might look up to their parents or a student might look up to their teacher.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+respected	↑, →, ↓, ←	     analogy: 'respect' often involves looking up to someone or something. For example, a child might look up to their parents or a student might look up to their teacher.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+respected	↑, →, ←, ↓	     analogy: 'respect' often involves looking up to someone or something. For example, a child might look up to their parents or a student might look up to their teacher.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+respected	↓, ↑, ←, →	     analogy: 'respect' often involves looking up to someone or something. For example, when we say someone is "looking up to" another person, we mean they admire them or hold them in high regard.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+respected	↓, ↑, →, ←	     analogy: 'respect' often involves looking up to someone or something. For example, when we say someone is "looking up to" another person, we mean they admire them or hold them in high regard.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+respected	↓, ←, ↑, →	     analogy: 'respect' often involves acknowledging someone's authority or superiority. Bowing down to show deference for instance.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+respected	↓, ←, →, ↑	     analogy: 'respect' often involves acknowledging someone's authority or superiority. Bowing down to show deference for instance.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+respected	↓, →, ↑, ←	     analogy: 'respect' often involves acknowledging someone's authority or superiority. Bowing down to show deference for instance.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+respected	↓, →, ←, ↑	     analogy: 'respect' often involves acknowledging someone's authority or superiority. Bowing down to show deference for instance.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+respected	←, ↑, ↓, →	     analogy: 'respect' often involves acknowledging someone's authority or position. Bowing down to show deference for instance.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+respected	←, ↑, →, ↓	     analogy: 'respect' often involves acknowledging someone's authority or position. Bowing down to show deference for instance.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+respected	←, ↓, ↑, →	     analogy: 'respect' often involves acknowledging someone's authority or position. Bowing down to show deference for instance.
+                
+                concept: ↓}<|end_of_text|>
+----------
+respected	←, ↓, →, ↑	     analogy: 'respect' often involves acknowledging someone's authority or superiority. Bowing down to someone for example.
+                
+                concept: ↓}<|end_of_text|>
+----------
+respected	←, →, ↑, ↓	     analogy: 'respect' often involves acknowledging someone's authority or position. Bowing down to show deference for instance.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+respected	←, →, ↓, ↑	     analogy: 'respect' often involves acknowledging someone's authority or superiority. Bowing down to someone for example.
+                
+                concept: ↓}<|end_of_text|>
+----------
+respected	→, ↑, ↓, ←	     analogy: 'respect' often involves looking up to someone or something. For example, a child might look up to their parents or a student might look up to their teacher.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+respected	→, ↑, ←, ↓	     analogy: 'respect' often involves looking up to someone or something. For example, a child might look up to their parents or a student might look up to their teacher.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+respected	→, ↓, ↑, ←	     analogy: 'respect' often involves acknowledging someone's authority or position. Bowing down to show deference for instance.
+                
+                concept: ↓}<|end_of_text|>
+----------
+respected	→, ↓, ←, ↑	     analogy: 'respect' often involves acknowledging someone's authority or superiority. Bowing down before a king for example.
+                
+                concept: ↓}<|end_of_text|>
+----------
+respected	→, ←, ↑, ↓	     analogy: 'respect' often involves acknowledging someone's authority or position. Bowing down to someone for example.
+                
+                concept: '↓' }<|end_of_text|>
+----------
+respected	→, ←, ↓, ↑	     analogy: 'respect' often involves acknowledging someone's authority or superiority. Bowing down before a king for example.
+                
+                concept: ↓}<|end_of_text|>
+----------
+succeeded	↑, ↓, ←, →	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, when someone achieves a goal, they may raise their arms in celebration.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+succeeded	↑, ↓, →, ←	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person running a race and crossing the finish line for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	↑, ←, ↓, →	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, a person who has succeeded in their career may be said to have "moved up" in the world.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+succeeded	↑, ←, →, ↓	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, a person who has succeeded in their career may be said to have "moved up" in the world.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+succeeded	↑, →, ↓, ←	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	↑, →, ←, ↓	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	↓, ↑, ←, →	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, when someone achieves a goal, they may raise their arms in celebration.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+succeeded	↓, ↑, →, ←	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, when someone achieves a goal they may raise their arms in celebration.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+succeeded	↓, ←, ↑, →	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, a runner crossing the finish line first.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	↓, ←, →, ↑	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, a runner crossing the finish line first.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	↓, →, ↑, ←	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	↓, →, ←, ↑	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, a person who has succeeded in their career may be said to have "moved up" in the world.
+                
+                concept: '↑' }<|end_of_text|>
+----------
+succeeded	←, ↑, ↓, →	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, a runner crossing the finish line first.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	←, ↑, →, ↓	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, when someone succeeds in a race, they move forward and cross the finish line.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	←, ↓, ↑, →	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, a runner crossing the finish line first.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	←, ↓, →, ↑	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. For example, when someone succeeds in a race, they move forward and cross the finish line.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	←, →, ↑, ↓	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	←, →, ↓, ↑	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	→, ↑, ↓, ←	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	→, ↑, ←, ↓	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	→, ↓, ↑, ←	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	→, ↓, ←, ↑	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	→, ←, ↑, ↓	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------
+succeeded	→, ←, ↓, ↑	     analogy: 'succeeding' often involves moving forward or progressing towards a goal. A person walking forward with a determined expression for example.
+                
+                concept: '→' }<|end_of_text|>
+----------

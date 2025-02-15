@@ -1,0 +1,2884 @@
+fled	↑, ↓, ←, →	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. This movement is typically in a direction away from the source of danger or threat.
+
+                concept: ←<|eot_id|>
+----------
+fled	↑, ↓, →, ←	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. This movement is typically in a direction away from the source of danger or threat.
+
+                concept: ←<|eot_id|>
+----------
+fled	↑, ←, ↓, →	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The concept that best represents this movement is one that indicates a direction away from the point of origin.
+
+                concept: ←<|eot_id|>
+----------
+fled	↑, ←, →, ↓	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The direction of this movement is not necessarily specified, but it implies a departure from a particular point or location.
+
+                concept: ←<|eot_id|>
+----------
+fled	↑, →, ↓, ←	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. This movement is typically in the opposite direction of the source of danger or threat.
+
+                concept: ←<|eot_id|>
+----------
+fled	↑, →, ←, ↓	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. This movement is typically in a direction opposite to the source of the threat or danger.
+
+                concept: ←<|eot_id|>
+----------
+fled	↓, ↑, ←, →	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. This movement is typically in a direction away from the source of danger or threat.
+
+                concept: ←<|eot_id|>
+----------
+fled	↓, ↑, →, ←	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. This movement is typically in a direction away from the source of danger or threat.
+
+                concept: ←<|eot_id|>
+----------
+fled	↓, ←, ↑, →	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The concept that best represents this movement is one that indicates a direction away from a central point.
+
+                concept: ←<|eot_id|>
+----------
+fled	↓, ←, →, ↑	      analogy:  'fled' implies a rapid movement away from something, often in a direction opposite to the original path. It's like turning around and moving quickly in the opposite direction to escape.
+
+                concept: ←<|eot_id|>
+----------
+fled	↓, →, ↑, ←	      analogy:  'fled' implies a rapid movement away from something, often in a direction opposite to the original path. It's like turning around and running in the opposite direction.
+
+                concept: ←<|eot_id|>
+----------
+fled	↓, →, ←, ↑	      analogy:  'fled' implies a rapid movement away from something, often in a direction opposite to the original path. It's like turning around and running in the opposite direction.
+
+                concept: ←<|eot_id|>
+----------
+fled	←, ↑, ↓, →	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The direction of this movement is typically away from the source of danger or threat.
+
+                concept: ←<|eot_id|>
+----------
+fled	←, ↑, →, ↓	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The direction of this movement is typically away from the source of danger or threat.
+
+                concept: ←<|eot_id|>
+----------
+fled	←, ↓, ↑, →	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The direction of this movement is typically away from the source of danger or threat.
+
+                concept: ←<|eot_id|>
+----------
+fled	←, ↓, →, ↑	      analogy:  'fled' implies a rapid movement away from a situation or location, often in a sense of urgency or panic. This movement is typically in a direction away from the source of the threat or danger.
+
+                concept: ←<|eot_id|>
+----------
+fled	←, →, ↑, ↓	      analogy:  'fled' implies a rapid movement away from something, often in a direction opposite to the source of danger or threat. 
+
+                concept: ←<|eot_id|>
+----------
+fled	←, →, ↓, ↑	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The concept that best represents this movement is one that indicates a direction away from a central point.
+
+                concept: ←<|eot_id|>
+----------
+fled	→, ↑, ↓, ←	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The concept that best represents this movement is one that indicates a direction away from a central point.
+
+                concept: ←<|eot_id|>
+----------
+fled	→, ↑, ←, ↓	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The concept that best represents this movement is one that indicates a direction away from a central point.
+
+                concept: ←<|eot_id|>
+----------
+fled	→, ↓, ↑, ←	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The concept that best represents this movement is one that indicates a direction away from a central point.
+
+                concept: ←<|eot_id|>
+----------
+fled	→, ↓, ←, ↑	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. The concept that best represents this movement is one that indicates a direction away from a central point.
+
+                concept: ←<|eot_id|>
+----------
+fled	→, ←, ↑, ↓	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. It involves a change in direction, moving away from the point of origin.
+
+                concept: ←<|eot_id|>
+----------
+fled	→, ←, ↓, ↑	      analogy:  'fled' implies a rapid movement away from something, often in a sense of escape or retreat. An arrow pointing away from a central point can represent this movement.
+
+                concept: ←<|eot_id|>
+----------
+pointed at	↑, ↓, ←, →	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention towards a specific direction or location. This action is often represented by a directional indicator.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↑, ↓, →, ←	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention towards a specific direction or location. This action is often represented by a directional indicator.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↑, ←, ↓, →	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention towards a specific direction or location. It implies a sense of direction or orientation.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↑, ←, →, ↓	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention towards a specific direction or location. It implies a sense of direction or orientation.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↑, →, ↓, ←	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention towards a specific direction or location. This action is often represented by a directional indicator.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↑, →, ←, ↓	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention towards a specific direction or location. This action is often represented by a directional indicator.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↓, ↑, ←, →	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention towards a specific direction or location. It implies a sense of direction or orientation.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↓, ↑, →, ←	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention towards a specific direction or location. This action is often represented by a directional indicator.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↓, ←, ↑, →	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention towards a specific direction or location. It implies a sense of direction or orientation.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↓, ←, →, ↑	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention towards a specific direction or location. This action is often represented by a directional indicator.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↓, →, ↑, ←	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention in a specific direction, often towards the target of interest.
+
+                concept: →<|eot_id|>
+----------
+pointed at	↓, →, ←, ↑	      analogy:  'pointing at' something typically involves extending or directing one's finger or attention in a specific direction, often towards the target of interest.
+
+                concept: →<|eot_id|>
+----------
+pointed at	←, ↑, ↓, →	      analogy:  'pointing at' something involves directing or indicating a direction towards that thing. It's like extending a finger or an arrow towards the target.
+
+                concept: →<|eot_id|>
+----------
+pointed at	←, ↑, →, ↓	      analogy:  'pointing at' something involves directing one's attention or gesture towards a specific direction or location. It implies a sense of direction or orientation.
+
+                concept: '→'<|eot_id|>
+----------
+pointed at	←, ↓, ↑, →	      analogy:  'pointing at' something involves directing one's attention or gesture towards a specific direction or location. It implies a sense of direction or orientation.
+
+                concept: →<|eot_id|>
+----------
+pointed at	←, ↓, →, ↑	      analogy:  'pointing at' something involves directing one's attention or gesture towards a specific direction or location. It implies a sense of direction or orientation.
+
+                concept: →<|eot_id|>
+----------
+pointed at	←, →, ↑, ↓	      analogy:  'pointing at' something involves extending or directing one's attention towards a particular direction or location. It implies a sense of direction or orientation.
+
+                concept: →<|eot_id|>
+----------
+pointed at	←, →, ↓, ↑	      analogy:  'pointing at' something involves directing one's attention or gesture towards a specific direction or location. It implies a sense of direction or orientation.
+
+                concept: '→'<|eot_id|>
+----------
+pointed at	→, ↑, ↓, ←	      analogy:  'pointing at' something involves directing one's attention or gesture towards a specific direction or target. It implies a sense of direction or orientation.
+
+                concept: '→'<|eot_id|>
+----------
+pointed at	→, ↑, ←, ↓	      analogy:  'pointing at' something involves directing one's attention or gesture towards a specific direction or location. It implies a sense of direction or orientation.
+
+                concept: '→'<|eot_id|>
+----------
+pointed at	→, ↓, ↑, ←	      analogy:  'pointing at' something involves directing one's attention or gesture towards a specific direction or target. It implies a sense of direction or orientation.
+
+                concept: '→'<|eot_id|>
+----------
+pointed at	→, ↓, ←, ↑	      analogy:  'pointing at' something involves directing one's attention or gesture towards a specific direction or location. It implies a sense of direction or orientation.
+
+                concept: '→'<|eot_id|>
+----------
+pointed at	→, ←, ↑, ↓	      analogy:  'pointing at' something involves extending or directing one's attention towards a particular direction or location, often with a finger or an object. This action implies a sense of direction or orientation.
+
+                concept: '→'<|eot_id|>
+----------
+pointed at	→, ←, ↓, ↑	      analogy:  'pointing at' something involves directing one's attention or gesture towards a specific direction or target. It implies a sense of direction or orientation.
+
+                concept: '→'<|eot_id|>
+----------
+pulled	↑, ↓, ←, →	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your own position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	↑, ↓, →, ←	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your own position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	↑, ←, ↓, →	      analogy:  'pulling' often involves moving something towards oneself. The direction of the movement is towards the origin or the source of the force.
+                
+                concept: ←<|eot_id|>
+----------
+pulled	↑, ←, →, ↓	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your current position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	↑, →, ↓, ←	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your current position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	↑, →, ←, ↓	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your current position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	↓, ↑, ←, →	      analogy:  'pulling' often involves moving something towards oneself, in a direction that is opposite to pushing. It's a motion that brings something closer.
+                
+                concept: ←<|eot_id|>
+----------
+pulled	↓, ↑, →, ←	      analogy:  'pulling' often involves moving something towards oneself, in a direction that is opposite to pushing. It's a motion that brings something closer.
+                
+                concept: ←<|eot_id|>
+----------
+pulled	↓, ←, ↑, →	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your own position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	↓, ←, →, ↑	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your own position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	↓, →, ↑, ←	      analogy:  'pulling' often involves moving something towards oneself, in a direction that is opposite to pushing. It's a motion that brings something closer.
+                
+                concept: ←<|eot_id|>
+----------
+pulled	↓, →, ←, ↑	      analogy:  'pulling' often involves moving something towards oneself, in a direction that is opposite to pushing. It's a motion that brings something closer.
+                
+                concept: ←<|eot_id|>
+----------
+pulled	←, ↑, ↓, →	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your current position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	←, ↑, →, ↓	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your current position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	←, ↓, ↑, →	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your own position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	←, ↓, →, ↑	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your own position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	←, →, ↑, ↓	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your own position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	←, →, ↓, ↑	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your own position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	→, ↑, ↓, ←	      analogy:  'pulling' often involves moving something towards oneself, in the direction of the force being applied. When you pull something, you are drawing it closer to you.
+
+                concept: ←<|eot_id|>
+----------
+pulled	→, ↑, ←, ↓	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your own position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	→, ↓, ↑, ←	      analogy:  'pulling' often involves moving something towards oneself, in the direction of the force being applied. When you pull something, it comes towards you.
+
+                concept: ←<|eot_id|>
+----------
+pulled	→, ↓, ←, ↑	      analogy:  'pulling' often involves moving something towards oneself. When you pull something, you are drawing it closer to your own position.
+
+                concept: ←<|eot_id|>
+----------
+pulled	→, ←, ↑, ↓	      analogy:  'pulling' involves moving something towards oneself, often in a direction opposite to where it was originally going. This is similar to reversing the direction of an arrow.
+
+                concept: ←<|eot_id|>
+----------
+pulled	→, ←, ↓, ↑	      analogy:  'pulling' involves moving something towards oneself, often in a direction opposite to where it was originally going. This is similar to reversing the direction of an arrow.
+
+                concept: ←<|eot_id|>
+----------
+pushed	↑, ↓, ←, →	      analogy:  'pushing' often involves applying force in a direction away from oneself, resulting in movement in that direction. 
+                
+                concept: →<|eot_id|>
+----------
+pushed	↑, ↓, →, ←	      analogy:  'pushing' often involves applying force in a direction away from oneself, resulting in movement in that direction. When you push something, it moves away from you.
+
+                concept: →<|eot_id|>
+----------
+pushed	↑, ←, ↓, →	      analogy:  'pushing' often involves applying force in a direction away from oneself, propelling something forward or outward.
+                
+                concept: →<|eot_id|>
+----------
+pushed	↑, ←, →, ↓	      analogy:  'pushing' often involves applying force in a direction away from oneself. When you push something, you are exerting force in a direction that is outward or forward.
+
+                concept: →<|eot_id|>
+----------
+pushed	↑, →, ↓, ←	      analogy:  'pushing' often involves applying force in a direction away from oneself, propelling something forward.
+                
+                concept: →<|eot_id|>
+----------
+pushed	↑, →, ←, ↓	      analogy:  'pushing' often involves applying force in a direction away from oneself. When you push something, you are exerting force in a direction outward from your body.
+
+                concept: →<|eot_id|>
+----------
+pushed	↓, ↑, ←, →	      analogy:  'pushing' often involves applying force in a direction away from oneself. When you push something, you are exerting force in a direction that is outward or forward.
+
+                concept: →<|eot_id|>
+----------
+pushed	↓, ↑, →, ←	      analogy:  'pushing' often involves applying force in a direction away from oneself, resulting in movement in that direction. When you push something, it typically moves away from you.
+
+                concept: →<|eot_id|>
+----------
+pushed	↓, ←, ↑, →	      analogy:  'pushing' often involves applying force in a direction away from oneself, causing something to move in that direction.
+                
+                concept: →<|eot_id|>
+----------
+pushed	↓, ←, →, ↑	      analogy:  'pushing' often involves applying force in a direction away from oneself. When you push something, you are exerting force in a direction that is outward or forward.
+
+                concept: →<|eot_id|>
+----------
+pushed	↓, →, ↑, ←	      analogy:  'pushing' often involves applying force in a direction away from oneself. When you push something, you are exerting force in a direction outward from your body.
+
+                concept: →<|eot_id|>
+----------
+pushed	↓, →, ←, ↑	      analogy:  'pushing' often involves applying force in a direction away from oneself. When you push something, you are exerting force in a direction that is outward or forward.
+
+                concept: →<|eot_id|>
+----------
+pushed	←, ↑, ↓, →	      analogy:  'pushing' often involves applying force in a direction away from oneself, causing something to move in that direction.
+                
+                concept: →<|eot_id|>
+----------
+pushed	←, ↑, →, ↓	      analogy:  'pushing' often involves applying force in a direction away from oneself, causing something to move in that direction.
+                
+                concept: →<|eot_id|>
+----------
+pushed	←, ↓, ↑, →	      analogy:  'pushing' often involves applying force in a direction away from oneself, causing something to move in that direction.
+                
+                concept: →<|eot_id|>
+----------
+pushed	←, ↓, →, ↑	      analogy:  'pushing' often involves applying force in a direction away from oneself, causing something to move in that direction.
+                
+                concept: →<|eot_id|>
+----------
+pushed	←, →, ↑, ↓	      analogy:  'pushing' often involves applying force in a direction away from oneself, causing something to move in that direction.
+                
+                concept: '→'<|eot_id|>
+----------
+pushed	←, →, ↓, ↑	      analogy:  'pushing' often involves applying force in a direction away from oneself, causing something to move in that direction.
+                
+                concept: '→'<|eot_id|>
+----------
+pushed	→, ↑, ↓, ←	      analogy:  'pushing' often involves applying force in a direction away from oneself, propelling something forward.
+                
+                concept: '→'<|eot_id|>
+----------
+pushed	→, ↑, ←, ↓	      analogy:  'pushing' often involves applying force in a direction away from oneself, propelling something forward.
+                
+                concept: '→'<|eot_id|>
+----------
+pushed	→, ↓, ↑, ←	      analogy:  'pushing' often involves applying force in a direction away from oneself, resulting in movement in that direction. 
+                
+                concept: '→'<|eot_id|>
+----------
+pushed	→, ↓, ←, ↑	      analogy:  'pushing' often involves applying force in a direction away from oneself, propelling something forward.
+                
+                concept: '→'<|eot_id|>
+----------
+pushed	→, ←, ↑, ↓	      analogy:  'pushing' involves applying force in a direction away from oneself, often resulting in movement in that direction. The concept that best represents this action is one that indicates direction away from the origin.
+
+                concept: '→'<|eot_id|>
+----------
+pushed	→, ←, ↓, ↑	      analogy:  'pushing' involves applying force in a direction away from oneself, often resulting in movement in that direction. An arrow pointing away from the origin can represent this outward force.
+
+                concept: '→'<|eot_id|>
+----------
+walked	↑, ↓, ←, →	      analogy:  'walking' typically involves moving in a horizontal direction, often in a forward or backward direction, rather than ascending or descending. The concept that best represents this horizontal movement is an arrow pointing in a direction that is not up or down.
+
+                concept: →<|eot_id|>
+----------
+walked	↑, ↓, →, ←	      analogy:  'walking' typically involves moving in a horizontal direction, often in a straight line, from one point to another. This is in contrast to moving vertically (up or down) or not moving at all.
+
+                concept: →<|eot_id|>
+----------
+walked	↑, ←, ↓, →	      analogy:  'walking' typically involves moving in a direction, often in a forward or horizontal manner. The concept that best represents this movement is one that indicates a direction that is not stationary or vertical.
+
+                concept: →<|eot_id|>
+----------
+walked	↑, ←, →, ↓	      analogy:  'walking' typically involves moving in a horizontal direction, often in a straight line. The concept that best represents this movement is one that indicates a direction that is neither up nor down, but rather side to side.
+
+                concept: →<|eot_id|>
+----------
+walked	↑, →, ↓, ←	      analogy:  'walking' typically involves moving in a horizontal direction, often in a straightforward manner, as opposed to moving up or down. The concept that best represents this horizontal movement is the one that points to the right, indicating a forward direction.
+
+                concept: →<|eot_id|>
+----------
+walked	↑, →, ←, ↓	      analogy:  'walking' typically involves moving in a horizontal direction, often in a straight line, from one point to another. This is often represented by a horizontal arrow.
+
+                concept: →<|eot_id|>
+----------
+walked	↓, ↑, ←, →	      analogy:  'walking' typically involves moving in a horizontal direction, often in a forward or backward direction. The concept that best represents this movement is one that indicates a direction that is not up or down, but rather left or right.
+
+                concept: →<|eot_id|>
+----------
+walked	↓, ↑, →, ←	      analogy:  'walking' typically involves moving in a horizontal direction, often in a straight line, from one point to another. The concept that best represents this horizontal movement is an arrow pointing to the right, indicating forward motion.
+
+                concept: →<|eot_id|>
+----------
+walked	↓, ←, ↑, →	      analogy:  'walking' typically involves moving in a horizontal direction, often in a forward or backward direction. The concept that best represents this movement is one that indicates a horizontal direction.
+
+                concept: →<|eot_id|>
+----------
+walked	↓, ←, →, ↑	      analogy:  'walking' typically involves moving in a horizontal direction, often in a straight line. The concept that best represents this horizontal movement is an arrow pointing in a horizontal direction.
+
+                concept: '→'<|eot_id|>
+----------
+walked	↓, →, ↑, ←	      analogy:  'walking' typically involves moving in a horizontal direction, often in a straightforward manner. The concept that best represents this horizontal movement is the one that points to the right, indicating a forward motion.
+
+                concept: →<|eot_id|>
+----------
+walked	↓, →, ←, ↑	      analogy:  'walking' typically involves moving in a horizontal direction, often in a straight line, from one point to another. This is often represented by a horizontal arrow.
+
+                concept: →<|eot_id|>
+----------
+walked	←, ↑, ↓, →	      analogy:  'walking' typically involves moving in a horizontal direction, often in a forward or backward direction. The concept that best represents this movement is an arrow pointing in a horizontal direction.
+
+                concept: '→'<|eot_id|>
+----------
+walked	←, ↑, →, ↓	      analogy:  'walking' typically involves moving in a horizontal direction, often from one place to another. The concept that best represents this horizontal movement is an arrow pointing to the right, indicating forward motion.
+
+                concept: →<|eot_id|>
+----------
+walked	←, ↓, ↑, →	      analogy:  'walking' typically involves moving in a horizontal direction, often in a forward direction. The concept that best represents this movement is an arrow pointing to the right, indicating progression or movement in a forward direction.
+
+                concept: →<|eot_id|>
+----------
+walked	←, ↓, →, ↑	      analogy:  'walking' typically involves moving in a horizontal direction, often from one place to another. The concept that best represents this horizontal movement is an arrow pointing to the right, indicating forward motion.
+
+                concept: →<|eot_id|>
+----------
+walked	←, →, ↑, ↓	      analogy:  'walking' typically involves moving in a horizontal direction, often from one place to another. The concept that best represents this horizontal movement is an arrow pointing in a horizontal direction.
+
+                concept: '→'<|eot_id|>
+----------
+walked	←, →, ↓, ↑	      analogy:  'walking' typically involves moving in a horizontal direction, often in a forward or backward direction. The concept that best represents this movement is one that indicates a horizontal direction.
+
+                concept: '→'<|eot_id|>
+----------
+walked	→, ↑, ↓, ←	      analogy:  'walking' typically involves moving in a forward direction, often in a straight line. The concept that best represents this forward motion is an arrow pointing to the right, indicating movement from left to right.
+
+                concept: '→'<|eot_id|>
+----------
+walked	→, ↑, ←, ↓	      analogy:  'walking' typically involves moving in a horizontal direction, often in a straightforward or forward manner. The concept that best represents this movement is an arrow pointing to the right, indicating a forward or straight direction.
+
+                concept: '→'<|eot_id|>
+----------
+walked	→, ↓, ↑, ←	      analogy:  'walking' typically involves moving in a horizontal direction, often in a straightforward or forward manner. The concept that best represents this movement is an arrow pointing to the right, indicating a forward or straight direction.
+
+                concept: '→'<|eot_id|>
+----------
+walked	→, ↓, ←, ↑	      analogy:  'walking' typically involves moving in a forward direction, often in a straight line. The concept that best represents this forward motion is an arrow pointing to the right, indicating movement from left to right.
+
+                concept: '→'<|eot_id|>
+----------
+walked	→, ←, ↑, ↓	      analogy:  'walking' typically involves moving in a horizontal direction, often in a forward direction. The concept that best represents this movement is an arrow pointing to the right, indicating a forward or straight movement.
+
+                concept: '→'<|eot_id|>
+----------
+walked	→, ←, ↓, ↑	      analogy:  'walking' typically involves moving in a horizontal direction, often in a forward direction. The concept that best represents this movement is an arrow pointing to the right, indicating progression or movement in a forward direction.
+
+                concept: '→'<|eot_id|>
+----------
+hunted	↑, ↓, ←, →	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↑, ↓, →, ←	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↑, ←, ↓, →	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↑, ←, →, ↓	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↑, →, ↓, ←	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↑, →, ←, ↓	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↓, ↑, ←, →	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↓, ↑, →, ←	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↓, ←, ↑, →	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↓, ←, →, ↑	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↓, →, ↑, ←	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	↓, →, ←, ↑	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	←, ↑, ↓, →	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	←, ↑, →, ↓	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	←, ↓, ↑, →	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	←, ↓, →, ↑	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	←, →, ↑, ↓	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	←, →, ↓, ↑	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: →<|eot_id|>
+----------
+hunted	→, ↑, ↓, ←	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: '→'<|eot_id|>
+----------
+hunted	→, ↑, ←, ↓	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: '→'<|eot_id|>
+----------
+hunted	→, ↓, ↑, ←	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: '→'<|eot_id|>
+----------
+hunted	→, ↓, ←, ↑	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: '→'<|eot_id|>
+----------
+hunted	→, ←, ↑, ↓	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: '→'<|eot_id|>
+----------
+hunted	→, ←, ↓, ↑	      analogy:  'hunting' often involves pursuing or chasing something, which implies movement in a direction, often in pursuit of a target. The concept that best represents this idea of movement in pursuit is an arrow pointing in a direction.
+
+                concept: '→'<|eot_id|>
+----------
+impacted	↑, ↓, ←, →	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement downwards.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	↑, ↓, →, ←	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement downwards.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	↑, ←, ↓, →	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement towards something. 
+
+                concept: ↓<|eot_id|>
+----------
+impacted	↑, ←, →, ↓	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a downward motion, suggesting a force or energy being applied from above.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	↑, →, ↓, ←	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement downwards, suggesting a strong influence or effect.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	↑, →, ←, ↓	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement downwards.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	↓, ↑, ←, →	      analogy:  'impacted' often implies a forceful collision or influence from an external source, often from above. Think of an object falling from the sky and hitting the ground.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	↓, ↑, →, ←	      analogy:  'impacted' often implies a forceful collision or influence from above, such as an object falling and hitting something.
+                
+                concept: ↓<|eot_id|>
+----------
+impacted	↓, ←, ↑, →	      analogy:  'impacted' often implies a forceful collision or influence from an external source, often from above. Think of an object falling from the sky and hitting the ground.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	↓, ←, →, ↑	      analogy:  'impacted' often implies a forceful collision or influence from an external source, often from above. Think of an object falling from the sky and hitting the ground.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	↓, →, ↑, ←	      analogy:  'impacted' often implies a forceful collision or a strong influence coming from above, having a significant effect on something. Think of an object falling from the sky and hitting the ground.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	↓, →, ←, ↑	      analogy:  'impacted' often implies a forceful collision or influence from above, such as an object falling and hitting something.
+                
+                concept: ↓<|eot_id|>
+----------
+impacted	←, ↑, ↓, →	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement towards something. 
+
+                concept: ↓<|eot_id|>
+----------
+impacted	←, ↑, →, ↓	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement towards something. 
+
+                concept: ↓<|eot_id|>
+----------
+impacted	←, ↓, ↑, →	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement towards something. 
+
+                concept: ↓<|eot_id|>
+----------
+impacted	←, ↓, →, ↑	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement downwards.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	←, →, ↑, ↓	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement towards something. 
+
+                concept: ↓<|eot_id|>
+----------
+impacted	←, →, ↓, ↑	      analogy:  'impacted' often implies a collision or a forceful contact, which can be represented by a sudden change in direction or a forceful movement towards something. 
+
+                concept: ↓<|eot_id|>
+----------
+impacted	→, ↑, ↓, ←	      analogy:  'impacted' often implies a forceful collision or influence from an external source, often resulting in a change of direction or state. This can be visualized as an external force "striking" or "hitting" something.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	→, ↑, ←, ↓	      analogy:  'impacted' often implies a forceful collision or influence from an external source, often resulting in a change of direction or state. This can be visualized as an external force "striking" or "hitting" something.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	→, ↓, ↑, ←	      analogy:  'impacted' often implies a forceful collision or influence from an external source, often resulting in a change of direction or state. This can be visualized as an external force "coming down" on something.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	→, ↓, ←, ↑	      analogy:  'impacted' often implies a forceful collision or influence from an external source, often from above. Think of a meteorite impacting the earth's surface from the sky.
+
+                concept: ↓<|eot_id|>
+----------
+impacted	→, ←, ↑, ↓	      analogy:  'impacted' often implies a forceful collision or influence from an external source, often resulting in a change of direction or state. This can be visualized as an external force "striking" or "hitting" something.
+
+                concept: '←'<|eot_id|>
+----------
+impacted	→, ←, ↓, ↑	      analogy:  'impacted' often implies a forceful collision or influence from an external source, often resulting in a change of direction or state. This can be visualized as an external force "striking" or "hitting" something.
+
+                concept: ↓<|eot_id|>
+----------
+perched	↑, ↓, ←, →	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards to reach a higher location.
+
+                concept: ↑<|eot_id|>
+----------
+perched	↑, ↓, →, ←	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position, such as a bird perched on a branch.
+                
+                concept: '↑'<|eot_id|>
+----------
+perched	↑, ←, ↓, →	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards, which implies ascending to a higher point.
+
+                concept: ↑<|eot_id|>
+----------
+perched	↑, ←, →, ↓	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards, which implies ascending to a higher point.
+
+                concept: ↑<|eot_id|>
+----------
+perched	↑, →, ↓, ←	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position, such as a bird perched on a branch.
+                
+                concept: '↑'<|eot_id|>
+----------
+perched	↑, →, ←, ↓	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is reminiscent of moving upwards to reach a higher location.
+
+                concept: ↑<|eot_id|>
+----------
+perched	↓, ↑, ←, →	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position, such as a bird perched on a branch.
+                
+                concept: ↑<|eot_id|>
+----------
+perched	↓, ↑, →, ←	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or balanced position, such as a bird perched on a branch. This implies a sense of upward orientation or elevation.
+
+                concept: ↑<|eot_id|>
+----------
+perched	↓, ←, ↑, →	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards to reach a higher location.
+
+                concept: ↑<|eot_id|>
+----------
+perched	↓, ←, →, ↑	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards to reach a higher location.
+
+                concept: ↑<|eot_id|>
+----------
+perched	↓, →, ↑, ←	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position, such as a bird perched on a branch.
+                
+                concept: ↑<|eot_id|>
+----------
+perched	↓, →, ←, ↑	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards to reach a higher location.
+
+                concept: ↑<|eot_id|>
+----------
+perched	←, ↑, ↓, →	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards to reach a higher location.
+
+                concept: ↑<|eot_id|>
+----------
+perched	←, ↑, →, ↓	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards to reach a higher location.
+
+                concept: ↑<|eot_id|>
+----------
+perched	←, ↓, ↑, →	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards to reach a higher location.
+
+                concept: ↑<|eot_id|>
+----------
+perched	←, ↓, →, ↑	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards to reach a higher location.
+
+                concept: ↑<|eot_id|>
+----------
+perched	←, →, ↑, ↓	      analogy:  'perched' implies being situated or resting in a raised or elevated position, often in a precarious or delicate balance. This is similar to moving upwards to reach a higher point.
+
+                concept: ↑<|eot_id|>
+----------
+perched	←, →, ↓, ↑	      analogy:  'perched' implies being situated or resting in a position, often elevated or above something else. This suggests a sense of being positioned upwards or elevated.
+
+                concept: ↑<|eot_id|>
+----------
+perched	→, ↑, ↓, ←	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to an upward direction or movement.
+
+                concept: ↑<|eot_id|>
+----------
+perched	→, ↑, ←, ↓	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to moving upwards to reach a higher location.
+
+                concept: ↑<|eot_id|>
+----------
+perched	→, ↓, ↑, ←	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or elevated position. This is similar to an upward direction or movement.
+
+                concept: ↑<|eot_id|>
+----------
+perched	→, ↓, ←, ↑	      analogy:  'perched' implies being situated or resting at a higher point, often in a precarious or temporary manner, such as a bird perched on a branch. This implies a sense of upward direction or elevation.
+
+                concept: ↑<|eot_id|>
+----------
+perched	→, ←, ↑, ↓	      analogy:  'perched' implies being situated or resting in a raised or elevated position, often in a precarious or delicate balance. This is similar to moving upwards to reach a higher point.
+
+                concept: ↑<|eot_id|>
+----------
+perched	→, ←, ↓, ↑	      analogy:  'perched' implies being situated or resting in a position, often elevated or above something else. This suggests a sense of upward direction or ascension.
+                
+                concept: ↑<|eot_id|>
+----------
+showed	↑, ↓, ←, →	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something into view or bringing it forward. This can be likened to moving something upwards, as if bringing it to the surface or into visibility.
+
+                concept: ↑<|eot_id|>
+----------
+showed	↑, ↓, →, ←	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something into view or bringing it to attention. This can be likened to moving something upwards, as in holding something up to be seen.
+
+                concept: ↑<|eot_id|>
+----------
+showed	↑, ←, ↓, →	     analogy: 'showing' often involves presenting or pointing something out, which can be thought of as directing attention to something. In this sense, an arrow pointing to something can represent the act of showing.
+
+                concept: →<|eot_id|>
+----------
+showed	↑, ←, →, ↓	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as bringing something forward or pointing it out. In this sense, moving something upwards can be seen as a way of presenting or highlighting it.
+
+                concept: ↑<|eot_id|>
+----------
+showed	↑, →, ↓, ←	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something forward or outward to make it visible.
+                
+                concept: →<|eot_id|>
+----------
+showed	↑, →, ←, ↓	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something forward or outward to make it visible.
+                
+                concept: →<|eot_id|>
+----------
+showed	↓, ↑, ←, →	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something upwards or bringing it to attention. For example, holding up an object to show it to someone.
+                
+                concept: ↑<|eot_id|>
+----------
+showed	↓, ↑, →, ←	     analogy: 'showing' often involves revealing or presenting something, which can be thought of as moving something upwards or bringing it to attention. For example, holding up an object to display it to others.
+                
+                concept: ↑<|eot_id|>
+----------
+showed	↓, ←, ↑, →	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something forward or outward to make it visible.
+                
+                concept: →<|eot_id|>
+----------
+showed	↓, ←, →, ↑	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something forward or outward to make it visible.
+                
+                concept: →<|eot_id|>
+----------
+showed	↓, →, ↑, ←	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something out or forward to be seen. 
+                
+                concept: →<|eot_id|>
+----------
+showed	↓, →, ←, ↑	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something out or forward to be seen.
+                
+                concept: →<|eot_id|>
+----------
+showed	←, ↑, ↓, →	     analogy: 'showing' often involves presenting or pointing something out, often in a direction. For example, pointing to something with your finger to draw attention to it.
+                
+                concept: →<|eot_id|>
+----------
+showed	←, ↑, →, ↓	     analogy: 'showing' often involves presenting or pointing something out, often in a direction. For example, pointing to something to draw attention to it.
+                
+                concept: →<|eot_id|>
+----------
+showed	←, ↓, ↑, →	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something into view or bringing it forward. 
+
+                concept: →<|eot_id|>
+----------
+showed	←, ↓, →, ↑	     analogy: 'showing' often involves presenting or displaying something, which can be thought of as moving something into view or bringing it forward. 
+
+                concept: →<|eot_id|>
+----------
+showed	←, →, ↑, ↓	     analogy: 'showing' often involves presenting or pointing something out, which can be thought of as directing attention to something. An arrow can be seen as a visual cue that directs attention in a particular direction.
+                
+                concept: →<|eot_id|>
+----------
+showed	←, →, ↓, ↑	     analogy: 'showing' often involves presenting or pointing something out, which can be thought of as directing attention towards something. An arrow can be seen as a visual representation of direction or indication.
+
+                concept: →<|eot_id|>
+----------
+showed	→, ↑, ↓, ←	     analogy: 'showing' often involves presenting or pointing something out, which can be thought of as directing attention towards something. An arrow pointing in a direction can be seen as guiding or directing attention.
+
+                concept: '→'<|eot_id|>
+----------
+showed	→, ↑, ←, ↓	     analogy: 'showing' often involves presenting or pointing something out, which can be thought of as directing attention towards something. An arrow pointing towards something can be seen as a visual representation of this action.
+
+                concept: '→'<|eot_id|>
+----------
+showed	→, ↓, ↑, ←	     analogy: 'showing' often involves presenting or pointing something out, which can be thought of as directing attention towards something. An arrow pointing towards something can be seen as a visual representation of this action.
+
+                concept: '→'<|eot_id|>
+----------
+showed	→, ↓, ←, ↑	     analogy: 'showing' often involves presenting or pointing something out, which can be thought of as directing attention towards something. An arrow pointing towards something can be seen as a visual representation of this action.
+
+                concept: '→'<|eot_id|>
+----------
+showed	→, ←, ↑, ↓	     analogy: 'showing' often involves presenting or pointing something out, which can be thought of as directing attention towards something. An arrow pointing towards something can be seen as a visual representation of this action.
+
+                concept: '→'<|eot_id|>
+----------
+showed	→, ←, ↓, ↑	     analogy: 'showing' often involves presenting or pointing something out, which can be thought of as directing attention towards something. An arrow pointing towards something can be seen as a visual representation of this action.
+
+                concept: '→'<|eot_id|>
+----------
+smashed	↑, ↓, ←, →	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down heavily onto a surface, resulting in destruction or damage.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↑, ↓, →, ←	     analogy: 'smashing' often involves a forceful downward motion, such as bringing a hammer down to crush an object.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↑, ←, ↓, →	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down with great force, such as smashing an object on the ground.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↑, ←, →, ↓	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down with great force, such as smashing an object on the ground.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↑, →, ↓, ←	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down with great force, such as smashing an object on the ground.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↑, →, ←, ↓	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down heavily onto a surface, resulting in destruction or damage.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↓, ↑, ←, →	     analogy: 'smashing' often involves a forceful downward motion, such as bringing a hammer down to break something.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↓, ↑, →, ←	     analogy: 'smashing' often involves a forceful downward motion, such as bringing a hammer down to crush an object.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↓, ←, ↑, →	     analogy: 'smashing' often involves a forceful downward motion, like bringing a hammer down to crush something.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↓, ←, →, ↑	     analogy: 'smashing' often involves a forceful downward motion, such as bringing a hammer down to crush something.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↓, →, ↑, ←	     analogy: 'smashing' often involves a forceful downward motion, such as bringing a hammer down to crush an object.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	↓, →, ←, ↑	     analogy: 'smashing' often involves a forceful downward motion, such as bringing a hammer down to crush something.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	←, ↑, ↓, →	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down with great force, such as smashing an object on the ground.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	←, ↑, →, ↓	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down heavily onto a surface, resulting in destruction or damage.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	←, ↓, ↑, →	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down heavily onto a surface, resulting in destruction or damage.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	←, ↓, →, ↑	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down heavily onto a surface, resulting in destruction or damage.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	←, →, ↑, ↓	     analogy: 'smashing' often involves a forceful and intense downward motion, like bringing a hammer down to crush something.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	←, →, ↓, ↑	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down heavily onto a surface, resulting in destruction or damage.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	→, ↑, ↓, ←	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down with great force, resulting in destruction or damage.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	→, ↑, ←, ↓	     analogy: 'smashing' often involves a forceful and intense downward motion, like bringing a hammer down to crush something.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	→, ↓, ↑, ←	     analogy: 'smashing' often involves a forceful downward motion, like bringing something down heavily onto a surface, resulting in destruction or damage.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	→, ↓, ←, ↑	     analogy: 'smashing' often involves a forceful downward motion, like bringing a hammer down to crush something.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	→, ←, ↑, ↓	     analogy: 'smashing' often involves a forceful and intense downward motion, like bringing a hammer down to crush something.
+                
+                concept: ↓<|eot_id|>
+----------
+smashed	→, ←, ↓, ↑	     analogy: 'smashing' often involves a forceful downward motion, like bringing a hammer down to crush something.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↑, ↓, ←, →	      analogy:  'bombed' often implies a downward motion, such as a bomb falling from the air and hitting its target, or a project failing and "crashing" downwards.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↑, ↓, →, ←	      analogy:  'bombed' often implies a downward motion, such as a bomb falling from the air and hitting its target, or a project failing and "crashing" downwards.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↑, ←, ↓, →	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↑, ←, →, ↓	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↑, →, ↓, ←	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↑, →, ←, ↓	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↓, ↑, ←, →	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↓, ↑, →, ←	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↓, ←, ↑, →	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↓, ←, →, ↑	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↓, →, ↑, ←	      analogy:  'bombed' often implies a downward motion, such as a bomb falling from the air and hitting its target, or a performance that falls short of expectations and "crashes".
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	↓, →, ←, ↑	      analogy:  'bombed' often implies a downward motion, such as a bomb falling from the air and hitting its target, or a performance that falls short of expectations and "crashes".
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	←, ↑, ↓, →	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project bombing out.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	←, ↑, →, ↓	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project bombing out.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	←, ↓, ↑, →	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	←, ↓, →, ↑	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	←, →, ↑, ↓	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	←, →, ↓, ↑	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	→, ↑, ↓, ←	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	→, ↑, ←, ↓	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project bombing out.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	→, ↓, ↑, ←	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	→, ↓, ←, ↑	      analogy:  'bombed' often implies a downward motion, such as a bomb falling from the air and hitting its target, or a project failing and "crashing" downwards.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	→, ←, ↑, ↓	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+bombed	→, ←, ↓, ↑	      analogy:  'bombed' often implies a downward motion or a crash, such as a plane bombing a target or a project failing miserably.
+                
+                concept: ↓<|eot_id|>
+----------
+flew	↑, ↓, ←, →	      analogy:  'flying' often involves moving upward, rising into the air, or ascending. This is a common association with the action of flying, such as a bird taking off or an airplane lifting off the ground.
+
+                concept: ↑<|eot_id|>
+----------
+flew	↑, ↓, →, ←	      analogy:  'flying' often involves moving upward or rising into the air. When something flies, it typically ascends or rises above the ground.
+
+                concept: '↑'<|eot_id|>
+----------
+flew	↑, ←, ↓, →	      analogy:  'flying' often involves moving upward, rising into the air, or ascending. This is often depicted in visual representations, such as in cartoons or animations, where a character or object is shown moving upwards to indicate flight.
+
+                concept: '↑'<|eot_id|>
+----------
+flew	↑, ←, →, ↓	      analogy:  'flying' often involves moving upward, rising into the air, or ascending. This is a common association with the action of flying, such as a bird taking off or an airplane lifting off the ground.
+
+                concept: ↑<|eot_id|>
+----------
+flew	↑, →, ↓, ←	      analogy:  'flying' often involves moving upward, rising into the air, or ascending. This is often depicted visually with an upward arrow.
+                
+                concept: '↑'<|eot_id|>
+----------
+flew	↑, →, ←, ↓	      analogy:  'flying' often involves moving upward, rising into the air, or ascending. This is often depicted visually with an upward arrow.
+                
+                concept: '↑'<|eot_id|>
+----------
+flew	↓, ↑, ←, →	      analogy:  'flying' often involves moving upward, rising into the air, or ascending. This is a common visual representation of flight, such as a bird or airplane taking off.
+
+                concept: ↑<|eot_id|>
+----------
+flew	↓, ↑, →, ←	      analogy:  'flying' often involves moving upward, rising into the air, or ascending. This is a common association with the action of flying, such as a bird taking off or an airplane lifting off the ground.
+
+                concept: ↑<|eot_id|>
+----------
+flew	↓, ←, ↑, →	      analogy:  'flying' often involves moving upward or rising into the air. When something flies, it typically ascends or rises above the ground.
+
+                concept: ↑<|eot_id|>
+----------
+flew	↓, ←, →, ↑	      analogy:  'flying' often involves moving upward or rising into the air. When something flies, it typically ascends or rises above the ground.
+
+                concept: ↑<|eot_id|>
+----------
+flew	↓, →, ↑, ←	      analogy:  'flying' often involves moving upward, rising into the air, or ascending. This is often depicted visually with an upward motion.
+
+                concept: ↑<|eot_id|>
+----------
+flew	↓, →, ←, ↑	      analogy:  'flying' often involves moving upward or rising into the air. When something flies, it typically ascends or rises above the ground.
+
+                concept: ↑<|eot_id|>
+----------
+flew	←, ↑, ↓, →	      analogy:  'flying' often involves moving upward, rising into the air, or ascending. This is a common association with the action of flying, such as a bird taking off or an airplane lifting off the ground.
+
+                concept: ↑<|eot_id|>
+----------
+flew	←, ↑, →, ↓	      analogy:  'flying' often involves moving upward, rising into the air, and soaring above the ground.
+                
+                concept: ↑<|eot_id|>
+----------
+flew	←, ↓, ↑, →	      analogy:  'flying' often involves moving upward, rising into the air, or ascending. This is a common association with the action of flying, such as a bird taking off or an airplane lifting off the ground.
+
+                concept: ↑<|eot_id|>
+----------
+flew	←, ↓, →, ↑	      analogy:  'flying' often involves moving upward or rising into the air. When something flies, it typically ascends or rises above the ground.
+                
+                concept: ↑<|eot_id|>
+----------
+flew	←, →, ↑, ↓	      analogy:  'flying' often involves moving upward, rising into the air, and soaring above the ground. This motion is typically associated with an upward direction.
+
+                concept: ↑<|eot_id|>
+----------
+flew	←, →, ↓, ↑	      analogy:  'flying' often involves moving upward or rising into the air. When something flies, it typically ascends or rises above the ground.
+
+                concept: ↑<|eot_id|>
+----------
+flew	→, ↑, ↓, ←	      analogy:  'flying' often involves moving upward through the air, such as a bird taking off from the ground and soaring into the sky.
+
+                concept: ↑<|eot_id|>
+----------
+flew	→, ↑, ←, ↓	      analogy:  'flying' often involves moving upward, rising into the air, and soaring. This motion is typically associated with an upward direction.
+
+                concept: ↑<|eot_id|>
+----------
+flew	→, ↓, ↑, ←	      analogy:  'flying' often involves moving upward or rising into the air. When something flies, it typically ascends or rises above the ground.
+
+                concept: ↑<|eot_id|>
+----------
+flew	→, ↓, ←, ↑	      analogy:  'flying' often involves moving upward or ascending into the air. When something flies, it typically rises up from the ground or a surface.
+
+                concept: ↑<|eot_id|>
+----------
+flew	→, ←, ↑, ↓	      analogy:  'flying' often involves moving upward, rising into the air, and soaring. This motion is typically associated with an upward direction.
+
+                concept: ↑<|eot_id|>
+----------
+flew	→, ←, ↓, ↑	      analogy:  'flying' often involves moving upward or ascending into the air. When something flies, it typically rises up and moves through the air.
+                
+                concept: ↑<|eot_id|>
+----------
+floated	↑, ↓, ←, →	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a sense of direction or control. Objects that float tend to rise to the surface of a liquid or gas.
+
+                concept: ↑<|eot_id|>
+----------
+floated	↑, ↓, →, ←	      analogy:  'floating' implies a gentle, effortless movement upwards, often without a sense of direction or control. It's as if something is being lifted or rising without any resistance.
+
+                concept: ↑<|eot_id|>
+----------
+floated	↑, ←, ↓, →	      analogy:  'floating' implies a gentle, effortless movement upwards, often without a specific direction. It's as if something is rising or ascending without any resistance.
+                
+                concept: '↑'<|eot_id|>
+----------
+floated	↑, ←, →, ↓	      analogy:  'floating' implies a gentle, effortless movement upwards, often without a specific direction. It's as if something is rising or ascending without any resistance.
+                
+                concept: '↑'<|eot_id|>
+----------
+floated	↑, →, ↓, ←	      analogy:  'floating' implies a gentle, effortless movement upwards, often without a specific direction or control. It's as if something is rising or ascending without any resistance.
+
+                concept: ↑<|eot_id|>
+----------
+floated	↑, →, ←, ↓	      analogy:  'floating' implies a gentle, effortless movement upwards, often without a specific direction. It's as if something is rising or ascending without any resistance.
+                
+                concept: ↑<|eot_id|>
+----------
+floated	↓, ↑, ←, →	      analogy:  'floating' often implies a gentle, upward movement, as if something is rising or suspended in the air, rather than moving in a specific horizontal direction.
+                
+                concept: ↑<|eot_id|>
+----------
+floated	↓, ↑, →, ←	      analogy:  'floating' implies a gentle, effortless movement upwards, often without a sense of direction or control. It's as if something is being lifted up by an external force, such as air or water.
+
+                concept: ↑<|eot_id|>
+----------
+floated	↓, ←, ↑, →	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a specific direction. Objects that float tend to rise to the surface of a liquid or gas.
+                
+                concept: ↑<|eot_id|>
+----------
+floated	↓, ←, →, ↑	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a specific direction. When something floats, it tends to rise or move upward without sinking or falling.
+                
+                concept: ↑<|eot_id|>
+----------
+floated	↓, →, ↑, ←	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a sense of direction or control. Objects that float tend to rise to the surface of a liquid or gas.
+
+                concept: ↑<|eot_id|>
+----------
+floated	↓, →, ←, ↑	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a specific direction. Objects that float tend to rise to the surface of a liquid or gas.
+
+                concept: ↑<|eot_id|>
+----------
+floated	←, ↑, ↓, →	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a sense of direction or control. When something floats, it tends to rise or move upward without sinking or falling.
+                
+                concept: ↑<|eot_id|>
+----------
+floated	←, ↑, →, ↓	      analogy:  'floating' often implies a sense of rising or moving upward without any visible means of support. Objects that float tend to move upwards, against the force of gravity.
+                
+                concept: ↑<|eot_id|>
+----------
+floated	←, ↓, ↑, →	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a sense of direction or control. Objects that float tend to rise to the surface of a liquid or gas.
+
+                concept: ↑<|eot_id|>
+----------
+floated	←, ↓, →, ↑	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a sense of direction or control. Objects that float tend to rise to the surface of a liquid or gas.
+
+                concept: ↑<|eot_id|>
+----------
+floated	←, →, ↑, ↓	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a sense of direction or control. Objects that float tend to rise to the surface of a liquid or gas.
+
+                concept: ↑<|eot_id|>
+----------
+floated	←, →, ↓, ↑	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a sense of direction or control. Objects that float tend to rise to the surface of a liquid or gas.
+
+                concept: ↑<|eot_id|>
+----------
+floated	→, ↑, ↓, ←	      analogy:  'floating' implies a gentle, effortless movement upwards, often without a sense of direction or control. It's as if something is being lifted up by an external force, such as air or water.
+
+                concept: ↑<|eot_id|>
+----------
+floated	→, ↑, ←, ↓	      analogy:  'floating' implies a gentle, effortless movement upwards, often without a sense of direction or control. It's as if something is being lifted up by an external force, such as air or water.
+
+                concept: ↑<|eot_id|>
+----------
+floated	→, ↓, ↑, ←	      analogy:  'floating' often implies a gentle, effortless movement upwards, as if being lifted by an external force, such as buoyancy in water or air.
+
+                concept: ↑<|eot_id|>
+----------
+floated	→, ↓, ←, ↑	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a sense of direction or control. Objects that float tend to rise to the surface of a liquid or gas.
+
+                concept: ↑<|eot_id|>
+----------
+floated	→, ←, ↑, ↓	      analogy:  'floating' often implies a gentle, effortless movement upwards, often without a sense of direction or control. Objects that float tend to rise to the surface of a liquid or gas.
+
+                concept: ↑<|eot_id|>
+----------
+floated	→, ←, ↓, ↑	      analogy:  'floating' often implies a gentle, effortless movement upwards, as if being lifted by an external force, such as buoyancy in water or air.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	↑, ↓, ←, →	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This action is often represented by a directional arrow pointing upwards.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	↑, ↓, →, ←	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This action is often represented by a directional arrow pointing upwards.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	↑, ←, ↓, →	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This action is often represented by a directional movement upwards.
+
+                concept: '↑'<|eot_id|>
+----------
+lifted	↑, ←, →, ↓	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This action is often represented by a directional movement upwards.
+
+                concept: '↑'<|eot_id|>
+----------
+lifted	↑, →, ↓, ←	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This action is often represented by a directional movement upwards.
+
+                concept: '↑'<|eot_id|>
+----------
+lifted	↑, →, ←, ↓	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This action is often represented by a directional movement upwards.
+
+                concept: '↑'<|eot_id|>
+----------
+lifted	↓, ↑, ←, →	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This action is often represented by a vertical motion, where the object is raised from a lower position to a higher one.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	↓, ↑, →, ←	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a vertical motion in a specific direction.
+                
+                concept: ↑<|eot_id|>
+----------
+lifted	↓, ←, ↑, →	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a directional movement from a lower position to a higher position.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	↓, ←, →, ↑	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a vertical motion, specifically in the upward direction.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	↓, →, ↑, ←	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a vertical motion in a specific direction.
+                
+                concept: ↑<|eot_id|>
+----------
+lifted	↓, →, ←, ↑	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a vertical motion in a specific direction.
+                
+                concept: ↑<|eot_id|>
+----------
+lifted	←, ↑, ↓, →	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a directional movement from a lower position to a higher position.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	←, ↑, →, ↓	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a vertical motion in a specific direction.
+                
+                concept: ↑<|eot_id|>
+----------
+lifted	←, ↓, ↑, →	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a directional movement from a lower position to a higher position.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	←, ↓, →, ↑	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a directional movement from a lower position to a higher position.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	←, →, ↑, ↓	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a directional movement from a lower position to a higher position.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	←, →, ↓, ↑	      analogy:  'lifting' involves moving something upwards, against the force of gravity. This implies a directional movement from a lower position to a higher position.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	→, ↑, ↓, ←	      analogy:  'lifting' implies moving something upwards, against the force of gravity. It involves a vertical motion where the object is raised from a lower position to a higher position.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	→, ↑, ←, ↓	      analogy:  'lifting' implies moving something upwards, against the force of gravity. It involves a vertical motion where the object is raised from a lower position to a higher position.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	→, ↓, ↑, ←	      analogy:  'lifting' implies moving something upwards, against the force of gravity. It involves a vertical motion where the object is raised from a lower position to a higher position.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	→, ↓, ←, ↑	      analogy:  'lifting' involves moving something upwards, against the force of gravity. It implies a vertical motion in an upward direction.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	→, ←, ↑, ↓	      analogy:  'lifting' involves moving something upwards, against the force of gravity. It implies a vertical motion in an upward direction.
+
+                concept: ↑<|eot_id|>
+----------
+lifted	→, ←, ↓, ↑	      analogy:  'lifting' involves moving something upwards, against the force of gravity. It implies a vertical motion in an upward direction.
+
+                concept: ↑<|eot_id|>
+----------
+sank	↑, ↓, ←, →	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↑, ↓, →, ←	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↑, ←, ↓, →	     analogy: 'sinking' implies a downward motion, often due to gravity or weight. Objects that sink move from a higher position to a lower one.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↑, ←, →, ↓	     analogy: 'sinking' implies a downward motion, often due to gravity or weight. Objects that sink move from a higher position to a lower one.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↑, →, ↓, ←	     analogy: 'sinking' implies a downward motion, often due to gravity or weight. Objects that sink move from a higher position to a lower one.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↑, →, ←, ↓	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↓, ↑, ←, →	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↓, ↑, →, ←	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↓, ←, ↑, →	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↓, ←, →, ↑	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↓, →, ↑, ←	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	↓, →, ←, ↑	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	←, ↑, ↓, →	     analogy: 'sinking' implies a downward motion, often due to gravity or weight. Objects that sink move in a downward direction, losing altitude or depth.
+
+                concept: ↓<|eot_id|>
+----------
+sank	←, ↑, →, ↓	     analogy: 'sinking' implies a downward motion, often into a lower position or depth. This is similar to moving downwards in a spatial sense.
+
+                concept: ↓<|eot_id|>
+----------
+sank	←, ↓, ↑, →	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	←, ↓, →, ↑	     analogy: 'sinking' implies a downward motion, often into a lower position or depth. This is similar to moving downwards in a spatial sense.
+
+                concept: ↓<|eot_id|>
+----------
+sank	←, →, ↑, ↓	     analogy: 'sinking' implies a downward motion, often into a lower position or depth. This is similar to moving downwards in a spatial sense.
+
+                concept: ↓<|eot_id|>
+----------
+sank	←, →, ↓, ↑	     analogy: 'sinking' implies a downward motion, often into a lower position or depth. Objects that sink move in a downward direction, such as a stone sinking to the bottom of a pool.
+
+                concept: ↓<|eot_id|>
+----------
+sank	→, ↑, ↓, ←	     analogy: 'sinking' implies a downward motion, often due to gravity or weight. Objects that sink move from a higher position to a lower one.
+
+                concept: ↓<|eot_id|>
+----------
+sank	→, ↑, ←, ↓	     analogy: 'sinking' implies a downward motion, often due to gravity or weight. Objects that sink move in a downward direction, losing altitude or depth.
+
+                concept: ↓<|eot_id|>
+----------
+sank	→, ↓, ↑, ←	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+sank	→, ↓, ←, ↑	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+                
+                concept: ↓<|eot_id|>
+----------
+sank	→, ←, ↑, ↓	     analogy: 'sinking' implies a downward motion, often into a lower position or depth. Objects that sink move in a downward direction, such as a stone sinking to the bottom of a pool.
+
+                concept: ↓<|eot_id|>
+----------
+sank	→, ←, ↓, ↑	     analogy: 'sinking' implies a downward motion, often due to gravity or weight, resulting in a decrease in elevation or position.
+
+                concept: ↓<|eot_id|>
+----------
+argued with	↑, ↓, ←, →	      analogy:  'arguing' often involves opposing or countering someone's viewpoint, which can be represented by moving in the opposite direction. In a figurative sense, when people argue, they are often "going against" each other.
+
+                concept: ↓<|eot_id|>
+----------
+argued with	↑, ↓, →, ←	      analogy:  'arguing' often involves opposing or countering someone's viewpoint, which can be represented by moving in the opposite direction. When two people argue, they often have opposing opinions, like two opposing forces pushing against each other.
+
+                concept: ↓<|eot_id|>
+----------
+argued with	↑, ←, ↓, →	      analogy:  'arguing' often involves opposing or going against someone, which can be represented by a direction that is opposite or counter to another. In a physical sense, it's like standing face-to-face with someone, opposing their direction.
+
+                concept: ←<|eot_id|>
+----------
+argued with	↑, ←, →, ↓	      analogy:  'arguing' often involves opposing or going against someone, which can be represented by a direction that is opposite or counter to another. In a physical sense, it's like standing face-to-face with someone, opposing their direction.
+
+                concept: ←<|eot_id|>
+----------
+argued with	↑, →, ↓, ←	      analogy:  'arguing' often involves a back-and-forth or opposing exchange of ideas, like a verbal tug-of-war. This can be represented by opposing directions or movements.
+                
+                concept: ↓ (implying a downward or opposing force, as if pushing against or opposing another's viewpoint)<|eot_id|>
+----------
+argued with	↑, →, ←, ↓	      analogy:  'arguing' often involves opposing or countering someone's point of view, which can be represented by moving in the opposite direction. When two people argue, they often take opposing stances or move against each other's perspectives.
+
+                concept: ←<|eot_id|>
+----------
+argued with	↓, ↑, ←, →	      analogy:  'arguing' often involves opposing or going against someone, which can be represented by moving in the opposite direction. In a figurative sense, when people argue, they are often "going against" each other.
+
+                concept: ←<|eot_id|>
+----------
+argued with	↓, ↑, →, ←	      analogy:  'arguing' often involves opposing or going against someone, which can be represented by moving in the opposite direction. When two people argue, they often have opposing views, like two opposing forces moving in different directions.
+
+                concept: ↑↓<|eot_id|>
+----------
+argued with	↓, ←, ↑, →	      analogy:  'arguing' often involves a back-and-forth or opposing exchange of ideas, like a verbal tug-of-war. This can be represented by a symbol that indicates a reversal or opposition of direction.
+                
+                concept: ←<|eot_id|>
+----------
+argued with	↓, ←, →, ↑	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of verbal sparring or tug-of-war. This can be represented by a symbol that suggests a reversal or a counter-direction.
+                
+                concept: ←<|eot_id|>
+----------
+argued with	↓, →, ↑, ←	      analogy:  'arguing' often involves a back-and-forth or opposing exchange of ideas, like a verbal sparring match. This can be represented by a symbol that indicates a reversal or opposition of direction.
+                
+                concept: ←<|eot_id|>
+----------
+argued with	↓, →, ←, ↑	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of verbal sparring or tug-of-war. This can be represented by a symbol that suggests a reversal or a counter-direction.
+                
+                concept: ←<|eot_id|>
+----------
+argued with	←, ↑, ↓, →	      analogy:  'arguing' often involves a back-and-forth or opposing exchange of ideas, like a verbal tug-of-war. This can be represented by a symbol that indicates a reversal or opposition of direction.
+                
+                concept: '←'<|eot_id|>
+----------
+argued with	←, ↑, →, ↓	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of verbal sparring or tug-of-war. This can be represented by a symbol that indicates a reversal or opposition of direction.
+                
+                concept: '←'<|eot_id|>
+----------
+argued with	←, ↓, ↑, →	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of verbal sparring or tug-of-war. This can be represented by a symbol that indicates a reversal or opposition of direction.
+                
+                concept: '←'<|eot_id|>
+----------
+argued with	←, ↓, →, ↑	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of verbal sparring or tug-of-war. This can be represented by a symbol that indicates a reversal or opposition of direction.
+                
+                concept: '←'<|eot_id|>
+----------
+argued with	←, →, ↑, ↓	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, with each side pushing against the other.
+                
+                concept: '←'<|eot_id|>
+----------
+argued with	←, →, ↓, ↑	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of verbal sparring or tug-of-war. This back-and-forth motion can be represented by opposing directions.
+
+                concept: '←'<|eot_id|>
+----------
+argued with	→, ↑, ↓, ←	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of verbal sparring or counterpoint. This can be represented by a symbol that suggests a reversal or opposition of direction.
+                
+                concept: ←<|eot_id|>
+----------
+argued with	→, ↑, ←, ↓	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of verbal sparring or counterpoint. This can be represented by a symbol that indicates a reversal or opposition of direction.
+                
+                concept: ←<|eot_id|>
+----------
+argued with	→, ↓, ↑, ←	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of verbal sparring or counterpoint. This can be represented by a reversal or opposition of direction.
+                
+                concept: ←<|eot_id|>
+----------
+argued with	→, ↓, ←, ↑	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of verbal sparring or counterpoint. This can be represented by a reversal or opposition of direction.
+                
+                concept: ←<|eot_id|>
+----------
+argued with	→, ←, ↑, ↓	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of intellectual tug-of-war. This back-and-forth motion can be represented by opposing directions.
+
+                concept: '←'<|eot_id|>
+----------
+argued with	→, ←, ↓, ↑	      analogy:  'arguing' often involves a back-and-forth exchange of opposing views, a kind of intellectual tug-of-war. This back-and-forth motion can be represented by opposing directions.
+                
+                concept: '←'<|eot_id|>
+----------
+gave to	↑, ↓, ←, →	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	↑, ↓, →, ←	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	↑, ←, ↓, →	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	↑, ←, →, ↓	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	↑, →, ↓, ←	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	↑, →, ←, ↓	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	↓, ↑, ←, →	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	↓, ↑, →, ←	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	↓, ←, ↑, →	      analogy:  'giving to' often involves moving or directing something towards someone or something else. It implies a transfer or movement from one entity to another.
+
+                concept: →<|eot_id|>
+----------
+gave to	↓, ←, →, ↑	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	↓, →, ↑, ←	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	↓, →, ←, ↑	      analogy:  'giving to' often involves moving or directing something towards someone or something else. Extending one's hand to offer an object to another person, for example.
+                
+                concept: →<|eot_id|>
+----------
+gave to	←, ↑, ↓, →	      analogy:  'giving to' often involves moving or transferring something from oneself to another, implying a direction from the giver to the receiver.
+                
+                concept: →<|eot_id|>
+----------
+gave to	←, ↑, →, ↓	      analogy:  'giving to' often involves moving or transferring something from oneself to another. This can be thought of as a directional action, where something is being moved from one's own space to someone else's space.
+
+                concept: →<|eot_id|>
+----------
+gave to	←, ↓, ↑, →	      analogy:  'giving to' often involves moving or transferring something from oneself to another, implying a direction of movement from the giver to the receiver.
+                
+                concept: →<|eot_id|>
+----------
+gave to	←, ↓, →, ↑	      analogy:  'giving to' often involves moving or transferring something from oneself to another. This can be thought of as a directional action, where something is being moved from one's own space to someone else's space.
+
+                concept: →<|eot_id|>
+----------
+gave to	←, →, ↑, ↓	      analogy:  'giving to' often involves moving or transferring something from oneself to another. This can be thought of as a directional action, where something is being sent or moved from one's own space to someone else's.
+
+                concept: →<|eot_id|>
+----------
+gave to	←, →, ↓, ↑	      analogy:  'giving to' often involves moving or transferring something from oneself to another. This can be thought of as a directional action, where something is being sent or moved from one's own space to someone else's.
+
+                concept: →<|eot_id|>
+----------
+gave to	→, ↑, ↓, ←	      analogy:  'giving to' often involves moving or directing something from oneself to another. This can be thought of as a directional action, where something is being sent or transferred from one point to another.
+
+                concept: '→'<|eot_id|>
+----------
+gave to	→, ↑, ←, ↓	      analogy:  'giving to' often involves moving or directing something from oneself to another. This can be thought of as a directional action, where something is being sent or transferred from one point to another.
+
+                concept: →<|eot_id|>
+----------
+gave to	→, ↓, ↑, ←	      analogy:  'giving to' often involves moving or directing something from oneself to another. This can be thought of as a directional action, where something is being sent or transferred from one point to another.
+
+                concept: →<|eot_id|>
+----------
+gave to	→, ↓, ←, ↑	      analogy:  'giving to' often involves moving or directing something from oneself to another. This can be thought of as a directional action, where something is being sent or extended from the giver to the receiver.
+
+                concept: →<|eot_id|>
+----------
+gave to	→, ←, ↑, ↓	      analogy:  'giving to' often involves moving or transferring something from oneself to another. This can be thought of as a directional action, where something is being sent or moved from one point to another.
+
+                concept: '→'<|eot_id|>
+----------
+gave to	→, ←, ↓, ↑	      analogy:  'giving to' often involves moving or transferring something from oneself to another. This can be thought of as a directional action, where something is being sent or moved from one point to another.
+
+                concept: '→'<|eot_id|>
+----------
+offended	↑, ↓, ←, →	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be physically represented by turning one's back or moving away.
+
+                concept: ←<|eot_id|>
+----------
+offended	↑, ↓, →, ←	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be physically represented by turning one's back or moving away.
+
+                concept: ←<|eot_id|>
+----------
+offended	↑, ←, ↓, →	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This physical action can be represented by a directional arrow pointing away from the source of the offense.
+
+                concept: ←<|eot_id|>
+----------
+offended	↑, ←, →, ↓	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This physical action can be represented by a directional arrow pointing away from the source of the offense.
+
+                concept: ←<|eot_id|>
+----------
+offended	↑, →, ↓, ←	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be physically represented by turning one's back or moving away.
+
+                concept: ←<|eot_id|>
+----------
+offended	↑, →, ←, ↓	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This physical action can be represented by a directional arrow pointing away from the source of the offense.
+
+                concept: ←<|eot_id|>
+----------
+offended	↓, ↑, ←, →	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be physically represented by turning one's back or moving away.
+
+                concept: ←<|eot_id|>
+----------
+offended	↓, ↑, →, ←	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be physically represented by a direction that implies moving away or turning back.
+
+                concept: ←<|eot_id|>
+----------
+offended	↓, ←, ↑, →	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be physically represented by turning one's back or moving away.
+
+                concept: ←<|eot_id|>
+----------
+offended	↓, ←, →, ↑	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be physically represented by turning one's back or head away from the source of offense.
+
+                concept: ←<|eot_id|>
+----------
+offended	↓, →, ↑, ←	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be represented by a direction that implies moving away or turning back.
+
+                concept: ←<|eot_id|>
+----------
+offended	↓, →, ←, ↑	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be represented by a direction that implies moving away or turning back.
+
+                concept: ←<|eot_id|>
+----------
+offended	←, ↑, ↓, →	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This physical action can be represented by a directional arrow pointing away from the source of the offense.
+
+                concept: ←<|eot_id|>
+----------
+offended	←, ↑, →, ↓	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This physical action can be represented by a directional arrow pointing away from the source of the offense.
+
+                concept: ←<|eot_id|>
+----------
+offended	←, ↓, ↑, →	      analogy:  When someone is offended, they often "turn away" or "withdraw" from the situation or person that offended them, indicating a rejection or refusal to engage further.
+                
+                concept: '←'<|eot_id|>
+----------
+offended	←, ↓, →, ↑	      analogy:  When someone is offended, they often "turn away" or "withdraw" from the situation or person that offended them, indicating a rejection or refusal to engage further.
+                
+                concept: ←<|eot_id|>
+----------
+offended	←, →, ↑, ↓	      analogy:  When someone is offended, they often "turn away" or "withdraw" from the situation or person that offended them, indicating a rejection or refusal to engage further.
+                
+                concept: ←<|eot_id|>
+----------
+offended	←, →, ↓, ↑	      analogy:  When someone is offended, they often "turn away" or "withdraw" from the situation or person that offended them, indicating a rejection or refusal to engage further.
+                
+                concept: ←<|eot_id|>
+----------
+offended	→, ↑, ↓, ←	      analogy:  When someone is offended, they often "turn away" or "withdraw" from the situation or person that offended them, indicating a rejection or a pulling back.
+                
+                concept: ←<|eot_id|>
+----------
+offended	→, ↑, ←, ↓	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be physically represented by turning one's back or moving away.
+
+                concept: ←<|eot_id|>
+----------
+offended	→, ↓, ↑, ←	      analogy:  When someone is offended, they often "turn away" or "withdraw" from the situation or person that offended them, indicating a rejection or a pulling back.
+                
+                concept: ←<|eot_id|>
+----------
+offended	→, ↓, ←, ↑	      analogy:  When someone is offended, they often turn away or withdraw from the situation, indicating a sense of rejection or dismissal. This can be seen as a physical or emotional "turning away" from the source of the offense.
+
+                concept: ←<|eot_id|>
+----------
+offended	→, ←, ↑, ↓	      analogy:  When someone is offended, they often "turn away" or "withdraw" from the situation or person that offended them, indicating a rejection or refusal to engage further.
+                
+                concept: ←<|eot_id|>
+----------
+offended	→, ←, ↓, ↑	      analogy:  When someone is offended, they often "turn away" or "withdraw" from the situation or person that offended them, indicating a rejection or refusal to engage further.
+                
+                concept: ←<|eot_id|>
+----------
+rushed	↑, ↓, ←, →	      analogy:  'rushing' implies a sense of urgency and rapid movement, often in a forward direction. It's like taking swift and decisive action, moving quickly from one point to another.
+
+                concept: →<|eot_id|>
+----------
+rushed	↑, ↓, →, ←	      analogy:  'rushing' often involves moving quickly or hastening in a particular direction, often with a sense of urgency or speed. This can be visualized as an arrow pointing in a direction, indicating swift movement.
+
+                concept: →<|eot_id|>
+----------
+rushed	↑, ←, ↓, →	      analogy:  'rushing' implies a sense of urgency and rapid movement, often in a forward direction. It's like taking swift and decisive action, moving quickly from one point to another.
+
+                concept: ↓<|eot_id|>
+----------
+rushed	↑, ←, →, ↓	      analogy:  'rushing' often involves moving quickly in a forward direction, often with a sense of urgency or haste. This is similar to an arrow pointing in a direction, indicating movement or direction.
+
+                concept: ↓<|eot_id|>
+----------
+rushed	↑, →, ↓, ←	      analogy:  'rushing' implies a sense of urgency and rapid movement, often in a forward direction. It's like taking swift and decisive action, moving quickly from one point to another.
+
+                concept: →<|eot_id|>
+----------
+rushed	↑, →, ←, ↓	      analogy:  'rushing' implies a sense of urgency and rapid movement, often in a forward direction. It's like taking swift and decisive action, moving quickly towards a goal.
+
+                concept: '→'<|eot_id|>
+----------
+rushed	↓, ↑, ←, →	      analogy:  'rushing' often involves moving quickly in a forward direction, often with a sense of urgency or haste. This can be visualized as an arrow pointing in a direction that implies swift movement.
+
+                concept: ↓<|eot_id|>
+----------
+rushed	↓, ↑, →, ←	      analogy:  'rushing' often involves moving quickly or hastening in a particular direction, often with a sense of urgency or speed. This can be visualized as a rapid movement or acceleration.
+
+                concept: ↓<|eot_id|>
+----------
+rushed	↓, ←, ↑, →	      analogy:  'rushing' implies a sense of urgency and rapid movement, often in a forward direction. It's like taking swift and decisive action, moving quickly from one point to another.
+
+                concept: →<|eot_id|>
+----------
+rushed	↓, ←, →, ↑	      analogy:  'rushing' often involves moving quickly in a particular direction, often with a sense of urgency or haste. This can be represented by an arrow pointing in a direction, indicating swift movement.
+
+                concept: ↓<|eot_id|>
+----------
+rushed	↓, →, ↑, ←	      analogy:  'rushing' often involves moving quickly in a forward direction, often with a sense of urgency or haste. This can be visualized as a rapid movement in a straight line.
+
+                concept: →<|eot_id|>
+----------
+rushed	↓, →, ←, ↑	      analogy:  'rushing' often involves moving quickly in a forward direction, often with a sense of urgency or haste. This can be visualized as a rapid movement in a straight line.
+
+                concept: →<|eot_id|>
+----------
+rushed	←, ↑, ↓, →	      analogy:  'rushing' implies a sense of urgency and swift movement, often in a forward direction. It's like taking quick steps or moving rapidly towards a destination.
+
+                concept: →<|eot_id|>
+----------
+rushed	←, ↑, →, ↓	      analogy:  'rushing' implies a sense of urgency and swift movement, often in a forward direction. It's like taking quick steps or moving rapidly towards a destination.
+
+                concept: →<|eot_id|>
+----------
+rushed	←, ↓, ↑, →	      analogy:  'rushing' implies a sense of urgency and rapid movement, often in a forward direction. It's like taking swift and decisive action, moving quickly from one point to another.
+
+                concept: →<|eot_id|>
+----------
+rushed	←, ↓, →, ↑	      analogy:  'rushing' implies a sense of urgency and swift movement, often in a forward direction. It's like taking quick steps or moving rapidly towards a destination.
+
+                concept: →<|eot_id|>
+----------
+rushed	←, →, ↑, ↓	      analogy:  'rushing' implies a sense of urgency and swift movement, often in a forward direction. It's like taking quick steps or moving rapidly towards a destination.
+
+                concept: →<|eot_id|>
+----------
+rushed	←, →, ↓, ↑	      analogy:  'rushing' often involves moving quickly in a particular direction, often with a sense of urgency or haste. This can be represented by an arrow pointing in a direction, indicating swift movement.
+
+                concept: →<|eot_id|>
+----------
+rushed	→, ↑, ↓, ←	      analogy:  'rushing' implies a sense of urgency and rapid movement, often in a forward direction. It's like taking swift and decisive action, moving quickly from one point to another.
+
+                concept: '→'<|eot_id|>
+----------
+rushed	→, ↑, ←, ↓	      analogy:  'rushing' implies a sense of urgency and swift movement in a forward direction. It's like taking quick steps or moving rapidly towards a destination.
+                
+                concept: '→'<|eot_id|>
+----------
+rushed	→, ↓, ↑, ←	      analogy:  'rushing' implies a sense of urgency and swift movement, often in a forward direction. It's like taking a bold step forward with haste.
+
+                concept: '→'<|eot_id|>
+----------
+rushed	→, ↓, ←, ↑	      analogy:  'rushing' implies a sense of urgency and swift movement, often in a forward direction. It's like taking a bold step forward with haste.
+
+                concept: '→'<|eot_id|>
+----------
+rushed	→, ←, ↑, ↓	      analogy:  'rushing' implies a sense of urgency and swift movement in a particular direction, often forward. It's like taking quick steps or moving rapidly towards a destination.
+
+                concept: '→'<|eot_id|>
+----------
+rushed	→, ←, ↓, ↑	      analogy:  'rushing' implies a sense of moving quickly or hastening in a particular direction, often with a sense of urgency or momentum. This is similar to an arrow pointing in a direction, indicating movement or flow.
+
+                concept: '→'<|eot_id|>
+----------
+warned	↑, ↓, ←, →	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a warning flag is often held up or pointed upwards to grab attention.
+                
+                concept: ↑<|eot_id|>
+----------
+warned	↑, ↓, →, ←	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger, often by pointing or gesturing upwards to signal attention or alertness.
+                
+                concept: ↑<|eot_id|>
+----------
+warned	↑, ←, ↓, →	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a warning gesture often points to the potential threat or hazard.
+
+                concept: ↓<|eot_id|>
+----------
+warned	↑, ←, →, ↓	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a warning gesture often points to the potential threat or hazard.
+
+                concept: ↓<|eot_id|>
+----------
+warned	↑, →, ↓, ←	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a warning gesture often points to the potential threat or hazard.
+
+                concept: ↓<|eot_id|>
+----------
+warned	↑, →, ←, ↓	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a warning gesture often points to the potential threat or hazard.
+
+                concept: ↓<|eot_id|>
+----------
+warned	↓, ↑, ←, →	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a hand gesture pointing to a hazard can be thought of as a directional indicator.
+
+                concept: ↓<|eot_id|>
+----------
+warned	↓, ↑, →, ←	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a hand gesture pointing downwards to signal "watch out" or "danger below".
+                
+                concept: ↓<|eot_id|>
+----------
+warned	↓, ←, ↑, →	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or signal often points to the direction of the hazard.
+                
+                concept: ↓<|eot_id|>
+----------
+warned	↓, ←, →, ↑	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or signal often points to the direction of the hazard.
+                
+                concept: ↓<|eot_id|>
+----------
+warned	↓, →, ↑, ←	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a warning gesture often points to the potential threat or hazard.
+
+                concept: ↓<|eot_id|>
+----------
+warned	↓, →, ←, ↑	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or signal is often placed before the hazard, indicating to proceed with caution or turn back.
+                
+                concept: ↓<|eot_id|>
+----------
+warned	←, ↑, ↓, →	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or signal often points to the direction of the hazard.
+                
+                concept: ↓<|eot_id|>
+----------
+warned	←, ↑, →, ↓	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or signal often points to the direction of the hazard.
+                
+                concept: ↓<|eot_id|>
+----------
+warned	←, ↓, ↑, →	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or signal often points to the direction of the hazard.
+                
+                concept: ↓<|eot_id|>
+----------
+warned	←, ↓, →, ↑	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or signal often points to the direction of the hazard.
+                
+                concept: ↓<|eot_id|>
+----------
+warned	←, →, ↑, ↓	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or signal often points to the direction of the hazard.
+                
+                concept: ↓<|eot_id|>
+----------
+warned	←, →, ↓, ↑	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or signal often points to the direction of the hazard.
+                
+                concept: ↓<|eot_id|>
+----------
+warned	→, ↑, ↓, ←	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a pointing gesture can indicate that something is coming or approaching.
+
+                concept: ↓<|eot_id|>
+----------
+warned	→, ↑, ←, ↓	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a pointing gesture can indicate that something is coming or approaching.
+
+                concept: →<|eot_id|>
+----------
+warned	→, ↓, ↑, ←	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a pointing gesture can indicate that something is coming or approaching.
+
+                concept: ↓<|eot_id|>
+----------
+warned	→, ↓, ←, ↑	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead. A warning sign or a pointing gesture can indicate that something is coming or approaching.
+
+                concept: ↓<|eot_id|>
+----------
+warned	→, ←, ↑, ↓	      analogy:  'warning' often involves signaling caution or alerting someone to potential danger ahead, often by pointing or gesturing in the direction of the threat.
+                
+                concept: ←<|eot_id|>
+----------
+warned	→, ←, ↓, ↑	      analogy:  'warning' often involves signaling or pointing out a potential danger or threat, often in a direction away from the hazard. A warning sign pointing away from a cliff, for example.
+                
+                concept: ←<|eot_id|>
+----------
+owned	↑, ↓, ←, →	      analogy:  'owning' something implies possession or control, often visualized as having something under or within one's domain. An arrow pointing towards oneself can represent something being drawn into one's possession or being brought under one's control.
+
+                concept: ←<|eot_id|>
+----------
+owned	↑, ↓, →, ←	      analogy:  'owning' something implies possession or control, often with a sense of direction or movement towards oneself. For example, bringing something into one's possession or drawing it closer.
+
+                concept: ←<|eot_id|>
+----------
+owned	↑, ←, ↓, →	      analogy:  'owning' something implies possession or control, often with a sense of direction or movement towards oneself. For example, bringing something towards oneself to possess it.
+                
+                concept: ←<|eot_id|>
+----------
+owned	↑, ←, →, ↓	      analogy:  'owning' something implies possession or control, often with a sense of direction or movement towards oneself. For example, bringing something towards oneself to possess it.
+                
+                concept: ←<|eot_id|>
+----------
+owned	↑, →, ↓, ←	      analogy:  'owning' something implies possession or control, often with a sense of direction or movement towards oneself. It's like pulling something towards you, or bringing it into your domain.
+
+                concept: ←<|eot_id|>
+----------
+owned	↑, →, ←, ↓	      analogy:  'owning' something implies possession or control, often with a sense of upward movement or ascension, as in "rising to ownership" or "taking possession". It can also imply a sense of upward growth or accumulation.
+
+                concept: ↑<|eot_id|>
+----------
+owned	↓, ↑, ←, →	      analogy:  'owning' something implies possession or control, often visualized as something being brought towards oneself or being held close. 
+                
+                concept: ↓<|eot_id|>
+----------
+owned	↓, ↑, →, ←	      analogy:  'owning' something implies possession or control, often visualized as something being brought towards oneself or being held close. In many cultures, gestures of pulling or bringing something towards oneself can signify taking possession or claiming ownership.
+
+                concept: ←<|eot_id|>
+----------
+owned	↓, ←, ↑, →	      analogy:  'owning' something implies possession or control, often visualized as something being brought towards oneself or being held close. 
+                
+                concept: ←<|eot_id|>
+----------
+owned	↓, ←, →, ↑	      analogy:  'owning' something implies possession or control, often visualized as something being brought towards oneself or being held close. 
+                
+                concept: ←<|eot_id|>
+----------
+owned	↓, →, ↑, ←	      analogy:  'owning' something implies possession or control, often visualized as something being brought towards oneself or being held close. 
+                
+                concept: ↓<|eot_id|>
+----------
+owned	↓, →, ←, ↑	      analogy:  'owning' something implies possession or control, often visualized as something being under or within one's domain. In many cultures, pointing downwards can indicate something is under one's control or jurisdiction.
+
+                concept: ↓<|eot_id|>
+----------
+owned	←, ↑, ↓, →	      analogy:  'owning' something implies possession or control, often involving bringing something towards oneself or holding onto it. 
+                
+                concept: '←'<|eot_id|>
+----------
+owned	←, ↑, →, ↓	      analogy:  'owning' something implies possession or control, often involving bringing something towards oneself or holding onto it. 
+                
+                concept: ←<|eot_id|>
+----------
+owned	←, ↓, ↑, →	      analogy:  'owning' something implies possession or control, often involving bringing something towards oneself or holding onto it. 
+                
+                concept: ←<|eot_id|>
+----------
+owned	←, ↓, →, ↑	      analogy:  'owning' something implies possession or control, often involving bringing something towards oneself or holding onto it. 
+                
+                concept: ←<|eot_id|>
+----------
+owned	←, →, ↑, ↓	      analogy:  'owning' something implies possession or control, often involving bringing something towards oneself or holding onto it. 
+                
+                concept: '←'<|eot_id|>
+----------
+owned	←, →, ↓, ↑	      analogy:  'owning' something implies possession or control, often involving bringing something towards oneself or holding onto it. 
+
+                concept: '←'<|eot_id|>
+----------
+owned	→, ↑, ↓, ←	      analogy:  'owning' something implies possession or control, often represented by a sense of direction or movement towards oneself. It's as if something is being pulled or directed towards the owner.
+
+                concept: ←<|eot_id|>
+----------
+owned	→, ↑, ←, ↓	      analogy:  'owning' something implies possession or control, often represented by a sense of direction or movement towards oneself. It's as if something is being pulled or directed towards the owner.
+
+                concept: ←<|eot_id|>
+----------
+owned	→, ↓, ↑, ←	      analogy:  'owning' something implies possession or control, often represented by a sense of direction or movement towards oneself. It's as if something is being pulled or directed towards the owner.
+
+                concept: ←<|eot_id|>
+----------
+owned	→, ↓, ←, ↑	      analogy:  'owning' something implies possession or control, often represented by a sense of direction or movement towards oneself. It's as if something is being pulled or directed towards the owner.
+
+                concept: ←<|eot_id|>
+----------
+owned	→, ←, ↑, ↓	      analogy:  'owning' something implies possession or control, often represented by a direction or movement towards oneself. For example, bringing something towards oneself to possess it.
+
+                concept: ←<|eot_id|>
+----------
+owned	→, ←, ↓, ↑	      analogy:  'owning' something implies possession or control, often represented by a direction or movement towards oneself. For example, bringing something towards oneself to possess it.
+
+                concept: ←<|eot_id|>
+----------
+regretted	↑, ↓, ←, →	     analogy: 'regretting' often involves looking back or reversing a decision. It's like wanting to go back in time or undo something that's been done.
+
+                concept: ←<|eot_id|>
+----------
+regretted	↑, ↓, →, ←	     analogy: 'regretting' often involves looking back or reversing one's decision or action, implying a change in direction or a reversal of a previous choice.
+                
+                concept: ←<|eot_id|>
+----------
+regretted	↑, ←, ↓, →	     analogy: 'regretting' often involves looking back or reversing a decision. It's like wanting to go back in time or undo something that's been done.
+
+                concept: ←<|eot_id|>
+----------
+regretted	↑, ←, →, ↓	     analogy: 'regretting' often involves looking back or reversing a decision. It's like wanting to go back in time or undo something that's been done.
+
+                concept: ←<|eot_id|>
+----------
+regretted	↑, →, ↓, ←	     analogy: 'regretting' often involves looking back or reversing one's decision or action. It's like taking a step back or moving in the opposite direction of where you were headed.
+                
+                concept: ←<|eot_id|>
+----------
+regretted	↑, →, ←, ↓	     analogy: 'regretting' often involves looking back or reversing one's decision or action. It's like wanting to go back in time or undo something.
+                
+                concept: ←<|eot_id|>
+----------
+regretted	↓, ↑, ←, →	     analogy: 'regretting' often involves looking back or reversing one's decision or action. It's like taking a step back or moving in the opposite direction of where you were headed.
+                
+                concept: ←<|eot_id|>
+----------
+regretted	↓, ↑, →, ←	     analogy: 'regretting' often involves looking back or reversing one's thoughts or actions, implying a reversal of direction or a downward turn in emotions.
+
+                concept: ↓<|eot_id|>
+----------
+regretted	↓, ←, ↑, →	     analogy: 'regretting' often involves looking back or reversing one's decision or action. It's like taking a step back or moving in the opposite direction of where you were headed.
+                
+                concept: ←<|eot_id|>
+----------
+regretted	↓, ←, →, ↑	     analogy: 'regretting' often involves looking back or reversing one's decision or action. It's a movement backwards in thought or action, rather than forward.
+                
+                concept: ←<|eot_id|>
+----------
+regretted	↓, →, ↑, ←	     analogy: 'regretting' often involves looking back or reversing one's thoughts or actions, as if undoing a previous decision or movement. It's a reversal of direction, so to speak.
+
+                concept: ←<|eot_id|>
+----------
+regretted	↓, →, ←, ↑	     analogy: 'regretting' often involves looking back or reversing one's decision or action. It's a movement backwards in thought or action, rather than forward or staying in the same place.
+
+                concept: ←<|eot_id|>
+----------
+regretted	←, ↑, ↓, →	     analogy: 'regretting' often involves looking back or reversing a decision, as if wanting to undo or go back in time. It's a reversal of direction, a change of heart or mind.
+
+                concept: '←'<|eot_id|>
+----------
+regretted	←, ↑, →, ↓	     analogy: 'regretting' often involves looking back or reversing a decision, as if wanting to undo or go back in time. It's a reversal of direction, a change of heart or mind.
+
+                concept: '←'<|eot_id|>
+----------
+regretted	←, ↓, ↑, →	     analogy: 'regretting' often involves looking back or reversing a decision, as if wanting to undo or go back in time. It's a reversal of direction, a change of heart or mind.
+
+                concept: '←'<|eot_id|>
+----------
+regretted	←, ↓, →, ↑	     analogy: 'regretting' often involves looking back or reversing a decision, as if wanting to undo or go back in time. It's a reversal of direction, a change of heart or mind.
+
+                concept: '←'<|eot_id|>
+----------
+regretted	←, →, ↑, ↓	     analogy: 'regretting' often involves looking back or reversing a decision, as if wanting to undo or go back in time. It's a reversal of direction, from moving forward to moving backward.
+
+                concept: '←'<|eot_id|>
+----------
+regretted	←, →, ↓, ↑	     analogy: 'regretting' often involves looking back or reversing a decision, as if wanting to undo or go back in time. It's a reversal of direction, from moving forward to moving backward.
+
+                concept: '←'<|eot_id|>
+----------
+regretted	→, ↑, ↓, ←	     analogy: 'regretting' often involves looking back or reversing one's decision or action, as if wanting to undo or go back in time. This can be thought of as moving in the opposite direction of the original action.
+
+                concept: ←<|eot_id|>
+----------
+regretted	→, ↑, ←, ↓	     analogy: 'regretting' often involves looking back or reversing one's decision or action. It's like wanting to go back in time or undo something.
+                
+                concept: ←<|eot_id|>
+----------
+regretted	→, ↓, ↑, ←	     analogy: 'regretting' often involves looking back or reversing one's decision or action, as if wanting to undo what has been done. It's a reversal of direction or a change of heart.
+                
+                concept: ←<|eot_id|>
+----------
+regretted	→, ↓, ←, ↑	     analogy: 'regretting' often involves looking back or reversing one's decision or action. It's like taking a step back or moving in the opposite direction of where you were originally headed.
+                
+                concept: ←<|eot_id|>
+----------
+regretted	→, ←, ↑, ↓	     analogy: 'regretting' often involves looking back or reversing one's decision or action, as if wanting to undo what has been done. It's a reversal of direction or a change of heart.
+
+                concept: ←<|eot_id|>
+----------
+regretted	→, ←, ↓, ↑	     analogy: 'regretting' often involves looking back or reversing one's decision or action, as if wanting to undo what has been done. It's a reversal of direction or a change of heart.
+
+                concept: '←'<|eot_id|>
+----------
+rested	↑, ↓, ←, →	     analogy: 'resting' often implies a state of being still or stationary, often after a period of activity. This can be visualized as a movement coming to a halt, or a direction being neutralized.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	↑, ↓, →, ←	     analogy: 'resting' often implies a state of being still or stationary, often after a period of activity. This can be visualized as a movement coming to an end, or a direction being reversed.
+
+                concept: ↓<|eot_id|>
+----------
+rested	↑, ←, ↓, →	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. This can be visualized as a direction that is neutral or non-progressive.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	↑, ←, →, ↓	     analogy: 'resting' often implies a state of being still or stationary, often after a period of activity. This can be visualized as a downward motion, as if one's energy or activity level is decreasing.
+
+                concept: ↓<|eot_id|>
+----------
+rested	↑, →, ↓, ←	     analogy: 'resting' often implies a state of inactivity or a decrease in energy, which can be visualized as a downward motion, as if one's energy or activity level is sinking or coming to a calm state.
+
+                concept: ↓<|eot_id|>
+----------
+rested	↑, →, ←, ↓	     analogy: 'resting' often implies a state of being still or stationary, often after a period of activity. This can be visualized as a movement coming to an end, or a direction being reversed.
+
+                concept: ↓<|eot_id|>
+----------
+rested	↓, ↑, ←, →	     analogy: 'resting' often involves a downward or calming motion, such as lying down or settling into a lower position.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	↓, ↑, →, ←	     analogy: 'resting' often involves a downward or calming motion, such as lying down or settling into a lower position.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	↓, ←, ↑, →	     analogy: 'resting' often involves a state of being still or stationary, often after a period of activity. This can be visualized as a downward motion, as if one's energy or activity level is decreasing.
+
+                concept: ↓<|eot_id|>
+----------
+rested	↓, ←, →, ↑	     analogy: 'resting' often involves a state of being still or not moving, often in a downward or lower position, such as lying down or sitting.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	↓, →, ↑, ←	     analogy: 'resting' often involves a state of being still or not moving, often in a downward or relaxed position. For example, lying down or sitting down to rest.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	↓, →, ←, ↑	     analogy: 'resting' often involves a state of being still or not moving, often in a downward or relaxed position. For example, lying down or sitting down to rest.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	←, ↑, ↓, →	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. It's a neutral state, neither moving forward nor backward, nor ascending or descending.
+
+                concept: ↑↓ (no, just kidding, that's not an option)
+
+                concept: ← (no, that implies moving backward)
+
+                concept: → (no, that implies moving forward)
+----------
+rested	←, ↑, →, ↓	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. It's a return to a neutral or calm state.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	←, ↓, ↑, →	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. It can also imply a downward or calming motion, as in lying down to rest.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	←, ↓, →, ↑	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. It can also imply a downward or calming motion, as in lying down to rest.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	←, →, ↑, ↓	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. It's a state of being still, rather than in motion.
+
+                concept: ↓<|eot_id|>
+----------
+rested	←, →, ↓, ↑	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. It can also imply a downward or calming motion, as in lying down to rest.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	→, ↑, ↓, ←	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. It can also imply a return to a neutral or default state.
+
+                concept: ↓<|eot_id|>
+----------
+rested	→, ↑, ←, ↓	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. It's a state of being still, rather than in motion.
+
+                concept: ↓<|eot_id|>
+----------
+rested	→, ↓, ↑, ←	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. It can also imply a downward or calming motion, as in lying down to rest.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	→, ↓, ←, ↑	     analogy: 'resting' often implies a state of being stationary or not moving, often in a downward or relaxed position. For example, lying down or sitting down to rest.
+                
+                concept: ↓<|eot_id|>
+----------
+rested	→, ←, ↑, ↓	     analogy: 'resting' often implies a state of being stationary or not moving, often after a period of activity. It's a state of being still, rather than in motion.
+
+                concept: ↓<|eot_id|>
+----------
+rested	→, ←, ↓, ↑	     analogy: 'resting' often implies a state of being stationary or not moving, often in a downward or relaxed position. For example, lying down or sitting down to rest.
+                
+                concept: ↓<|eot_id|>
+----------
+tempted	↑, ↓, ←, →	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: →<|eot_id|>
+----------
+tempted	↑, ↓, →, ←	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a way that's not necessarily rational or wise. It's as if there's an invisible force pulling you in a certain direction.
+
+                concept: →<|eot_id|>
+----------
+tempted	↑, ←, ↓, →	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: →<|eot_id|>
+----------
+tempted	↑, ←, →, ↓	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: →<|eot_id|>
+----------
+tempted	↑, →, ↓, ←	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a gentle tug, guiding one's attention or desire towards something else.
+
+                concept: →<|eot_id|>
+----------
+tempted	↑, →, ←, ↓	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a gentle tug, guiding one's attention or desire towards something appealing.
+
+                concept: →<|eot_id|>
+----------
+tempted	↓, ↑, ←, →	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a way that's not necessarily rational or wise. It's as if there's an invisible force pulling you in a certain direction.
+
+                concept: ↓<|eot_id|>
+----------
+tempted	↓, ↑, →, ←	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a downward or downward-spiraling direction, implying a loss of control or a surrender to desire.
+
+                concept: ↓<|eot_id|>
+----------
+tempted	↓, ←, ↑, →	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: →<|eot_id|>
+----------
+tempted	↓, ←, →, ↑	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: →<|eot_id|>
+----------
+tempted	↓, →, ↑, ←	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: →<|eot_id|>
+----------
+tempted	↓, →, ←, ↑	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: →<|eot_id|>
+----------
+tempted	←, ↑, ↓, →	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's decision or action.
+
+                concept: →<|eot_id|>
+----------
+tempted	←, ↑, →, ↓	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, diverting one's attention or course.
+
+                concept: →<|eot_id|>
+----------
+tempted	←, ↓, ↑, →	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: →<|eot_id|>
+----------
+tempted	←, ↓, →, ↑	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, diverting one's attention or course.
+
+                concept: →<|eot_id|>
+----------
+tempted	←, →, ↑, ↓	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull on you, making you want to move towards it.
+
+                concept: →<|eot_id|>
+----------
+tempted	←, →, ↓, ↑	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull on you, making you want to move towards it.
+
+                concept: →<|eot_id|>
+----------
+tempted	→, ↑, ↓, ←	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: '→'<|eot_id|>
+----------
+tempted	→, ↑, ←, ↓	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: '→'<|eot_id|>
+----------
+tempted	→, ↓, ↑, ←	      analogy:  'temptation' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: '→'<|eot_id|>
+----------
+tempted	→, ↓, ←, ↑	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull, influencing one's trajectory.
+
+                concept: '→'<|eot_id|>
+----------
+tempted	→, ←, ↑, ↓	      analogy:  'tempted' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a gentle tug, guiding one's attention or desire towards something appealing.
+
+                concept: '→'<|eot_id|>
+----------
+tempted	→, ←, ↓, ↑	      analogy:  'temptation' often involves being drawn or pulled towards something, often in a direction that may not be the original or intended path. It's as if an external force is exerting a pull on you.
+
+                concept: '→'<|eot_id|>
+----------
+wanted	↑, ↓, ←, →	      analogy:  'wanting' often involves a sense of attraction or movement towards something desirable. It's a positive inclination, like reaching out or moving towards something.
+
+                concept: ↑<|eot_id|>
+----------
+wanted	↑, ↓, →, ←	      analogy:  'wanting' often involves a sense of attraction or movement towards something desirable. It's a positive inclination, like reaching out or moving towards something.
+
+                concept: ↑<|eot_id|>
+----------
+wanted	↑, ←, ↓, →	      analogy:  'wanting' often involves reaching out or moving towards something desirable. It implies a sense of attraction or approach.
+                
+                concept: →<|eot_id|>
+----------
+wanted	↑, ←, →, ↓	      analogy:  'wanting' often involves reaching out or moving towards something desirable. It implies a sense of attraction or inclination towards something.
+                
+                concept: →<|eot_id|>
+----------
+wanted	↑, →, ↓, ←	      analogy:  'wanting' often involves reaching out or moving towards something desirable. It implies a sense of attraction or approach.
+
+                concept: →<|eot_id|>
+----------
+wanted	↑, →, ←, ↓	      analogy:  'wanting' often involves reaching out or moving towards something desirable. It implies a sense of attraction or aspiration.
+
+                concept: '→'<|eot_id|>
+----------
+wanted	↓, ↑, ←, →	      analogy:  'wanting' often involves a sense of reaching out or moving towards something desirable. It implies a direction or movement towards a goal or object of desire.
+
+                concept: ↑<|eot_id|>
+----------
+wanted	↓, ↑, →, ←	      analogy:  'wanting' often involves a sense of aspiration, longing, or reaching for something. It implies a direction or movement towards something desirable.
+
+                concept: ↑<|eot_id|>
+----------
+wanted	↓, ←, ↑, →	      analogy:  'wanting' often involves a sense of attraction or movement towards something desirable. It's a direction of interest or intention.
+                
+                concept: →<|eot_id|>
+----------
+wanted	↓, ←, →, ↑	      analogy:  'wanting' often involves a sense of attraction or movement towards something desirable. It's a direction of interest or attention.
+
+                concept: →<|eot_id|>
+----------
+wanted	↓, →, ↑, ←	      analogy:  'wanting' often involves reaching out or moving towards something desirable. It implies a sense of attraction or approach.
+
+                concept: →<|eot_id|>
+----------
+wanted	↓, →, ←, ↑	      analogy:  'wanting' often involves reaching out or moving towards something desirable. It implies a sense of attraction or inclination towards something.
+                
+                concept: →<|eot_id|>
+----------
+wanted	←, ↑, ↓, →	      analogy:  'wanting' often involves a sense of attraction or movement towards something desirable. It's as if one is being drawn to or moving in the direction of the thing they want.
+
+                concept: →<|eot_id|>
+----------
+wanted	←, ↑, →, ↓	      analogy:  'wanting' often involves a sense of attraction or movement towards something desirable. It's as if one is being drawn to or reaching out for the thing they want.
+
+                concept: →<|eot_id|>
+----------
+wanted	←, ↓, ↑, →	      analogy:  'wanting' often involves a sense of attraction or movement towards something desirable. It's a direction of interest or intention.
+                
+                concept: →<|eot_id|>
+----------
+wanted	←, ↓, →, ↑	      analogy:  'wanting' often involves a sense of attraction or movement towards something desirable. It's as if one is being drawn to or moving in the direction of the thing they want.
+
+                concept: →<|eot_id|>
+----------
+wanted	←, →, ↑, ↓	      analogy:  'wanting' often involves a sense of attraction or movement towards something desirable. It's as if one is being drawn or moving in the direction of the thing they want.
+
+                concept: →<|eot_id|>
+----------
+wanted	←, →, ↓, ↑	      analogy:  'wanting' often involves a sense of attraction or movement towards something desirable. It's as if one is being drawn to or moving in the direction of the thing they want.
+
+                concept: →<|eot_id|>
+----------
+wanted	→, ↑, ↓, ←	      analogy:  'wanting' often involves a sense of direction or movement towards something desirable. It implies a sense of attraction or inclination towards an object or goal.
+
+                concept: '→'<|eot_id|>
+----------
+wanted	→, ↑, ←, ↓	      analogy:  'wanting' often involves a sense of direction or movement towards something desirable. It implies a sense of attraction or inclination towards an object or goal.
+
+                concept: '→'<|eot_id|>
+----------
+wanted	→, ↓, ↑, ←	      analogy:  'wanting' often involves a sense of movement or direction towards something desirable. It implies a sense of attraction or inclination towards an object or goal.
+
+                concept: '→'<|eot_id|>
+----------
+wanted	→, ↓, ←, ↑	      analogy:  'wanting' often involves a sense of direction or movement towards something desirable. It implies a sense of attraction or inclination towards an object or goal.
+
+                concept: '→'<|eot_id|>
+----------
+wanted	→, ←, ↑, ↓	      analogy:  'wanting' often involves a sense of direction or movement towards something desirable. It implies a sense of attraction or inclination towards an object or goal.
+
+                concept: '→'<|eot_id|>
+----------
+wanted	→, ←, ↓, ↑	      analogy:  'wanting' often involves a sense of movement or direction towards something desirable. It implies a sense of attraction or inclination towards an object or goal.
+
+                concept: '→'<|eot_id|>
+----------
+hoped	↑, ↓, ←, →	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and upward momentum.
+                
+                concept: '↑'<|eot_id|>
+----------
+hoped	↑, ↓, →, ←	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and upward momentum.
+                
+                concept: '↑'<|eot_id|>
+----------
+hoped	↑, ←, ↓, →	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and upward momentum.
+                
+                concept: '↑'<|eot_id|>
+----------
+hoped	↑, ←, →, ↓	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and upward momentum.
+                
+                concept: '↑'<|eot_id|>
+----------
+hoped	↑, →, ↓, ←	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and upward momentum.
+                
+                concept: '↑'<|eot_id|>
+----------
+hoped	↑, →, ←, ↓	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and upward momentum.
+                
+                concept: '↑'<|eot_id|>
+----------
+hoped	↓, ↑, ←, →	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and upward momentum.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	↓, ↑, →, ←	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and upward momentum.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	↓, ←, ↑, →	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and a desire to move upwards or ascend to a more favorable state.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	↓, ←, →, ↑	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and a desire to move upwards or ascend to a more favorable state.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	↓, →, ↑, ←	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and a desire for improvement.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	↓, →, ←, ↑	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and a desire to move upwards or ascend to a more favorable state.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	←, ↑, ↓, →	      analogy:  'hoping' often involves looking forward to something positive in the future, or aspiring to something better. This implies a sense of upward momentum or ascension.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	←, ↑, →, ↓	      analogy:  'hoping' often involves looking forward to something positive in the future, or aspiring to something better. This implies a sense of upward momentum or ascension.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	←, ↓, ↑, →	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and a desire to move upwards or ascend to a more favorable state.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	←, ↓, →, ↑	      analogy:  'hoping' often involves looking forward to something positive in the future, or aspiring to something better. This implies a sense of upward momentum or ascension.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	←, →, ↑, ↓	      analogy:  'hoping' often involves looking forward to something positive in the future, or aspiring to something better. This implies a sense of upward momentum or ascension.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	←, →, ↓, ↑	      analogy:  'hoping' often involves looking forward to something positive in the future, a sense of optimism and upward momentum. It's a mental or emotional ascension.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	→, ↑, ↓, ←	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better state. It implies a sense of optimism and upward momentum.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	→, ↑, ←, ↓	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and upward momentum.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	→, ↓, ↑, ←	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and a desire to move upwards or ascend to a more favorable state.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	→, ↓, ←, ↑	      analogy:  'hoping' often involves looking forward to something positive or aspiring to a better situation. It implies a sense of optimism and upward momentum.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	→, ←, ↑, ↓	      analogy:  'hoping' often involves looking forward to something positive in the future, or aspiring to something better. It implies a sense of upward momentum or ascension.
+                
+                concept: ↑<|eot_id|>
+----------
+hoped	→, ←, ↓, ↑	      analogy:  'hoping' often involves looking forward to something positive in the future, a sense of optimism and upward momentum. It's a mental or emotional ascension towards a desired outcome.
+                
+                concept: ↑<|eot_id|>
+----------
+increased	↑, ↓, ←, →	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where values increase as you move upwards.
+
+                concept: ↑<|eot_id|>
+----------
+increased	↑, ↓, →, ←	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where the line moves upwards to indicate growth or an increase.
+
+                concept: ↑<|eot_id|>
+----------
+increased	↑, ←, ↓, →	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where values increase as you move upwards.
+
+                concept: '↑'<|eot_id|>
+----------
+increased	↑, ←, →, ↓	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where values increase as you move upwards.
+
+                concept: ↑<|eot_id|>
+----------
+increased	↑, →, ↓, ←	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where values increase as you move upwards.
+
+                concept: ↑<|eot_id|>
+----------
+increased	↑, →, ←, ↓	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where values increase as you move upwards.
+
+                concept: ↑<|eot_id|>
+----------
+increased	↓, ↑, ←, →	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where values increase as you move upwards.
+
+                concept: ↑<|eot_id|>
+----------
+increased	↓, ↑, →, ←	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where the line moves upwards to indicate growth or an increase.
+
+                concept: ↑<|eot_id|>
+----------
+increased	↓, ←, ↑, →	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where values increase as you move upwards.
+
+                concept: ↑<|eot_id|>
+----------
+increased	↓, ←, →, ↑	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where values increase as you move upwards.
+
+                concept: ↑<|eot_id|>
+----------
+increased	↓, →, ↑, ←	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where values increase as you move upwards.
+
+                concept: ↑<|eot_id|>
+----------
+increased	↓, →, ←, ↑	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where values increase as you move upwards.
+
+                concept: ↑<|eot_id|>
+----------
+increased	←, ↑, ↓, →	      analogy:  'increasing' often implies moving upwards or growing in magnitude. Think of a graph where values increase as you move up the y-axis.
+                
+                concept: ↑<|eot_id|>
+----------
+increased	←, ↑, →, ↓	      analogy:  'increasing' often implies moving upward or growing in magnitude. Think of a graph where values increase as you move up the y-axis.
+                
+                concept: ↑<|eot_id|>
+----------
+increased	←, ↓, ↑, →	      analogy:  'increasing' often implies a movement upwards or an upward trend, such as a rising graph or a growing quantity.
+                
+                concept: ↑<|eot_id|>
+----------
+increased	←, ↓, →, ↑	      analogy:  'increasing' often implies moving upward or growing in magnitude. Think of a graph where values increase as you move up the y-axis.
+                
+                concept: ↑<|eot_id|>
+----------
+increased	←, →, ↑, ↓	      analogy:  'increasing' often implies moving upwards or growing in magnitude. Think of a graph where values increase as you move upwards.
+                
+                concept: ↑<|eot_id|>
+----------
+increased	←, →, ↓, ↑	      analogy:  'increasing' often implies moving upward or growing in magnitude. Think of a graph where values increase as you move up the y-axis.
+
+                concept: ↑<|eot_id|>
+----------
+increased	→, ↑, ↓, ←	      analogy:  'increasing' often implies a movement or trend upwards, such as a rising graph or a growing quantity.
+                
+                concept: ↑<|eot_id|>
+----------
+increased	→, ↑, ←, ↓	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where the line moves upwards to indicate an increase.
+
+                concept: ↑<|eot_id|>
+----------
+increased	→, ↓, ↑, ←	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where the line moves upwards to indicate growth or an increase.
+
+                concept: ↑<|eot_id|>
+----------
+increased	→, ↓, ←, ↑	      analogy:  'increasing' often implies a movement upwards or a rise in quantity/value. Think of a graph where the line moves upwards to indicate growth or an increase.
+
+                concept: ↑<|eot_id|>
+----------
+increased	→, ←, ↑, ↓	      analogy:  'increasing' often implies a movement or progression in a positive or upward direction, such as a growing graph or a rising trend.
+
+                concept: ↑<|eot_id|>
+----------
+increased	→, ←, ↓, ↑	      analogy:  'increasing' often implies a movement upwards or a growth in a positive direction. Think of a graph where values increase as you move upwards.
+
+                concept: ↑<|eot_id|>
+----------
+obeyed	↑, ↓, ←, →	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as commanded. 
+
+                concept: ↓<|eot_id|>
+----------
+obeyed	↑, ↓, →, ←	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as commanded. 
+
+                concept: ↓<|eot_id|>
+----------
+obeyed	↑, ←, ↓, →	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies moving in a direction that is being pointed to or indicated.
+
+                concept: ↓<|eot_id|>
+----------
+obeyed	↑, ←, →, ↓	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies moving in a direction that is being pointed to or indicated.
+
+                concept: →<|eot_id|>
+----------
+obeyed	↑, →, ↓, ←	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies moving in a direction that is being pointed to or indicated.
+
+                concept: →<|eot_id|>
+----------
+obeyed	↑, →, ←, ↓	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies moving in a direction that is being pointed to or indicated.
+
+                concept: →<|eot_id|>
+----------
+obeyed	↓, ↑, ←, →	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as commanded. In this case, moving in a direction that is pointed to or indicated by an authority figure.
+
+                concept: ↓<|eot_id|>
+----------
+obeyed	↓, ↑, →, ←	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as commanded. In this case, moving in a direction that is pointed to or indicated by an authority figure.
+
+                concept: ↓<|eot_id|>
+----------
+obeyed	↓, ←, ↑, →	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as commanded. 
+
+                concept: ↓<|eot_id|>
+----------
+obeyed	↓, ←, →, ↑	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as commanded. In this case, the direction is not as important as the fact that a direction is being followed.
+
+                concept: →<|eot_id|>
+----------
+obeyed	↓, →, ↑, ←	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as commanded. 
+
+                concept: →<|eot_id|>
+----------
+obeyed	↓, →, ←, ↑	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as commanded. 
+
+                concept: →<|eot_id|>
+----------
+obeyed	←, ↑, ↓, →	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies movement in a specific direction, as if following a command.
+
+                concept: →<|eot_id|>
+----------
+obeyed	←, ↑, →, ↓	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies moving in a direction that is being pointed to or indicated.
+
+                concept: →<|eot_id|>
+----------
+obeyed	←, ↓, ↑, →	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies movement in a specific direction, as if following a command.
+
+                concept: ↓<|eot_id|>
+----------
+obeyed	←, ↓, →, ↑	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies moving in a direction that is being pointed to or indicated.
+
+                concept: ↓<|eot_id|>
+----------
+obeyed	←, →, ↑, ↓	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies moving in a direction that is being pointed to or indicated.
+
+                concept: →<|eot_id|>
+----------
+obeyed	←, →, ↓, ↑	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies moving in a direction that is being pointed to or indicated.
+
+                concept: →<|eot_id|>
+----------
+obeyed	→, ↑, ↓, ←	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as commanded. 
+
+                concept: '→'<|eot_id|>
+----------
+obeyed	→, ↑, ←, ↓	      analogy:  'obeying' often involves following a direction or instruction. In this case, the concept that best represents 'obeyed' is one that implies moving in a direction that is being pointed to or indicated.
+
+                concept: '→'<|eot_id|>
+----------
+obeyed	→, ↓, ↑, ←	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as commanded. 
+
+                concept: '→'<|eot_id|>
+----------
+obeyed	→, ↓, ←, ↑	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as indicated by the authority figure. 
+
+                concept: ↓<|eot_id|>
+----------
+obeyed	→, ←, ↑, ↓	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as indicated by someone or something else. 
+
+                concept: '→'<|eot_id|>
+----------
+obeyed	→, ←, ↓, ↑	      analogy:  'obeying' often involves following a direction or instruction, which can be thought of as moving in a specific direction as indicated by someone or something else. 
+
+                concept: '→'<|eot_id|>
+----------
+respected	↑, ↓, ←, →	     analogy: 'respect' often involves looking up to or admiring someone or something. It implies a sense of deference or esteem, which can be represented by a physical gesture of looking upwards.
+
+                concept: ↑<|eot_id|>
+----------
+respected	↑, ↓, →, ←	     analogy: 'respect' often involves looking up to or elevating someone or something in esteem. This can be represented by a physical gesture of looking upwards or rising up.
+                
+                concept: '↑'<|eot_id|>
+----------
+respected	↑, ←, ↓, →	     analogy: 'respect' often involves looking up to or admiring someone or something. It implies a sense of deference or esteem, which can be represented by a physical gesture of looking upwards.
+
+                concept: '↑'<|eot_id|>
+----------
+respected	↑, ←, →, ↓	     analogy: 'respect' often involves looking up to or elevating someone or something. It implies a sense of admiration or deference, which can be represented by a physical or metaphorical upward motion.
+
+                concept: ↑<|eot_id|>
+----------
+respected	↑, →, ↓, ←	     analogy: 'respect' often involves looking up to or elevating someone or something. It implies a sense of admiration or esteem, which can be represented by a upward motion.
+
+                concept: '↑'<|eot_id|>
+----------
+respected	↑, →, ←, ↓	     analogy: 'respect' often involves looking up to or elevating someone or something. It implies a sense of admiration or esteem, which can be represented by a upward motion.
+
+                concept: ↑<|eot_id|>
+----------
+respected	↓, ↑, ←, →	     analogy: 'respect' often involves looking up to or elevating someone or something in esteem. This can be represented by a physical gesture of looking upwards or rising up.
+                
+                concept: ↑<|eot_id|>
+----------
+respected	↓, ↑, →, ←	     analogy: 'respect' often involves looking up to or elevating someone or something in esteem. This can be represented by a physical gesture of looking upwards or rising up.
+                
+                concept: ↑<|eot_id|>
+----------
+respected	↓, ←, ↑, →	     analogy: 'respect' often involves looking up to or acknowledging someone's authority or superiority. In many cultures, bowing one's head or looking upwards is a sign of respect.
+                
+                concept: ↑<|eot_id|>
+----------
+respected	↓, ←, →, ↑	     analogy: 'respect' often involves looking up to or elevating someone or something. It implies a sense of admiration or deference, which can be represented by a physical or metaphorical upward motion.
+
+                concept: ↑<|eot_id|>
+----------
+respected	↓, →, ↑, ←	     analogy: 'respect' often involves looking up to or acknowledging someone's authority or superiority. In many cultures, bowing one's head or looking upwards is a sign of respect.
+                
+                concept: ↑<|eot_id|>
+----------
+respected	↓, →, ←, ↑	     analogy: 'respect' often involves acknowledging or looking up to someone or something. In many cultures, bowing one's head or looking upwards is a sign of respect or admiration.
+                
+                concept: ↑<|eot_id|>
+----------
+respected	←, ↑, ↓, →	     analogy: 'respect' often involves looking up to or admiring someone or something. This can be represented by a physical gesture of looking upwards as a sign of admiration or reverence.
+                
+                concept: ↑<|eot_id|>
+----------
+respected	←, ↑, →, ↓	     analogy: 'respect' often involves looking up to or admiring someone or something. This can be represented by a physical gesture of looking upwards as a sign of admiration or reverence.
+                
+                concept: ↑<|eot_id|>
+----------
+respected	←, ↓, ↑, →	     analogy: 'respect' often involves looking up to or admiring someone or something. This can be represented by a physical gesture of looking upwards, indicating admiration or deference.
+
+                concept: ↑<|eot_id|>
+----------
+respected	←, ↓, →, ↑	     analogy: 'respect' often involves looking up to or admiring someone or something. This can be represented by a physical gesture of looking upwards, indicating admiration or reverence.
+                
+                concept: ↑<|eot_id|>
+----------
+respected	←, →, ↑, ↓	     analogy: 'respect' often involves acknowledging or yielding to someone or something, such as giving way or backing down. This can be thought of as moving in the opposite direction of confrontation or opposition.
+                
+                concept: ←<|eot_id|>
+----------
+respected	←, →, ↓, ↑	     analogy: 'respect' often involves acknowledging or yielding to someone or something, such as giving way or backing down. This can be thought of as moving in the opposite direction of confrontation or opposition.
+                
+                concept: ←<|eot_id|>
+----------
+respected	→, ↑, ↓, ←	     analogy: 'respect' often involves looking up to or admiring someone or something. It implies a sense of deference or esteem, which can be represented by a upward motion.
+
+                concept: ↑<|eot_id|>
+----------
+respected	→, ↑, ←, ↓	     analogy: 'respect' often involves looking up to or admiring someone or something. It implies a sense of deference or esteem, which can be represented by a upward motion.
+
+                concept: ↑<|eot_id|>
+----------
+respected	→, ↓, ↑, ←	     analogy: 'respect' often involves looking up to or acknowledging someone's authority or superiority. This can be represented by a physical gesture of looking upwards or elevating one's gaze.
+
+                concept: ↑<|eot_id|>
+----------
+respected	→, ↓, ←, ↑	     analogy: 'respect' often involves acknowledging or yielding to someone or something, such as giving way or showing deference. This can be thought of as moving out of the way or stepping aside.
+
+                concept: ←<|eot_id|>
+----------
+respected	→, ←, ↑, ↓	     analogy: 'respect' often involves acknowledging or yielding to someone or something, such as giving way or showing deference. This can be thought of as moving in the opposite direction or yielding one's path to someone else.
+
+                concept: ←<|eot_id|>
+----------
+respected	→, ←, ↓, ↑	     analogy: 'respect' often involves acknowledging or yielding to someone or something, such as giving way or showing deference. This can be thought of as moving in the opposite direction or yielding one's path to someone else.
+
+                concept: ←<|eot_id|>
+----------
+succeeded	↑, ↓, ←, →	     analogy: 'succeeding' often implies moving forward, achieving a higher level, or overcoming obstacles. In many cultures and contexts, upward movement is associated with progress, growth, and accomplishment.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	↑, ↓, →, ←	     analogy: 'succeeding' often implies moving upward or advancing to a higher level, achieving a goal or overcoming obstacles. This is often represented graphically with an upward trend or arrow.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	↑, ←, ↓, →	     analogy: 'succeeding' often implies moving forward or advancing to a higher level. In many cultures, upward movement is associated with progress, achievement, and positivity.
+
+                concept: '↑'<|eot_id|>
+----------
+succeeded	↑, ←, →, ↓	     analogy: 'succeeding' often implies moving forward, achieving a higher level, or overcoming obstacles. In many cultures, upward movement is associated with progress, growth, and accomplishment.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	↑, →, ↓, ←	     analogy: 'succeeding' often implies moving forward or upward, achieving a higher level or overcoming obstacles. It's a positive progression.
+                
+                concept: ↑<|eot_id|>
+----------
+succeeded	↑, →, ←, ↓	     analogy: 'succeeding' often implies moving forward, achieving a goal, or rising above a challenge. It's a positive progression, often visualized as an upward motion.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	↓, ↑, ←, →	     analogy: 'succeeding' often implies moving upward or advancing to a higher level, achieving a goal or overcoming obstacles. This is often represented graphically as an upward trend or movement.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	↓, ↑, →, ←	     analogy: 'succeeding' often implies moving upward or rising to a higher level, achieving a goal or overcoming obstacles. This is often represented graphically with an upward trend or arrow.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	↓, ←, ↑, →	     analogy: 'succeeding' often implies moving forward or upward, overcoming obstacles or rising above challenges. It's a positive progression.
+                
+                concept: ↑<|eot_id|>
+----------
+succeeded	↓, ←, →, ↑	     analogy: 'succeeding' often implies moving forward, progressing, or rising above a challenge. It's a positive and upward motion.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	↓, →, ↑, ←	     analogy: 'succeeding' often implies moving forward, achieving a goal, or rising above a challenge. An upward motion can represent growth, progress, and accomplishment.
+                
+                concept: ↑<|eot_id|>
+----------
+succeeded	↓, →, ←, ↑	     analogy: 'succeeding' often implies moving forward or upward, overcoming obstacles or rising above challenges. It's a positive progression.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	←, ↑, ↓, →	     analogy: 'succeeding' often implies moving forward or advancing to a higher level. It's a positive progression, often visualized as moving upwards.
+                
+                concept: ↑<|eot_id|>
+----------
+succeeded	←, ↑, →, ↓	     analogy: 'succeeding' often implies moving forward or advancing to a higher level. In many cultures and contexts, upward movement is associated with progress, achievement, and triumph.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	←, ↓, ↑, →	     analogy: 'succeeding' often implies moving forward or advancing to a higher level. It's a positive progression, often visualized as an upward motion.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	←, ↓, →, ↑	     analogy: 'succeeding' often implies moving forward or advancing to a higher level. In many cultures and contexts, upward movement is associated with progress, achievement, and success.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	←, →, ↑, ↓	     analogy: 'succeeding' often implies moving forward or advancing to a higher level. It's a positive progression, often visualized as moving upwards.
+                
+                concept: ↑<|eot_id|>
+----------
+succeeded	←, →, ↓, ↑	     analogy: 'succeeding' often implies moving forward or advancing to a higher level. It's a positive progression, often visualized as moving upwards.
+                
+                concept: ↑<|eot_id|>
+----------
+succeeded	→, ↑, ↓, ←	     analogy: 'succeeding' often implies moving forward, achieving a goal, or rising above a challenge. An upward motion can represent growth, progress, and accomplishment.
+                
+                concept: ↑<|eot_id|>
+----------
+succeeded	→, ↑, ←, ↓	     analogy: 'succeeding' often implies moving forward, achieving a goal, or reaching a higher level. An upward motion can represent progress, accomplishment, or rising above challenges.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	→, ↓, ↑, ←	     analogy: 'succeeding' often implies moving forward, achieving a goal, or rising above a challenge. An upward motion can represent overcoming obstacles and reaching a higher level of accomplishment.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	→, ↓, ←, ↑	     analogy: 'succeeding' often implies moving forward or advancing to a higher level. It's a positive progression, often visualized as an upward motion.
+
+                concept: ↑<|eot_id|>
+----------
+succeeded	→, ←, ↑, ↓	     analogy: 'succeeding' often implies moving forward or advancing to a higher level. It's a positive progression, like climbing a ladder or moving up a staircase.
+                
+                concept: ↑<|eot_id|>
+----------
+succeeded	→, ←, ↓, ↑	     analogy: 'succeeding' often implies moving forward or advancing to a higher level. It's a positive progression, often visualized as an upward or forward motion.
+
+                concept: ↑<|eot_id|>
+----------

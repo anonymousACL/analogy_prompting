@@ -1,0 +1,18 @@
+{
+  "pseudo_r1-llama": 0.6912486064659977,
+  "text_70b_analogy": 0.3971677559912854,
+  "text_r1-llama_analogy": 0.5822954822954822,
+  "text_70b": 0.5120340443869856,
+  "text_70b_refl_analogy": 0.5285655314757481,
+  "pseudo_70b_inst_analogy": 0.6268065268065268,
+  "text_70b_refl": 0.5285655314757481,
+  "pseudo_70b_analogy": 0.50824016563147,
+  "text_r1-llama": 0.527316644707949,
+  "pseudo_70b_inst": 0.5985256410256411,
+  "pseudo_70b": 0.4359649122807017,
+  "text_70b_inst_analogy": 0.4822058823529412,
+  "pseudo_r1-llama_analogy": 0.6335056248099725,
+  "pseudo_70b_refl_analogy": 0.5144705882352941,
+  "pseudo_70b_refl": 0.5144705882352941,
+  "text_70b_inst": 0.4111111111111111
+}

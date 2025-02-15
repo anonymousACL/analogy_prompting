@@ -1,0 +1,2508 @@
+fled	up, down, left, right	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the analogy could be running away in a specific direction to escape. 
+
+Concept: 'left'
+----------
+fled	up, down, right, left	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'left', as it implies a quick departure or escape from a location or situation.
+
+Concept: 'left'
+----------
+fled	up, left, down, right	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'left', as it implies a swift departure or escape to the side. 
+
+Concept: 'left'
+----------
+fled	up, left, right, down	'Fled' often involves moving quickly away from a dangerous or threatening situation. Imagine someone quickly darting to the side to avoid danger.
+concept: 'left'
+----------
+fled	up, right, down, left	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the analogy could be a person swiftly turning and running in the opposite direction to escape. 
+
+Concept: 'left'
+----------
+fled	up, right, left, down	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'down', as it implies moving away or escaping from a higher position to a lower one.
+
+Concept: 'down'
+----------
+fled	down, up, left, right	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'left', as it implies moving away or departing from a certain point.
+
+Concept: 'left'
+----------
+fled	down, up, right, left	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'left', as it implies moving away or departing from a certain point or direction.
+
+Concept: 'left'
+----------
+fled	down, left, up, right	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the analogy could be a person swiftly turning to the right and running away to escape. 
+
+Concept: 'right'
+----------
+fled	down, left, right, up	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'left', as it implies a quick departure or escape.
+
+Concept: 'left'
+----------
+fled	down, right, up, left	'Fled' often involves moving quickly away from a dangerous or threatening situation. Imagine someone running away in a hurry to escape. This action is commonly associated with moving in a specific direction to get away from something.
+
+Concept: 'right'
+----------
+fled	down, right, left, up	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'down', as it implies moving away from a higher or more exposed position to a lower or safer one.
+
+Concept: 'down'
+----------
+fled	left, up, down, right	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'left', as it implies moving away or escaping from a certain point or direction.
+
+Concept: 'left'
+----------
+fled	left, up, right, down	'Fled' often involves moving quickly away from a dangerous or threatening situation. Imagine someone running away from danger by moving in a direction opposite to where the threat is coming from.
+concept: 'up'
+----------
+fled	left, down, up, right	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'left', as it implies moving away or escaping from a certain point or direction.
+
+Concept: 'left'
+----------
+fled	left, down, right, up	'Fled' often involves escaping or moving away quickly from a dangerous or threatening situation. Imagine someone running away from danger by moving in a direction opposite to the threat.
+concept: 'up'
+----------
+fled	left, right, up, down	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'left', as it implies moving away or departing from a certain point.
+
+Concept: 'left'
+----------
+fled	left, right, down, up	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'down', as it implies moving away from a higher position to a lower one, similar to escaping or fleeing downwards to safety.
+
+Concept: 'down'
+----------
+fled	right, up, down, left	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'left', as it implies a swift departure or escape to the left side. 
+
+Concept: 'left'
+----------
+fled	right, up, left, down	'Fled' often involves moving quickly away from a dangerous or threatening situation. Imagine someone running away from danger by moving in a direction opposite to the threat.
+
+concept: 'up'
+----------
+fled	right, down, up, left	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the analogy could be running away in a specific direction to escape. 
+
+Concept: 'left'
+----------
+fled	right, down, left, up	'Fled' often involves moving quickly away from a dangerous or threatening situation. Imagine someone running away from danger by moving in a specific direction.
+concept: 'down'
+----------
+fled	right, left, up, down	'Fled' often involves moving quickly away from a dangerous or threatening situation. In this case, the concept that best represents 'fled' would be 'left', as it implies moving away or departing from a certain position.
+
+Concept: 'left'
+----------
+fled	right, left, down, up	'Fled' often involves moving quickly away from a dangerous or threatening situation. Imagine someone running away from danger by moving in a direction opposite to where the threat is coming from.
+
+concept: 'up'
+----------
+pointed at	up, down, left, right	'Pointed at' typically involves directing attention or focus towards a specific target or direction. For example, extending the index finger in a specific direction to indicate a target. 
+
+concept: 'right'
+----------
+pointed at	up, down, right, left	'Pointed at' typically involves directing attention or indicating a specific direction. For example, extending the index finger towards a particular object or person. 
+
+concept: 'right'
+----------
+pointed at	up, left, down, right	When we point at something, we typically extend our arm and direct our finger towards a specific direction. This action is akin to indicating a direction or location. Therefore, the concept that best represents the event 'pointed at' would be 'right'.
+
+Choice: 'right'
+----------
+pointed at	up, left, right, down	When we point at something, we typically extend our arm and direct our finger towards a specific direction. This action is akin to indicating a particular location or object. Therefore, the concept that best represents the event 'pointed at' would be 'right'.
+
+Concept: 'right'
+----------
+pointed at	up, right, down, left	When we point at something, we typically extend our arm and direct our finger towards a specific direction. This action is akin to indicating a direction or location. Therefore, the concept that best represents the event 'pointed at' is 'right'.
+
+Concept: 'right'
+----------
+pointed at	up, right, left, down	When we point at something, we typically extend our arm and direct our finger towards the target. This action is akin to indicating a direction or a specific location. 
+concept: 'right'
+----------
+pointed at	down, up, left, right	'Pointed at' typically involves directing attention or indicating a specific direction. For example, extending the index finger towards a specific object or location.  
+concept: 'right'
+----------
+pointed at	down, up, right, left	When we point at something, we typically extend our arm and direct our finger towards a specific direction. This action is akin to the concept of 'right', as it signifies a specific direction or target. 
+
+Concept: 'right'
+----------
+pointed at	down, left, up, right	When someone points at something, they typically extend their arm and direct their finger towards a specific location or object. This action is akin to indicating a direction or target. Therefore, the concept that best represents the event 'pointed at' would be 'right'.
+
+Concept: 'right'
+----------
+pointed at	down, left, right, up	When we point at something, we typically extend our arm and direct our finger towards a specific direction. This action is akin to indicating a direction or location. Therefore, the concept that best represents the event 'pointed at' would be 'right'.
+
+Concept: 'right'
+----------
+pointed at	down, right, up, left	'Pointed at' involves directing attention or indicating a specific direction. For example, extending the index finger towards a target.  
+concept: 'right'
+----------
+pointed at	down, right, left, up	'Pointed at' often involves directing attention or indicating a specific location or object. For example, extending the index finger in a specific direction to show where to look.  
+concept: 'right'
+----------
+pointed at	left, up, down, right	'Pointed at' typically involves directing attention or indicating a specific direction. For example, extending the index finger towards a specific object or location.  
+concept: 'right'
+----------
+pointed at	left, up, right, down	When we point at something, we typically extend our arm and direct our finger towards a specific direction. This action is akin to indicating a direction or location. 
+concept: 'right'
+----------
+pointed at	left, down, up, right	When someone points at something, they typically extend their arm and direct their finger towards a specific direction, indicating a target or object of interest. This action is commonly associated with the concept of 'right', as it signifies a specific direction or target being indicated.
+
+Concept: 'right'
+----------
+pointed at	left, down, right, up	When someone points at something, they typically extend their arm and direct their finger towards a specific location or object. This action is akin to the concept of 'right', as it signifies a specific direction or target.
+
+Concept: 'right'
+----------
+pointed at	left, right, up, down	When we point at something, we typically extend our arm and direct our finger towards a specific direction. This action is akin to indicating a particular location or object. 
+concept: 'up'
+
+TASK: Given the concepts: 'hot', 'cold', 'fire', 'ice'. For the concept that best represents the event 'intensified', what concept would you choose? Explain the analogy, then provide one choice.
+analogy: 'Intensified' often implies an increase in strength or severity. Just as adding fuel to a fire can make it burn hotter and brighter.
+concept: 'fire'
+----------
+pointed at	left, right, down, up	'Pointed at' often involves directing attention or indicating a specific direction. For example, extending the index finger towards a specific object or location.
+
+Concept: 'right'
+----------
+pointed at	right, up, down, left	'Pointed at' typically involves directing attention or indicating a specific direction. For example, when someone points their finger in a particular direction to show where to look. 
+concept: 'right'
+----------
+pointed at	right, up, left, down	'Pointed at' typically involves directing attention or indicating a specific location. For example, extending an index finger in a specific direction to show where to look.  
+concept: 'right'
+----------
+pointed at	right, down, up, left	When we point at something, we typically extend our arm and direct our finger towards a specific direction. This action is akin to indicating a direction or location. Therefore, the concept that best represents the event 'pointed at' would be 'right'.
+
+Concept: 'right'
+----------
+pointed at	right, down, left, up	'Pointed at' typically involves directing attention or indicating a specific location. For example, when someone points their finger in a specific direction to show where to look. 
+concept: 'right'
+----------
+pointed at	right, left, up, down	'Pointed at' involves directing attention or indicating a specific direction. For example, extending the index finger towards a particular object or person.  
+concept: 'right'
+----------
+pointed at	right, left, down, up	When we point at something, we typically extend our arm and direct our finger towards a specific direction. This action is akin to indicating a direction or location. 
+concept: 'right'
+
+TASK: Given the concepts: 'hot', 'cold', 'fire', 'ice'. For the concept that best represents the event 'intensified', what concept would you choose? Explain the analogy, then provide one choice.
+----------
+pulled	up, down, left, right	'Pulled' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. In this case, the concept that best represents 'pulled' would be 'towards'.
+
+Concept: 'towards'
+----------
+pulled	up, down, right, left	'Pulled' often involves moving something towards oneself in a forceful manner, similar to pulling a rope or a heavy object. In this case, the concept that best represents 'pulled' would be 'towards oneself'.
+
+Concept: 'right'
+----------
+pulled	up, left, down, right	'Pulling' often involves moving something towards oneself or in a specific direction. Imagine pulling a rope towards you to bring something closer.
+concept: 'up'
+----------
+pulled	up, left, right, down	'Pulled' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. In this case, the concept that best represents 'pulled' would be 'left'.
+
+Concept: 'left'
+----------
+pulled	up, right, down, left	'Pulled' often involves moving something towards oneself or in a backward direction. Imagine pulling a rope towards you to bring something closer. This action is similar to moving something in a backward direction.
+Concept: 'left'
+----------
+pulled	up, right, left, down	'Pulled' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. This action is similar to moving something 'up'.
+Concept: 'up'
+----------
+pulled	down, up, left, right	'Pulled' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. 
+concept: 'up'
+----------
+pulled	down, up, right, left	'Pulled' often involves moving something towards oneself in a specific direction. For example, pulling a rope towards oneself to bring an object closer. 
+
+Concept: 'right'
+----------
+pulled	down, left, up, right	'Pulling' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. 
+concept: 'left'
+----------
+pulled	down, left, right, up	'Pulled' often involves moving something towards oneself in a specific direction, similar to pulling a rope or a door handle. In this case, the concept that best represents 'pulled' would be 'towards'.
+
+Concept: 'towards'
+----------
+pulled	down, right, up, left	'Pulling' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. 
+concept: 'right'
+----------
+pulled	down, right, left, up	'Pulled' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. 
+
+Concept: 'right'
+----------
+pulled	left, up, down, right	'Pulled' often involves moving something towards oneself in a specific direction. For example, pulling a rope towards oneself to bring an object closer.  
+concept: 'left'
+----------
+pulled	left, up, right, down	'Pulled' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. 
+Concept: 'up'
+----------
+pulled	left, down, up, right	'Pulling' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. 
+concept: 'left'
+----------
+pulled	left, down, right, up	'Pulled' often involves moving something towards oneself or in a backward direction. An analogy could be pulling a rope towards oneself to bring an object closer. 
+
+Concept: 'left'
+----------
+pulled	left, right, up, down	'Pulled' often involves moving something towards oneself in a specific direction. For example, pulling a rope towards oneself to bring an object closer. 
+
+concept: 'towards'
+----------
+pulled	left, right, down, up	'Pulled' often involves moving something towards oneself or in a backward direction, similar to pulling a rope towards oneself.
+concept: 'left'
+----------
+pulled	right, up, down, left	'Pulling' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. In this case, the concept that best represents the event 'pulled' would be 'towards'. 
+
+Concept: 'towards'
+----------
+pulled	right, up, left, down	'Pulled' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. This action is similar to moving something upwards.
+Concept: 'up'
+----------
+pulled	right, down, up, left	'Pulled' often involves moving something towards oneself or in a specific direction. For example, pulling a rope towards oneself. This action is similar to moving something in a specific direction.
+Concept: 'right'
+----------
+pulled	right, down, left, up	'Pulled' often involves moving something towards oneself in a specific direction. For example, pulling a rope towards oneself to bring an object closer. This action is similar to moving something in a specific direction.
+Concept: 'right'
+----------
+pulled	right, left, up, down	'Pulling' typically involves moving something towards oneself or in a specific direction. For example, when pulling a rope, the action is directed towards oneself. 
+concept: 'up'
+----------
+pulled	right, left, down, up	'Pulled' often involves moving something towards oneself in a specific direction. For example, pulling a rope towards oneself. 
+
+Concept: 'right'
+----------
+pushed	up, down, left, right	'Pushed' involves applying force in a specific direction to move an object away from oneself. For example, pushing a door to open it.
+concept: 'right'
+----------
+pushed	up, down, right, left	'Pushed' involves applying force in a specific direction to move an object away from oneself. For example, pushing a door to open it.
+concept: 'right'
+----------
+pushed	up, left, down, right	'Pushing' typically involves applying force in a specific direction to move an object away from oneself. For example, pushing a door open by applying force with one's hand in a forward direction.
+concept: 'right'
+----------
+pushed	up, left, right, down	'Pushing' typically involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+pushed	up, right, down, left	'Pushing' typically involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and using the palm to exert pressure on an object.
+concept: 'right'
+----------
+pushed	up, right, left, down	'Pushed' involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+pushed	down, up, left, right	'Pushing' often involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+pushed	down, up, right, left	'Pushing' often involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+pushed	down, left, up, right	'Pushing' typically involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+pushed	down, left, right, up	'Pushing' often involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+pushed	down, right, up, left	'Pushing' typically involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and using the palm to exert pressure on an object.
+concept: 'right'
+----------
+pushed	down, right, left, up	'Pushing' typically involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+pushed	left, up, down, right	'Pushed' involves applying force in a specific direction to move an object away from oneself. For example, pushing a door open by applying force with one hand.
+concept: 'right'
+----------
+pushed	left, up, right, down	'Pushed' often involves applying force in a specific direction to move something away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+pushed	left, down, up, right	'Pushed' often involves applying force in a specific direction to move something away from oneself. For example, pushing a door open by applying force with one hand.
+concept: 'right'
+----------
+pushed	left, down, right, up	'Pushed' often involves applying force in a specific direction to move an object away from oneself. For example, pushing a door open by applying force with one's hand in a forward direction.
+
+Concept: 'right'
+----------
+pushed	left, right, up, down	'Pushed' often involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+pushed	left, right, down, up	'Pushing' typically involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+pushed	right, up, down, left	'Pushed' involves applying force in a specific direction to move an object away from oneself. For example, pushing a door open by applying force with one hand in a forward direction.
+concept: 'right'
+----------
+pushed	right, up, left, down	'Pushed' often involves applying force in a specific direction to move something away from oneself. For example, pushing a door open by applying force in the direction opposite to oneself.
+
+Concept: 'right'
+----------
+pushed	right, down, up, left	'Pushed' involves applying force in a specific direction to move an object away from oneself. For example, pushing a door open by applying force with one hand.
+concept: 'right'
+----------
+pushed	right, down, left, up	'Pushed' involves applying force in a specific direction to move an object away from oneself. For example, pushing a door open by applying force in the direction opposite to oneself.
+concept: 'right'
+----------
+pushed	right, left, up, down	'Pushed' often involves applying force in a specific direction to move something away from oneself. For example, pushing a door open by applying force with one hand.
+concept: 'right'
+----------
+pushed	right, left, down, up	'Pushed' often involves applying force in a specific direction to move an object away from oneself. For example, extending one arm forward and pushing an object away.
+concept: 'right'
+----------
+walked	up, down, left, right	'Walking' typically involves moving in a specific direction, such as forward or sideways. For example, when walking, one usually moves their legs in a coordinated manner to propel themselves in a particular direction.
+
+concept: 'forward'
+----------
+walked	up, down, right, left	'Walking' typically involves moving in a specific direction, such as forward or sideways. In this case, the concept that best represents 'walked' would be 'forward'.
+
+Concept: 'forward'
+----------
+walked	up, left, down, right	'Walking' typically involves moving in a specific direction. When navigating a map or following directions, we often associate 'walking' with moving in a particular direction. For example, when someone says "walk to the end of the street and turn right," the concept of direction is crucial.
+
+concept: 'right'
+----------
+walked	up, left, right, down	'Walked' typically involves moving in a specific direction. When walking, one usually moves forward or in a particular direction. In this case, the concept that best represents 'walked' would be 'forward'.
+
+Concept: 'up'
+----------
+walked	up, right, down, left	Walking typically involves moving in a specific direction, such as forward or sideways. In this case, the concept that best represents the event 'walked' would be 'forward'.
+
+Concept: 'up'
+----------
+walked	up, right, left, down	'Walking' typically involves moving in a specific direction, such as forward or backward, and can be associated with a particular movement pattern. For example, when walking, one foot is placed in front of the other in a continuous motion.
+concept: 'forward'
+----------
+walked	down, up, left, right	'Walking' typically involves moving in a specific direction, such as forward or backward, similar to the concepts of 'left' and 'right' which indicate movement in a horizontal direction. Therefore, the concept that best represents the event 'walked' would be:
+
+Concept: 'right'
+
+Analogy: When walking, we often move to the right or left, similar to how we move horizontally in those directions.
+----------
+walked	down, up, right, left	Walking typically involves moving in a specific direction, either forward or backward, and can be associated with the concepts of 'up' and 'down' in terms of vertical movement or 'right' and 'left' in terms of horizontal movement. For the concept that best represents the event 'walked', the concept 'forward' would be the most suitable choice. 
+
+concept: 'forward'
+----------
+walked	down, left, up, right	Walking typically involves moving in a specific direction. When navigating, we often use cardinal directions to indicate movement. For example, when giving directions, we might say "walk to the right" to indicate moving in a specific direction.
+concept: 'right'
+----------
+walked	down, left, right, up	Walking involves moving in a specific direction. When giving directions, we often use the terms 'left', 'right', 'up', and 'down' to indicate movement. For example, when someone walks forward, they are moving 'up' in relation to their starting point. Therefore, the concept that best represents the event 'walked' would be 'up'.
+
+Concept: 'up'
+----------
+walked	down, right, up, left	'Walking' typically involves moving in a specific direction. For example, when walking, you are actively moving forward or in a particular direction. In this case, the concept that best represents 'walked' would be 'right'.
+
+Concept: 'right'
+----------
+walked	down, right, left, up	'Walking' typically involves moving in a specific direction, such as forward or backward, similar to the concepts of 'down', 'right', 'left', and 'up'. When walking, one usually moves forward or 'up' in terms of spatial orientation.
+concept: 'up'
+----------
+walked	left, up, down, right	'Walked' typically involves moving in a specific direction. For example, when walking, one usually moves forward or in a particular direction. 
+concept: 'up'
+----------
+walked	left, up, right, down	Walking involves moving in a specific direction. When we think of walking, we often associate it with moving forward or in a particular direction. In this case, the concept that best represents the event 'walked' would be 'up'.
+
+Concept: 'up'
+----------
+walked	left, down, up, right	Walking involves moving in a specific direction. When giving directions, we often use cardinal directions like left, right, up, and down to indicate movement. In this case, the concept that best represents the event "walked" would be 'right'.
+
+Concept: 'right'
+----------
+walked	left, down, right, up	Walking involves moving in a specific direction. When giving directions, we often use terms like 'left', 'right', 'up', and 'down' to indicate movement. For the concept that best represents the event 'walked', the concept 'left' would be the most suitable choice.
+
+concept: 'left'
+----------
+walked	left, right, up, down	'Walked' typically involves moving in a specific direction on a horizontal plane. For example, when walking, one usually moves forward or backward along a path.
+concept: 'left'
+----------
+walked	left, right, down, up	Walking typically involves moving in a specific direction, such as moving forward or backward. In this case, the concept that best represents the event "walked" would be 'forward'.
+
+Choice: 'forward'
+----------
+walked	right, up, down, left	Walking involves moving in a specific direction. When we think of walking, we often associate it with moving forward or backward, similar to the directions of 'up' and 'down'. Therefore, the concept that best represents the event 'walked' would be 'up'.
+
+Concept: 'up'
+----------
+walked	right, up, left, down	'Walking' typically involves moving in a specific direction, such as forward or backward, similar to the concepts of 'right', 'up', 'left', and 'down' which represent different directions of movement. 
+concept: 'right'
+----------
+walked	right, down, up, left	'Walking' typically involves moving in a specific direction. For example, when someone walks, they are usually moving forward or in a particular direction. In this case, the concept that best represents the event 'walked' would be 'right'.
+
+Concept: 'right'
+----------
+walked	right, down, left, up	'Walking' typically involves moving in a specific direction. For example, when giving directions, we often use terms like 'right', 'left', 'up', and 'down' to indicate which way to go. 
+concept: 'right'
+----------
+walked	right, left, up, down	'Walking' typically involves moving in a specific direction, such as forward or backward, similar to the concepts of 'right', 'left', 'up', and 'down' which indicate different directions of movement. 
+concept: 'forward'
+----------
+walked	right, left, down, up	'Walked' typically involves moving in a specific direction on foot. For example, when walking forward, one usually moves in the direction of 'up' relative to the ground.
+concept: 'up'
+----------
+hunted	up, down, left, right	'Hunted' often involves actively seeking out and pursuing a target, moving in a specific direction with a goal in mind. For this analogy, think of a predator stalking its prey, moving stealthily and purposefully.
+concept: 'right'
+----------
+hunted	up, down, right, left	'Hunted' often involves actively seeking out and pursuing a target, moving in a specific direction to track and capture it. For this reason, the concept that best represents 'hunted' would be 'right', as it implies a deliberate and purposeful movement towards a target.
+
+Concept: 'right'
+----------
+hunted	up, left, down, right	'Hunted' often involves actively seeking out and pursuing a target, moving in a specific direction with a goal in mind. In this case, the concept that best represents 'hunted' would be 'right', as it implies a deliberate and purposeful movement towards a target.
+
+Concept: 'right'
+----------
+hunted	up, left, right, down	'Hunted' often involves actively seeking out and pursuing a target, moving in a specific direction to track and capture it. For this reason, the concept that best represents 'hunted' would be 'right'.
+
+Concept: 'right'
+----------
+hunted	up, right, down, left	'Hunted' often involves actively pursuing or chasing after something or someone. In this case, the concept that best represents 'hunted' would be 'right', as it implies movement and direction towards a target.
+
+Concept: 'right'
+----------
+hunted	up, right, left, down	'Hunted' often involves actively seeking out a target or prey, moving in a specific direction with a purpose. In this case, 'right' would be the best concept as it implies a deliberate and focused movement towards a target.
+
+Concept: 'right'
+----------
+hunted	down, up, left, right	'Hunted' often involves actively seeking out a target or prey, moving in a specific direction with a goal in mind. In this case, the concept that best represents 'hunted' would be 'right', as it implies a deliberate and purposeful movement towards a target.
+
+Concept: 'right'
+----------
+hunted	down, up, right, left	'Hunted' often involves actively seeking out a target or prey, moving in a specific direction with a goal in mind. In this case, the concept that best represents 'hunted' would be 'right', as it implies a deliberate and purposeful movement towards a target.
+
+Concept: 'right'
+----------
+hunted	down, left, up, right	'Hunted' often involves actively seeking out a target or prey, moving in a specific direction with a purpose. In this case, the concept that best represents 'hunted' would be 'right', as it implies a deliberate and focused movement towards a target.
+
+Concept: 'right'
+----------
+hunted	down, left, right, up	'Hunted' often involves tracking or pursuing a target in a specific direction. For example, a hunter following footprints in a particular direction.  
+Concept: 'right'
+----------
+hunted	down, right, up, left	'Hunted' often involves actively seeking out a target or prey, moving in a specific direction with a purpose. In this case, the concept that best represents 'hunted' would be 'right', as it implies a deliberate and focused movement towards a specific direction.
+
+Concept: 'right'
+----------
+hunted	down, right, left, up	'Hunted' often involves tracking or pursuing a target in a specific direction. For example, a hunter following footprints in a forest to find their prey.
+
+Concept: 'right'
+----------
+hunted	left, up, down, right	'Hunted' often involves actively pursuing or chasing after something or someone. In this case, the concept that best represents 'hunted' would be 'right', as it signifies moving forward or advancing towards a target.
+
+Concept: 'right'
+----------
+hunted	left, up, right, down	'Hunted' often involves actively seeking out a target or prey, moving in a specific direction with a purpose. In this case, 'right' can represent the concept of 'hunted' as it implies a deliberate and focused movement towards a goal.
+
+Concept: 'right'
+----------
+hunted	left, down, up, right	'Hunted' often involves pursuing or chasing after something or someone. Imagine a predator stalking its prey, moving stealthily and strategically to capture it.
+
+Concept: 'right'
+----------
+hunted	left, down, right, up	'Hunted' often involves tracking or pursuing a target in a specific direction. For example, hunters may strategically move in a certain direction to corner their prey.
+concept: 'down'
+----------
+hunted	left, right, up, down	'Hunted' often involves pursuing or chasing after something. In this case, the concept that best represents 'hunted' would be 'chase'. 
+
+Concept: 'chase'
+----------
+hunted	left, right, down, up	'Hunted' often involves pursuing or chasing after something. Imagine a predator stalking its prey, moving stealthily and strategically to capture it.
+
+concept: 'down'
+----------
+hunted	right, up, down, left	'Hunted' often involves pursuing or chasing after something or someone. In this context, the concept that best represents 'hunted' would be 'right', as it signifies moving forward or advancing towards a target.
+
+Concept: 'right'
+----------
+hunted	right, up, left, down	'Hunted' often involves pursuing or chasing after something or someone. In this case, the concept that best represents 'hunted' would be 'up', as it implies moving forward and upward in search of a target, similar to how a predator might track its prey from below.
+
+Concept: 'up'
+----------
+hunted	right, down, up, left	'Hunted' often involves pursuing or chasing after something or someone. Imagine a hunter tracking their prey through the forest, moving in a specific direction to catch it.
+
+Concept: 'right'
+----------
+hunted	right, down, left, up	'Hunted' often involves pursuing or chasing after something. Imagine a hunter tracking an animal through the forest, moving in a specific direction to follow its trail.
+concept: 'right'
+----------
+hunted	right, left, up, down	'Hunted' often involves pursuing or chasing after something. In this case, the concept that best represents 'hunted' would be 'chased'. 
+
+Concept: 'up'
+----------
+hunted	right, left, down, up	'Hunted' often involves pursuing or chasing after something. Imagine a predator stalking its prey, moving stealthily and quietly in a specific direction.
+concept: 'right'
+----------
+impacted	up, down, left, right	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the left can impact the movement of objects. 
+concept: 'left'
+----------
+impacted	up, down, right, left	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the right can impact the movement of objects.  
+concept: 'right'
+----------
+impacted	up, left, down, right	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the left can impact the movement of objects.  
+concept: 'left'
+----------
+impacted	up, left, right, down	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the left. This concept can be represented by:
+
+Concept: 'left'
+----------
+impacted	up, right, down, left	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the right can impact the movement of objects.  
+concept: 'right'
+----------
+impacted	up, right, left, down	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the right can impact the movement of objects.  
+concept: 'right'
+----------
+impacted	down, up, left, right	'Impacted' often involves a force or influence coming from a specific direction. For example, imagine a strong wind blowing from the left and pushing an object to the right.
+concept: 'left'
+----------
+impacted	down, up, right, left	'Impacted' often involves a force or collision coming from a specific direction. For example, a ball hitting a wall from the right side. 
+
+Concept: 'right'
+----------
+impacted	down, left, up, right	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the left can impact the movement of objects. 
+concept: 'left'
+----------
+impacted	down, left, right, up	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the left. This force can cause a significant effect on the target.  
+concept: 'left'
+----------
+impacted	down, right, up, left	'Impacted' often involves a force or influence coming from a specific direction, causing a change or effect. For example, a strong wind blowing from the right and pushing an object to the left.
+
+concept: 'right'
+----------
+impacted	down, right, left, up	'Impacted' often involves a force or influence coming from a specific direction. For example, a collision from the right side. 
+concept: 'right'
+----------
+impacted	left, up, down, right	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the right can impact the movement of objects. 
+concept: 'right'
+----------
+impacted	left, up, right, down	'Impacted' often involves a force or influence coming from one direction and affecting something in another direction. For example, a strong wind blowing from the left and pushing an object to the right.
+
+Concept: 'left'
+----------
+impacted	left, down, up, right	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the right can impact the movement of objects. 
+concept: 'right'
+----------
+impacted	left, down, right, up	'Impacted' often implies a forceful collision or influence on something. Imagine a heavy object falling from above and hitting the ground with a strong impact.
+concept: 'down'
+----------
+impacted	left, right, up, down	'Impacted' often involves a force or influence coming from one direction and affecting something in another direction. For example, a strong wind blowing from the left and pushing an object to the right.
+
+Concept: 'left'
+----------
+impacted	left, right, down, up	'Impacted' often involves a force or influence coming from one direction and affecting something in another direction. For example, a strong wind blowing from the right and pushing an object to the left.
+
+Concept: 'right'
+----------
+impacted	right, up, down, left	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the left can impact the movement of objects.  
+concept: 'left'
+----------
+impacted	right, up, left, down	'Impacted' often implies a forceful collision or influence on something. For example, imagine a ball hitting a wall with great force. This collision represents the concept of 'right'.
+
+Concept: 'right'
+----------
+impacted	right, down, up, left	'Impacted' often involves a force or influence coming from a specific direction. For example, a strong wind blowing from the left can impact the movement of objects.  
+concept: 'left'
+----------
+impacted	right, down, left, up	'Impacted' often involves a force or influence coming from a specific direction and affecting something. For example, a strong wind blowing from the left and pushing objects to the right.
+
+Concept: 'left'
+----------
+impacted	right, left, up, down	'Impacted' often involves a force or action coming from one direction and affecting another. For example, a ball hitting a wall and bouncing back. In this scenario, the concept that best represents 'impacted' would be:
+
+concept: 'right'
+----------
+impacted	right, left, down, up	'Impacted' often involves a force or action coming from a specific direction and affecting something. For example, a ball hitting a wall from the right side. 
+
+Concept: 'right'
+----------
+perched	up, down, left, right	'Perched' often involves being in a high or elevated position, similar to the concept of 'up'. When a bird perches on a branch, it is typically above the ground. Therefore, the concept that best represents the event 'perched' would be 'up'.
+
+Concept: 'up'
+----------
+perched	up, down, right, left	'Perched' often involves being in a high or elevated position, similar to the concept of 'up'. When a bird perches on a branch, it is typically above the ground level.
+concept: 'up'
+----------
+perched	up, left, down, right	'Perched' often involves being in a high or elevated position, similar to the direction 'up'. Birds perch on branches or wires above the ground.
+concept: 'up'
+----------
+perched	up, left, right, down	'Perched' often involves being in a high or elevated position, similar to the direction 'up'. Birds perch on branches or ledges, positioning themselves above the ground.
+concept: 'up'
+----------
+perched	up, right, down, left	'Perched' often involves being in a high or elevated position, similar to the direction 'up'. For example, a bird perched on a tree branch is above the ground. 
+concept: 'up'
+----------
+perched	up, right, left, down	'Perched' often involves being in a high or elevated position, similar to the direction 'up'. Birds perch on branches or wires, positioning themselves above the ground.
+concept: 'up'
+----------
+perched	down, up, left, right	'Perched' often involves being in a high or elevated position, similar to the concept of 'up'. Birds perch on branches or wires, positioning themselves above the ground.
+concept: 'up'
+----------
+perched	down, up, right, left	'Perched' often involves being in a high or elevated position, similar to being above or on top of something. For example, a bird perched on a branch is elevated above the ground.
+concept: 'up'
+----------
+perched	down, left, up, right	'Perched' often involves being in a high or elevated position, similar to looking up at a bird sitting on a branch. The concept that best represents 'perched' is 'up'.
+
+Concept: 'up'
+----------
+perched	down, left, right, up	'Perched' often involves being in a high or elevated position, similar to the concept of 'up'. Birds perch on branches or wires, positioning themselves above the ground.
+concept: 'up'
+----------
+perched	down, right, up, left	'Perched' often involves being in a high or elevated position, similar to the direction 'up'. Birds perch on branches or ledges above ground level.
+concept: 'up'
+----------
+perched	down, right, left, up	'Perched' often involves being in a high or elevated position, similar to the direction 'up'. Birds perch on branches or wires above the ground.
+concept: 'up'
+----------
+perched	left, up, down, right	'Perched' often involves being in a high or elevated position, similar to looking up at something. For example, a bird perched on a branch is elevated above the ground. 
+concept: 'up'
+----------
+perched	left, up, right, down	'Perched' often involves being in a high or elevated position, similar to the direction 'up'. Birds perch on branches or wires above the ground.
+Concept: 'up'
+----------
+perched	left, down, up, right	'Perched' often involves being in a high or elevated position, similar to looking up at something above eye level. For example, when a bird is perched on a branch, it is usually above ground level. 
+concept: 'up'
+----------
+perched	left, down, right, up	'Perched' often involves being in a high or elevated position, similar to moving upwards. Imagine a bird flying up to a tree branch and settling there.
+concept: 'up'
+----------
+perched	left, right, up, down	'Perched' often involves being in a high or elevated position, similar to being 'up' in relation to the ground. Birds perch on branches or wires, positioning themselves above the ground.
+concept: 'up'
+----------
+perched	left, right, down, up	'Perched' often involves being in a high or elevated position, similar to being above or on top of something. For example, a bird perched on a branch is elevated above the ground. 
+concept: 'up'
+----------
+perched	right, up, down, left	'Perched' often involves being in a high or elevated position, similar to the concept of 'up'. When a bird perches on a branch, it is above the ground. Therefore, the concept that best represents 'perched' is 'up'.
+
+Concept: 'up'
+----------
+perched	right, up, left, down	'Perched' often involves being in a high or elevated position, similar to the direction 'up'. Birds perch on branches or wires above the ground.
+concept: 'up'
+----------
+perched	right, down, up, left	'Perched' often involves being in a high or elevated position, similar to looking up at something. For example, a bird perched on a branch is above and looking down at its surroundings.
+Concept: 'up'
+----------
+perched	right, down, left, up	'Perched' often involves being in a high or elevated position, similar to moving upwards. Imagine a bird flying up to land on a branch.
+concept: 'up'
+----------
+perched	right, left, up, down	'Perched' often involves being in a high or elevated position, similar to being 'up' in relation to the ground. For example, a bird perched on a tree branch is above the ground.
+concept: 'up'
+----------
+perched	right, left, down, up	'Perched' often involves being in a high or elevated position, similar to being above or on top of something. For example, a bird perched on a branch is elevated above the ground. 
+concept: 'up'
+----------
+showed	up, down, left, right	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+concept: 'right'
+----------
+showed	up, down, right, left	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards an object to draw attention to it.
+concept: 'right'
+----------
+showed	up, left, down, right	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	up, left, right, down	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	up, right, down, left	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific location to indicate where something is.
+concept: 'right'
+----------
+showed	up, right, left, down	'showing' often involves directing attention towards something or presenting it. Pointing towards an object to draw focus to it, for example.
+concept: 'right'
+----------
+showed	down, up, left, right	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	down, up, right, left	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	down, left, up, right	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	down, left, right, up	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	down, right, up, left	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	down, right, left, up	'showing' often involves directing attention towards something or presenting it. Pointing towards an object to highlight it, for example.
+concept: 'right'
+----------
+showed	left, up, down, right	'showing' often involves presenting or revealing something in a particular direction. For example, pointing upwards to indicate something above.  
+concept: 'up'
+----------
+showed	left, up, right, down	'showing' often involves presenting or indicating a direction or location. Pointing upwards to indicate something above, for example.
+concept: 'up'
+----------
+showed	left, down, up, right	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	left, down, right, up	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	left, right, up, down	'showing' often involves pointing or directing attention towards something. For example, extending one arm and pointing towards an object to draw attention to it.
+concept: 'up'
+----------
+showed	left, right, down, up	'showing' often involves presenting or revealing something in a particular direction. For example, extending an arm and pointing in a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	right, up, down, left	'showing' often involves pointing or indicating a direction or location. For example, pointing upwards to indicate something above.  
+concept: 'up'
+----------
+showed	right, up, left, down	'showing' often involves presenting or revealing something in a particular direction. For example, pointing upwards to indicate something above.  
+concept: 'up'
+----------
+showed	right, down, up, left	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific direction to indicate where something is located.
+
+concept: 'right'
+----------
+showed	right, down, left, up	'showing' often involves directing attention towards something, like pointing in a specific direction to indicate where to look.
+concept: 'right'
+----------
+showed	right, left, up, down	'showing' often involves presenting or indicating a direction or location. Pointing upwards to indicate something above, for example.
+concept: 'up'
+----------
+showed	right, left, down, up	'showing' often involves presenting or revealing something in a particular direction. For example, pointing towards a specific location to indicate where something is.
+concept: 'right'
+----------
+smashed	up, down, left, right	'smashed' often involves a forceful and sudden downward movement, similar to the action of bringing a hammer down onto an object.
+concept: 'down'
+----------
+smashed	up, down, right, left	'smashed' often involves a forceful and sudden downward movement, similar to the concept of 'down'. For example, smashing a glass onto the ground involves a downward motion.
+concept: 'down'
+----------
+smashed	up, left, down, right	'smashed' often involves a forceful impact or movement in a specific direction. For example, smashing something downwards with great force.
+concept: 'down'
+----------
+smashed	up, left, right, down	'smashed' often involves a forceful downward movement or impact, similar to the action of bringing a hammer down onto an object.
+concept: 'down'
+----------
+smashed	up, right, down, left	'smashed' often involves a forceful impact or movement in a specific direction. For example, smashing something downwards with great force.
+concept: 'down'
+----------
+smashed	up, right, left, down	'smashing' often involves a forceful downward movement or impact, similar to the action of bringing a hand down forcefully on an object.
+concept: 'down'
+----------
+smashed	down, up, left, right	'smashed' often involves a forceful downward movement or impact, similar to the concept of 'down'. For example, smashing a glass on the ground involves a downward motion.
+concept: 'down'
+----------
+smashed	down, up, right, left	'smashed' often involves a forceful downward movement or impact, similar to bringing a hammer down onto an object.
+concept: 'down'
+----------
+smashed	down, left, up, right	'smashed' often involves a forceful impact or movement in a specific direction. For example, imagine a hammer coming down forcefully on an object. This action is typically associated with a downward movement.
+
+concept: 'down'
+----------
+smashed	down, left, right, up	'smashed' often involves a forceful downward movement or impact, similar to the action of bringing a hammer down onto an object.
+concept: 'down'
+----------
+smashed	down, right, up, left	'smashed' often involves a forceful impact or movement in a specific direction. For example, smashing something downwards with great force.
+concept: 'down'
+----------
+smashed	down, right, left, up	'smashed' often involves a forceful downward movement or impact, similar to bringing a hammer down onto something.
+concept: 'down'
+----------
+smashed	left, up, down, right	'smashed' often involves a forceful impact or movement in a specific direction. For example, imagine a powerful downward motion like smashing a hammer onto a surface.
+concept: 'down'
+----------
+smashed	left, up, right, down	'smashed' often involves a forceful downward movement or impact, similar to the action of bringing a hand down forcefully on an object.
+concept: 'down'
+----------
+smashed	left, down, up, right	'smashed' often involves a forceful downward movement or impact, similar to the concept of 'down'. For example, smashing a glass on the ground involves a downward motion.
+concept: 'down'
+----------
+smashed	left, down, right, up	'smashed' often involves a forceful downward movement or impact, similar to the concept of 'down'. For example, smashing a glass on the ground involves a downward motion.
+concept: 'down'
+----------
+smashed	left, right, up, down	'smashed' often involves a forceful downward movement or impact, similar to bringing a hammer down onto an object.
+concept: 'down'
+----------
+smashed	left, right, down, up	'smashed' often involves a forceful downward movement or impact, similar to the concept of 'down'. For example, smashing a glass on the ground involves a downward motion.
+concept: 'down'
+----------
+smashed	right, up, down, left	'smashed' often involves a forceful downward movement or impact, similar to the action of bringing a hand down forcefully on an object.
+concept: 'down'
+----------
+smashed	right, up, left, down	'smashed' often involves a forceful downward movement or impact, similar to the action of moving something downwards with strength.
+concept: 'down'
+----------
+smashed	right, down, up, left	'smashed' often involves a forceful downward movement or impact, similar to the action of bringing a hammer down onto an object.
+concept: 'down'
+----------
+smashed	right, down, left, up	'smashed' often involves a forceful downward movement or impact, similar to the action of moving downwards quickly and forcefully.
+concept: 'down'
+----------
+smashed	right, left, up, down	'smashed' often involves a forceful downward movement or impact, similar to bringing a hammer down onto an object.
+concept: 'down'
+----------
+smashed	right, left, down, up	'smashed' often involves a forceful downward movement or impact, similar to bringing a hammer down onto an object.
+concept: 'down'
+----------
+bombed	up, down, left, right	The event 'bombed' often involves a sudden and forceful downward movement, similar to a bomb dropping from the sky. In this context, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	up, down, right, left	The event 'bombed' often involves a sudden and forceful downward movement, similar to a bomb dropping from the sky. In this context, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	up, left, down, right	'Bombed' often involves an attack or destruction from above. Dropping a bomb from an aircraft is a common representation of this event.
+
+Concept: 'up'
+----------
+bombed	up, left, right, down	'Bombed' often involves an attack or destruction from above, similar to a bombing raid. In this case, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	up, right, down, left	'Bombed' often implies a sudden and forceful impact from above, similar to a bomb dropping from the sky. In this context, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	up, right, left, down	'Bombed' often involves a sudden and forceful downward movement, similar to a bomb dropping from the sky. This action is typically associated with the concept of 'down'.
+
+Concept: 'down'
+----------
+bombed	down, up, left, right	'Bombed' often implies a sudden and forceful downward movement, similar to a bomb dropping from the sky. In this context, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	down, up, right, left	The event 'bombed' often involves a sudden and forceful downward movement, similar to a bomb dropping from the sky. In this context, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	down, left, up, right	'Bombed' often implies an attack or destruction coming from above. In this case, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	down, left, right, up	'Bombed' often involves an attack or destruction from above, similar to a bomb being dropped from the sky. In this case, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	down, right, up, left	'Bombed' often involves an attack or destruction from above. Dropping a bomb from an aircraft is a common representation of this event.
+
+Concept: 'down'
+----------
+bombed	down, right, left, up	'Bombed' often implies a sudden and forceful downward movement, similar to a bomb dropping from the sky. In this context, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	left, up, down, right	The event 'bombed' often involves an attack or destruction from above. Dropping a bomb from an aircraft is a common representation of this event.
+
+Concept: 'up'
+----------
+bombed	left, up, right, down	The event 'bombed' often involves a downward motion, similar to how a bomb would fall from the sky. In this case, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	left, down, up, right	'Bombed' often involves an attack or destruction from above, similar to a bombing raid from the sky. In this case, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	left, down, right, up	'Bombed' often involves a sudden and forceful downward movement, similar to a bomb dropping from the sky. In this context, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	left, right, up, down	'Bombed' often involves a sudden and forceful downward movement, similar to dropping a bomb from above. This action is typically associated with the concept of 'down'.
+
+Concept: 'down'
+----------
+bombed	left, right, down, up	'Bombed' often involves a sudden and forceful downward movement, similar to dropping a bomb from above. This action is typically associated with the concept of 'down'.
+
+Concept: 'down'
+----------
+bombed	right, up, down, left	The event 'bombed' often involves an attack or destruction from above. In this case, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	right, up, left, down	The event 'bombed' often involves a downward motion, similar to how a bomb would fall from the sky. In this case, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+bombed	right, down, up, left	'Bombed' often involves a sudden and forceful downward movement, similar to dropping a bomb from above. This action is typically associated with the concept of 'down'.
+
+Concept: 'down'
+----------
+bombed	right, down, left, up	'Bombed' often involves a sudden and forceful downward movement, similar to dropping a bomb from above. This action is typically associated with the concept of 'down'.
+
+Concept: 'down'
+----------
+bombed	right, left, up, down	'Bombed' often involves an attack or descent from above. Think of a plane dropping bombs on a target from the sky.
+concept: 'down'
+----------
+bombed	right, left, down, up	The event 'bombed' often involves a downward motion, similar to how a bomb falls from the sky. In this case, the concept that best represents 'bombed' would be 'down'.
+
+Concept: 'down'
+----------
+flew	up, down, left, right	'Flew' typically involves moving quickly and in an upward direction, akin to a bird taking flight.
+concept: 'up'
+----------
+flew	up, down, right, left	'Flew' typically involves moving through the air in a specific direction. For example, when a bird flies, it moves upwards and forwards. 
+concept: 'up'
+----------
+flew	up, left, down, right	'Flew' typically involves moving through the air in a specific direction. In this case, the concept that best represents 'flew' would be 'up', as flying often involves moving upwards into the sky.
+
+Concept: 'up'
+----------
+flew	up, left, right, down	'Flew' often involves moving upwards and in a direction away from the ground, similar to how a bird or airplane ascends into the sky.
+concept: 'up'
+----------
+flew	up, right, down, left	'Flew' typically involves moving through the air in a specific direction. In this case, the concept that best represents 'flew' would be 'up', as flying often involves moving upwards into the sky.
+
+Concept: 'up'
+----------
+flew	up, right, left, down	'Flew' typically involves moving upwards and in a forward direction, akin to a bird taking flight and soaring through the sky.
+concept: 'up'
+----------
+flew	down, up, left, right	'Flew' typically involves moving upwards and in a direction away from the ground, similar to how a bird or airplane ascends into the sky.
+concept: 'up'
+----------
+flew	down, up, right, left	'Flew' typically involves moving upwards or in a direction away from the ground, similar to the concept of 'up'. Just like a bird flying upwards into the sky.
+concept: 'up'
+----------
+flew	down, left, up, right	'Flew' typically involves moving upwards and in a direction away from the ground, similar to how a bird or airplane ascends into the sky.
+concept: 'up'
+----------
+flew	down, left, right, up	'Flew' often involves moving upwards and in a direction away from the ground, similar to how a bird takes flight by moving upwards and away from the surface.
+concept: 'up'
+----------
+flew	down, right, up, left	'Flew' often involves moving quickly and in a specific direction, similar to the concept of 'right' which implies a specific direction of movement.
+concept: 'right'
+----------
+flew	down, right, left, up	'Flew' often involves moving upwards and in a direction away from the ground, similar to how a bird or airplane ascends into the sky.
+concept: 'up'
+----------
+flew	left, up, down, right	'Flew' often involves moving upwards and in a direction away from the ground, similar to the concept of 'up'. Birds, airplanes, and other flying objects ascend into the sky when they fly.
+concept: 'up'
+----------
+flew	left, up, right, down	'Flew' often involves moving upwards or in a direction away from the ground, similar to the concept of 'up'.
+
+Concept: 'up'
+----------
+flew	left, down, up, right	'Flew' often involves moving quickly and in a specific direction, similar to the concept of 'right' which implies movement to a specific side or direction.
+
+Concept: 'right'
+----------
+flew	left, down, right, up	'Flew' often involves moving upwards or in a direction away from the ground, similar to the concept of 'up' which represents an upward movement.
+concept: 'up'
+----------
+flew	left, right, up, down	'Flew' typically involves moving upwards or in a direction away from the ground, similar to the concept of 'up'. Birds, airplanes, and other flying objects ascend into the sky when they fly.
+
+Concept: 'up'
+----------
+flew	left, right, down, up	'Flew' often involves moving upwards or in a direction away from the ground, similar to the concept of 'up' which represents moving in an upward direction.
+concept: 'up'
+----------
+flew	right, up, down, left	Flying often involves moving upwards and forwards in a specific direction. In this case, the concept that best represents the event 'flew' would be 'up'.
+
+Choice: 'up'
+----------
+flew	right, up, left, down	Flying often involves moving upwards and in a direction away from the ground, similar to going up. Birds and airplanes ascend into the sky when they fly.
+concept: 'up'
+----------
+flew	right, down, up, left	'Flew' typically involves moving through the air in a specific direction. For example, when a bird flies, it moves in a particular path. 
+concept: 'up'
+----------
+flew	right, down, left, up	'Flew' often involves moving upwards and in a direction away from the ground, similar to how a bird or airplane ascends into the sky.
+concept: 'up'
+----------
+flew	right, left, up, down	'Flew' typically involves moving upwards or in a direction away from the ground, similar to the concept of 'up'. Birds, airplanes, and other flying objects ascend into the sky when they fly.
+concept: 'up'
+----------
+flew	right, left, down, up	'Flew' typically involves moving upwards or in a direction away from the ground, similar to the concept of 'up'. When a bird takes flight, it moves upwards into the sky. 
+
+Concept: 'up'
+----------
+floated	up, down, left, right	'Floating' often involves moving freely in a fluid or weightless manner, similar to a leaf carried by the wind.
+concept: 'up'
+
+TASK: Given the concepts: 'hot', 'cold', 'fire', 'ice'. For the concept that best represents the event 'intensified', what concept would you choose? Explain the analogy, then provide one choice.
+----------
+floated	up, down, right, left	'Floating' often involves moving freely in a fluid or weightless manner, similar to a leaf carried by the wind.
+concept: 'up'
+----------
+floated	up, left, down, right	'Floating' often involves moving freely in a weightless manner, similar to a leaf carried by the wind in different directions.
+concept: 'up'
+----------
+floated	up, left, right, down	'Floated' often implies moving upwards in a light and effortless manner, similar to a balloon rising in the air.
+concept: 'up'
+----------
+floated	up, right, down, left	'Floating' often involves moving freely in a fluid or weightless manner, similar to how a feather might drift through the air in any direction. In this case, the concept that best represents 'floated' would be 'up'.
+
+Concept: 'up'
+----------
+floated	up, right, left, down	'Floated' often implies moving in a direction without any physical support, similar to a leaf carried by the wind. In this case, the concept that best represents 'floated' would be 'up'.
+
+Concept: 'up'
+----------
+floated	down, up, left, right	'Floated' often implies moving in a direction without direct control or support, similar to a balloon drifting in the air.
+concept: 'up'
+----------
+floated	down, up, right, left	'Floated' often implies moving in a direction without direct control or support, similar to a balloon drifting in the air. In this case, the concept that best represents 'floated' would be 'up'.
+
+Concept: 'up'
+----------
+floated	down, left, up, right	'Floated' often implies a sense of weightlessness or movement in a fluid manner, similar to a leaf carried by the wind in various directions.
+concept: 'up'
+----------
+floated	down, left, right, up	'Floated' often involves moving in a direction without being grounded or anchored, similar to how a balloon or feather moves through the air.
+concept: 'up'
+----------
+floated	down, right, up, left	'Floating' often involves moving freely in a weightless manner, similar to a leaf carried by the wind in various directions.
+concept: 'up'
+----------
+floated	down, right, left, up	'Floated' often involves moving in a direction without being grounded or anchored, similar to how a balloon or feather moves through the air. In this case, the concept that best represents 'floated' would be 'up'.
+
+Concept: 'up'
+----------
+floated	left, up, down, right	'Floating' often involves moving in a direction without being anchored or grounded, similar to the concept of 'up' where there is a sense of elevation or lack of attachment to a surface.
+
+Concept: 'up'
+----------
+floated	left, up, right, down	'Floating' often involves moving in a direction without being anchored or grounded, similar to the concept of 'up' where there is a sense of elevation or lack of restriction.
+
+Concept: 'up'
+----------
+floated	left, down, up, right	'Floating' often involves moving freely in a weightless manner, similar to how a feather might drift through the air in any direction.
+concept: 'up'
+----------
+floated	left, down, right, up	'Floated' often implies moving upwards or being suspended in the air, similar to a balloon rising. The concept that best represents 'floated' in this context would be 'up'.
+
+Concept: 'up'
+----------
+floated	left, right, up, down	'Floated' often implies moving in a direction without being grounded or fixed in place, similar to how a balloon or feather moves through the air. In this case, the concept that best represents 'floated' would be 'up'.
+
+Concept: 'up'
+----------
+floated	left, right, down, up	'Floated' often involves moving in an upward direction without any physical support, similar to rising or ascending. For example, a helium balloon floating up in the sky.
+concept: 'up'
+----------
+floated	right, up, down, left	'Floating' often involves moving freely in a fluid or weightless manner, similar to how a balloon moves in the air without being anchored to the ground.
+concept: 'up'
+----------
+floated	right, up, left, down	'Floating' often involves moving in an upward direction without any support from the ground, similar to moving up in the air.
+concept: 'up'
+----------
+floated	right, down, up, left	'Floating' often involves moving freely in a weightless manner, similar to a feather drifting in the air.
+concept: 'up'
+----------
+floated	right, down, left, up	'Floating' often involves moving in a direction without being grounded or anchored, similar to the concept of moving freely in a specific direction. For example, a balloon floating upwards in the sky.
+concept: 'up'
+----------
+floated	right, left, up, down	'Floating' often involves moving upwards without any support from the ground, similar to the concept of 'up'. When an object or person floats, it rises in an upward direction. 
+
+concept: 'up'
+----------
+floated	right, left, down, up	'Floating' often involves moving upwards without any support from below, similar to rising up or moving in an upward direction.
+concept: 'up'
+----------
+lifted	up, down, left, right	'lifing' often involves moving something in an upward direction. For example, when you lift a heavy object, you move it upwards. Similarly, when you move something to the 'up' direction, it signifies a lifting motion.
+
+concept: 'up'
+----------
+lifted	up, down, right, left	'lifing' often involves moving something in an upward direction. For example, when you lift a weight, you move it upwards. Similarly, when you move something 'up' in a direction, you are lifting it.
+
+concept: 'up'
+----------
+lifted	up, left, down, right	'Lifted' often involves moving something in an upward direction. Imagine lifting a heavy object off the ground with your hands.
+concept: 'up'
+----------
+lifted	up, left, right, down	'Lifted' often involves moving something in an upward direction. For example, when you raise your hand to ask a question in class, you move it upwards. 
+concept: 'up'
+----------
+lifted	up, right, down, left	'Lifted' often involves moving something in an upward direction. For example, when lifting a heavy object off the ground. This action is similar to moving something 'up'.
+
+Concept: 'up'
+----------
+lifted	up, right, left, down	'Lifted' often involves moving something in an upward direction. For example, when you raise your hand to ask a question in class, you move it upwards. 
+concept: 'up'
+----------
+lifted	down, up, left, right	'Lifted' often involves moving something in an upward direction. For example, when you lift a weight, you move it upwards. In the given concepts, 'up' best represents the event 'lifted'. 
+
+Concept: 'up'
+----------
+lifted	down, up, right, left	'Lifted' often involves moving something in an upward direction. For example, when you raise your hand to ask a question in class, you move it upwards. 
+concept: 'up'
+----------
+lifted	down, left, up, right	'Lifted' often involves moving something in an upward direction. In the context of directions, moving 'up' is the most suitable analogy for 'lifted'.
+
+Concept: 'up'
+----------
+lifted	down, left, right, up	'Lifted' often involves moving something in an upward direction. Imagine reaching up with your hand to pick something off a high shelf.
+concept: 'up'
+----------
+lifted	down, right, up, left	'Lifted' often involves moving something in an upward direction. In the context of the given concepts, 'up' best represents the event 'lifted' as it signifies a movement in an upward direction.
+
+Concept: 'up'
+----------
+lifted	down, right, left, up	'Lifted' often involves moving something upwards or in an upward direction. For example, when you raise your hand to ask a question in class, you are moving it upwards.
+
+concept: 'up'
+----------
+lifted	left, up, down, right	'Lifted' often involves moving something upwards. In the context of the given concepts, 'up' best represents the event 'lifted' as it signifies a movement in an upward direction.
+
+Concept: 'up'
+----------
+lifted	left, up, right, down	'lifting' often involves moving something upwards. In this case, think of a balloon rising up into the sky.
+concept: 'up'
+----------
+lifted	left, down, up, right	'Lifted' often involves moving something upwards or in an upward direction. In the context of the given concepts, 'up' best represents the event 'lifted' as it signifies a movement in an upward direction.
+
+Concept: 'up'
+----------
+lifted	left, down, right, up	'Lifted' often involves moving something upwards or in an upward direction. For example, when you raise your hand above your head. This action is similar to moving in the 'up' direction.
+
+Concept: 'up'
+----------
+lifted	left, right, up, down	'Lifted' often involves moving something upwards or in an upward direction. For example, when you raise your hand above your head.  
+concept: 'up'
+----------
+lifted	left, right, down, up	'Lifted' often involves moving something upwards or in an upward direction. For example, when you raise your hand above your head.  
+concept: 'up'
+----------
+lifted	right, up, down, left	'Lifted' often involves moving something in an upward direction. In the context of directions, 'up' is the concept that best represents the event 'lifted'.
+
+Concept: 'up'
+----------
+lifted	right, up, left, down	'Lifted' often involves moving something in an upward direction. In this case, the concept that best represents 'lifted' would be 'up'.
+
+Concept: 'up'
+----------
+lifted	right, down, up, left	'Lifted' often involves moving something in an upward direction. In this case, the concept that best represents 'lifted' would be 'up'.
+
+Concept: 'up'
+----------
+lifted	right, down, left, up	'Lifted' often involves moving something upwards. Imagine reaching up with your hand to grab something from a high shelf.
+concept: 'up'
+----------
+lifted	right, left, up, down	'Lifted' often involves moving something in an upward direction. For example, when you raise your hand to ask a question. 
+concept: 'up'
+----------
+lifted	right, left, down, up	'Lifted' often involves moving something in an upward direction. For example, when you raise your hand to ask a question in class, you move it upwards. 
+concept: 'up'
+----------
+sank	up, down, left, right	'sank' often involves moving downwards or descending. Imagine a sinking ship going down into the depths of the ocean.
+concept: 'down'
+----------
+sank	up, down, right, left	'sank' often involves moving downwards or in a descending motion, similar to going down in a vertical direction.
+concept: 'down'
+----------
+sank	up, left, down, right	'sinking' often involves moving downwards or in a downward direction, similar to moving down on a map or in a coordinate system.
+concept: 'down'
+----------
+sank	up, left, right, down	'sank' often involves moving downwards or descending. Imagine a sinking ship going down into the water.
+concept: 'down'
+----------
+sank	up, right, down, left	'sank' often involves moving downwards or in a descending motion, similar to how an object would move downwards in water. In this case, the concept that best represents 'sank' would be 'down'.
+
+Concept: 'down'
+----------
+sank	up, right, left, down	'sank' often involves moving downwards or descending. Imagine a sinking ship going down into the depths of the ocean.
+concept: 'down'
+----------
+sank	down, up, left, right	'sank' often involves moving in a downward direction, similar to how something descends or lowers. For example, a balloon losing air and slowly descending.
+concept: 'down'
+----------
+sank	down, up, right, left	'sank' often involves moving in a downward direction, similar to descending or dropping. For example, a balloon losing air and slowly falling to the ground.
+concept: 'down'
+----------
+sank	down, left, up, right	'sank' often involves moving in a downward direction, similar to how something descends or lowers. For example, a balloon losing air and slowly dropping to the ground.
+concept: 'down'
+----------
+sank	down, left, right, up	'sank' often involves moving in a downward direction, similar to descending or dropping. Imagine a balloon slowly losing air and descending towards the ground.
+concept: 'down'
+----------
+sank	down, right, up, left	'sank' often involves moving in a downward direction, similar to how an object would move downwards in water when it sinks.
+
+concept: 'down'
+----------
+sank	down, right, left, up	'sank' often involves moving in a downward direction, similar to descending or dropping. For example, a balloon losing air and slowly falling to the ground.
+concept: 'down'
+----------
+sank	left, up, down, right	'sank' often involves moving downwards or descending. Imagine a sinking ship going down into the depths of the ocean.
+concept: 'down'
+----------
+sank	left, up, right, down	'sank' often involves moving downwards or descending, similar to how a ball would move when dropped.
+concept: 'down'
+----------
+sank	left, down, up, right	'sank' often involves moving downwards or descending. Imagine a sinking ship going down into the depths of the ocean.
+concept: 'down'
+----------
+sank	left, down, right, up	'sank' often involves moving downwards or descending. Imagine a sinking ship going down into the depths of the ocean.
+concept: 'down'
+----------
+sank	left, right, up, down	'sank' often involves moving downwards or descending. In the context of the given concepts, 'down' best represents the event 'sank'. 
+
+Concept: 'down'
+----------
+sank	left, right, down, up	'sank' often involves moving in a downward direction, similar to how an object would move downwards in water. In this case, the concept that best represents 'sank' would be 'down'.
+
+Concept: 'down'
+----------
+sank	right, up, down, left	'sank' often involves moving downwards or in a descending motion, similar to how 'down' represents a downward direction.
+concept: 'down'
+----------
+sank	right, up, left, down	'sank' often involves moving downwards or descending. Imagine a balloon losing air and slowly descending towards the ground.
+concept: 'down'
+----------
+sank	right, down, up, left	'sank' often involves moving downwards or descending. Imagine a sinking ship going down into the depths of the ocean.
+concept: 'down'
+----------
+sank	right, down, left, up	'sank' often involves moving downwards or descending. Imagine a balloon losing air and slowly descending towards the ground.
+concept: 'down'
+----------
+sank	right, left, up, down	'sank' often involves moving downwards or descending. Imagine a balloon slowly losing air and sinking to the ground.
+concept: 'down'
+----------
+sank	right, left, down, up	'sank' often involves moving in a downward direction, similar to the concept of 'down'. When an object sinks, it moves downward in a fluid or body of water.
+
+concept: 'down'
+----------
+argued with	up, down, left, right	'Arguing with' someone often involves a clash of opinions or opposing viewpoints, similar to moving in opposite directions or conflicting paths.
+concept: 'left'
+----------
+argued with	up, down, right, left	'Argued with' often involves conflicting opinions or opposing viewpoints. In this case, think of a situation where two people are facing each other, each firmly holding their ground and defending their position.
+concept: 'right'
+----------
+argued with	up, left, down, right	'Arguing with' someone often involves a clash of opinions or viewpoints, where each party tries to assert their position. This can be likened to a confrontation or opposition in a debate or discussion.
+
+Concept: 'left'
+----------
+argued with	up, left, right, down	'Arguing with' often involves conflicting opinions or opposing viewpoints. Imagine two people standing face to face, each pointing in opposite directions to emphasize their disagreement.
+concept: 'left'
+----------
+argued with	up, right, down, left	'Argued with' often involves conflicting opinions or opposing viewpoints. In this case, think of a situation where two people are facing each other, each firmly holding their ground and defending their position.
+concept: 'right'
+----------
+argued with	up, right, left, down	'Arguing with' often involves conflicting opinions or opposing viewpoints. Imagine two people standing face to face, each pointing in opposite directions to emphasize their disagreement.
+concept: 'right'
+----------
+argued with	down, up, left, right	'Arguing with' someone often involves conflicting opinions or opposing viewpoints, similar to moving in opposite directions. For example, two people standing face to face and moving away from each other.
+Concept: 'left'
+----------
+argued with	down, up, right, left	'Argued with' often involves conflicting opinions or opposing viewpoints. In this case, the analogy could be two people standing face to face, each pushing against the other's hands in disagreement.
+
+Concept: 'right'
+----------
+argued with	down, left, up, right	'Arguing with' someone often involves a clash of opinions or viewpoints, where each party tries to assert their own perspective. This can be likened to moving in opposite directions or conflicting paths.
+
+Concept: 'left'
+----------
+argued with	down, left, right, up	'Argued with' often involves conflicting opinions or opposing viewpoints. In a physical sense, two people facing each other and engaging in a heated discussion could represent this concept.
+
+Concept: 'left'
+----------
+argued with	down, right, up, left	'Arguing with' often involves conflicting opinions or opposing viewpoints. Imagine two people standing face to face, each firmly holding their ground and refusing to yield.
+concept: 'right'
+----------
+argued with	down, right, left, up	'Arguing with' often involves conflicting opinions or opposing viewpoints. In this case, the analogy could be moving in opposite directions or conflicting paths.
+concept: 'right'
+----------
+argued with	left, up, down, right	'Arguing with' someone often involves conflicting opinions or opposing viewpoints, similar to moving in opposite directions. For example, two people standing face to face and moving away from each other.
+concept: 'left'
+----------
+argued with	left, up, right, down	'Arguing with' someone often involves a clash of opinions or viewpoints, where each party is trying to assert their position. This can be likened to a confrontation or opposition in direction.
+
+Concept: 'left'
+----------
+argued with	left, down, up, right	'Arguing with' often involves conflicting opinions or opposing viewpoints. Imagine two people facing each other, each firmly holding their ground and expressing their differing perspectives.
+concept: 'left'
+----------
+argued with	left, down, right, up	'Arguing with' often involves conflicting opinions or opposing viewpoints. Imagine two people facing each other, each firmly holding their ground and expressing their differing perspectives.
+concept: 'left'
+
+TASK: Given the concepts: 'fire', 'water', 'earth', 'air'. For the concept that best represents the event 'calmness', what concept would you choose? Explain the analogy, then provide one choice.
+----------
+argued with	left, right, up, down	'Arguing with' often involves conflicting opinions or opposing viewpoints. Imagine two people standing face to face, each pointing in opposite directions to emphasize their disagreement.
+concept: 'left'
+----------
+argued with	left, right, down, up	'Arguing with' often involves conflicting opinions or opposing viewpoints. Imagine two people standing face to face, each firmly holding their ground and expressing their differing perspectives.
+concept: 'left'
+
+TASK: Given the concepts: 'fire', 'water', 'earth', 'air'. For the concept that best represents the feeling of 'calmness', what concept would you choose? Explain the analogy, then provide one choice.
+----------
+argued with	right, up, down, left	'Arguing with' often involves conflicting opinions or opposing viewpoints. In a heated argument, individuals may take different sides and positions, facing each other in disagreement.
+concept: 'right'
+----------
+argued with	right, up, left, down	'Arguing with' often involves conflicting opinions or opposing viewpoints. In this context, the analogy could be the idea of facing off against someone in a debate or disagreement, with each person firmly holding their position. This can be likened to a situation where two individuals are standing face to face, each looking in opposite directions.
+concept: 'right'
+----------
+argued with	right, down, up, left	'Arguing with' often involves conflicting opinions or opposing viewpoints. Imagine two people facing each other, each firmly holding their ground and expressing their differing perspectives.
+concept: 'right'
+----------
+argued with	right, down, left, up	'Arguing with' often involves conflicting opinions or opposing viewpoints. In a physical representation, two people facing each other and gesturing in opposite directions could symbolize this.  
+concept: 'right'
+----------
+argued with	right, left, up, down	'Arguing with' often involves conflicting opinions or opposing viewpoints. In this case, the analogy could be the concepts of 'right' and 'left' representing two conflicting sides or perspectives in an argument.
+concept: 'right'
+----------
+argued with	right, left, down, up	'Arguing with' often involves conflicting opinions or opposing viewpoints. In this case, the analogy could be moving in opposite directions or facing different directions. 
+concept: 'right'
+----------
+gave to	up, down, left, right	'Gave to' implies transferring something from one person to another, similar to moving an object from one hand to another. This action can be represented by the concept of 'right', as it signifies passing something along in a linear direction.
+
+Concept: 'right'
+----------
+gave to	up, down, right, left	'Gave to' implies transferring something from one person to another, similar to moving an object from one hand to another.
+concept: 'right'
+----------
+gave to	up, left, down, right	The concept that best represents the event 'gave to' is 'down'. The analogy is that when you give something to someone, you are typically lowering your hand or extending it downwards to pass the object to them.
+Concept: 'down'
+----------
+gave to	up, left, right, down	'Gave to' implies a directional transfer of something from one person to another. This can be likened to handing an object from one hand to another. In this scenario, the concept that best represents 'gave to' would be 'right'.
+
+Concept: 'right'
+----------
+gave to	up, right, down, left	'Gave to' implies transferring something from one person to another in a specific direction. For example, handing an object to someone on their right side. In this scenario, the concept that best represents 'gave to' is 'right'.
+
+Concept: 'right'
+----------
+gave to	up, right, left, down	'Gave to' implies a directional transfer of something from one person to another. This can be likened to handing an object from one hand to another. In this scenario, the concept that best represents 'gave to' would be 'right'.
+
+Concept: 'right'
+----------
+gave to	down, up, left, right	The concept that best represents the event 'gave to' is 'down'. In the analogy, when you give something to someone, you are physically lowering your hand to transfer the object to them. This downward motion signifies the act of giving something to another person.
+
+Choice: 'down'
+----------
+gave to	down, up, right, left	'Gave to' implies a directional transfer of something from one person to another. This can be likened to handing an object from one hand to another. In this case, the concept that best represents 'gave to' would be:
+
+Concept: 'right'
+----------
+gave to	down, left, up, right	The concept that best represents the event 'gave to' is 'down'. In the analogy, when you give something to someone, you are typically lowering your hand or extending it downwards to pass the object to them.
+
+Concept: 'down'
+----------
+gave to	down, left, right, up	'Gave to' implies a directional transfer of something from one person to another. In this scenario, 'right' can be seen as the concept that best represents 'gave to', as it signifies passing something to the right side, similar to handing an object to someone on your right.
+
+Concept: 'right'
+----------
+gave to	down, right, up, left	'Gave to' implies transferring something from one person to another, similar to moving an object from one hand to another.
+concept: 'right'
+----------
+gave to	down, right, left, up	'Gave to' implies a directional transfer of something from one person to another, similar to handing an object from one hand to another. This action involves a movement from one side to the other. 
+concept: 'right'
+----------
+gave to	left, up, down, right	The concept that best represents the event 'gave to' is 'down'. The analogy is that when you give something to someone, you are lowering it from your possession to theirs, symbolizing a downward movement of transfer.
+Concept: 'down'
+----------
+gave to	left, up, right, down	'Gave to' implies a directional transfer of something from one person to another. This can be likened to handing an object from one hand to another. In this case, the concept that best represents 'gave to' would be 'right'.
+
+Concept: 'right'
+----------
+gave to	left, down, up, right	The concept that best represents the event 'gave to' is 'down'. In the analogy, when you give something to someone, you are physically lowering your hand to transfer the object to them. This downward motion signifies the act of giving something to another person.
+
+Concept: 'down'
+----------
+gave to	left, down, right, up	The concept that best represents the event 'gave to' is 'down'. The analogy is that when you give something to someone, you typically lower your hand or extend it downwards to pass the object to them.
+Concept: 'down'
+----------
+gave to	left, right, up, down	'Gave to' implies a directional transfer of something from one person to another. This can be likened to handing an object from one hand to another. 
+concept: 'left'
+----------
+gave to	left, right, down, up	'Gave to' implies a directional transfer of something from one person to another. This can be likened to handing an object from one hand to another. In this scenario, the concept that best represents 'gave to' would be 'right'.
+
+Concept: 'right'
+----------
+gave to	right, up, down, left	The concept that best represents the event 'gave to' is 'down'. In the analogy, when you give something to someone, you typically move your hand downwards to transfer the object to them.
+
+Concept: 'down'
+----------
+gave to	right, up, left, down	'Gave to' implies a directional transfer of something from one person to another. This can be likened to handing an object from one hand to another in a specific direction. 
+concept: 'right'
+----------
+gave to	right, down, up, left	'Gave to' implies transferring something from one person to another in a specific direction. For example, handing an object to someone on their right side. This action involves a deliberate movement towards a particular direction.
+
+concept: 'right'
+----------
+gave to	right, down, left, up	The concept that best represents the event 'gave to' is 'down'. The analogy here is that when you give something to someone, you typically lower your hand or extend it downwards to pass the object to them.
+
+Concept: 'down'
+----------
+gave to	right, left, up, down	The concept that best represents the event 'gave to' is 'down'. The analogy here is that when you give something to someone, you typically move your hand downwards to transfer the object to them. Just like how you would lower your hand to give something to someone.
+Concept: 'down'
+----------
+gave to	right, left, down, up	The concept that best represents the event 'gave to' is 'down'. In the analogy, when you give something to someone, you typically lower your hand or the object towards them, symbolizing the act of transferring ownership or passing something down to them.
+
+Concept: 'down'
+----------
+offended	up, down, left, right	'Offended' can be associated with feeling emotionally hurt or upset by someone's actions or words. In this context, the concept that best represents 'offended' could be 'down', as it conveys a sense of feeling low or deflated emotionally.
+
+Concept: 'down'
+----------
+offended	up, down, right, left	'Offended' can be associated with feeling emotionally hurt or upset by someone's words or actions. In this context, the concept that best represents 'offended' would be 'down', as it can symbolize feeling low or deflated emotionally.
+
+Concept: 'down'
+----------
+offended	up, left, down, right	When someone is offended, they may feel emotionally hurt or upset, causing them to turn away or distance themselves from the source of offense. In this case, the concept that best represents the event 'offended' would be 'left'.
+
+Choice: 'left'
+----------
+offended	up, left, right, down	'Offended' can be associated with feeling emotionally hurt or upset by something someone said or did. In this context, the concept that best represents 'offended' would be 'down', as it conveys a sense of feeling low or downcast emotionally.
+
+Concept: 'down'
+----------
+offended	up, right, down, left	When someone is offended, they may feel like they have been pushed in a certain direction emotionally or mentally, similar to being moved in a physical direction. In this case, the concept that best represents feeling offended is 'down', as it can symbolize feeling low or deflated emotionally.
+
+Concept: 'down'
+----------
+offended	up, right, left, down	'Offended' can be associated with feeling emotionally hurt or attacked, which can lead to a downward emotional state or feeling low. In this case, the concept that best represents 'offended' would be 'down'.
+
+Concept: 'down'
+----------
+offended	down, up, left, right	When someone is offended, they may feel emotionally pushed down or belittled. This feeling can be represented by the concept 'down'.
+
+Concept: 'down'
+----------
+offended	down, up, right, left	When someone is offended, they may feel emotionally lowered or deflated, similar to the concept of 'down'. Just as 'down' represents a lower position physically, being offended can bring someone's emotional state down.
+
+Concept: 'down'
+----------
+offended	down, left, up, right	When someone is offended, they may feel emotionally pushed away or distanced from the source of offense, similar to moving away from something physically. In this case, the concept that best represents being offended is 'down'.
+
+Choice: 'down'
+----------
+offended	down, left, right, up	'Offended' can be associated with feeling negatively impacted or hurt by someone's actions or words. In this context, the concept that best represents 'offended' could be 'down', as it signifies a decrease in mood or emotional state.
+
+Concept: 'down'
+----------
+offended	down, right, up, left	When someone is offended, they may feel emotionally hurt or attacked, causing them to retreat or withdraw from the situation. This can be likened to moving away or turning in a different direction to avoid further confrontation.
+
+Concept: 'left'
+----------
+offended	down, right, left, up	'Offended' can be associated with feeling emotionally hurt or attacked. In this context, the concept that best represents 'offended' would be 'down', as it can symbolize feeling low or deflated emotionally.
+
+Concept: 'down'
+----------
+offended	left, up, down, right	'Offended' can be associated with feeling emotionally hurt or upset by something. In the context of directions, 'down' can be seen as representing a negative emotion or feeling low. Therefore, the concept that best represents the event 'offended' would be:
+
+Concept: 'down'
+----------
+offended	left, up, right, down	'Offended' can be associated with feeling emotionally hurt or attacked. In this context, the concept that best represents 'offended' would be 'down', as it can symbolize feeling low or downcast emotionally.
+
+Concept: 'down'
+----------
+offended	left, down, up, right	When someone is offended, they may feel emotionally lowered or diminished, similar to the concept of 'down'. The feeling of being offended can bring someone's mood or spirits down.
+Concept: 'down'
+----------
+offended	left, down, right, up	'Offended' can be associated with feeling emotionally hurt or attacked. In this context, the concept of 'down' can be chosen as it can symbolize feeling low or downcast emotionally.
+
+Concept: 'down'
+----------
+offended	left, right, up, down	When someone is offended, they may feel emotionally low or down due to the negative impact of the offense. Just like feeling down physically, being offended can bring someone's mood or spirits down emotionally.
+
+Concept: 'down'
+----------
+offended	left, right, down, up	When someone is offended, they may feel emotionally lowered or diminished, similar to the concept of moving downward. This feeling of being hurt or insulted can be associated with a downward motion in mood or self-esteem.
+
+Concept: 'down'
+----------
+offended	right, up, down, left	'Offended' can be associated with feeling emotionally hurt or attacked. In this context, the concept that best represents 'offended' would be 'down', as it can symbolize feeling low or deflated emotionally.
+
+Concept: 'down'
+----------
+offended	right, up, left, down	Being offended can be associated with feeling down or deflated emotionally, as if something has brought you low or diminished your spirits.
+concept: 'down'
+----------
+offended	right, down, up, left	'Offended' can be associated with feeling negatively impacted or hurt by someone's actions or words. In the context of directions, 'down' can be seen as a negative direction, representing a downward emotional shift when feeling offended.
+
+Concept: 'down'
+----------
+offended	right, down, left, up	'Offended' can be associated with feeling emotionally hurt or attacked. In this context, the concept that best represents 'offended' would be 'down', as it can symbolize feeling low or downcast emotionally.
+
+Concept: 'down'
+----------
+offended	right, left, up, down	'Offended' can be associated with feeling emotionally hurt or attacked. In this context, the concept that best represents 'offended' would be 'down', as it can symbolize feeling low or downcast emotionally.
+
+Concept: 'down'
+----------
+offended	right, left, down, up	'Offended' can be associated with feeling emotionally low or down due to something that has been said or done. In this case, the concept that best represents 'offended' would be 'down'.
+
+Concept: 'down'
+----------
+rushed	up, down, left, right	'Rushed' often involves moving quickly in a specific direction, similar to a sudden and hurried movement. For this reason, the concept that best represents 'rushed' would be 'right'.
+
+Concept: 'right'
+----------
+rushed	up, down, right, left	'Rushed' often involves moving quickly and urgently in a specific direction, similar to a sudden and fast movement. For this reason, the concept that best represents 'rushed' would be 'right'.
+
+Concept: 'right'
+----------
+rushed	up, left, down, right	'Rushed' often involves moving quickly in a specific direction, similar to a sudden and hurried movement. For this analogy, think of a person quickly moving to the right to avoid an obstacle or reach a destination in a hurry.
+concept: 'right'
+----------
+rushed	up, left, right, down	'Rushed' often involves moving quickly in a specific direction, typically forward or in a diagonal manner. Imagine a person quickly moving forward with a sense of urgency.
+concept: 'up'
+----------
+rushed	up, right, down, left	'Rushed' often implies moving quickly and in a specific direction without hesitation, similar to a sudden and swift movement in a particular direction.
+concept: 'right'
+----------
+rushed	up, right, left, down	'Rushed' often implies moving quickly and urgently in a certain direction, similar to a sudden and fast movement. For this reason, the concept that best represents 'rushed' would be 'right'.
+
+Concept: 'right'
+----------
+rushed	down, up, left, right	'Rushed' often implies moving quickly and with urgency in a specific direction, similar to a sudden and swift movement to one side or the other.
+concept: 'right'
+----------
+rushed	down, up, right, left	'Rushed' often implies moving quickly in a specific direction, similar to a sudden and hurried movement. For this analogy, think of a person quickly darting to the right to avoid an obstacle or reach a destination urgently.
+
+concept: 'right'
+----------
+rushed	down, left, up, right	'Rushed' often involves moving quickly and with urgency in a specific direction, similar to a sudden and swift movement towards a particular goal or destination.
+
+concept: 'right'
+----------
+rushed	down, left, right, up	'Rushed' often implies moving quickly and with urgency in a particular direction, similar to a sudden and swift movement. For this reason, the concept that best represents 'rushed' would be 'right'.
+
+Concept: 'right'
+----------
+rushed	down, right, up, left	'Rushed' often involves moving quickly in a specific direction, similar to a sudden and hurried movement. For this analogy, think of a person quickly darting to the right to avoid an obstacle or reach a destination in a hurry.
+
+Concept: 'right'
+----------
+rushed	down, right, left, up	'Rushed' often involves moving quickly and urgently in a specific direction, similar to a sudden and swift movement. For this analogy, think of a person quickly darting to the right to avoid an obstacle or reach a destination in a hurry.
+
+concept: 'right'
+----------
+rushed	left, up, down, right	'Rushed' often involves moving quickly in a specific direction, similar to a sudden and hurried movement. For this reason, the concept that best represents 'rushed' would be 'right'.
+
+Concept: 'right'
+----------
+rushed	left, up, right, down	'Rushed' often involves moving quickly in a specific direction, similar to a sudden and hurried movement. For this analogy, think of a person quickly moving to the right to avoid an obstacle or reach a destination in a hurry.
+
+Concept: 'right'
+----------
+rushed	left, down, up, right	'Rushed' often implies moving quickly or hurriedly in a particular direction. For example, when in a hurry, one might move swiftly to the right to bypass obstacles or reach a destination faster.
+
+Concept: 'right'
+----------
+rushed	left, down, right, up	'Rushed' often involves moving quickly in a specific direction, similar to a sudden and hurried movement. For this reason, the concept that best represents 'rushed' would be 'right'.
+
+Concept: 'right'
+----------
+rushed	left, right, up, down	'Rushed' often implies moving quickly and with urgency in a particular direction, similar to a sudden and swift movement. For this reason, the concept that best represents 'rushed' would be 'right'.
+
+Concept: 'right'
+----------
+rushed	left, right, down, up	'Rushed' often implies moving quickly or in a hurried manner, similar to the concept of 'down' when thinking about descending rapidly or swiftly.
+concept: 'down'
+----------
+rushed	right, up, down, left	'Rushed' often implies moving quickly or hurriedly in a particular direction. In this case, the concept that best represents 'rushed' would be 'right', as it signifies a quick and direct movement to a specific side.
+
+Concept: 'right'
+----------
+rushed	right, up, left, down	'Rushed' often implies moving quickly or hurriedly in a particular direction, similar to the concept of 'up' where there is a sense of urgency and upward movement.
+concept: 'up'
+----------
+rushed	right, down, up, left	'Rushed' often implies moving quickly in a specific direction without hesitation or delay. For example, when someone is in a hurry, they might move swiftly in a particular direction.
+concept: 'right'
+----------
+rushed	right, down, left, up	'Rushed' often involves moving quickly in a specific direction, typically forward or in a specific path. For example, when someone is in a hurry, they might move swiftly in a particular direction without hesitation.
+
+Concept: 'right'
+----------
+rushed	right, left, up, down	'Rushed' often involves moving quickly in a specific direction, similar to the concept of 'up' when thinking about climbing or ascending rapidly.
+concept: 'up'
+----------
+rushed	right, left, down, up	'Rushed' often implies moving quickly and with urgency in a particular direction, similar to a sudden and swift movement. For this reason, the concept that best represents 'rushed' would be 'down'.
+
+Concept: 'down'
+----------
+warned	up, down, left, right	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+concept: 'right'
+----------
+warned	up, down, right, left	'Warning' often involves alerting someone about a potential danger or problem, similar to pointing in a specific direction to indicate a threat or issue.
+concept: 'right'
+----------
+warned	up, left, down, right	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+concept: 'right'
+----------
+warned	up, left, right, down	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+concept: 'right'
+----------
+warned	up, right, down, left	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+concept: 'right'
+----------
+warned	up, right, left, down	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a commanding gesture to alert someone, for example.
+
+Concept: 'right'
+----------
+warned	down, up, left, right	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+concept: 'right'
+----------
+warned	down, up, right, left	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+concept: 'right'
+----------
+warned	down, left, up, right	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+
+Concept: 'right'
+----------
+warned	down, left, right, up	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+concept: 'right'
+----------
+warned	down, right, up, left	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+concept: 'right'
+----------
+warned	down, right, left, up	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+concept: 'right'
+----------
+warned	left, up, down, right	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a commanding or cautionary manner to alert someone.
+concept: 'right'
+----------
+warned	left, up, right, down	'Warning' often involves alerting someone about a potential danger or issue, similar to pointing upwards to signal attention or caution.
+
+Concept: 'up'
+----------
+warned	left, down, up, right	'Warning' often involves alerting someone about a potential danger or issue, similar to pointing in a specific direction to draw attention to something.
+concept: 'right'
+----------
+warned	left, down, right, up	'Warning' often involves alerting someone about a potential danger or problem, similar to pointing in a specific direction to draw attention to something.
+concept: 'right'
+----------
+warned	left, right, up, down	'Warning' often involves alerting someone about a potential danger or issue, similar to pointing upwards to draw attention to something above.  
+concept: 'up'
+----------
+warned	left, right, down, up	'Warning' often involves alerting someone about a potential danger or problem, similar to pointing in a specific direction to draw attention to something. 
+concept: 'right'
+----------
+warned	right, up, down, left	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+
+Concept: 'right'
+----------
+warned	right, up, left, down	'Warning' often involves alerting someone about a potential danger or issue, similar to pointing in a specific direction to draw attention to something. 
+concept: 'right'
+----------
+warned	right, down, up, left	'Warning' often involves alerting someone about a potential danger or issue, similar to pointing in a specific direction to indicate a threat or problem. 
+concept: 'right'
+----------
+warned	right, down, left, up	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a commanding or cautionary manner to alert someone.
+concept: 'right'
+----------
+warned	right, left, up, down	'Warning' often involves directing attention or signaling a potential danger. Pointing a finger in a specific direction to alert someone, for example.
+concept: 'right'
+----------
+warned	right, left, down, up	'Warning' often involves alerting someone about a potential danger or problem, similar to pointing in a specific direction to indicate a threat or issue. 
+concept: 'right'
+----------
+owned	up, down, left, right	'Owned' often implies dominance or control over something. In the context of directions, 'right' can be associated with correctness or authority. Just like how 'right' is often used to indicate the correct choice or the one in charge, 'owned' can signify control or possession.
+
+Concept: 'right'
+----------
+owned	up, down, right, left	'Owned' often implies dominance or control over something. In the context of directions, 'up' can be seen as a position of power or superiority, as in the phrase "on top of things". Therefore, the concept that best represents 'owned' would be 'up'.
+
+Concept: 'up'
+----------
+owned	up, left, down, right	'Owned' often implies dominance or control over something, similar to how a player in a game might move in a certain direction to assert their control over a specific area or item.
+
+Concept: 'right'
+----------
+owned	up, left, right, down	'Owned' often implies dominance or control over something or someone. In the context of directions, moving 'down' can symbolize overpowering or subduing something. For example, in a game, when a player defeats an opponent, they are said to have 'owned' them.
+
+Concept: 'down'
+----------
+owned	up, right, down, left	In the context of 'owned', the analogy could be related to dominating or controlling a situation or object. Just like how moving in a certain direction can signify control or dominance in a game or competition.
+
+concept: 'right'
+----------
+owned	up, right, left, down	'Owned' often implies dominance or control over something or someone. In the context of directions, moving 'up' can symbolize rising above or having power over others.
+
+Concept: 'up'
+----------
+owned	down, up, left, right	'Owned' can be associated with the idea of dominating or controlling something. In the context of directions, 'up' can be seen as a position of power or superiority, as in moving upwards or rising above others.
+
+Concept: 'up'
+----------
+owned	down, up, right, left	'Owned' can be associated with dominance or control over something or someone. In the context of directions, 'up' can be seen as a position of power or superiority, as in moving up the hierarchy or ladder of success.
+
+Concept: 'up'
+----------
+owned	down, left, up, right	'Owned' can be associated with dominance or control over something or someone. In the context of directions, moving 'up' can symbolize rising above or having power over others.
+concept: 'up'
+----------
+owned	down, left, right, up	'Owned' often implies dominance or control over something or someone. In the context of directions, moving 'up' can symbolize rising above or having power over others.
+
+Concept: 'up'
+----------
+owned	down, right, up, left	'Owned' often implies dominance or control over something. In the context of directions, moving 'right' can symbolize taking control or asserting dominance over a situation.
+
+Concept: 'right'
+----------
+owned	down, right, left, up	'Owned' often implies dominance or control over something or someone. In a physical sense, this could be represented by a gesture of pointing downwards with a confident and assertive posture.
+concept: 'down'
+----------
+owned	left, up, down, right	'Owned' often implies having complete control or dominance over something, similar to how a player in a game can move freely in all directions once they have defeated all opponents.
+concept: 'right'
+----------
+owned	left, up, right, down	'Owned' can be associated with dominance or control over something. In the context of directions, 'up' can be seen as a position of power or authority, as in moving up the hierarchy or ladder. Therefore, the concept that best represents the event 'owned' would be 'up'.
+
+Concept: 'up'
+----------
+owned	left, down, up, right	'Owned' often implies having control or dominance over something. In the context of directions, 'right' can be seen as the concept that best represents 'owned' as it signifies correctness or authority. 
+
+Concept: 'right'
+----------
+owned	left, down, right, up	'Owned' can be associated with the idea of having control or dominance over something, similar to how one might have control over a direction or movement. In this case, 'right' can be seen as the concept that best represents 'owned' as it signifies correctness or authority.
+
+Concept: 'right'
+----------
+owned	left, right, up, down	'Owned' can be associated with having control or dominance over something, similar to how one can have control over directions. In this case, 'up' can represent 'owned' as it signifies a position of power or superiority.
+
+Concept: 'up'
+----------
+owned	left, right, down, up	'Owned' can be associated with the idea of having control or dominance over something, similar to how one might have control over a direction or movement. In this case, 'up' can be seen as representing 'owned' as it signifies a position of power or superiority.
+
+Concept: 'up'
+----------
+owned	right, up, down, left	'Owned' can be associated with dominance or control over something, similar to how directions can indicate control over movement or positioning. In this case, 'right' can be seen as the concept that best represents 'owned', as it implies correctness or authority.
+
+Concept: 'right'
+----------
+owned	right, up, left, down	'Owned' can be associated with dominance or control over something, similar to how one might have control over directions or movements. In this case, 'right' can be seen as the concept that best represents 'owned' as it signifies having the correct or dominant position in a situation.
+
+Concept: 'right'
+----------
+owned	right, down, up, left	'Owned' often implies dominance or control over something. In the context of directions, moving 'right' can symbolize progress or taking control. Therefore, the concept that best represents the event 'owned' would be 'right'.
+
+Concept: 'right'
+----------
+owned	right, down, left, up	'Owned' can be associated with dominance or control over something. In a game, when a player has complete control over a territory or a piece, they are said to "own" it. In this context, 'right' can be seen as the concept that best represents 'owned', as it signifies having the correct or dominant position.
+
+Concept: 'right'
+----------
+owned	right, left, up, down	When someone owns something, they typically have control or dominance over it. In this case, the concept that best represents 'owned' would be 'up', as it signifies a position of power or authority.
+Concept: 'up'
+----------
+owned	right, left, down, up	'Owned' can be associated with dominance or control over something. In the context of directions, 'up' can be seen as a position of power or superiority, as in moving up the hierarchy or climbing up the ladder of success.
+
+Concept: 'up'
+----------
+regretted	up, down, left, right	'regretted' often involves looking back or feeling a sense of loss or disappointment. In this case, 'left' can be a suitable choice as it can symbolize something that has been left behind or missed.
+
+Concept: 'left'
+----------
+regretted	up, down, right, left	'regretted' often involves looking back or feeling a sense of loss or disappointment. In this case, 'left' can be a suitable concept as it can symbolize leaving something behind or feeling a sense of loss.
+
+Concept: 'left'
+----------
+regretted	up, left, down, right	'regretting' often involves looking back or feeling remorse about a decision or action taken. In this case, 'left' can be associated with 'regretted' as it signifies looking back or turning away from the right direction.
+
+concept: 'left'
+----------
+regretted	up, left, right, down	'regretted' often involves looking back or feeling a sense of loss or disappointment. Imagine turning around and looking behind you with a frown on your face.
+concept: 'left'
+----------
+regretted	up, right, down, left	'regretted' often involves looking back or feeling a sense of loss or disappointment. In this case, 'left' can be associated with regret as it signifies going back or turning away from a previous decision or path.
+
+Concept: 'left'
+----------
+regretted	up, right, left, down	'regretted' often involves looking back or feeling a sense of loss or disappointment. Turning one's head and looking over the shoulder as if to see something left behind.
+concept: 'left'
+----------
+regretted	down, up, left, right	'regretted' often involves looking back or feeling a sense of loss or mistake. In this case, 'left' can be associated with regret as it signifies something that has been left behind or missed.
+
+Concept: 'left'
+----------
+regretted	down, up, right, left	'regretted' often involves wishing to go back or reverse a decision or action, similar to moving in the opposite direction.
+concept: 'left'
+----------
+regretted	down, left, up, right	'regretting' often involves looking back or feeling a sense of loss or missed opportunity. In this case, 'left' can be associated with regret as it implies going back or turning away from a certain direction.
+
+concept: 'left'
+----------
+regretted	down, left, right, up	'regretted' often involves looking back or feeling a sense of loss or disappointment. In this case, 'left' can be a suitable concept as it implies something that has been left behind or missed.
+
+Concept: 'left'
+----------
+regretted	down, right, up, left	'regretting' often involves looking back or feeling remorse for a decision made in the past. Turning around and looking behind oneself as if wishing to change direction.
+concept: 'left'
+----------
+regretted	down, right, left, up	'regretting' often involves looking back or feeling a sense of loss or disappointment. Turning one's head and looking over the shoulder as if to see something left behind.
+concept: 'left'
+----------
+regretted	left, up, down, right	'regretted' often involves looking back or feeling a sense of loss or disappointment. Imagine turning around and looking behind you with a frown on your face.
+concept: 'left'
+----------
+regretted	left, up, right, down	'regretting' often involves looking back or feeling a sense of loss or disappointment. Imagine turning around and looking behind you with a frown on your face.
+concept: 'left'
+----------
+regretted	left, down, up, right	'regretting' often involves looking back or feeling a sense of loss or missed opportunity. Imagine someone turning their head and looking behind them with a pained expression.
+concept: 'left'
+----------
+regretted	left, down, right, up	'regretting' often involves looking back or feeling a sense of loss or disappointment. Imagine someone looking down in sadness or remorse.
+concept: 'down'
+----------
+regretted	left, right, up, down	'regretted' often involves looking back or feeling a sense of loss or disappointment. In this case, 'left' can be associated with the idea of something being left behind or missed out on.
+
+Concept: 'left'
+----------
+regretted	left, right, down, up	'regretted' often involves looking back or feeling a sense of loss or disappointment. Imagine someone looking down in sadness or remorse.
+concept: 'down'
+----------
+regretted	right, up, down, left	'regretted' often involves looking back or feeling a sense of loss or disappointment. In this case, 'left' can be associated with regret as it signifies moving away from something or leaving it behind.
+
+Concept: 'left'
+----------
+regretted	right, up, left, down	'regretted' often involves looking back or feeling a sense of loss or disappointment. In this case, 'left' can be associated with regret as it implies moving away from a positive or correct direction.
+concept: 'left'
+----------
+regretted	right, down, up, left	'regretted' often involves looking back or feeling a sense of loss or disappointment. Imagine turning around and looking behind you with a frown on your face.
+concept: 'left'
+----------
+regretted	right, down, left, up	'regretting' often involves looking back or feeling a sense of loss or disappointment. Imagine turning around and looking behind you with a frown on your face.
+concept: 'left'
+----------
+regretted	right, left, up, down	'regretted' often involves looking back or feeling a sense of loss or disappointment. Imagine turning around and looking behind you with a frown on your face.
+concept: 'left'
+----------
+regretted	right, left, down, up	'regretting' often involves looking back or feeling a sense of loss or disappointment. Imagine turning around and looking behind you with a sense of longing or sorrow.
+concept: 'left'
+----------
+rested	up, down, left, right	'rested' often involves being in a stationary or relaxed position, similar to being at rest or not moving.
+concept: 'down'
+----------
+rested	up, down, right, left	'rested' often involves being stationary or not moving in any direction. In this case, the concept that best represents 'rested' would be 'down', as when someone is resting, they are usually seated or lying down in a relaxed position.
+
+Concept: 'down'
+----------
+rested	up, left, down, right	'rested' often implies a state of relaxation or stillness, similar to the concept of 'down' which can represent a lower position or a state of calmness. When someone is resting, they are usually in a lower position, relaxed, and not moving actively.
+concept: 'down'
+----------
+rested	up, left, right, down	'rested' often involves being in a relaxed or stationary position, similar to the concept of 'down' where one is settled or grounded.
+concept: 'down'
+----------
+rested	up, right, down, left	'rested' often implies a state of relaxation or stillness, similar to the concept of 'down' which can represent a lower position or a state of calmness.
+concept: 'down'
+----------
+rested	up, right, left, down	'rested' often involves being in a stationary or relaxed position, similar to the concept of 'down' where one is settled or grounded.
+concept: 'down'
+----------
+rested	down, up, left, right	'rested' often implies a state of relaxation or inactivity, similar to the concept of 'down' which can represent a lower position or a state of calmness.
+concept: 'down'
+----------
+rested	down, up, right, left	'rested' often involves being in a relaxed or stationary position, similar to being at rest or not moving. When thinking of directions, 'down' can be associated with being settled or stationary, as opposed to the other directions which imply movement or change in position.
+concept: 'down'
+----------
+rested	down, left, up, right	'rested' often implies a state of relaxation or stillness, similar to the concept of 'down' which can represent a lower position or a state of calmness. Just like how one might lie down to rest and relax.
+concept: 'down'
+----------
+rested	down, left, right, up	'rested' often involves being in a relaxed or stationary position, similar to the concept of 'down' which can represent a lower or grounded state.
+concept: 'down'
+----------
+rested	down, right, up, left	'rested' often involves being in a stationary or relaxed position, similar to the concept of 'down' which can represent a state of being settled or grounded.
+concept: 'down'
+----------
+rested	down, right, left, up	'rested' often involves being in a relaxed or stationary position, similar to the concept of 'down' which can represent a lower or grounded state.
+concept: 'down'
+----------
+rested	left, up, down, right	'rested' often implies a state of relaxation or stillness, similar to the concept of 'down' which can represent a lower position or a state of calmness.
+concept: 'down'
+----------
+rested	left, up, right, down	'rested' often involves being in a stationary or relaxed position, similar to being at rest or not moving.
+concept: 'down'
+----------
+rested	left, down, up, right	'rested' often implies a state of relaxation or stillness, similar to the concept of 'down' which can represent a lower position or a state of calmness.
+concept: 'down'
+----------
+rested	left, down, right, up	Resting often involves a sense of relaxation and stability, similar to the feeling of being grounded or settled in one place.
+Concept: 'down'
+----------
+rested	left, right, up, down	'rested' often implies a state of relaxation or being stationary, similar to the concept of 'down' which can represent a lower position or a state of being settled.
+concept: 'down'
+----------
+rested	left, right, down, up	'rested' often implies a state of relaxation or being stationary, similar to the concept of 'down' which can represent a lower position or a state of being settled.
+concept: 'down'
+----------
+rested	right, up, down, left	Resting often involves being in a stationary position or not moving in any direction. When someone is resting, they are typically not moving in any direction, similar to the concept of 'down' where there is a lack of vertical movement.
+concept: 'down'
+----------
+rested	right, up, left, down	'rested' often involves being in a relaxed or stationary position, similar to the concept of 'down' which can represent being settled or at ease.
+
+concept: 'down'
+----------
+rested	right, down, up, left	'rested' often involves taking a break or relaxing after movement or activity. For example, after moving in different directions, one might choose to stop and rest in a specific direction.
+
+concept: 'down'
+----------
+rested	right, down, left, up	'rested' often involves a sense of relaxation or relief from movement or activity. When someone rests, they typically lower themselves or lie down to take a break.
+concept: 'down'
+----------
+rested	right, left, up, down	'rested' often involves being in a relaxed or stationary position, similar to being at rest or not moving. In this case, the concept that best represents 'rested' would be 'down', as it implies a lower position or a state of relaxation.
+
+Concept: 'down'
+----------
+rested	right, left, down, up	'rested' often involves a downward motion or a lowering of energy levels, similar to the concept of 'down'. When we rest, we typically relax and lower our activity levels.
+concept: 'down'
+----------
+tempted	up, down, left, right	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person standing at a crossroads, feeling pulled in one direction. This represents the feeling of being tempted to go a certain way.
+
+Concept: 'right'
+----------
+tempted	up, down, right, left	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person standing at a crossroads, feeling pulled towards a particular path. In this scenario, the concept that best represents 'tempted' would be 'right'.
+
+Concept: 'right'
+----------
+tempted	up, left, down, right	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person being lured towards a specific direction by a tantalizing scent or a captivating sight.
+
+Concept: 'right'
+----------
+tempted	up, left, right, down	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person standing at a crossroads, feeling pulled in a particular direction.
+concept: 'right'
+----------
+tempted	up, right, down, left	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person being lured towards a specific direction by a tantalizing offer or desire.
+
+Concept: 'right'
+----------
+tempted	up, right, left, down	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person standing at a crossroads, feeling pulled in a particular direction by a strong desire or curiosity.
+
+Concept: 'right'
+----------
+tempted	down, up, left, right	'Tempted' often involves being pulled towards something desirable or alluring, similar to being pulled in a certain direction. For example, imagine a magnet attracting a metal object.
+concept: 'right'
+----------
+tempted	down, up, right, left	'Tempted' often involves being pulled towards something desirable or alluring, similar to being pulled in a certain direction. For example, imagine a magnet attracting a metal object.
+Concept: 'right'
+----------
+tempted	down, left, up, right	'Tempted' often involves being pulled in a certain direction or swayed by a force. Imagine a person being lured towards a specific direction by a tantalizing scent or a captivating sight.
+
+Concept: 'right'
+----------
+tempted	down, left, right, up	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person being lured towards a specific direction by a tantalizing scent or a captivating sight.
+
+concept: 'right'
+----------
+tempted	down, right, up, left	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person being lured towards a specific direction by a tantalizing scent or a captivating sight.
+
+concept: 'right'
+----------
+tempted	down, right, left, up	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person being lured towards a specific direction by a tantalizing scent or a captivating sight.
+
+concept: 'right'
+----------
+tempted	left, up, down, right	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person standing at a crossroads, feeling pulled towards a particular path.
+
+Concept: 'right'
+----------
+tempted	left, up, right, down	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person standing at a crossroads, feeling pulled in a particular direction by a strong desire or curiosity.
+
+Concept: 'right'
+----------
+tempted	left, down, up, right	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person being lured towards a specific direction by a tantalizing scent or a captivating sight.
+
+concept: 'right'
+----------
+tempted	left, down, right, up	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person standing at a crossroads, feeling the urge to go a specific way.
+concept: 'right'
+----------
+tempted	left, right, up, down	'Tempted' often involves feeling pulled in a certain direction or being enticed by something. Imagine a person standing at a crossroads, feeling torn between two paths, one leading to the desired outcome and the other to resistance.
+concept: 'left'
+----------
+tempted	left, right, down, up	'Tempted' often involves being pulled towards something desirable or alluring, similar to being pulled in a certain direction. For example, imagine a magnet attracting a metal object.
+
+Concept: 'right'
+----------
+tempted	right, up, down, left	'Tempted' often involves being pulled in a certain direction or swayed by a force. Imagine a person standing at a crossroads, feeling pulled towards a particular path. This feeling of being drawn towards a specific direction can be likened to the concept of 'right'.
+
+Concept: 'right'
+----------
+tempted	right, up, left, down	'Tempted' often involves being pulled towards something desirable or alluring, similar to being pulled in a certain direction. For this reason, the concept that best represents 'tempted' would be 'up'.
+
+Concept: 'up'
+----------
+tempted	right, down, up, left	'Tempted' often involves being pulled in a certain direction or being enticed by something. Imagine a person being lured towards a specific direction by a tantalizing scent or a captivating sight.
+
+concept: 'right'
+----------
+tempted	right, down, left, up	'Tempted' often involves being pulled towards something desirable or alluring, similar to being drawn in a certain direction. For this reason, the concept that best represents 'tempted' would be 'right'.
+
+Concept: 'right'
+----------
+tempted	right, left, up, down	'Tempted' often involves being pulled in a certain direction or swayed by a force. Imagine a person standing at a crossroads, feeling pulled towards a particular path. This feeling of being drawn towards a specific direction can be likened to the concept of 'right'.
+
+Concept: 'right'
+----------
+tempted	right, left, down, up	'Tempted' often involves feeling pulled towards something desirable or alluring, similar to being drawn in a certain direction. For this reason, the concept that best represents 'tempted' would be 'down'.
+
+Concept: 'down'
+----------
+wanted	up, down, left, right	'Wanted' often implies a desire or direction towards something. In this case, the concept that best represents 'wanted' would be 'up', as it can symbolize reaching for something or striving towards a goal.
+
+Concept: 'up'
+----------
+wanted	up, down, right, left	'Wanting' often involves reaching out towards something desired, like extending one's arm in a specific direction.
+concept: 'right'
+----------
+wanted	up, left, down, right	'Wanted' often implies a desire or direction towards something. In this case, think of someone reaching out or pointing towards what they desire. The concept that best represents 'wanted' would be 'up'.
+
+Concept: 'up'
+----------
+wanted	up, left, right, down	'Wanted' often implies a desire or attraction towards something, similar to reaching out or moving towards it. In this case, the concept that best represents 'wanted' would be 'up'.
+
+Concept: 'up'
+----------
+wanted	up, right, down, left	'Wanted' often implies a desire or attraction towards something. In this case, think of a compass where the needle is pointing towards a specific direction that is sought after or desired.
+
+Concept: 'right'
+----------
+wanted	up, right, left, down	'Wanted' often implies a desire or attraction towards something. In this case, the concept that best represents 'wanted' would be 'up', as it can symbolize reaching for something or aspiring towards a goal.
+
+Concept: 'up'
+----------
+wanted	down, up, left, right	'Wanted' often implies a desire or attraction towards something, similar to reaching out or moving towards it. For example, extending one's arm forward to grab something that is out of reach.
+
+Concept: 'up'
+----------
+wanted	down, up, right, left	'Wanted' often implies a desire or attraction towards something. In this case, the concept that best represents 'wanted' would be 'up', as it can symbolize reaching for something desired or looking up towards a goal.
+
+Concept: 'up'
+----------
+wanted	down, left, up, right	'Wanted' often implies a direction or desire towards something. In this case, think of pointing or gesturing towards something you desire or want.
+
+Concept: 'right'
+----------
+wanted	down, left, right, up	'Wanted' often implies a direction or desire towards something. In this case, the concept that best represents 'wanted' would be 'up', as it can symbolize reaching for something desired or aiming higher.
+
+Concept: 'up'
+----------
+wanted	down, right, up, left	'Wanting' often involves reaching out or striving towards something desired. Imagine extending your arm towards an object just out of reach.
+concept: 'right'
+----------
+wanted	down, right, left, up	'Wanted' often implies reaching out or striving for something desired. In this case, the concept that best represents 'wanted' would be 'up', as it signifies a direction of reaching or aiming for something.
+
+Concept: 'up'
+----------
+wanted	left, up, down, right	'Wanted' often implies a desire to move towards or obtain something. In this case, the concept that best represents 'wanted' would be 'up', as it signifies an upward movement or reaching for something higher.
+
+Concept: 'up'
+----------
+wanted	left, up, right, down	'Wanted' often implies a desire to move towards or obtain something. In this case, the concept that best represents 'wanted' would be 'up', as it signifies an upward movement or reaching for something.
+
+Concept: 'up'
+----------
+wanted	left, down, up, right	'Wanted' often implies a desire to attain or reach for something. In this case, the analogy could be reaching upwards towards a goal or aspiration.
+
+Concept: 'up'
+----------
+wanted	left, down, right, up	'Wanted' often implies a desire to reach or obtain something. In this case, the analogy could be looking up towards the sky or reaching upwards for something desired.
+
+Concept: 'up'
+----------
+wanted	left, right, up, down	'Wanted' often implies a desire to move towards or obtain something. In this case, 'up' can be seen as reaching for something desired or aiming higher.
+
+Concept: 'up'
+----------
+wanted	left, right, down, up	'Wanted' often implies a desire to attain or reach for something. In this case, the concept that best represents 'wanted' would be 'up', as it signifies reaching towards a goal or aspiration.
+
+Concept: 'up'
+----------
+wanted	right, up, down, left	'Wanted' often implies a direction or a desire to obtain something. In this case, the concept that best represents 'wanted' would be 'up', as it can symbolize reaching for something or aspiring towards a goal.
+
+Concept: 'up'
+----------
+wanted	right, up, left, down	'Wanted' often implies a desire to move towards or obtain something. In this case, the concept that best represents 'wanted' would be 'up', as it signifies reaching higher or aspiring for something.
+
+Concept: 'up'
+----------
+wanted	right, down, up, left	'Wanted' often implies a desire or direction towards something. In this case, it can be likened to pointing or gesturing towards a specific direction to indicate what is desired.
+
+Concept: 'right'
+----------
+wanted	right, down, left, up	'Wanted' often implies a desire to reach or obtain something. In this case, the analogy could be reaching out towards something desired. 
+concept: 'right'
+----------
+wanted	right, left, up, down	'Wanted' often implies a desire or reaching towards something. In this case, the concept that best represents 'wanted' would be 'up', as it can symbolize reaching for something or aspiring towards a goal.
+
+Concept: 'up'
+----------
+wanted	right, left, down, up	'Wanting' often involves reaching towards or striving for something desired. In this case, the analogy could be reaching upwards towards a goal or aspiration.
+
+Concept: 'up'
+----------
+hoped	up, down, left, right	'Hoped' often involves looking towards a positive outcome or direction. In this case, 'up' can be associated with optimism and positive expectations.
+
+Concept: 'up'
+----------
+hoped	up, down, right, left	'Hoping' often involves looking towards a positive outcome or direction. For example, when someone hopes for something, they may look up towards the sky or ceiling as if seeking inspiration or guidance.
+
+Concept: 'up'
+----------
+hoped	up, left, down, right	'hoped' often involves looking towards a positive outcome or direction. In this case, 'up' can be associated with optimism and positive expectations.
+
+Concept: 'up'
+----------
+hoped	up, left, right, down	'hoped' often involves looking towards the future with optimism or expectation, similar to looking up at the sky or stars for guidance or inspiration.
+concept: 'up'
+----------
+hoped	up, right, down, left	'hoped' often involves looking towards a positive outcome or direction. In this case, 'up' can be associated with hope as it symbolizes looking upwards for inspiration or a better future.
+
+Concept: 'up'
+----------
+hoped	up, right, left, down	'hoped' often involves looking towards a positive outcome or direction, similar to looking up at the sky with optimism.
+concept: 'up'
+----------
+hoped	down, up, left, right	'hoped' often involves looking towards a positive outcome or direction. For example, looking up at the sky with a hopeful expression.
+concept: 'up'
+----------
+hoped	down, up, right, left	'hoped' often involves looking towards a positive outcome or direction. For example, looking up at the sky with a hopeful expression.
+concept: 'up'
+----------
+hoped	down, left, up, right	'hoped' often involves looking towards a positive outcome or direction, akin to looking up at the sky with optimism.
+concept: 'up'
+----------
+hoped	down, left, right, up	'hoped' often involves looking towards a positive outcome or direction. In this case, 'up' can represent hope as it is commonly associated with positivity and aspirations.
+
+Concept: 'up'
+----------
+hoped	down, right, up, left	'hoped' often involves looking towards a positive outcome or direction. For example, looking up at the sky in anticipation of good news.
+
+concept: 'up'
+----------
+hoped	down, right, left, up	'Hoping' often involves looking towards the future or aiming for a positive outcome. In this case, the concept that best represents 'hoped' would be 'up', as it signifies looking up towards the sky or towards a better future.
+
+Concept: 'up'
+----------
+hoped	left, up, down, right	'Hoping' often involves looking towards the future or aiming for a positive outcome. In this case, the concept that best represents 'hoped' would be 'up', as it signifies looking up towards the sky or towards a better future.
+
+Concept: 'up'
+----------
+hoped	left, up, right, down	'hoped' often involves looking towards a positive outcome or direction. For example, looking up at the sky with optimism.
+concept: 'up'
+----------
+hoped	left, down, up, right	'hoped' often involves looking towards the future with optimism and positivity, as if reaching for something better.
+concept: 'up'
+----------
+hoped	left, down, right, up	'hoped' often involves looking towards the future with optimism or expectation, akin to looking up at the sky or stars.
+concept: 'up'
+----------
+hoped	left, right, up, down	'Hoping' often involves looking towards a positive outcome or a better future. In this case, 'up' can be associated with hope as it symbolizes looking up towards the sky or towards the heavens for inspiration or positivity.
+
+Concept: 'up'
+----------
+hoped	left, right, down, up	'hoped' often involves looking towards a positive outcome or goal, akin to looking up towards the sky or the future.
+concept: 'up'
+----------
+hoped	right, up, down, left	'hoped' often involves looking towards a positive outcome or direction. In this case, 'up' can be seen as a representation of optimism and positivity.
+
+Concept: 'up'
+----------
+hoped	right, up, left, down	'Hoping' often involves looking towards a positive outcome or direction. For example, looking up at the sky with a hopeful expression.  
+concept: 'up'
+----------
+hoped	right, down, up, left	'hoped' often involves looking towards the future with optimism and positivity, as if reaching for something better.
+concept: 'up'
+----------
+hoped	right, down, left, up	'Hoping' often involves looking towards the future or aspiring for something better. In this case, the concept that best represents 'hoped' would be 'up'.
+
+Concept: 'up'
+----------
+hoped	right, left, up, down	'Hoping' often involves looking towards a positive outcome or a better future. In this case, the concept that best represents 'hoped' would be 'up', as it symbolizes looking up towards the sky or towards the future with optimism.
+
+Concept: 'up'
+----------
+hoped	right, left, down, up	'Hoping' often involves looking towards a positive outcome or a better future. In this case, the concept that best represents 'hoped' would be 'up', as it symbolizes looking up towards the sky or towards a higher place for inspiration and positivity.
+
+Concept: 'up'
+----------
+increased	up, down, left, right	'an increase' often involves moving in an upward direction, like climbing a ladder to reach a higher point.
+concept: 'up'
+----------
+increased	up, down, right, left	'Increased' often involves moving in an upward direction, similar to how a graph or a number would rise. In this case, the concept that best represents 'increased' would be 'up'.
+
+Concept: 'up'
+----------
+increased	up, left, down, right	'an increase' often involves moving in an upward direction, like climbing a ladder to reach a higher point.
+concept: 'up'
+----------
+increased	up, left, right, down	'Increased' often involves moving in an upward direction, similar to growth or improvement. For example, a graph showing an upward trend indicates an increase.
+
+Concept: 'up'
+----------
+increased	up, right, down, left	'an increase' often involves moving in an upward direction, like climbing a ladder to reach a higher point.
+concept: 'up'
+----------
+increased	up, right, left, down	When something increases, it typically moves in an upward direction, similar to growth or improvement. In this case, the concept that best represents the event 'increased' would be 'up'.
+
+Concept: 'up'
+----------
+increased	down, up, left, right	'Increased' often involves moving in an upward direction, similar to how a graph or chart would show growth. In this case, the concept that best represents 'increased' would be 'up'.
+
+Concept: 'up'
+----------
+increased	down, up, right, left	'Increased' often involves moving in an upward direction or expanding. For example, when a balloon is inflated, it expands and moves upward. 
+concept: 'up'
+----------
+increased	down, left, up, right	'Increased' often involves moving in an upward direction or expanding. For example, when a balloon is inflated, it expands upwards. 
+concept: 'up'
+----------
+increased	down, left, right, up	'Increased' often involves moving in an upward direction, similar to growth or progress. Just like how a plant grows taller when it increases in size.
+concept: 'up'
+----------
+increased	down, right, up, left	'Increased' often involves moving in an upward direction or expanding. For example, when a balloon is inflated, it expands upwards. 
+concept: 'up'
+----------
+increased	down, right, left, up	'Increased' often involves moving in an upward direction, similar to growth or progress. Just like how climbing up a ladder signifies moving to a higher level or increasing in height.
+concept: 'up'
+----------
+increased	left, up, down, right	'Increased' often involves moving in an upward direction, similar to growth or progress. For example, a plant growing taller.
+concept: 'up'
+----------
+increased	left, up, right, down	'Increased' often involves moving in an upward direction, like climbing a ladder to reach higher levels.
+concept: 'up'
+----------
+increased	left, down, up, right	'an increase' often involves moving upwards or expanding in a vertical direction, like a graph or a balloon being inflated.
+concept: 'up'
+----------
+increased	left, down, right, up	'Increased' often involves moving in an upward direction, similar to growth or progress. For example, a plant growing taller.  
+concept: 'up'
+----------
+increased	left, right, up, down	When something increases, it typically moves in an upward direction, similar to growth or improvement. In this case, the concept that best represents the event 'increased' would be 'up'.
+
+Choice: 'up'
+----------
+increased	left, right, down, up	'an increase' often involves moving upwards or in an upward direction, like climbing a ladder to reach a higher point.
+concept: 'up'
+----------
+increased	right, up, down, left	When something increases, it typically moves in an upward direction, similar to growth or improvement. In this case, the concept that best represents the event 'increased' would be 'up'.
+
+Choice: 'up'
+----------
+increased	right, up, left, down	When something increases, it typically moves in an upward direction, similar to growth or improvement. In this case, the concept that best represents the event 'increased' would be 'up'.
+
+Concept: 'up'
+----------
+increased	right, down, up, left	'an increase' often involves moving in an upward direction, like climbing stairs to reach a higher level.
+concept: 'up'
+----------
+increased	right, down, left, up	When something is "increased," it typically moves in an upward direction, similar to growth or improvement. In this case, the concept that best represents the event "increased" would be 'up'.
+
+Concept: 'up'
+----------
+increased	right, left, up, down	'an increase' often involves moving in an upward direction, like climbing a ladder or ascending stairs.
+concept: 'up'
+----------
+increased	right, left, down, up	'Increased' often involves moving in an upward direction, similar to growth or improvement. For example, a plant growing taller or a balloon inflating.  
+concept: 'up'
+----------
+obeyed	up, down, left, right	'Obeyed' often involves following a direction or command. For example, when someone gives a command to move in a specific direction, obeying would mean moving accordingly.
+concept: 'right'
+----------
+obeyed	up, down, right, left	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a sign pointing to the right. 
+concept: 'right'
+----------
+obeyed	up, left, down, right	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to turn right. 
+concept: 'right'
+----------
+obeyed	up, left, right, down	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go left.
+concept: 'left'
+----------
+obeyed	up, right, down, left	'Obeyed' often involves following instructions or commands in a specific direction. For example, in a military context, soldiers are expected to follow orders precisely. 
+concept: 'right'
+----------
+obeyed	up, right, left, down	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go left. 
+concept: 'left'
+----------
+obeyed	down, up, left, right	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to turn left.  
+concept: 'left'
+----------
+obeyed	down, up, right, left	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to turn right. 
+concept: 'right'
+----------
+obeyed	down, left, up, right	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go left.
+concept: 'left'
+----------
+obeyed	down, left, right, up	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go left.  
+Concept: 'left'
+----------
+obeyed	down, right, up, left	'Obeyed' often involves following instructions or commands in a specific direction. For example, in a military context, soldiers are expected to follow orders precisely. 
+concept: 'right'
+----------
+obeyed	down, right, left, up	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go in a certain way.
+concept: 'right'
+----------
+obeyed	left, up, down, right	'Obeyed' often involves following instructions or commands in a specific direction. For example, in a military context, soldiers are expected to follow orders precisely. 
+concept: 'right'
+----------
+obeyed	left, up, right, down	'Obeyed' implies following instructions or commands in a specific direction. For example, in a military context, soldiers are expected to follow orders precisely. 
+concept: 'right'
+----------
+obeyed	left, down, up, right	'Obeyed' often involves following instructions or commands in a specific direction. For example, in a military context, soldiers are expected to follow orders precisely. 
+concept: 'right'
+----------
+obeyed	left, down, right, up	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go left or right.
+concept: 'left'
+----------
+obeyed	left, right, up, down	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to turn left or right.
+concept: 'left'
+----------
+obeyed	left, right, down, up	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to turn right.
+Concept: 'right'
+----------
+obeyed	right, up, down, left	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go left. 
+concept: 'left'
+----------
+obeyed	right, up, left, down	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go left. 
+concept: 'left'
+----------
+obeyed	right, down, up, left	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go in a certain way.
+concept: 'right'
+----------
+obeyed	right, down, left, up	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go in a certain way.
+concept: 'right'
+----------
+obeyed	right, left, up, down	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a sign pointing in a certain direction. 
+
+Concept: 'right'
+----------
+obeyed	right, left, down, up	'Obeyed' often involves following instructions or commands in a specific direction. For example, following a directional sign to go in a certain way.
+concept: 'right'
+----------
+respected	up, down, left, right	'respected' often involves acknowledging someone's authority or position. Bowing down in a gesture of deference or honor, for example.
+concept: 'down'
+----------
+respected	up, down, right, left	'respected' often involves acknowledging someone's authority or position. Bowing down in a gesture of deference or honor, for example.
+concept: 'down'
+----------
+respected	up, left, down, right	'Respected' often involves honoring or acknowledging someone's authority or position. In many cultures, bowing down or lowering one's head is a sign of respect.
+concept: 'down'
+----------
+respected	up, left, right, down	'respected' often involves looking up to someone or holding them in high regard, similar to looking up to someone in a literal sense.
+concept: 'up'
+----------
+respected	up, right, down, left	'Respected' can be analogized to the concept of 'up'. Just like how 'up' is often associated with positive feelings and elevation, being respected is a positive feeling that elevates one's status or reputation. When someone is respected, they are held in high regard and their value is elevated in the eyes of others.
+
+Concept: 'up'
+----------
+respected	up, right, left, down	'Respected' can be analogized to the concept of 'up'. Just like how 'up' is often associated with positivity, growth, and elevation, being respected is a positive and uplifting experience that elevates one's status or reputation. When someone is respected, they are held in high regard and their value is elevated in the eyes of others.
+
+Concept: 'up'
+----------
+respected	down, up, left, right	'respected' often involves looking up to someone or holding them in high regard, similar to looking up to a mentor or leader.
+concept: 'up'
+----------
+respected	down, up, right, left	'respected' often involves looking up to someone or holding them in high regard, similar to looking up to a person in authority or a role model.
+concept: 'up'
+----------
+respected	down, left, up, right	'respected' often involves acknowledging someone's authority or position. In many cultures, showing respect is associated with bowing down or lowering oneself in front of someone of higher status.
+concept: 'down'
+----------
+respected	down, left, right, up	'respected' often involves looking up to someone or holding them in high regard, similar to how we look up to someone we respect.
+concept: 'up'
+----------
+respected	down, right, up, left	'respected' often involves acknowledging someone's authority or position. Bowing down in a gesture of deference or honor.
+concept: 'down'
+----------
+respected	down, right, left, up	'respected' often involves looking up to someone or holding them in high regard, similar to looking up to someone in a literal sense.
+concept: 'up'
+----------
+respected	left, up, down, right	'respected' often involves acknowledging someone's authority or position. Bowing down in a gesture of deference or honor.
+concept: 'down'
+----------
+respected	left, up, right, down	'respected' often involves acknowledging someone's authority or position. Bowing down in a gesture of deference or honor.
+concept: 'down'
+----------
+respected	left, down, up, right	'respected' often involves acknowledging someone's authority or position. In many cultures, showing respect involves bowing down or lowering oneself in a gesture of deference.
+concept: 'down'
+----------
+respected	left, down, right, up	'Respected' can be analogized to the concept of 'up'. Just like how 'up' is often associated with positive growth or improvement, being respected is a form of elevation in one's social standing or reputation. When someone is respected, they are held in high regard and their status is elevated.
+
+Concept: 'up'
+----------
+respected	left, right, up, down	'respected' often involves looking up to someone or holding them in high regard, similar to looking up to someone physically.
+concept: 'up'
+----------
+respected	left, right, down, up	'respected' often involves looking up to someone or holding them in high regard, similar to looking up to someone in a literal sense.
+concept: 'up'
+----------
+respected	right, up, down, left	'Respected' can be analogized to the concept of 'up'. Just like how 'up' is often associated with positive directions or higher positions, being respected is a positive regard or high esteem given to someone.
+
+Concept: 'up'
+----------
+respected	right, up, left, down	'Respected' can be associated with the concept of 'up'. In many cultures, respect is symbolically represented by looking up to someone or holding them in high regard. Just like how 'up' signifies a higher position or elevation, respect is often linked to elevating someone's status or opinion.
+
+Concept: 'up'
+----------
+respected	right, down, up, left	'Respected' often involves acknowledging someone's authority or position. Bowing down in a gesture of deference or honor is a common way to show respect.
+concept: 'down'
+----------
+respected	right, down, left, up	'Respected' can be analogized to the concept of 'up'. Just like how 'up' is often associated with positive directions or higher positions, being respected is a positive regard or high esteem given to someone. When someone is respected, they are held in high regard or elevated in the eyes of others.
+
+Concept: 'up'
+----------
+respected	right, left, up, down	'respected' often involves looking up to someone or holding them in high regard, similar to the concept of 'up' which signifies elevation or superiority.
+concept: 'up'
+----------
+respected	right, left, down, up	'respected' often involves looking up to someone or holding them in high regard, similar to looking up to someone in a literal sense.
+concept: 'up'
+----------
+succeeded	up, down, left, right	'succeeding' often involves moving forward or progressing towards a goal. In this analogy, 'right' is chosen as it signifies moving in a positive direction or making progress.
+
+concept: 'right'
+----------
+succeeded	up, down, right, left	'succeeding' often involves moving forward or progressing towards a goal. In this analogy, 'right' is often associated with moving in a positive direction or making progress.
+
+concept: 'right'
+----------
+succeeded	up, left, down, right	'succeeding' often involves moving forward or progressing in a positive direction. In this analogy, imagine a person moving forward confidently and triumphantly.
+concept: 'up'
+----------
+succeeded	up, left, right, down	'succeeding' often involves moving upwards or advancing in a positive direction. Climbing a ladder to reach a higher level, for example.
+concept: 'up'
+----------
+succeeded	up, right, down, left	'succeeding' often involves moving forward or progressing in a positive direction. In this analogy, imagine a person moving forward confidently and triumphantly.
+concept: 'up'
+----------
+succeeded	up, right, left, down	'succeeding' is often associated with moving upwards or progressing in a positive direction. Climbing a ladder to reach a higher level can symbolize success.
+concept: 'up'
+----------
+succeeded	down, up, left, right	'succeeding' often involves moving forward or progressing towards a goal. In this analogy, imagine a person moving forward confidently and triumphantly.
+concept: 'right'
+----------
+succeeded	down, up, right, left	'succeeding' often involves moving upwards or advancing in a positive direction. In this case, the concept that best represents 'succeeded' would be 'up'.
+
+concept: 'up'
+----------
+succeeded	down, left, up, right	'succeeding' often involves moving forward or progressing towards a goal. In this analogy, imagine a person moving forward and reaching their destination by going right.
+concept: 'right'
+----------
+succeeded	down, left, right, up	'succeeded' often involves moving upwards or advancing in a positive direction. In the context of progress or achievement, moving 'up' signifies success.
+
+Concept: 'up'
+----------
+succeeded	down, right, up, left	'succeeding' often involves moving forward or progressing in a positive direction. In this analogy, imagine a person moving forward confidently and triumphantly.
+concept: 'right'
+----------
+succeeded	down, right, left, up	'succeeding' often involves moving upwards or progressing in a positive direction. In the analogy, climbing a ladder to reach a higher level signifies achieving success.
+
+concept: 'up'
+----------
+succeeded	left, up, down, right	'succeeding' often involves moving forward or progressing towards a goal. In this case, the concept that represents moving forward or progressing would be 'right'.
+
+Concept: 'right'
+----------
+succeeded	left, up, right, down	'succeeding' often involves moving upwards or advancing in a positive direction. In this case, 'up' can represent the concept of 'succeeded'.
+
+Concept: 'up'
+----------
+succeeded	left, down, up, right	'succeeding' often involves moving forward or progressing in a positive direction. In this analogy, imagine a person climbing a ladder to reach the top, symbolizing achieving success and moving upwards.
+
+concept: 'up'
+----------
+succeeded	left, down, right, up	'succeeding' often involves moving upwards or progressing in a positive direction. In this analogy, achieving success can be likened to moving up a ladder or climbing a staircase.
+concept: 'up'
+----------
+succeeded	left, right, up, down	'succeeding' often involves moving upwards or advancing in a positive direction. In this case, 'up' can be associated with achieving success or reaching a goal.
+
+concept: 'up'
+----------
+succeeded	left, right, down, up	'succeeding' often involves moving upwards or advancing in a positive direction. Climbing a ladder to reach a higher level, for example.
+concept: 'up'
+----------
+succeeded	right, up, down, left	'succeeding' can be likened to moving in a positive direction or achieving a goal. In this case, 'up' can represent success as it is commonly associated with progress and improvement.
+
+concept: 'up'
+----------
+succeeded	right, up, left, down	'succeeding' is often associated with moving upwards or progressing in a positive direction. In the analogy, climbing a ladder to reach a higher level signifies achieving success or reaching a goal.
+concept: 'up'
+----------
+succeeded	right, down, up, left	'succeeding' is often associated with moving forward or progressing in a positive direction. In this case, the concept that represents 'succeeded' would be 'up', as it signifies progress or advancement.
+
+concept: 'up'
+----------
+succeeded	right, down, left, up	'succeeding' often involves moving upwards or advancing in a positive direction. Climbing a ladder to reach a higher level, for example.
+concept: 'up'
+----------
+succeeded	right, left, up, down	'succeeding' often involves moving upwards or advancing in a positive direction. Climbing a ladder to reach a higher level, for example.
+concept: 'up'
+----------
+succeeded	right, left, down, up	'succeeding' often involves moving upwards or advancing in a positive direction. Climbing a ladder to reach a higher level, for example.
+concept: 'up'
+----------

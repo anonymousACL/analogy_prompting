@@ -1,0 +1,4 @@
+model,condition,up_corr,down_corr,left_corr,right_corr,up_p_val,down_p_val,left_p_val,right_p_val
+molmo,visual,0.25,0.05,-0.27,0.46,0.1917,0.7782,0.1509,0.0114
+qwen-vl,visual,0.27,0.14,0.26,0.37,0.1556,0.4615,0.1618,0.0441
+clip,visual,-0.06,0.31,0.08,0.32,0.7531,0.0926,0.6687,0.0813

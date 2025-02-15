@@ -1,0 +1,12 @@
+Task: You will be provided with an explanation that uses a directional or movement analogy to describe an event, action, or reaction. Your job is to carefully read the explanation, assess the type of analogy it employs, and select one of the following labels that best corresponds to it:
+
+• Physical Action – This label applies if the explanation relies on tangible movements, forces, or physical processes.
+• Cultural/Convention – This label applies if the explanation relies on societal norms, symbolic interpretations, or culturally shared meanings related to direction or movement.
+• Interactive Entities – This label applies if the explanation emphasizes the interaction or relationship between distinct entities (e.g. square and circle).
+• No Analogy/Explanation – This label applies if the explanation is purely descriptive, with no directional, movement-based, or analogical content.
+
+Here is the explanation:
+
+[EXPLANATION]
+
+Based solely on your analysis of the explanation above, provide only one label from the following: Physical Action, Cultural/Convention, Interactive Entities, or No Analogy/Explanation.

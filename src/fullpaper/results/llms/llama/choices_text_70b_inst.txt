@@ -1,0 +1,33 @@
+WORD	up	down	left	right
+fled	0	7	17	0
+pointed at	4	0	0	20
+pulled	0	22	2	0
+pushed	0	14	0	10
+walked	0	6	1	17
+hunted	0	23	0	1
+impacted	0	24	0	0
+perched	24	0	0	0
+showed	23	0	0	1
+smashed	0	24	0	0
+bombed	0	24	0	0
+flew	24	0	0	0
+floated	24	0	0	0
+lifted	24	0	0	0
+sank	0	24	0	0
+argued with	0	16	8	0
+gave to	0	0	2	22
+offended	0	12	12	0
+rushed	0	19	0	5
+warned	0	7	11	6
+owned	0	6	0	18
+regretted	0	4	20	0
+rested	0	24	0	0
+tempted	0	11	0	13
+wanted	12	0	0	12
+hoped	24	0	0	0
+increased	24	0	0	0
+obeyed	0	4	0	20
+respected	17	0	0	7
+succeeded	24	0	0	0
+
+Total time: 20.148842573165894 minutes

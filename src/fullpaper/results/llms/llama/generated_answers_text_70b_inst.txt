@@ -1,0 +1,1440 @@
+fled	up, down, left, right	t:  'down'
+----------
+fled	up, down, right, left	t:  'down'
+----------
+fled	up, left, down, right	t:  'left'
+----------
+fled	up, left, right, down	t:  'left'
+----------
+fled	up, right, down, left	t:  'down'
+----------
+fled	up, right, left, down	t:  'left'
+----------
+fled	down, up, left, right	t:  'down'
+----------
+fled	down, up, right, left	t:  'down'
+----------
+fled	down, left, up, right	t:  'left'
+----------
+fled	down, left, right, up	t:  'left'
+----------
+fled	down, right, up, left	t:  'down'
+----------
+fled	down, right, left, up	t:  'down'
+----------
+fled	left, up, down, right	t:  'left'
+----------
+fled	left, up, right, down	t:  'left'
+----------
+fled	left, down, up, right	t:  'left'
+----------
+fled	left, down, right, up	t:  'left'
+----------
+fled	left, right, up, down	t:  'left'
+----------
+fled	left, right, down, up	t:  'left'
+----------
+fled	right, up, down, left	t:  'left'
+----------
+fled	right, up, left, down	t:  'left'
+----------
+fled	right, down, up, left	t:  'left'
+----------
+fled	right, down, left, up	t:  'left'
+----------
+fled	right, left, up, down	t:  'left'
+----------
+fled	right, left, down, up	t:  'left'
+----------
+pointed at	up, down, left, right	:  'right'
+----------
+pointed at	up, down, right, left	:  'right'
+----------
+pointed at	up, left, down, right	:  'right'
+----------
+pointed at	up, left, right, down	:  'right'
+----------
+pointed at	up, right, down, left	:  'right'
+----------
+pointed at	up, right, left, down	:  'right'
+----------
+pointed at	down, up, left, right	ept:  'up'
+----------
+pointed at	down, up, right, left	ept:  'up'
+----------
+pointed at	down, left, up, right	:  'right'
+----------
+pointed at	down, left, right, up	:  'right'
+----------
+pointed at	down, right, up, left	:  'right'
+----------
+pointed at	down, right, left, up	:  'right'
+----------
+pointed at	left, up, down, right	ept:  'up'
+----------
+pointed at	left, up, right, down	ept:  'up'
+----------
+pointed at	left, down, up, right	:  'right'
+----------
+pointed at	left, down, right, up	:  'right'
+----------
+pointed at	left, right, up, down	:  'right'
+----------
+pointed at	left, right, down, up	:  'right'
+----------
+pointed at	right, up, down, left	:  'right'
+----------
+pointed at	right, up, left, down	:  'right'
+----------
+pointed at	right, down, up, left	:  'right'
+----------
+pointed at	right, down, left, up	:  'right'
+----------
+pointed at	right, left, up, down	:  'right'
+----------
+pointed at	right, left, down, up	:  'right'
+----------
+pulled	up, down, left, right	t:  'down'
+----------
+pulled	up, down, right, left	t:  'down'
+----------
+pulled	up, left, down, right	t:  'down'
+----------
+pulled	up, left, right, down	t:  'down'
+----------
+pulled	up, right, down, left	t:  'down'
+----------
+pulled	up, right, left, down	t:  'down'
+----------
+pulled	down, up, left, right	t:  'down'
+----------
+pulled	down, up, right, left	t:  'down'
+----------
+pulled	down, left, up, right	t:  'down'
+----------
+pulled	down, left, right, up	t:  'down'
+----------
+pulled	down, right, up, left	t:  'down'
+----------
+pulled	down, right, left, up	t:  'down'
+----------
+pulled	left, up, down, right	t:  'down'
+----------
+pulled	left, up, right, down	t:  'down'
+----------
+pulled	left, down, up, right	t:  'down'
+----------
+pulled	left, down, right, up	t:  'down'
+----------
+pulled	left, right, up, down	t:  'left'
+----------
+pulled	left, right, down, up	t:  'down'
+----------
+pulled	right, up, down, left	t:  'down'
+----------
+pulled	right, up, left, down	t:  'down'
+----------
+pulled	right, down, up, left	t:  'down'
+----------
+pulled	right, down, left, up	t:  'down'
+----------
+pulled	right, left, up, down	t:  'left'
+----------
+pulled	right, left, down, up	t:  'down'
+----------
+pushed	up, down, left, right	t:  'down'
+----------
+pushed	up, down, right, left	t:  'down'
+----------
+pushed	up, left, down, right	t:  'down'
+----------
+pushed	up, left, right, down	t:  'down'
+----------
+pushed	up, right, down, left	:  'right'
+----------
+pushed	up, right, left, down	:  'right'
+----------
+pushed	down, up, left, right	t:  'down'
+----------
+pushed	down, up, right, left	t:  'down'
+----------
+pushed	down, left, up, right	t:  'down'
+----------
+pushed	down, left, right, up	t:  'down'
+----------
+pushed	down, right, up, left	t:  'down'
+----------
+pushed	down, right, left, up	t:  'down'
+----------
+pushed	left, up, down, right	:  'right'
+----------
+pushed	left, up, right, down	:  'right'
+----------
+pushed	left, down, up, right	t:  'down'
+----------
+pushed	left, down, right, up	t:  'down'
+----------
+pushed	left, right, up, down	:  'right'
+----------
+pushed	left, right, down, up	:  'right'
+----------
+pushed	right, up, down, left	:  'right'
+----------
+pushed	right, up, left, down	:  'right'
+----------
+pushed	right, down, up, left	t:  'down'
+----------
+pushed	right, down, left, up	t:  'down'
+----------
+pushed	right, left, up, down	:  'right'
+----------
+pushed	right, left, down, up	:  'right'
+----------
+walked	up, down, left, right	:  'right'
+----------
+walked	up, down, right, left	:  'right'
+----------
+walked	up, left, down, right	t:  'down'
+----------
+walked	up, left, right, down	t:  'down'
+----------
+walked	up, right, down, left	:  'right'
+----------
+walked	up, right, left, down	:  'right'
+----------
+walked	down, up, left, right	t:  'down'
+----------
+walked	down, up, right, left	t:  'down'
+----------
+walked	down, left, up, right	t:  'down'
+----------
+walked	down, left, right, up	t:  'down'
+----------
+walked	down, right, up, left	:  'right'
+----------
+walked	down, right, left, up	:  'right'
+----------
+walked	left, up, down, right	t:  'left'
+----------
+walked	left, up, right, down	:  'right'
+----------
+walked	left, down, up, right	:  'right'
+----------
+walked	left, down, right, up	:  'right'
+----------
+walked	left, right, up, down	:  'right'
+----------
+walked	left, right, down, up	:  'right'
+----------
+walked	right, up, down, left	:  'right'
+----------
+walked	right, up, left, down	:  'right'
+----------
+walked	right, down, up, left	:  'right'
+----------
+walked	right, down, left, up	:  'right'
+----------
+walked	right, left, up, down	:  'right'
+----------
+walked	right, left, down, up	:  'right'
+----------
+hunted	up, down, left, right	t:  'down'
+----------
+hunted	up, down, right, left	t:  'down'
+----------
+hunted	up, left, down, right	t:  'down'
+----------
+hunted	up, left, right, down	t:  'down'
+----------
+hunted	up, right, down, left	t:  'down'
+----------
+hunted	up, right, left, down	t:  'down'
+----------
+hunted	down, up, left, right	t:  'down'
+----------
+hunted	down, up, right, left	t:  'down'
+----------
+hunted	down, left, up, right	t:  'down'
+----------
+hunted	down, left, right, up	t:  'down'
+----------
+hunted	down, right, up, left	t:  'down'
+----------
+hunted	down, right, left, up	t:  'down'
+----------
+hunted	left, up, down, right	t:  'down'
+----------
+hunted	left, up, right, down	t:  'down'
+----------
+hunted	left, down, up, right	t:  'down'
+----------
+hunted	left, down, right, up	t:  'down'
+----------
+hunted	left, right, up, down	:  'right'
+----------
+hunted	left, right, down, up	t:  'down'
+----------
+hunted	right, up, down, left	t:  'down'
+----------
+hunted	right, up, left, down	t:  'down'
+----------
+hunted	right, down, up, left	t:  'down'
+----------
+hunted	right, down, left, up	t:  'down'
+----------
+hunted	right, left, up, down	t:  'down'
+----------
+hunted	right, left, down, up	t:  'down'
+----------
+impacted	up, down, left, right	t:  'down'
+----------
+impacted	up, down, right, left	t:  'down'
+----------
+impacted	up, left, down, right	t:  'down'
+----------
+impacted	up, left, right, down	t:  'down'
+----------
+impacted	up, right, down, left	t:  'down'
+----------
+impacted	up, right, left, down	t:  'down'
+----------
+impacted	down, up, left, right	t:  'down'
+----------
+impacted	down, up, right, left	t:  'down'
+----------
+impacted	down, left, up, right	t:  'down'
+----------
+impacted	down, left, right, up	t:  'down'
+----------
+impacted	down, right, up, left	t:  'down'
+----------
+impacted	down, right, left, up	t:  'down'
+----------
+impacted	left, up, down, right	t:  'down'
+----------
+impacted	left, up, right, down	t:  'down'
+----------
+impacted	left, down, up, right	t:  'down'
+----------
+impacted	left, down, right, up	t:  'down'
+----------
+impacted	left, right, up, down	t:  'down'
+----------
+impacted	left, right, down, up	t:  'down'
+----------
+impacted	right, up, down, left	t:  'down'
+----------
+impacted	right, up, left, down	t:  'down'
+----------
+impacted	right, down, up, left	t:  'down'
+----------
+impacted	right, down, left, up	t:  'down'
+----------
+impacted	right, left, up, down	t:  'down'
+----------
+impacted	right, left, down, up	t:  'down'
+----------
+perched	up, down, left, right	ept:  'up'
+----------
+perched	up, down, right, left	ept:  'up'
+----------
+perched	up, left, down, right	ept:  'up'
+----------
+perched	up, left, right, down	ept:  'up'
+----------
+perched	up, right, down, left	ept:  'up'
+----------
+perched	up, right, left, down	ept:  'up'
+----------
+perched	down, up, left, right	ept:  'up'
+----------
+perched	down, up, right, left	ept:  'up'
+----------
+perched	down, left, up, right	ept:  'up'
+----------
+perched	down, left, right, up	ept:  'up'
+----------
+perched	down, right, up, left	ept:  'up'
+----------
+perched	down, right, left, up	ept:  'up'
+----------
+perched	left, up, down, right	ept:  'up'
+----------
+perched	left, up, right, down	ept:  'up'
+----------
+perched	left, down, up, right	ept:  'up'
+----------
+perched	left, down, right, up	ept:  'up'
+----------
+perched	left, right, up, down	ept:  'up'
+----------
+perched	left, right, down, up	ept:  'up'
+----------
+perched	right, up, down, left	ept:  'up'
+----------
+perched	right, up, left, down	ept:  'up'
+----------
+perched	right, down, up, left	ept:  'up'
+----------
+perched	right, down, left, up	ept:  'up'
+----------
+perched	right, left, up, down	ept:  'up'
+----------
+perched	right, left, down, up	ept:  'up'
+----------
+showed	up, down, left, right	ept:  'up'
+----------
+showed	up, down, right, left	ept:  'up'
+----------
+showed	up, left, down, right	ept:  'up'
+----------
+showed	up, left, right, down	ept:  'up'
+----------
+showed	up, right, down, left	ept:  'up'
+----------
+showed	up, right, left, down	ept:  'up'
+----------
+showed	down, up, left, right	ept:  'up'
+----------
+showed	down, up, right, left	ept:  'up'
+----------
+showed	down, left, up, right	ept:  'up'
+----------
+showed	down, left, right, up	ept:  'up'
+----------
+showed	down, right, up, left	ept:  'up'
+----------
+showed	down, right, left, up	ept:  'up'
+----------
+showed	left, up, down, right	ept:  'up'
+----------
+showed	left, up, right, down	ept:  'up'
+----------
+showed	left, down, up, right	ept:  'up'
+----------
+showed	left, down, right, up	ept:  'up'
+----------
+showed	left, right, up, down	ept:  'up'
+----------
+showed	left, right, down, up	ept:  'up'
+----------
+showed	right, up, down, left	ept:  'up'
+----------
+showed	right, up, left, down	ept:  'up'
+----------
+showed	right, down, up, left	ept:  'up'
+----------
+showed	right, down, left, up	ept:  'up'
+----------
+showed	right, left, up, down	:  'right'
+----------
+showed	right, left, down, up	ept:  'up'
+----------
+smashed	up, down, left, right	t:  'down'
+----------
+smashed	up, down, right, left	t:  'down'
+----------
+smashed	up, left, down, right	t:  'down'
+----------
+smashed	up, left, right, down	t:  'down'
+----------
+smashed	up, right, down, left	t:  'down'
+----------
+smashed	up, right, left, down	t:  'down'
+----------
+smashed	down, up, left, right	t:  'down'
+----------
+smashed	down, up, right, left	t:  'down'
+----------
+smashed	down, left, up, right	t:  'down'
+----------
+smashed	down, left, right, up	t:  'down'
+----------
+smashed	down, right, up, left	t:  'down'
+----------
+smashed	down, right, left, up	t:  'down'
+----------
+smashed	left, up, down, right	t:  'down'
+----------
+smashed	left, up, right, down	t:  'down'
+----------
+smashed	left, down, up, right	t:  'down'
+----------
+smashed	left, down, right, up	t:  'down'
+----------
+smashed	left, right, up, down	t:  'down'
+----------
+smashed	left, right, down, up	t:  'down'
+----------
+smashed	right, up, down, left	t:  'down'
+----------
+smashed	right, up, left, down	t:  'down'
+----------
+smashed	right, down, up, left	t:  'down'
+----------
+smashed	right, down, left, up	t:  'down'
+----------
+smashed	right, left, up, down	t:  'down'
+----------
+smashed	right, left, down, up	t:  'down'
+----------
+bombed	up, down, left, right	t:  'down'
+----------
+bombed	up, down, right, left	t:  'down'
+----------
+bombed	up, left, down, right	t:  'down'
+----------
+bombed	up, left, right, down	t:  'down'
+----------
+bombed	up, right, down, left	t:  'down'
+----------
+bombed	up, right, left, down	t:  'down'
+----------
+bombed	down, up, left, right	t:  'down'
+----------
+bombed	down, up, right, left	t:  'down'
+----------
+bombed	down, left, up, right	t:  'down'
+----------
+bombed	down, left, right, up	t:  'down'
+----------
+bombed	down, right, up, left	t:  'down'
+----------
+bombed	down, right, left, up	t:  'down'
+----------
+bombed	left, up, down, right	t:  'down'
+----------
+bombed	left, up, right, down	t:  'down'
+----------
+bombed	left, down, up, right	t:  'down'
+----------
+bombed	left, down, right, up	t:  'down'
+----------
+bombed	left, right, up, down	t:  'down'
+----------
+bombed	left, right, down, up	t:  'down'
+----------
+bombed	right, up, down, left	t:  'down'
+----------
+bombed	right, up, left, down	t:  'down'
+----------
+bombed	right, down, up, left	t:  'down'
+----------
+bombed	right, down, left, up	t:  'down'
+----------
+bombed	right, left, up, down	t:  'down'
+----------
+bombed	right, left, down, up	t:  'down'
+----------
+flew	up, down, left, right	ept:  'up'
+----------
+flew	up, down, right, left	ept:  'up'
+----------
+flew	up, left, down, right	ept:  'up'
+----------
+flew	up, left, right, down	ept:  'up'
+----------
+flew	up, right, down, left	ept:  'up'
+----------
+flew	up, right, left, down	ept:  'up'
+----------
+flew	down, up, left, right	ept:  'up'
+----------
+flew	down, up, right, left	ept:  'up'
+----------
+flew	down, left, up, right	ept:  'up'
+----------
+flew	down, left, right, up	ept:  'up'
+----------
+flew	down, right, up, left	ept:  'up'
+----------
+flew	down, right, left, up	ept:  'up'
+----------
+flew	left, up, down, right	ept:  'up'
+----------
+flew	left, up, right, down	ept:  'up'
+----------
+flew	left, down, up, right	ept:  'up'
+----------
+flew	left, down, right, up	ept:  'up'
+----------
+flew	left, right, up, down	ept:  'up'
+----------
+flew	left, right, down, up	ept:  'up'
+----------
+flew	right, up, down, left	ept:  'up'
+----------
+flew	right, up, left, down	ept:  'up'
+----------
+flew	right, down, up, left	ept:  'up'
+----------
+flew	right, down, left, up	ept:  'up'
+----------
+flew	right, left, up, down	ept:  'up'
+----------
+flew	right, left, down, up	ept:  'up'
+----------
+floated	up, down, left, right	ept:  'up'
+----------
+floated	up, down, right, left	ept:  'up'
+----------
+floated	up, left, down, right	ept:  'up'
+----------
+floated	up, left, right, down	ept:  'up'
+----------
+floated	up, right, down, left	ept:  'up'
+----------
+floated	up, right, left, down	ept:  'up'
+----------
+floated	down, up, left, right	ept:  'up'
+----------
+floated	down, up, right, left	ept:  'up'
+----------
+floated	down, left, up, right	ept:  'up'
+----------
+floated	down, left, right, up	ept:  'up'
+----------
+floated	down, right, up, left	ept:  'up'
+----------
+floated	down, right, left, up	ept:  'up'
+----------
+floated	left, up, down, right	ept:  'up'
+----------
+floated	left, up, right, down	ept:  'up'
+----------
+floated	left, down, up, right	ept:  'up'
+----------
+floated	left, down, right, up	ept:  'up'
+----------
+floated	left, right, up, down	ept:  'up'
+----------
+floated	left, right, down, up	ept:  'up'
+----------
+floated	right, up, down, left	ept:  'up'
+----------
+floated	right, up, left, down	ept:  'up'
+----------
+floated	right, down, up, left	ept:  'up'
+----------
+floated	right, down, left, up	ept:  'up'
+----------
+floated	right, left, up, down	ept:  'up'
+----------
+floated	right, left, down, up	ept:  'up'
+----------
+lifted	up, down, left, right	ept:  'up'
+----------
+lifted	up, down, right, left	ept:  'up'
+----------
+lifted	up, left, down, right	ept:  'up'
+----------
+lifted	up, left, right, down	ept:  'up'
+----------
+lifted	up, right, down, left	ept:  'up'
+----------
+lifted	up, right, left, down	ept:  'up'
+----------
+lifted	down, up, left, right	ept:  'up'
+----------
+lifted	down, up, right, left	ept:  'up'
+----------
+lifted	down, left, up, right	ept:  'up'
+----------
+lifted	down, left, right, up	ept:  'up'
+----------
+lifted	down, right, up, left	ept:  'up'
+----------
+lifted	down, right, left, up	ept:  'up'
+----------
+lifted	left, up, down, right	ept:  'up'
+----------
+lifted	left, up, right, down	ept:  'up'
+----------
+lifted	left, down, up, right	ept:  'up'
+----------
+lifted	left, down, right, up	ept:  'up'
+----------
+lifted	left, right, up, down	ept:  'up'
+----------
+lifted	left, right, down, up	ept:  'up'
+----------
+lifted	right, up, down, left	ept:  'up'
+----------
+lifted	right, up, left, down	ept:  'up'
+----------
+lifted	right, down, up, left	ept:  'up'
+----------
+lifted	right, down, left, up	ept:  'up'
+----------
+lifted	right, left, up, down	ept:  'up'
+----------
+lifted	right, left, down, up	ept:  'up'
+----------
+sank	up, down, left, right	t:  'down'
+----------
+sank	up, down, right, left	t:  'down'
+----------
+sank	up, left, down, right	t:  'down'
+----------
+sank	up, left, right, down	t:  'down'
+----------
+sank	up, right, down, left	t:  'down'
+----------
+sank	up, right, left, down	t:  'down'
+----------
+sank	down, up, left, right	t:  'down'
+----------
+sank	down, up, right, left	t:  'down'
+----------
+sank	down, left, up, right	t:  'down'
+----------
+sank	down, left, right, up	t:  'down'
+----------
+sank	down, right, up, left	t:  'down'
+----------
+sank	down, right, left, up	t:  'down'
+----------
+sank	left, up, down, right	t:  'down'
+----------
+sank	left, up, right, down	t:  'down'
+----------
+sank	left, down, up, right	t:  'down'
+----------
+sank	left, down, right, up	t:  'down'
+----------
+sank	left, right, up, down	t:  'down'
+----------
+sank	left, right, down, up	t:  'down'
+----------
+sank	right, up, down, left	t:  'down'
+----------
+sank	right, up, left, down	t:  'down'
+----------
+sank	right, down, up, left	t:  'down'
+----------
+sank	right, down, left, up	t:  'down'
+----------
+sank	right, left, up, down	t:  'down'
+----------
+sank	right, left, down, up	t:  'down'
+----------
+argued with	up, down, left, right	t:  'down'
+----------
+argued with	up, down, right, left	t:  'down'
+----------
+argued with	up, left, down, right	t:  'down'
+----------
+argued with	up, left, right, down	t:  'left'
+----------
+argued with	up, right, down, left	t:  'down'
+----------
+argued with	up, right, left, down	t:  'left'
+----------
+argued with	down, up, left, right	t:  'down'
+----------
+argued with	down, up, right, left	t:  'down'
+----------
+argued with	down, left, up, right	t:  'down'
+----------
+argued with	down, left, right, up	t:  'down'
+----------
+argued with	down, right, up, left	t:  'down'
+----------
+argued with	down, right, left, up	t:  'down'
+----------
+argued with	left, up, down, right	t:  'down'
+----------
+argued with	left, up, right, down	t:  'left'
+----------
+argued with	left, down, up, right	t:  'down'
+----------
+argued with	left, down, right, up	t:  'down'
+----------
+argued with	left, right, up, down	t:  'left'
+----------
+argued with	left, right, down, up	t:  'left'
+----------
+argued with	right, up, down, left	t:  'down'
+----------
+argued with	right, up, left, down	t:  'left'
+----------
+argued with	right, down, up, left	t:  'down'
+----------
+argued with	right, down, left, up	t:  'down'
+----------
+argued with	right, left, up, down	t:  'left'
+----------
+argued with	right, left, down, up	t:  'left'
+----------
+gave to	up, down, left, right	:  'right'
+----------
+gave to	up, down, right, left	:  'right'
+----------
+gave to	up, left, down, right	:  'right'
+----------
+gave to	up, left, right, down	:  'right'
+----------
+gave to	up, right, down, left	:  'right'
+----------
+gave to	up, right, left, down	:  'right'
+----------
+gave to	down, up, left, right	:  'right'
+----------
+gave to	down, up, right, left	:  'right'
+----------
+gave to	down, left, up, right	:  'right'
+----------
+gave to	down, left, right, up	:  'right'
+----------
+gave to	down, right, up, left	:  'right'
+----------
+gave to	down, right, left, up	:  'right'
+----------
+gave to	left, up, down, right	t:  'left'
+----------
+gave to	left, up, right, down	:  'right'
+----------
+gave to	left, down, up, right	t:  'left'
+----------
+gave to	left, down, right, up	:  'right'
+----------
+gave to	left, right, up, down	:  'right'
+----------
+gave to	left, right, down, up	:  'right'
+----------
+gave to	right, up, down, left	:  'right'
+----------
+gave to	right, up, left, down	:  'right'
+----------
+gave to	right, down, up, left	:  'right'
+----------
+gave to	right, down, left, up	:  'right'
+----------
+gave to	right, left, up, down	:  'right'
+----------
+gave to	right, left, down, up	:  'right'
+----------
+offended	up, down, left, right	t:  'down'
+----------
+offended	up, down, right, left	t:  'down'
+----------
+offended	up, left, down, right	t:  'down'
+----------
+offended	up, left, right, down	t:  'left'
+----------
+offended	up, right, down, left	t:  'down'
+----------
+offended	up, right, left, down	t:  'left'
+----------
+offended	down, up, left, right	t:  'down'
+----------
+offended	down, up, right, left	t:  'down'
+----------
+offended	down, left, up, right	t:  'down'
+----------
+offended	down, left, right, up	t:  'down'
+----------
+offended	down, right, up, left	t:  'down'
+----------
+offended	down, right, left, up	t:  'down'
+----------
+offended	left, up, down, right	t:  'left'
+----------
+offended	left, up, right, down	t:  'left'
+----------
+offended	left, down, up, right	t:  'left'
+----------
+offended	left, down, right, up	t:  'left'
+----------
+offended	left, right, up, down	t:  'left'
+----------
+offended	left, right, down, up	t:  'left'
+----------
+offended	right, up, down, left	t:  'down'
+----------
+offended	right, up, left, down	t:  'left'
+----------
+offended	right, down, up, left	t:  'down'
+----------
+offended	right, down, left, up	t:  'left'
+----------
+offended	right, left, up, down	t:  'left'
+----------
+offended	right, left, down, up	t:  'left'
+----------
+rushed	up, down, left, right	t:  'down'
+----------
+rushed	up, down, right, left	t:  'down'
+----------
+rushed	up, left, down, right	t:  'down'
+----------
+rushed	up, left, right, down	t:  'down'
+----------
+rushed	up, right, down, left	t:  'down'
+----------
+rushed	up, right, left, down	t:  'down'
+----------
+rushed	down, up, left, right	t:  'down'
+----------
+rushed	down, up, right, left	t:  'down'
+----------
+rushed	down, left, up, right	t:  'down'
+----------
+rushed	down, left, right, up	t:  'down'
+----------
+rushed	down, right, up, left	t:  'down'
+----------
+rushed	down, right, left, up	t:  'down'
+----------
+rushed	left, up, down, right	:  'right'
+----------
+rushed	left, up, right, down	:  'right'
+----------
+rushed	left, down, up, right	t:  'down'
+----------
+rushed	left, down, right, up	t:  'down'
+----------
+rushed	left, right, up, down	:  'right'
+----------
+rushed	left, right, down, up	t:  'down'
+----------
+rushed	right, up, down, left	:  'right'
+----------
+rushed	right, up, left, down	t:  'down'
+----------
+rushed	right, down, up, left	t:  'down'
+----------
+rushed	right, down, left, up	t:  'down'
+----------
+rushed	right, left, up, down	:  'right'
+----------
+rushed	right, left, down, up	t:  'down'
+----------
+warned	up, down, left, right	t:  'down'
+----------
+warned	up, down, right, left	t:  'down'
+----------
+warned	up, left, down, right	t:  'left'
+----------
+warned	up, left, right, down	:  'right'
+----------
+warned	up, right, down, left	:  'right'
+----------
+warned	up, right, left, down	t:  'left'
+----------
+warned	down, up, left, right	t:  'down'
+----------
+warned	down, up, right, left	t:  'down'
+----------
+warned	down, left, up, right	t:  'left'
+----------
+warned	down, left, right, up	t:  'left'
+----------
+warned	down, right, up, left	t:  'down'
+----------
+warned	down, right, left, up	:  'right'
+----------
+warned	left, up, down, right	t:  'left'
+----------
+warned	left, up, right, down	t:  'left'
+----------
+warned	left, down, up, right	t:  'down'
+----------
+warned	left, down, right, up	t:  'down'
+----------
+warned	left, right, up, down	t:  'left'
+----------
+warned	left, right, down, up	t:  'left'
+----------
+warned	right, up, down, left	:  'right'
+----------
+warned	right, up, left, down	t:  'left'
+----------
+warned	right, down, up, left	:  'right'
+----------
+warned	right, down, left, up	:  'right'
+----------
+warned	right, left, up, down	t:  'left'
+----------
+warned	right, left, down, up	t:  'left'
+----------
+owned	up, down, left, right	:  'right'
+----------
+owned	up, down, right, left	:  'right'
+----------
+owned	up, left, down, right	:  'right'
+----------
+owned	up, left, right, down	:  'right'
+----------
+owned	up, right, down, left	:  'right'
+----------
+owned	up, right, left, down	:  'right'
+----------
+owned	down, up, left, right	t:  'down'
+----------
+owned	down, up, right, left	t:  'down'
+----------
+owned	down, left, up, right	t:  'down'
+----------
+owned	down, left, right, up	t:  'down'
+----------
+owned	down, right, up, left	t:  'down'
+----------
+owned	down, right, left, up	t:  'down'
+----------
+owned	left, up, down, right	:  'right'
+----------
+owned	left, up, right, down	:  'right'
+----------
+owned	left, down, up, right	:  'right'
+----------
+owned	left, down, right, up	:  'right'
+----------
+owned	left, right, up, down	:  'right'
+----------
+owned	left, right, down, up	:  'right'
+----------
+owned	right, up, down, left	:  'right'
+----------
+owned	right, up, left, down	:  'right'
+----------
+owned	right, down, up, left	:  'right'
+----------
+owned	right, down, left, up	:  'right'
+----------
+owned	right, left, up, down	:  'right'
+----------
+owned	right, left, down, up	:  'right'
+----------
+regretted	up, down, left, right	t:  'down'
+----------
+regretted	up, down, right, left	t:  'down'
+----------
+regretted	up, left, down, right	t:  'left'
+----------
+regretted	up, left, right, down	t:  'left'
+----------
+regretted	up, right, down, left	t:  'left'
+----------
+regretted	up, right, left, down	t:  'left'
+----------
+regretted	down, up, left, right	t:  'down'
+----------
+regretted	down, up, right, left	t:  'down'
+----------
+regretted	down, left, up, right	t:  'left'
+----------
+regretted	down, left, right, up	t:  'left'
+----------
+regretted	down, right, up, left	t:  'left'
+----------
+regretted	down, right, left, up	t:  'left'
+----------
+regretted	left, up, down, right	t:  'left'
+----------
+regretted	left, up, right, down	t:  'left'
+----------
+regretted	left, down, up, right	t:  'left'
+----------
+regretted	left, down, right, up	t:  'left'
+----------
+regretted	left, right, up, down	t:  'left'
+----------
+regretted	left, right, down, up	t:  'left'
+----------
+regretted	right, up, down, left	t:  'left'
+----------
+regretted	right, up, left, down	t:  'left'
+----------
+regretted	right, down, up, left	t:  'left'
+----------
+regretted	right, down, left, up	t:  'left'
+----------
+regretted	right, left, up, down	t:  'left'
+----------
+regretted	right, left, down, up	t:  'left'
+----------
+rested	up, down, left, right	t:  'down'
+----------
+rested	up, down, right, left	t:  'down'
+----------
+rested	up, left, down, right	t:  'down'
+----------
+rested	up, left, right, down	t:  'down'
+----------
+rested	up, right, down, left	t:  'down'
+----------
+rested	up, right, left, down	t:  'down'
+----------
+rested	down, up, left, right	t:  'down'
+----------
+rested	down, up, right, left	t:  'down'
+----------
+rested	down, left, up, right	t:  'down'
+----------
+rested	down, left, right, up	t:  'down'
+----------
+rested	down, right, up, left	t:  'down'
+----------
+rested	down, right, left, up	t:  'down'
+----------
+rested	left, up, down, right	t:  'down'
+----------
+rested	left, up, right, down	t:  'down'
+----------
+rested	left, down, up, right	t:  'down'
+----------
+rested	left, down, right, up	t:  'down'
+----------
+rested	left, right, up, down	t:  'down'
+----------
+rested	left, right, down, up	t:  'down'
+----------
+rested	right, up, down, left	t:  'down'
+----------
+rested	right, up, left, down	t:  'down'
+----------
+rested	right, down, up, left	t:  'down'
+----------
+rested	right, down, left, up	t:  'down'
+----------
+rested	right, left, up, down	t:  'down'
+----------
+rested	right, left, down, up	t:  'down'
+----------
+tempted	up, down, left, right	t:  'down'
+----------
+tempted	up, down, right, left	t:  'down'
+----------
+tempted	up, left, down, right	:  'right'
+----------
+tempted	up, left, right, down	:  'right'
+----------
+tempted	up, right, down, left	:  'right'
+----------
+tempted	up, right, left, down	:  'right'
+----------
+tempted	down, up, left, right	t:  'down'
+----------
+tempted	down, up, right, left	t:  'down'
+----------
+tempted	down, left, up, right	t:  'down'
+----------
+tempted	down, left, right, up	:  'right'
+----------
+tempted	down, right, up, left	:  'right'
+----------
+tempted	down, right, left, up	:  'right'
+----------
+tempted	left, up, down, right	t:  'down'
+----------
+tempted	left, up, right, down	:  'right'
+----------
+tempted	left, down, up, right	t:  'down'
+----------
+tempted	left, down, right, up	t:  'down'
+----------
+tempted	left, right, up, down	:  'right'
+----------
+tempted	left, right, down, up	:  'right'
+----------
+tempted	right, up, down, left	t:  'down'
+----------
+tempted	right, up, left, down	:  'right'
+----------
+tempted	right, down, up, left	t:  'down'
+----------
+tempted	right, down, left, up	t:  'down'
+----------
+tempted	right, left, up, down	:  'right'
+----------
+tempted	right, left, down, up	:  'right'
+----------
+wanted	up, down, left, right	ept:  'up'
+----------
+wanted	up, down, right, left	ept:  'up'
+----------
+wanted	up, left, down, right	ept:  'up'
+----------
+wanted	up, left, right, down	ept:  'up'
+----------
+wanted	up, right, down, left	:  'right'
+----------
+wanted	up, right, left, down	:  'right'
+----------
+wanted	down, up, left, right	ept:  'up'
+----------
+wanted	down, up, right, left	ept:  'up'
+----------
+wanted	down, left, up, right	ept:  'up'
+----------
+wanted	down, left, right, up	ept:  'up'
+----------
+wanted	down, right, up, left	:  'right'
+----------
+wanted	down, right, left, up	ept:  'up'
+----------
+wanted	left, up, down, right	ept:  'up'
+----------
+wanted	left, up, right, down	ept:  'up'
+----------
+wanted	left, down, up, right	:  'right'
+----------
+wanted	left, down, right, up	ept:  'up'
+----------
+wanted	left, right, up, down	:  'right'
+----------
+wanted	left, right, down, up	:  'right'
+----------
+wanted	right, up, down, left	:  'right'
+----------
+wanted	right, up, left, down	:  'right'
+----------
+wanted	right, down, up, left	:  'right'
+----------
+wanted	right, down, left, up	:  'right'
+----------
+wanted	right, left, up, down	:  'right'
+----------
+wanted	right, left, down, up	:  'right'
+----------
+hoped	up, down, left, right	ept:  'up'
+----------
+hoped	up, down, right, left	ept:  'up'
+----------
+hoped	up, left, down, right	ept:  'up'
+----------
+hoped	up, left, right, down	ept:  'up'
+----------
+hoped	up, right, down, left	ept:  'up'
+----------
+hoped	up, right, left, down	ept:  'up'
+----------
+hoped	down, up, left, right	ept:  'up'
+----------
+hoped	down, up, right, left	ept:  'up'
+----------
+hoped	down, left, up, right	ept:  'up'
+----------
+hoped	down, left, right, up	ept:  'up'
+----------
+hoped	down, right, up, left	ept:  'up'
+----------
+hoped	down, right, left, up	ept:  'up'
+----------
+hoped	left, up, down, right	ept:  'up'
+----------
+hoped	left, up, right, down	ept:  'up'
+----------
+hoped	left, down, up, right	ept:  'up'
+----------
+hoped	left, down, right, up	ept:  'up'
+----------
+hoped	left, right, up, down	ept:  'up'
+----------
+hoped	left, right, down, up	ept:  'up'
+----------
+hoped	right, up, down, left	ept:  'up'
+----------
+hoped	right, up, left, down	ept:  'up'
+----------
+hoped	right, down, up, left	ept:  'up'
+----------
+hoped	right, down, left, up	ept:  'up'
+----------
+hoped	right, left, up, down	ept:  'up'
+----------
+hoped	right, left, down, up	ept:  'up'
+----------
+increased	up, down, left, right	ept:  'up'
+----------
+increased	up, down, right, left	ept:  'up'
+----------
+increased	up, left, down, right	ept:  'up'
+----------
+increased	up, left, right, down	ept:  'up'
+----------
+increased	up, right, down, left	ept:  'up'
+----------
+increased	up, right, left, down	ept:  'up'
+----------
+increased	down, up, left, right	ept:  'up'
+----------
+increased	down, up, right, left	ept:  'up'
+----------
+increased	down, left, up, right	ept:  'up'
+----------
+increased	down, left, right, up	ept:  'up'
+----------
+increased	down, right, up, left	ept:  'up'
+----------
+increased	down, right, left, up	ept:  'up'
+----------
+increased	left, up, down, right	ept:  'up'
+----------
+increased	left, up, right, down	ept:  'up'
+----------
+increased	left, down, up, right	ept:  'up'
+----------
+increased	left, down, right, up	ept:  'up'
+----------
+increased	left, right, up, down	ept:  'up'
+----------
+increased	left, right, down, up	ept:  'up'
+----------
+increased	right, up, down, left	ept:  'up'
+----------
+increased	right, up, left, down	ept:  'up'
+----------
+increased	right, down, up, left	ept:  'up'
+----------
+increased	right, down, left, up	ept:  'up'
+----------
+increased	right, left, up, down	ept:  'up'
+----------
+increased	right, left, down, up	ept:  'up'
+----------
+obeyed	up, down, left, right	:  'right'
+----------
+obeyed	up, down, right, left	:  'right'
+----------
+obeyed	up, left, down, right	:  'right'
+----------
+obeyed	up, left, right, down	:  'right'
+----------
+obeyed	up, right, down, left	:  'right'
+----------
+obeyed	up, right, left, down	:  'right'
+----------
+obeyed	down, up, left, right	t:  'down'
+----------
+obeyed	down, up, right, left	t:  'down'
+----------
+obeyed	down, left, up, right	t:  'down'
+----------
+obeyed	down, left, right, up	t:  'down'
+----------
+obeyed	down, right, up, left	:  'right'
+----------
+obeyed	down, right, left, up	:  'right'
+----------
+obeyed	left, up, down, right	:  'right'
+----------
+obeyed	left, up, right, down	:  'right'
+----------
+obeyed	left, down, up, right	:  'right'
+----------
+obeyed	left, down, right, up	:  'right'
+----------
+obeyed	left, right, up, down	:  'right'
+----------
+obeyed	left, right, down, up	:  'right'
+----------
+obeyed	right, up, down, left	:  'right'
+----------
+obeyed	right, up, left, down	:  'right'
+----------
+obeyed	right, down, up, left	:  'right'
+----------
+obeyed	right, down, left, up	:  'right'
+----------
+obeyed	right, left, up, down	:  'right'
+----------
+obeyed	right, left, down, up	:  'right'
+----------
+respected	up, down, left, right	ept:  'up'
+----------
+respected	up, down, right, left	ept:  'up'
+----------
+respected	up, left, down, right	ept:  'up'
+----------
+respected	up, left, right, down	ept:  'up'
+----------
+respected	up, right, down, left	ept:  'up'
+----------
+respected	up, right, left, down	ept:  'up'
+----------
+respected	down, up, left, right	ept:  'up'
+----------
+respected	down, up, right, left	ept:  'up'
+----------
+respected	down, left, up, right	ept:  'up'
+----------
+respected	down, left, right, up	ept:  'up'
+----------
+respected	down, right, up, left	ept:  'up'
+----------
+respected	down, right, left, up	ept:  'up'
+----------
+respected	left, up, down, right	ept:  'up'
+----------
+respected	left, up, right, down	ept:  'up'
+----------
+respected	left, down, up, right	ept:  'up'
+----------
+respected	left, down, right, up	ept:  'up'
+----------
+respected	left, right, up, down	:  'right'
+----------
+respected	left, right, down, up	ept:  'up'
+----------
+respected	right, up, down, left	:  'right'
+----------
+respected	right, up, left, down	:  'right'
+----------
+respected	right, down, up, left	:  'right'
+----------
+respected	right, down, left, up	:  'right'
+----------
+respected	right, left, up, down	:  'right'
+----------
+respected	right, left, down, up	:  'right'
+----------
+succeeded	up, down, left, right	ept:  'up'
+----------
+succeeded	up, down, right, left	ept:  'up'
+----------
+succeeded	up, left, down, right	ept:  'up'
+----------
+succeeded	up, left, right, down	ept:  'up'
+----------
+succeeded	up, right, down, left	ept:  'up'
+----------
+succeeded	up, right, left, down	ept:  'up'
+----------
+succeeded	down, up, left, right	ept:  'up'
+----------
+succeeded	down, up, right, left	ept:  'up'
+----------
+succeeded	down, left, up, right	ept:  'up'
+----------
+succeeded	down, left, right, up	ept:  'up'
+----------
+succeeded	down, right, up, left	ept:  'up'
+----------
+succeeded	down, right, left, up	ept:  'up'
+----------
+succeeded	left, up, down, right	ept:  'up'
+----------
+succeeded	left, up, right, down	ept:  'up'
+----------
+succeeded	left, down, up, right	ept:  'up'
+----------
+succeeded	left, down, right, up	ept:  'up'
+----------
+succeeded	left, right, up, down	ept:  'up'
+----------
+succeeded	left, right, down, up	ept:  'up'
+----------
+succeeded	right, up, down, left	ept:  'up'
+----------
+succeeded	right, up, left, down	ept:  'up'
+----------
+succeeded	right, down, up, left	ept:  'up'
+----------
+succeeded	right, down, left, up	ept:  'up'
+----------
+succeeded	right, left, up, down	ept:  'up'
+----------
+succeeded	right, left, down, up	ept:  'up'
+----------

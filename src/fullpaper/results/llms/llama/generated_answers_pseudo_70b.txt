@@ -1,0 +1,1440 @@
+fled	↑, ↓, ←, →	ept:  →' }
+----------
+fled	↑, ↓, →, ←	ept:  →' }
+----------
+fled	↑, ←, ↓, →	ept:  →' }
+----------
+fled	↑, ←, →, ↓	ept:  →' }
+----------
+fled	↑, →, ↓, ←	ept:  →' }
+----------
+fled	↑, →, ←, ↓	ept:  →' }
+----------
+fled	↓, ↑, ←, →	cept:  '→'
+----------
+fled	↓, ↑, →, ←	cept:  '→'
+----------
+fled	↓, ←, ↑, →	ept:  →' }
+----------
+fled	↓, ←, →, ↑	cept:  '←'
+----------
+fled	↓, →, ↑, ←	ept:  →' }
+----------
+fled	↓, →, ←, ↑	ept:  →' }
+----------
+fled	←, ↑, ↓, →	ept:  →' }
+----------
+fled	←, ↑, →, ↓	cept:  '←'
+----------
+fled	←, ↓, ↑, →	ept:  →' }
+----------
+fled	←, ↓, →, ↑	ept:  →' }
+----------
+fled	←, →, ↑, ↓	ept:  →' }
+----------
+fled	←, →, ↓, ↑	cept:  '←'
+----------
+fled	→, ↑, ↓, ←	cept:  '→'
+----------
+fled	→, ↑, ←, ↓	cept:  '→'
+----------
+fled	→, ↓, ↑, ←	ept:  →  }
+----------
+fled	→, ↓, ←, ↑	cept:  '→'
+----------
+fled	→, ←, ↑, ↓	cept:  '→'
+----------
+fled	→, ←, ↓, ↑	cept:  '→'
+----------
+pointed at	↑, ↓, ←, →	ept:  →' }
+----------
+pointed at	↑, ↓, →, ←	ept:  →' }
+----------
+pointed at	↑, ←, ↓, →	ept:  →' }
+----------
+pointed at	↑, ←, →, ↓	ept:  →' }
+----------
+pointed at	↑, →, ↓, ←	ept:  →' }
+----------
+pointed at	↑, →, ←, ↓	ept:  →' }
+----------
+pointed at	↓, ↑, ←, →	cept:  '→'
+----------
+pointed at	↓, ↑, →, ←	ept:  →' }
+----------
+pointed at	↓, ←, ↑, →	ept:  →' }
+----------
+pointed at	↓, ←, →, ↑	ept:  →' }
+----------
+pointed at	↓, →, ↑, ←	ept:  →' }
+----------
+pointed at	↓, →, ←, ↑	ept:  →' }
+----------
+pointed at	←, ↑, ↓, →	cept:  '→'
+----------
+pointed at	←, ↑, →, ↓	cept:  '→'
+----------
+pointed at	←, ↓, ↑, →	ept:  →' }
+----------
+pointed at	←, ↓, →, ↑	ept:  →' }
+----------
+pointed at	←, →, ↑, ↓	ept:  →' }
+----------
+pointed at	←, →, ↓, ↑	cept:  '→'
+----------
+pointed at	→, ↑, ↓, ←	cept:  '→'
+----------
+pointed at	→, ↑, ←, ↓	cept:  '→'
+----------
+pointed at	→, ↓, ↑, ←	ept:  →  }
+----------
+pointed at	→, ↓, ←, ↑	cept:  '→'
+----------
+pointed at	→, ←, ↑, ↓	ept:  →  }
+----------
+pointed at	→, ←, ↓, ↑	cept:  '→'
+----------
+pulled	↑, ↓, ←, →	cept:  '↑'
+----------
+pulled	↑, ↓, →, ←	cept:  '↑'
+----------
+pulled	↑, ←, ↓, →	cept:  '↑'
+----------
+pulled	↑, ←, →, ↓	cept:  '↑'
+----------
+pulled	↑, →, ↓, ←	ept:  →' }
+----------
+pulled	↑, →, ←, ↓	ept:  →' }
+----------
+pulled	↓, ↑, ←, →	cept:  '↑'
+----------
+pulled	↓, ↑, →, ←	cept:  '→'
+----------
+pulled	↓, ←, ↑, →	cept:  '→'
+----------
+pulled	↓, ←, →, ↑	cept:  '←'
+----------
+pulled	↓, →, ↑, ←	ept:  →' }
+----------
+pulled	↓, →, ←, ↑	ept:  →' }
+----------
+pulled	←, ↑, ↓, →	cept:  '←'
+----------
+pulled	←, ↑, →, ↓	cept:  '←'
+----------
+pulled	←, ↓, ↑, →	cept:  '←'
+----------
+pulled	←, ↓, →, ↑	cept:  '←'
+----------
+pulled	←, →, ↑, ↓	cept:  '←'
+----------
+pulled	←, →, ↓, ↑	cept:  '←'
+----------
+pulled	→, ↑, ↓, ←	cept:  '→'
+----------
+pulled	→, ↑, ←, ↓	cept:  '→'
+----------
+pulled	→, ↓, ↑, ←	cept:  '→'
+----------
+pulled	→, ↓, ←, ↑	cept:  '→'
+----------
+pulled	→, ←, ↑, ↓	cept:  '→'
+----------
+pulled	→, ←, ↓, ↑	cept:  '→'
+----------
+pushed	↑, ↓, ←, →	cept:  '↑'
+----------
+pushed	↑, ↓, →, ←	cept:  '↑'
+----------
+pushed	↑, ←, ↓, →	cept:  '↑'
+----------
+pushed	↑, ←, →, ↓	cept:  '↑'
+----------
+pushed	↑, →, ↓, ←	ept:  →' }
+----------
+pushed	↑, →, ←, ↓	ept:  →' }
+----------
+pushed	↓, ↑, ←, →	cept:  '↑'
+----------
+pushed	↓, ↑, →, ←	cept:  '→'
+----------
+pushed	↓, ←, ↑, →	ept:  →' }
+----------
+pushed	↓, ←, →, ↑	cept:  '→'
+----------
+pushed	↓, →, ↑, ←	ept:  →' }
+----------
+pushed	↓, →, ←, ↑	ept:  →' }
+----------
+pushed	←, ↑, ↓, →	cept:  '←'
+----------
+pushed	←, ↑, →, ↓	ept:  ↑  }
+----------
+pushed	←, ↓, ↑, →	cept:  '→'
+----------
+pushed	←, ↓, →, ↑	cept:  '→'
+----------
+pushed	←, →, ↑, ↓	  concept:
+----------
+pushed	←, →, ↓, ↑	  concept:
+----------
+pushed	→, ↑, ↓, ←	cept:  '→'
+----------
+pushed	→, ↑, ←, ↓	cept:  '→'
+----------
+pushed	→, ↓, ↑, ←	cept:  '→'
+----------
+pushed	→, ↓, ←, ↑	cept:  '→'
+----------
+pushed	→, ←, ↑, ↓	ept:  →  }
+----------
+pushed	→, ←, ↓, ↑	cept:  '→'
+----------
+walked	↑, ↓, ←, →	ept:  →' }
+----------
+walked	↑, ↓, →, ←	ept:  →' }
+----------
+walked	↑, ←, ↓, →	ept:  →' }
+----------
+walked	↑, ←, →, ↓	ept:  →  }
+----------
+walked	↑, →, ↓, ←	ept:  →  }
+----------
+walked	↑, →, ←, ↓	ept:  →' }
+----------
+walked	↓, ↑, ←, →	cept:  '→'
+----------
+walked	↓, ↑, →, ←	ept:  →' }
+----------
+walked	↓, ←, ↑, →	ept:  →' }
+----------
+walked	↓, ←, →, ↑	ept:  →' }
+----------
+walked	↓, →, ↑, ←	ept:  →  }
+----------
+walked	↓, →, ←, ↑	ept:  →' }
+----------
+walked	←, ↑, ↓, →	ept:  →' }
+----------
+walked	←, ↑, →, ↓	ept:  ↑  }
+----------
+walked	←, ↓, ↑, →	ept:  →' }
+----------
+walked	←, ↓, →, ↑	ept:  →  }
+----------
+walked	←, →, ↑, ↓	ept:  →  }
+----------
+walked	←, →, ↓, ↑	ept:  →  }
+----------
+walked	→, ↑, ↓, ←	ept:  →  }
+----------
+walked	→, ↑, ←, ↓	ept:  →  }
+----------
+walked	→, ↓, ↑, ←	ept:  →  }
+----------
+walked	→, ↓, ←, ↑	ept:  →  }
+----------
+walked	→, ←, ↑, ↓	ept:  →  }
+----------
+walked	→, ←, ↓, ↑	ept:  →  }
+----------
+hunted	↑, ↓, ←, →	cept:  '↑'
+----------
+hunted	↑, ↓, →, ←	cept:  '↑'
+----------
+hunted	↑, ←, ↓, →	cept:  '↑'
+----------
+hunted	↑, ←, →, ↓	cept:  '↑'
+----------
+hunted	↑, →, ↓, ←	ept:  →' }
+----------
+hunted	↑, →, ←, ↓	ept:  →' }
+----------
+hunted	↓, ↑, ←, →	cept:  '↓'
+----------
+hunted	↓, ↑, →, ←	cept:  '↓'
+----------
+hunted	↓, ←, ↑, →	cept:  '→'
+----------
+hunted	↓, ←, →, ↑	cept:  '↓'
+----------
+hunted	↓, →, ↑, ←	ept:  →' }
+----------
+hunted	↓, →, ←, ↑	ept:  →' }
+----------
+hunted	←, ↑, ↓, →	cept:  '←'
+----------
+hunted	←, ↑, →, ↓	cept:  '←'
+----------
+hunted	←, ↓, ↑, →	cept:  '←'
+----------
+hunted	←, ↓, →, ↑	cept:  '←'
+----------
+hunted	←, →, ↑, ↓	cept:  '←'
+----------
+hunted	←, →, ↓, ↑	cept:  '←'
+----------
+hunted	→, ↑, ↓, ←	cept:  '→'
+----------
+hunted	→, ↑, ←, ↓	cept:  '→'
+----------
+hunted	→, ↓, ↑, ←	cept:  '→'
+----------
+hunted	→, ↓, ←, ↑	cept:  '→'
+----------
+hunted	→, ←, ↑, ↓	cept:  '→'
+----------
+hunted	→, ←, ↓, ↑	cept:  '→'
+----------
+impacted	↑, ↓, ←, →	cept:  '↑'
+----------
+impacted	↑, ↓, →, ←	cept:  '↑'
+----------
+impacted	↑, ←, ↓, →	cept:  '↑'
+----------
+impacted	↑, ←, →, ↓	cept:  '↑'
+----------
+impacted	↑, →, ↓, ←	ept:  →' }
+----------
+impacted	↑, →, ←, ↓	ept:  →' }
+----------
+impacted	↓, ↑, ←, →	cept:  '↓'
+----------
+impacted	↓, ↑, →, ←	cept:  '↓'
+----------
+impacted	↓, ←, ↑, →	cept:  '→'
+----------
+impacted	↓, ←, →, ↑	cept:  '↓'
+----------
+impacted	↓, →, ↑, ←	cept:  '→'
+----------
+impacted	↓, →, ←, ↑	cept:  '↓'
+----------
+impacted	←, ↑, ↓, →	cept:  '←'
+----------
+impacted	←, ↑, →, ↓	cept:  '←'
+----------
+impacted	←, ↓, ↑, →	cept:  '←'
+----------
+impacted	←, ↓, →, ↑	cept:  '←'
+----------
+impacted	←, →, ↑, ↓	cept:  '←'
+----------
+impacted	←, →, ↓, ↑	cept:  '←'
+----------
+impacted	→, ↑, ↓, ←	cept:  '→'
+----------
+impacted	→, ↑, ←, ↓	cept:  '→'
+----------
+impacted	→, ↓, ↑, ←	cept:  '→'
+----------
+impacted	→, ↓, ←, ↑	cept:  '→'
+----------
+impacted	→, ←, ↑, ↓	cept:  '→'
+----------
+impacted	→, ←, ↓, ↑	cept:  '→'
+----------
+perched	↑, ↓, ←, →	cept:  '↑'
+----------
+perched	↑, ↓, →, ←	cept:  '↑'
+----------
+perched	↑, ←, ↓, →	cept:  '↑'
+----------
+perched	↑, ←, →, ↓	cept:  '↑'
+----------
+perched	↑, →, ↓, ←	ept:  →' }
+----------
+perched	↑, →, ←, ↓	cept:  '↑'
+----------
+perched	↓, ↑, ←, →	cept:  '↑'
+----------
+perched	↓, ↑, →, ←	cept:  '→'
+----------
+perched	↓, ←, ↑, →	cept:  '→'
+----------
+perched	↓, ←, →, ↑	cept:  '↓'
+----------
+perched	↓, →, ↑, ←	cept:  '→'
+----------
+perched	↓, →, ←, ↑	cept:  '→'
+----------
+perched	←, ↑, ↓, →	cept:  '←'
+----------
+perched	←, ↑, →, ↓	cept:  '←'
+----------
+perched	←, ↓, ↑, →	cept:  '→'
+----------
+perched	←, ↓, →, ↑	cept:  '←'
+----------
+perched	←, →, ↑, ↓	cept:  '←'
+----------
+perched	←, →, ↓, ↑	cept:  '←'
+----------
+perched	→, ↑, ↓, ←	cept:  '→'
+----------
+perched	→, ↑, ←, ↓	cept:  '→'
+----------
+perched	→, ↓, ↑, ←	cept:  '→'
+----------
+perched	→, ↓, ←, ↑	cept:  '→'
+----------
+perched	→, ←, ↑, ↓	cept:  '→'
+----------
+perched	→, ←, ↓, ↑	cept:  '→'
+----------
+showed	↑, ↓, ←, →	cept:  '↑'
+----------
+showed	↑, ↓, →, ←	ept:  →' }
+----------
+showed	↑, ←, ↓, →	cept:  '↑'
+----------
+showed	↑, ←, →, ↓	cept:  '↑'
+----------
+showed	↑, →, ↓, ←	ept:  →' }
+----------
+showed	↑, →, ←, ↓	ept:  →' }
+----------
+showed	↓, ↑, ←, →	cept:  '↑'
+----------
+showed	↓, ↑, →, ←	cept:  '↑'
+----------
+showed	↓, ←, ↑, →	cept:  '→'
+----------
+showed	↓, ←, →, ↑	cept:  '→'
+----------
+showed	↓, →, ↑, ←	ept:  →' }
+----------
+showed	↓, →, ←, ↑	ept:  →' }
+----------
+showed	←, ↑, ↓, →	cept:  '←'
+----------
+showed	←, ↑, →, ↓	ept:  ↑  }
+----------
+showed	←, ↓, ↑, →	cept:  '←'
+----------
+showed	←, ↓, →, ↑	cept:  '←'
+----------
+showed	←, →, ↑, ↓	  concept:
+----------
+showed	←, →, ↓, ↑	  concept:
+----------
+showed	→, ↑, ↓, ←	cept:  '→'
+----------
+showed	→, ↑, ←, ↓	cept:  '→'
+----------
+showed	→, ↓, ↑, ←	ept:  →  }
+----------
+showed	→, ↓, ←, ↑	cept:  '→'
+----------
+showed	→, ←, ↑, ↓	ept:  →  }
+----------
+showed	→, ←, ↓, ↑	cept:  '→'
+----------
+smashed	↑, ↓, ←, →	cept:  '↑'
+----------
+smashed	↑, ↓, →, ←	cept:  '↑'
+----------
+smashed	↑, ←, ↓, →	cept:  '↑'
+----------
+smashed	↑, ←, →, ↓	cept:  '↑'
+----------
+smashed	↑, →, ↓, ←	ept:  →' }
+----------
+smashed	↑, →, ←, ↓	ept:  →' }
+----------
+smashed	↓, ↑, ←, →	cept:  '↓'
+----------
+smashed	↓, ↑, →, ←	cept:  '↓'
+----------
+smashed	↓, ←, ↑, →	cept:  '→'
+----------
+smashed	↓, ←, →, ↑	cept:  '↓'
+----------
+smashed	↓, →, ↑, ←	cept:  '→'
+----------
+smashed	↓, →, ←, ↑	cept:  '→'
+----------
+smashed	←, ↑, ↓, →	cept:  '←'
+----------
+smashed	←, ↑, →, ↓	cept:  '←'
+----------
+smashed	←, ↓, ↑, →	cept:  '←'
+----------
+smashed	←, ↓, →, ↑	cept:  '←'
+----------
+smashed	←, →, ↑, ↓	  concept:
+----------
+smashed	←, →, ↓, ↑	cept:  '←'
+----------
+smashed	→, ↑, ↓, ←	cept:  '→'
+----------
+smashed	→, ↑, ←, ↓	cept:  '→'
+----------
+smashed	→, ↓, ↑, ←	cept:  '→'
+----------
+smashed	→, ↓, ←, ↑	cept:  '→'
+----------
+smashed	→, ←, ↑, ↓	cept:  '→'
+----------
+smashed	→, ←, ↓, ↑	cept:  '→'
+----------
+bombed	↑, ↓, ←, →	cept:  '↑'
+----------
+bombed	↑, ↓, →, ←	cept:  '↑'
+----------
+bombed	↑, ←, ↓, →	cept:  '↑'
+----------
+bombed	↑, ←, →, ↓	cept:  '↑'
+----------
+bombed	↑, →, ↓, ←	cept:  '→'
+----------
+bombed	↑, →, ←, ↓	cept:  '↑'
+----------
+bombed	↓, ↑, ←, →	cept:  '↓'
+----------
+bombed	↓, ↑, →, ←	cept:  '↓'
+----------
+bombed	↓, ←, ↑, →	cept:  '↓'
+----------
+bombed	↓, ←, →, ↑	cept:  '↓'
+----------
+bombed	↓, →, ↑, ←	cept:  '↓'
+----------
+bombed	↓, →, ←, ↑	cept:  '↓'
+----------
+bombed	←, ↑, ↓, →	cept:  '←'
+----------
+bombed	←, ↑, →, ↓	cept:  '←'
+----------
+bombed	←, ↓, ↑, →	cept:  '←'
+----------
+bombed	←, ↓, →, ↑	cept:  '←'
+----------
+bombed	←, →, ↑, ↓	cept:  '←'
+----------
+bombed	←, →, ↓, ↑	cept:  '←'
+----------
+bombed	→, ↑, ↓, ←	cept:  '→'
+----------
+bombed	→, ↑, ←, ↓	cept:  '→'
+----------
+bombed	→, ↓, ↑, ←	cept:  '→'
+----------
+bombed	→, ↓, ←, ↑	cept:  '→'
+----------
+bombed	→, ←, ↑, ↓	cept:  '→'
+----------
+bombed	→, ←, ↓, ↑	cept:  '→'
+----------
+flew	↑, ↓, ←, →	cept:  '↑'
+----------
+flew	↑, ↓, →, ←	cept:  '↑'
+----------
+flew	↑, ←, ↓, →	ept:  →' }
+----------
+flew	↑, ←, →, ↓	ept:  ↑  }
+----------
+flew	↑, →, ↓, ←	ept:  →' }
+----------
+flew	↑, →, ←, ↓	ept:  →' }
+----------
+flew	↓, ↑, ←, →	ept:  ↑  }
+----------
+flew	↓, ↑, →, ←	cept:  '↑'
+----------
+flew	↓, ←, ↑, →	ept:  →' }
+----------
+flew	↓, ←, →, ↑	cept:  '↑'
+----------
+flew	↓, →, ↑, ←	ept:  →' }
+----------
+flew	↓, →, ←, ↑	ept:  →' }
+----------
+flew	←, ↑, ↓, →	ept:  ↑  }
+----------
+flew	←, ↑, →, ↓	ept:  ↑  }
+----------
+flew	←, ↓, ↑, →	ept:  →' }
+----------
+flew	←, ↓, →, ↑	cept:  '→'
+----------
+flew	←, →, ↑, ↓	ept:  →' }
+----------
+flew	←, →, ↓, ↑	ept:  →' }
+----------
+flew	→, ↑, ↓, ←	cept:  '→'
+----------
+flew	→, ↑, ←, ↓	cept:  '→'
+----------
+flew	→, ↓, ↑, ←	cept:  '→'
+----------
+flew	→, ↓, ←, ↑	cept:  '→'
+----------
+flew	→, ←, ↑, ↓	cept:  '→'
+----------
+flew	→, ←, ↓, ↑	cept:  '→'
+----------
+floated	↑, ↓, ←, →	cept:  '↑'
+----------
+floated	↑, ↓, →, ←	cept:  '↑'
+----------
+floated	↑, ←, ↓, →	cept:  '↑'
+----------
+floated	↑, ←, →, ↓	cept:  '↑'
+----------
+floated	↑, →, ↓, ←	ept:  →' }
+----------
+floated	↑, →, ←, ↓	cept:  '↑'
+----------
+floated	↓, ↑, ←, →	cept:  '↑'
+----------
+floated	↓, ↑, →, ←	cept:  '↑'
+----------
+floated	↓, ←, ↑, →	cept:  '→'
+----------
+floated	↓, ←, →, ↑	cept:  '↓'
+----------
+floated	↓, →, ↑, ←	ept:  →' }
+----------
+floated	↓, →, ←, ↑	cept:  '↓'
+----------
+floated	←, ↑, ↓, →	cept:  '←'
+----------
+floated	←, ↑, →, ↓	cept:  '←'
+----------
+floated	←, ↓, ↑, →	cept:  '←'
+----------
+floated	←, ↓, →, ↑	cept:  '←'
+----------
+floated	←, →, ↑, ↓	cept:  '←'
+----------
+floated	←, →, ↓, ↑	cept:  '←'
+----------
+floated	→, ↑, ↓, ←	cept:  '→'
+----------
+floated	→, ↑, ←, ↓	cept:  '→'
+----------
+floated	→, ↓, ↑, ←	cept:  '→'
+----------
+floated	→, ↓, ←, ↑	cept:  '→'
+----------
+floated	→, ←, ↑, ↓	cept:  '→'
+----------
+floated	→, ←, ↓, ↑	cept:  '→'
+----------
+lifted	↑, ↓, ←, →	ept:  ↑  }
+----------
+lifted	↑, ↓, →, ←	ept:  ↑  }
+----------
+lifted	↑, ←, ↓, →	ept:  ↑  }
+----------
+lifted	↑, ←, →, ↓	ept:  ↑  }
+----------
+lifted	↑, →, ↓, ←	cept:  '↑'
+----------
+lifted	↑, →, ←, ↓	ept:  ↑  }
+----------
+lifted	↓, ↑, ←, →	ept:  ↑  }
+----------
+lifted	↓, ↑, →, ←	ept:  ↑  }
+----------
+lifted	↓, ←, ↑, →	cept:  '↑'
+----------
+lifted	↓, ←, →, ↑	ept:  ↑  }
+----------
+lifted	↓, →, ↑, ←	ept:  →' }
+----------
+lifted	↓, →, ←, ↑	cept:  '↑'
+----------
+lifted	←, ↑, ↓, →	ept:  ↑  }
+----------
+lifted	←, ↑, →, ↓	ncept:  ↑}
+----------
+lifted	←, ↓, ↑, →	cept:  '↑'
+----------
+lifted	←, ↓, →, ↑	ept:  ↑  }
+----------
+lifted	←, →, ↑, ↓	ept:  ↑  }
+----------
+lifted	←, →, ↓, ↑	cept:  '↑'
+----------
+lifted	→, ↑, ↓, ←	ept:  ↑  }
+----------
+lifted	→, ↑, ←, ↓	ncept:  ↑}
+----------
+lifted	→, ↓, ↑, ←	cept:  '↑'
+----------
+lifted	→, ↓, ←, ↑	cept:  '→'
+----------
+lifted	→, ←, ↑, ↓	cept:  '↑'
+----------
+lifted	→, ←, ↓, ↑	cept:  '→'
+----------
+sank	↑, ↓, ←, →	cept:  '↓'
+----------
+sank	↑, ↓, →, ←	cept:  '↓'
+----------
+sank	↑, ←, ↓, →	cept:  '↓'
+----------
+sank	↑, ←, →, ↓	cept:  '↓'
+----------
+sank	↑, →, ↓, ←	cept:  '↓'
+----------
+sank	↑, →, ←, ↓	cept:  '↓'
+----------
+sank	↓, ↑, ←, →	cept:  '↓'
+----------
+sank	↓, ↑, →, ←	cept:  '↓'
+----------
+sank	↓, ←, ↑, →	cept:  '↓'
+----------
+sank	↓, ←, →, ↑	cept:  '↓'
+----------
+sank	↓, →, ↑, ←	cept:  '↓'
+----------
+sank	↓, →, ←, ↑	cept:  '↓'
+----------
+sank	←, ↑, ↓, →	cept:  '←'
+----------
+sank	←, ↑, →, ↓	cept:  '←'
+----------
+sank	←, ↓, ↑, →	cept:  '↓'
+----------
+sank	←, ↓, →, ↑	cept:  '↓'
+----------
+sank	←, →, ↑, ↓	  concept:
+----------
+sank	←, →, ↓, ↑	cept:  '↓'
+----------
+sank	→, ↑, ↓, ←	cept:  '→'
+----------
+sank	→, ↑, ←, ↓	cept:  '→'
+----------
+sank	→, ↓, ↑, ←	cept:  '↓'
+----------
+sank	→, ↓, ←, ↑	cept:  '↓'
+----------
+sank	→, ←, ↑, ↓	cept:  '→'
+----------
+sank	→, ←, ↓, ↑	cept:  '↓'
+----------
+argued with	↑, ↓, ←, →	cept:  '↑'
+----------
+argued with	↑, ↓, →, ←	ept:  →' }
+----------
+argued with	↑, ←, ↓, →	ept:  →' }
+----------
+argued with	↑, ←, →, ↓	ept:  →' }
+----------
+argued with	↑, →, ↓, ←	ept:  →' }
+----------
+argued with	↑, →, ←, ↓	ept:  →' }
+----------
+argued with	↓, ↑, ←, →	cept:  '↓'
+----------
+argued with	↓, ↑, →, ←	cept:  '→'
+----------
+argued with	↓, ←, ↑, →	ept:  →' }
+----------
+argued with	↓, ←, →, ↑	cept:  '↓'
+----------
+argued with	↓, →, ↑, ←	ept:  →' }
+----------
+argued with	↓, →, ←, ↑	ept:  →' }
+----------
+argued with	←, ↑, ↓, →	cept:  '←'
+----------
+argued with	←, ↑, →, ↓	cept:  '←'
+----------
+argued with	←, ↓, ↑, →	ept:  →' }
+----------
+argued with	←, ↓, →, ↑	cept:  '←'
+----------
+argued with	←, →, ↑, ↓	ept:  →' }
+----------
+argued with	←, →, ↓, ↑	cept:  '←'
+----------
+argued with	→, ↑, ↓, ←	cept:  '→'
+----------
+argued with	→, ↑, ←, ↓	cept:  '→'
+----------
+argued with	→, ↓, ↑, ←	ept:  →  }
+----------
+argued with	→, ↓, ←, ↑	ept:  →  }
+----------
+argued with	→, ←, ↑, ↓	ept:  →  }
+----------
+argued with	→, ←, ↓, ↑	cept:  '→'
+----------
+gave to	↑, ↓, ←, →	ept:  →' }
+----------
+gave to	↑, ↓, →, ←	ept:  →' }
+----------
+gave to	↑, ←, ↓, →	ept:  →' }
+----------
+gave to	↑, ←, →, ↓	ept:  →' }
+----------
+gave to	↑, →, ↓, ←	ept:  →' }
+----------
+gave to	↑, →, ←, ↓	ept:  →' }
+----------
+gave to	↓, ↑, ←, →	ept:  →' }
+----------
+gave to	↓, ↑, →, ←	ept:  →' }
+----------
+gave to	↓, ←, ↑, →	ept:  →' }
+----------
+gave to	↓, ←, →, ↑	ept:  →' }
+----------
+gave to	↓, →, ↑, ←	ept:  →' }
+----------
+gave to	↓, →, ←, ↑	ept:  →' }
+----------
+gave to	←, ↑, ↓, →	ept:  →' }
+----------
+gave to	←, ↑, →, ↓	ept:  →' }
+----------
+gave to	←, ↓, ↑, →	ept:  →' }
+----------
+gave to	←, ↓, →, ↑	ept:  →' }
+----------
+gave to	←, →, ↑, ↓	ept:  →' }
+----------
+gave to	←, →, ↓, ↑	ept:  →' }
+----------
+gave to	→, ↑, ↓, ←	ept:  →  }
+----------
+gave to	→, ↑, ←, ↓	ept:  →  }
+----------
+gave to	→, ↓, ↑, ←	ept:  →  }
+----------
+gave to	→, ↓, ←, ↑	ept:  →  }
+----------
+gave to	→, ←, ↑, ↓	ept:  →  }
+----------
+gave to	→, ←, ↓, ↑	ept:  →  }
+----------
+offended	↑, ↓, ←, →	cept:  '↑'
+----------
+offended	↑, ↓, →, ←	cept:  '↑'
+----------
+offended	↑, ←, ↓, →	cept:  '←'
+----------
+offended	↑, ←, →, ↓	cept:  '←'
+----------
+offended	↑, →, ↓, ←	ept:  →' }
+----------
+offended	↑, →, ←, ↓	ept:  →' }
+----------
+offended	↓, ↑, ←, →	cept:  '↓'
+----------
+offended	↓, ↑, →, ←	cept:  '↓'
+----------
+offended	↓, ←, ↑, →	cept:  '←'
+----------
+offended	↓, ←, →, ↑	cept:  '←'
+----------
+offended	↓, →, ↑, ←	cept:  '→'
+----------
+offended	↓, →, ←, ↑	cept:  '→'
+----------
+offended	←, ↑, ↓, →	cept:  '←'
+----------
+offended	←, ↑, →, ↓	cept:  '←'
+----------
+offended	←, ↓, ↑, →	cept:  '←'
+----------
+offended	←, ↓, →, ↑	cept:  '←'
+----------
+offended	←, →, ↑, ↓	  concept:
+----------
+offended	←, →, ↓, ↑	  concept:
+----------
+offended	→, ↑, ↓, ←	cept:  '→'
+----------
+offended	→, ↑, ←, ↓	cept:  '→'
+----------
+offended	→, ↓, ↑, ←	cept:  '→'
+----------
+offended	→, ↓, ←, ↑	cept:  '→'
+----------
+offended	→, ←, ↑, ↓	cept:  '→'
+----------
+offended	→, ←, ↓, ↑	cept:  '→'
+----------
+rushed	↑, ↓, ←, →	cept:  '↑'
+----------
+rushed	↑, ↓, →, ←	cept:  '↑'
+----------
+rushed	↑, ←, ↓, →	ept:  →' }
+----------
+rushed	↑, ←, →, ↓	cept:  '↑'
+----------
+rushed	↑, →, ↓, ←	ept:  →' }
+----------
+rushed	↑, →, ←, ↓	ept:  →' }
+----------
+rushed	↓, ↑, ←, →	cept:  '↑'
+----------
+rushed	↓, ↑, →, ←	cept:  '↑'
+----------
+rushed	↓, ←, ↑, →	ept:  →' }
+----------
+rushed	↓, ←, →, ↑	cept:  '↓'
+----------
+rushed	↓, →, ↑, ←	ept:  →' }
+----------
+rushed	↓, →, ←, ↑	ept:  →' }
+----------
+rushed	←, ↑, ↓, →	cept:  '→'
+----------
+rushed	←, ↑, →, ↓	cept:  '→'
+----------
+rushed	←, ↓, ↑, →	ept:  →' }
+----------
+rushed	←, ↓, →, ↑	cept:  '→'
+----------
+rushed	←, →, ↑, ↓	pt:  → } }
+----------
+rushed	←, →, ↓, ↑	cept:  '→'
+----------
+rushed	→, ↑, ↓, ←	cept:  '→'
+----------
+rushed	→, ↑, ←, ↓	cept:  '→'
+----------
+rushed	→, ↓, ↑, ←	cept:  '→'
+----------
+rushed	→, ↓, ←, ↑	cept:  '→'
+----------
+rushed	→, ←, ↑, ↓	cept:  '→'
+----------
+rushed	→, ←, ↓, ↑	cept:  '→'
+----------
+warned	↑, ↓, ←, →	cept:  '↑'
+----------
+warned	↑, ↓, →, ←	cept:  '↑'
+----------
+warned	↑, ←, ↓, →	cept:  '↑'
+----------
+warned	↑, ←, →, ↓	cept:  '↑'
+----------
+warned	↑, →, ↓, ←	ept:  →' }
+----------
+warned	↑, →, ←, ↓	ept:  →' }
+----------
+warned	↓, ↑, ←, →	cept:  '↓'
+----------
+warned	↓, ↑, →, ←	cept:  '↓'
+----------
+warned	↓, ←, ↑, →	cept:  '↓'
+----------
+warned	↓, ←, →, ↑	cept:  '↓'
+----------
+warned	↓, →, ↑, ←	cept:  '→'
+----------
+warned	↓, →, ←, ↑	cept:  '↓'
+----------
+warned	←, ↑, ↓, →	cept:  '←'
+----------
+warned	←, ↑, →, ↓	cept:  '←'
+----------
+warned	←, ↓, ↑, →	cept:  '←'
+----------
+warned	←, ↓, →, ↑	cept:  '←'
+----------
+warned	←, →, ↑, ↓	cept:  '←'
+----------
+warned	←, →, ↓, ↑	cept:  '←'
+----------
+warned	→, ↑, ↓, ←	cept:  '→'
+----------
+warned	→, ↑, ←, ↓	cept:  '→'
+----------
+warned	→, ↓, ↑, ←	cept:  '→'
+----------
+warned	→, ↓, ←, ↑	cept:  '→'
+----------
+warned	→, ←, ↑, ↓	cept:  '→'
+----------
+warned	→, ←, ↓, ↑	cept:  '→'
+----------
+owned	↑, ↓, ←, →	cept:  '↑'
+----------
+owned	↑, ↓, →, ←	cept:  '↑'
+----------
+owned	↑, ←, ↓, →	ept:  →' }
+----------
+owned	↑, ←, →, ↓	cept:  '↑'
+----------
+owned	↑, →, ↓, ←	ept:  →' }
+----------
+owned	↑, →, ←, ↓	ept:  →' }
+----------
+owned	↓, ↑, ←, →	cept:  '↑'
+----------
+owned	↓, ↑, →, ←	cept:  '→'
+----------
+owned	↓, ←, ↑, →	cept:  '→'
+----------
+owned	↓, ←, →, ↑	cept:  '↓'
+----------
+owned	↓, →, ↑, ←	ept:  →' }
+----------
+owned	↓, →, ←, ↑	ept:  →' }
+----------
+owned	←, ↑, ↓, →	cept:  '←'
+----------
+owned	←, ↑, →, ↓	cept:  '←'
+----------
+owned	←, ↓, ↑, →	cept:  '←'
+----------
+owned	←, ↓, →, ↑	cept:  '←'
+----------
+owned	←, →, ↑, ↓	  concept:
+----------
+owned	←, →, ↓, ↑	  concept:
+----------
+owned	→, ↑, ↓, ←	cept:  '→'
+----------
+owned	→, ↑, ←, ↓	cept:  '→'
+----------
+owned	→, ↓, ↑, ←	cept:  '→'
+----------
+owned	→, ↓, ←, ↑	cept:  '→'
+----------
+owned	→, ←, ↑, ↓	cept:  '→'
+----------
+owned	→, ←, ↓, ↑	cept:  '→'
+----------
+regretted	↑, ↓, ←, →	cept:  '↑'
+----------
+regretted	↑, ↓, →, ←	cept:  '↑'
+----------
+regretted	↑, ←, ↓, →	cept:  '↑'
+----------
+regretted	↑, ←, →, ↓	cept:  '↑'
+----------
+regretted	↑, →, ↓, ←	ept:  →' }
+----------
+regretted	↑, →, ←, ↓	cept:  '↑'
+----------
+regretted	↓, ↑, ←, →	cept:  '↑'
+----------
+regretted	↓, ↑, →, ←	cept:  '↑'
+----------
+regretted	↓, ←, ↑, →	cept:  '→'
+----------
+regretted	↓, ←, →, ↑	cept:  '←'
+----------
+regretted	↓, →, ↑, ←	cept:  '→'
+----------
+regretted	↓, →, ←, ↑	cept:  '→'
+----------
+regretted	←, ↑, ↓, →	cept:  '←'
+----------
+regretted	←, ↑, →, ↓	cept:  '←'
+----------
+regretted	←, ↓, ↑, →	cept:  '←'
+----------
+regretted	←, ↓, →, ↑	cept:  '←'
+----------
+regretted	←, →, ↑, ↓	cept:  '←'
+----------
+regretted	←, →, ↓, ↑	cept:  '←'
+----------
+regretted	→, ↑, ↓, ←	cept:  '→'
+----------
+regretted	→, ↑, ←, ↓	cept:  '→'
+----------
+regretted	→, ↓, ↑, ←	cept:  '→'
+----------
+regretted	→, ↓, ←, ↑	cept:  '→'
+----------
+regretted	→, ←, ↑, ↓	cept:  '→'
+----------
+regretted	→, ←, ↓, ↑	cept:  '→'
+----------
+rested	↑, ↓, ←, →	cept:  '↑'
+----------
+rested	↑, ↓, →, ←	cept:  '↑'
+----------
+rested	↑, ←, ↓, →	cept:  '↑'
+----------
+rested	↑, ←, →, ↓	cept:  '↑'
+----------
+rested	↑, →, ↓, ←	ept:  →' }
+----------
+rested	↑, →, ←, ↓	ept:  →' }
+----------
+rested	↓, ↑, ←, →	cept:  '↓'
+----------
+rested	↓, ↑, →, ←	cept:  '↓'
+----------
+rested	↓, ←, ↑, →	cept:  '→'
+----------
+rested	↓, ←, →, ↑	cept:  '↓'
+----------
+rested	↓, →, ↑, ←	cept:  '→'
+----------
+rested	↓, →, ←, ↑	  concept:
+----------
+rested	←, ↑, ↓, →	cept:  '←'
+----------
+rested	←, ↑, →, ↓	cept:  '←'
+----------
+rested	←, ↓, ↑, →	cept:  '←'
+----------
+rested	←, ↓, →, ↑	cept:  '←'
+----------
+rested	←, →, ↑, ↓	  concept:
+----------
+rested	←, →, ↓, ↑	  concept:
+----------
+rested	→, ↑, ↓, ←	cept:  '→'
+----------
+rested	→, ↑, ←, ↓	ept:  ↑  }
+----------
+rested	→, ↓, ↑, ←	cept:  '→'
+----------
+rested	→, ↓, ←, ↑	cept:  '→'
+----------
+rested	→, ←, ↑, ↓	cept:  '→'
+----------
+rested	→, ←, ↓, ↑	cept:  '→'
+----------
+tempted	↑, ↓, ←, →	cept:  '↑'
+----------
+tempted	↑, ↓, →, ←	cept:  '↑'
+----------
+tempted	↑, ←, ↓, →	cept:  '↑'
+----------
+tempted	↑, ←, →, ↓	cept:  '↑'
+----------
+tempted	↑, →, ↓, ←	ept:  →' }
+----------
+tempted	↑, →, ←, ↓	ept:  →' }
+----------
+tempted	↓, ↑, ←, →	cept:  '↑'
+----------
+tempted	↓, ↑, →, ←	cept:  '↑'
+----------
+tempted	↓, ←, ↑, →	cept:  '→'
+----------
+tempted	↓, ←, →, ↑	cept:  '↓'
+----------
+tempted	↓, →, ↑, ←	ept:  →' }
+----------
+tempted	↓, →, ←, ↑	ept:  →' }
+----------
+tempted	←, ↑, ↓, →	cept:  '←'
+----------
+tempted	←, ↑, →, ↓	cept:  '←'
+----------
+tempted	←, ↓, ↑, →	cept:  '←'
+----------
+tempted	←, ↓, →, ↑	cept:  '←'
+----------
+tempted	←, →, ↑, ↓	  concept:
+----------
+tempted	←, →, ↓, ↑	cept:  '←'
+----------
+tempted	→, ↑, ↓, ←	cept:  '→'
+----------
+tempted	→, ↑, ←, ↓	cept:  '→'
+----------
+tempted	→, ↓, ↑, ←	cept:  '→'
+----------
+tempted	→, ↓, ←, ↑	cept:  '→'
+----------
+tempted	→, ←, ↑, ↓	cept:  '→'
+----------
+tempted	→, ←, ↓, ↑	cept:  '→'
+----------
+wanted	↑, ↓, ←, →	cept:  '↑'
+----------
+wanted	↑, ↓, →, ←	cept:  '↑'
+----------
+wanted	↑, ←, ↓, →	cept:  '↑'
+----------
+wanted	↑, ←, →, ↓	cept:  '↑'
+----------
+wanted	↑, →, ↓, ←	ept:  →' }
+----------
+wanted	↑, →, ←, ↓	ept:  →' }
+----------
+wanted	↓, ↑, ←, →	cept:  '↑'
+----------
+wanted	↓, ↑, →, ←	cept:  '→'
+----------
+wanted	↓, ←, ↑, →	cept:  '→'
+----------
+wanted	↓, ←, →, ↑	cept:  '→'
+----------
+wanted	↓, →, ↑, ←	ept:  →' }
+----------
+wanted	↓, →, ←, ↑	ept:  →' }
+----------
+wanted	←, ↑, ↓, →	cept:  '←'
+----------
+wanted	←, ↑, →, ↓	cept:  '←'
+----------
+wanted	←, ↓, ↑, →	cept:  '←'
+----------
+wanted	←, ↓, →, ↑	cept:  '←'
+----------
+wanted	←, →, ↑, ↓	  concept:
+----------
+wanted	←, →, ↓, ↑	  concept:
+----------
+wanted	→, ↑, ↓, ←	cept:  '→'
+----------
+wanted	→, ↑, ←, ↓	cept:  '→'
+----------
+wanted	→, ↓, ↑, ←	cept:  '→'
+----------
+wanted	→, ↓, ←, ↑	cept:  '→'
+----------
+wanted	→, ←, ↑, ↓	cept:  '→'
+----------
+wanted	→, ←, ↓, ↑	cept:  '→'
+----------
+hoped	↑, ↓, ←, →	cept:  '↑'
+----------
+hoped	↑, ↓, →, ←	cept:  '↑'
+----------
+hoped	↑, ←, ↓, →	cept:  '↑'
+----------
+hoped	↑, ←, →, ↓	ept:  ↑  }
+----------
+hoped	↑, →, ↓, ←	ept:  →' }
+----------
+hoped	↑, →, ←, ↓	ept:  →' }
+----------
+hoped	↓, ↑, ←, →	cept:  '↑'
+----------
+hoped	↓, ↑, →, ←	cept:  '↑'
+----------
+hoped	↓, ←, ↑, →	cept:  '↑'
+----------
+hoped	↓, ←, →, ↑	cept:  '↓'
+----------
+hoped	↓, →, ↑, ←	ept:  →' }
+----------
+hoped	↓, →, ←, ↑	ept:  →' }
+----------
+hoped	←, ↑, ↓, →	cept:  '←'
+----------
+hoped	←, ↑, →, ↓	ept:  ↑  }
+----------
+hoped	←, ↓, ↑, →	cept:  '←'
+----------
+hoped	←, ↓, →, ↑	cept:  '←'
+----------
+hoped	←, →, ↑, ↓	cept:  '←'
+----------
+hoped	←, →, ↓, ↑	cept:  '←'
+----------
+hoped	→, ↑, ↓, ←	cept:  '→'
+----------
+hoped	→, ↑, ←, ↓	ept:  ↑  }
+----------
+hoped	→, ↓, ↑, ←	cept:  '→'
+----------
+hoped	→, ↓, ←, ↑	cept:  '→'
+----------
+hoped	→, ←, ↑, ↓	ept:  →  }
+----------
+hoped	→, ←, ↓, ↑	cept:  '→'
+----------
+increased	↑, ↓, ←, →	ept:  ↑  }
+----------
+increased	↑, ↓, →, ←	ept:  ↑  }
+----------
+increased	↑, ←, ↓, →	ept:  ↑  }
+----------
+increased	↑, ←, →, ↓	ept:  ↑  }
+----------
+increased	↑, →, ↓, ←	ept:  →' }
+----------
+increased	↑, →, ←, ↓	cept:  '↑'
+----------
+increased	↓, ↑, ←, →	ept:  ↑  }
+----------
+increased	↓, ↑, →, ←	ept:  ↑  }
+----------
+increased	↓, ←, ↑, →	ept:  →' }
+----------
+increased	↓, ←, →, ↑	ept:  ↑  }
+----------
+increased	↓, →, ↑, ←	ept:  →' }
+----------
+increased	↓, →, ←, ↑	ept:  →' }
+----------
+increased	←, ↑, ↓, →	ept:  ↑  }
+----------
+increased	←, ↑, →, ↓	ept:  ↑  }
+----------
+increased	←, ↓, ↑, →	ept:  →' }
+----------
+increased	←, ↓, →, ↑	ept:  →' }
+----------
+increased	←, →, ↑, ↓	ept:  →' }
+----------
+increased	←, →, ↓, ↑	ept:  →' }
+----------
+increased	→, ↑, ↓, ←	ept:  ↑  }
+----------
+increased	→, ↑, ←, ↓	ept:  ↑  }
+----------
+increased	→, ↓, ↑, ←	cept:  '→'
+----------
+increased	→, ↓, ←, ↑	cept:  '→'
+----------
+increased	→, ←, ↑, ↓	cept:  '→'
+----------
+increased	→, ←, ↓, ↑	cept:  '→'
+----------
+obeyed	↑, ↓, ←, →	cept:  '↑'
+----------
+obeyed	↑, ↓, →, ←	cept:  '↑'
+----------
+obeyed	↑, ←, ↓, →	ept:  →' }
+----------
+obeyed	↑, ←, →, ↓	cept:  '↑'
+----------
+obeyed	↑, →, ↓, ←	ept:  →' }
+----------
+obeyed	↑, →, ←, ↓	ept:  →' }
+----------
+obeyed	↓, ↑, ←, →	cept:  '↑'
+----------
+obeyed	↓, ↑, →, ←	cept:  '↑'
+----------
+obeyed	↓, ←, ↑, →	ept:  →' }
+----------
+obeyed	↓, ←, →, ↑	cept:  '↑'
+----------
+obeyed	↓, →, ↑, ←	ept:  →' }
+----------
+obeyed	↓, →, ←, ↑	ept:  →' }
+----------
+obeyed	←, ↑, ↓, →	cept:  '←'
+----------
+obeyed	←, ↑, →, ↓	ept:  ↑  }
+----------
+obeyed	←, ↓, ↑, →	ept:  →' }
+----------
+obeyed	←, ↓, →, ↑	cept:  '→'
+----------
+obeyed	←, →, ↑, ↓	ept:  →' }
+----------
+obeyed	←, →, ↓, ↑	cept:  '→'
+----------
+obeyed	→, ↑, ↓, ←	cept:  '→'
+----------
+obeyed	→, ↑, ←, ↓	cept:  '→'
+----------
+obeyed	→, ↓, ↑, ←	cept:  '→'
+----------
+obeyed	→, ↓, ←, ↑	cept:  '→'
+----------
+obeyed	→, ←, ↑, ↓	cept:  '→'
+----------
+obeyed	→, ←, ↓, ↑	cept:  '→'
+----------
+respected	↑, ↓, ←, →	cept:  '↑'
+----------
+respected	↑, ↓, →, ←	cept:  '↑'
+----------
+respected	↑, ←, ↓, →	cept:  '↑'
+----------
+respected	↑, ←, →, ↓	cept:  '↑'
+----------
+respected	↑, →, ↓, ←	ept:  →' }
+----------
+respected	↑, →, ←, ↓	ept:  →' }
+----------
+respected	↓, ↑, ←, →	cept:  '↑'
+----------
+respected	↓, ↑, →, ←	cept:  '→'
+----------
+respected	↓, ←, ↑, →	cept:  '→'
+----------
+respected	↓, ←, →, ↑	cept:  '↓'
+----------
+respected	↓, →, ↑, ←	ept:  →' }
+----------
+respected	↓, →, ←, ↑	ept:  →' }
+----------
+respected	←, ↑, ↓, →	cept:  '←'
+----------
+respected	←, ↑, →, ↓	cept:  '←'
+----------
+respected	←, ↓, ↑, →	cept:  '→'
+----------
+respected	←, ↓, →, ↑	cept:  '←'
+----------
+respected	←, →, ↑, ↓	  concept:
+----------
+respected	←, →, ↓, ↑	  concept:
+----------
+respected	→, ↑, ↓, ←	cept:  '→'
+----------
+respected	→, ↑, ←, ↓	cept:  '→'
+----------
+respected	→, ↓, ↑, ←	cept:  '→'
+----------
+respected	→, ↓, ←, ↑	cept:  '→'
+----------
+respected	→, ←, ↑, ↓	cept:  '→'
+----------
+respected	→, ←, ↓, ↑	cept:  '→'
+----------
+succeeded	↑, ↓, ←, →	cept:  '↑'
+----------
+succeeded	↑, ↓, →, ←	cept:  '↑'
+----------
+succeeded	↑, ←, ↓, →	cept:  '↑'
+----------
+succeeded	↑, ←, →, ↓	cept:  '↑'
+----------
+succeeded	↑, →, ↓, ←	ept:  →' }
+----------
+succeeded	↑, →, ←, ↓	ept:  →' }
+----------
+succeeded	↓, ↑, ←, →	ept:  ↑  }
+----------
+succeeded	↓, ↑, →, ←	cept:  '↑'
+----------
+succeeded	↓, ←, ↑, →	ept:  →' }
+----------
+succeeded	↓, ←, →, ↑	cept:  '↑'
+----------
+succeeded	↓, →, ↑, ←	ept:  →' }
+----------
+succeeded	↓, →, ←, ↑	ept:  →' }
+----------
+succeeded	←, ↑, ↓, →	cept:  '→'
+----------
+succeeded	←, ↑, →, ↓	ept:  ↑  }
+----------
+succeeded	←, ↓, ↑, →	cept:  '→'
+----------
+succeeded	←, ↓, →, ↑	cept:  '→'
+----------
+succeeded	←, →, ↑, ↓	ept:  →  }
+----------
+succeeded	←, →, ↓, ↑	cept:  '→'
+----------
+succeeded	→, ↑, ↓, ←	cept:  '→'
+----------
+succeeded	→, ↑, ←, ↓	cept:  '→'
+----------
+succeeded	→, ↓, ↑, ←	cept:  '→'
+----------
+succeeded	→, ↓, ←, ↑	cept:  '→'
+----------
+succeeded	→, ←, ↑, ↓	cept:  '→'
+----------
+succeeded	→, ←, ↓, ↑	cept:  '→'
+----------

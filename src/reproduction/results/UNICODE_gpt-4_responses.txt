@@ -1,0 +1,1900 @@
+fled	↑, ↓, ←, →	Fleeing often implies moving away from something, similar to how the left arrow ← suggests moving or going backwards or away from something in a linear progression. 
+CONCEPT: ←
+fled	↑, ↓, →, ←	Fleeing often involves moving away from something, similar to how the left arrow (←) indicates moving or going backwards or away from something in many contexts.
+
+CONCEPT: ←
+fled	↑, ←, ↓, →	Fleeing often implies moving away from something, typically in a hurried or fearful manner. This can be represented by the concept of '←', which symbolizes moving or going backwards or away from something.
+
+CONCEPT: ←
+fled	↑, ←, →, ↓	Fleeing often implies moving away from something, typically in a hurried or fearful manner. This can be represented by the concept of moving backwards or retreating, which is best symbolized by the left arrow (←) if we consider the standard reading direction (left to right) as forward progress.
+
+CONCEPT: ←
+fled	↑, →, ↓, ←	Fleeing often implies moving away from something, typically in a hurried or urgent manner. This can be represented by the concept of moving backwards or retreating, which is often associated with the downward direction in many cultures and contexts.
+
+CONCEPT: ↓
+fled	↑, →, ←, ↓	Fleeing often implies moving away from something, typically in a hurried or fearful manner. This can be represented by the concept of moving backwards or retreating, as one would do when fleeing from danger.
+
+CONCEPT: ←
+fled	↓, ↑, ←, →	Fleeing often involves moving away from something, similar to how the left arrow (←) indicates moving or going away from a certain point in a horizontal direction. 
+CONCEPT: ←
+fled	↓, ↑, →, ←	Fleeing often involves moving away from something, typically in a hurried or urgent manner. This can be represented by the concept of moving backwards or retreating, which is often associated with the left direction in many cultures and contexts.
+
+CONCEPT: ←
+fled	↓, ←, ↑, →	Fleeing often implies moving away from something, similar to how the left arrow ← indicates moving or going backwards or away from something in many contexts. 
+CONCEPT: ←
+fled	↓, ←, →, ↑	Fleeing often implies moving away from something, similar to the action of moving backwards or retreating. In this context, the left arrow (←) can be seen as a symbol for moving away or retreating from something, as it points towards the direction opposite to the usual forward movement.
+CONCEPT: ←
+fled	↓, →, ↑, ←	Fleeing often implies moving away from something, similar to the way the left arrow (←) points away from the direction we typically read or move forward in. It can represent a retreat or a move back from a situation.
+CONCEPT: ←
+fled	↓, →, ←, ↑	Fleeing often implies moving away from something, similar to how the left arrow (←) indicates moving or going backwards. This can be seen as a retreat or escape, which aligns with the concept of fleeing.
+CONCEPT: ←
+fled	←, ↑, ↓, →	Fleeing often implies moving away from something, similar to how the left arrow ← indicates moving or going backwards or away from something in many contexts.
+CONCEPT: ←
+fled	←, ↑, →, ↓	Fleeing often implies moving away from something, similar to how the left arrow (←) indicates moving or going backwards. This can be seen as a retreat or escape, which aligns with the concept of fleeing.
+CONCEPT: ←
+fled	←, ↓, ↑, →	Fleeing often implies moving away from something, similar to how the left arrow ← points away from the direction we typically read or progress (left to right). Therefore, the left arrow can symbolize moving away or fleeing from a situation.
+CONCEPT: ←
+fled	←, ↓, →, ↑	Fleeing often implies moving away from something, similar to how the left arrow (←) indicates moving or going backwards. This is often associated with retreating or escaping, which aligns with the concept of 'fled'.
+CONCEPT: ←
+fled	←, →, ↑, ↓	Fleeing often implies moving away from something, a retreat or a backward motion. It's the opposite of moving forward or advancing towards something. 
+CONCEPT: ←
+fled	←, →, ↓, ↑	Fleeing often implies moving away from something, a retreat or a backward movement. It's the opposite of moving forward or advancing towards something. 
+CONCEPT: ←
+fled	→, ↑, ↓, ←	Fleeing often implies moving away from something, similar to how the left arrow ← indicates moving or going backwards. This can be seen as a retreat or escape, which aligns with the concept of 'fled'.
+CONCEPT: ←
+fled	→, ↑, ←, ↓	Fleeing often implies moving away from something, similar to how the left arrow (←) indicates moving or going backwards. This can be seen as a retreat or escape, which aligns with the concept of fleeing.
+CONCEPT: ←
+fled	→, ↓, ↑, ←	Fleeing often implies moving away from something, similar to how the left arrow ← indicates moving or going backwards. This can be seen as a retreat or escape, which aligns with the concept of 'fled'.
+CONCEPT: ←
+fled	→, ↓, ←, ↑	Fleeing often implies moving away from something, similar to how the left arrow (←) indicates moving or going backwards. This can be seen as a retreat or escape, which aligns with the concept of fleeing.
+CONCEPT: ←
+fled	→, ←, ↑, ↓	Fleeing often implies moving away from something, a retreat or a withdrawal. It is the opposite of moving towards something. Therefore, the concept that best represents 'fled' would be the left arrow, which can symbolize moving backwards or away from something.
+
+CONCEPT: ←
+fled	→, ←, ↓, ↑	Fleeing often implies moving away from something or someone, usually in a hurry or out of fear. It's a retreat or a withdrawal, a movement in the opposite direction of the perceived threat or danger.
+
+CONCEPT: ←
+pointed at	↑, ↓, ←, →	When someone points at something, they are directing attention towards a specific location or object. This action can be likened to an arrow that indicates direction. The arrow doesn't necessarily have to point upwards, downwards, left, or right. It simply needs to point towards the intended target. 
+
+CONCEPT: →
+pointed at	↑, ↓, →, ←	When someone points at something, they are directing attention towards a specific object or direction. This is similar to the concept of the right arrow (→) which is often used to indicate direction or to point towards something in diagrams or texts.
+
+CONCEPT: →
+pointed at	↑, ←, ↓, →	When someone points at something, they usually extend their arm and finger in the direction of the object or person they are referring to. This action is most similar to the concept of an arrow pointing in a certain direction. 
+
+CONCEPT: →
+pointed at	↑, ←, →, ↓	When someone points at something, they usually extend their arm and finger in the direction of the object or person. This action is most similar to the concept of an arrow pointing right, as it signifies direction and focus towards an object or person. 
+CONCEPT: →
+pointed at	↑, →, ↓, ←	When someone points at something, they usually extend their arm and finger in the direction of the object or person. This action is most similar to the concept of an arrow pointing to the right, as it signifies direction and focus towards a particular object or area. 
+CONCEPT: →
+pointed at	↑, →, ←, ↓	When someone points at something, they usually extend their arm and finger in the direction of the object or person. This action is most similar to the concept of an arrow pointing to the right, as it signifies direction and focus towards a particular object or area. 
+CONCEPT: →
+pointed at	↓, ↑, ←, →	When someone points at something, they extend their hand and finger in the direction of the object or person they are indicating. This action is most similar to the concept of an arrow pointing right, as it signifies direction and focus towards an object or point of interest.
+
+CONCEPT: →
+pointed at	↓, ↑, →, ←	When someone points at something, they extend their hand and finger in a specific direction to indicate a particular object or location. This action is most similar to the concept of an arrow pointing to the right. The arrow represents the direction of the pointing, and the object or location being pointed at would be to the right of the arrow.
+
+CONCEPT: →
+pointed at	↓, ←, ↑, →	When someone points at something, they usually extend their arm and finger in the direction of the object or person they are referring to. This action can be likened to an arrow being shot towards a target. The arrow moves in a straight line towards its target, just like the direction of pointing. 
+
+CONCEPT: →
+pointed at	↓, ←, →, ↑	When someone points at something, they usually extend their arm and finger in the direction of the object or person they are referring to. This action can be likened to an arrow being shot towards a target. The arrow moves forward, in the direction it was pointed at. 
+
+CONCEPT: →
+pointed at	↓, →, ↑, ←	When someone points at something, they usually extend their arm and finger in the direction of the object or person. This action is most similar to an arrow pointing in a certain direction. 
+CONCEPT: →
+pointed at	↓, →, ←, ↑	When someone points at something, they usually extend their arm and finger in the direction of the object or person they are referring to. This action can be likened to an arrow being shot towards a target. The arrow moves in a straight line towards its target, just like the direction of pointing. 
+
+CONCEPT: →
+pointed at	←, ↑, ↓, →	When someone points at something, they usually extend their arm and finger in the direction of the object or person. This action is most similar to the concept of an arrow pointing in a certain direction. 
+
+CONCEPT: →
+pointed at	←, ↑, →, ↓	When someone points at something, they usually extend their hand and finger in the direction of the object or person. This action is most similar to the concept of an arrow pointing in a certain direction. 
+
+CONCEPT: →
+pointed at	←, ↓, ↑, →	When someone points at something, they usually extend their arm and finger in the direction of the object or person they are referring to. This action can be likened to an arrow being shot towards a target. The arrow moves in a straight line from the archer to the target, just like the direction of pointing goes from the person pointing to the object or person they are pointing at.
+
+CONCEPT:
+pointed at	←, ↓, →, ↑	When someone points at something, they usually extend their arm and finger in the direction of the object or person they are referring to. This action can be likened to an arrow being shot towards a target. The arrow moves in a straight line from the archer to the target, just like the direction of pointing goes from the pointer to the pointed object or person.
+
+CONCEPT: →
+pointed at	←, →, ↑, ↓	When someone points at something, they usually extend their arm and finger in the direction of the object or person they are referring to. This action is most closely represented by the arrow pointing to the right (→), as it signifies forward motion or direction towards something, much like the act of pointing.
+
+CONCEPT: →
+pointed at	←, →, ↓, ↑	When someone points at something, they usually extend their arm and finger in the direction of the object or person. This action is most similar to the concept of an arrow pointing to the right, as it signifies direction and focus towards something specific. 
+CONCEPT: →
+pointed at	→, ↑, ↓, ←	When someone points at something, they usually extend their arm and finger in the direction of the object or person they are referring to. This action is most similar to the concept of an arrow pointing to the right, as it signifies direction and focus towards a particular object or person. 
+
+CONCEPT: →
+pointed at	→, ↑, ←, ↓	When someone points at something, they usually extend their arm and finger in the direction of the object or person they are referring to. This action is most similar to the forward motion represented by the right arrow (→). 
+
+CONCEPT: →
+pointed at	→, ↓, ↑, ←	When someone points at something, they usually extend their arm and finger in the direction of the object or person they are referring to. This action is most similar to the concept of an arrow pointing in a certain direction. 
+
+CONCEPT: →
+pointed at	→, ↓, ←, ↑	When someone points at something, they usually extend their hand and finger in the direction of the object or person they are referring to. This action is most closely represented by the concept of an arrow pointing to the right (→), as it signifies direction and focus towards something specific. 
+
+CONCEPT: →
+pointed at	→, ←, ↑, ↓	When someone points at something, they usually extend their hand and finger in the direction of the object or person. This action is most similar to the forward motion represented by the right arrow (→). The right arrow is often used to indicate direction or movement from one place to another, which aligns with the action of pointing at something.
+
+CONCEPT: →
+pointed at	→, ←, ↓, ↑	When someone points at something, they usually extend their hand and finger towards the direction of the object. This action is most similar to the forward motion represented by the right arrow. 
+CONCEPT: →
+pulled	↑, ↓, ←, →	Pulling is often associated with bringing something closer to oneself or moving it in a certain direction. This can be represented by the arrow pointing towards the left, as it signifies movement in a certain direction, similar to the action of pulling.
+
+CONCEPT: ←
+pulled	↑, ↓, →, ←	Pulling an object often involves bringing it closer to oneself or moving it in the opposite direction of its original position. This can be represented by the concept of '←', which signifies moving in the opposite direction or backwards.
+CONCEPT: ←
+pulled	↑, ←, ↓, →	Pulling an object often involves moving it towards oneself. If we consider the person pulling as a reference point, the object is moving in their direction. This can be represented by the left arrow, which can symbolize the action of pulling something towards oneself.
+
+CONCEPT: ←
+pulled	↑, ←, →, ↓	When something is pulled, it is typically drawn towards the source of the pulling force. This is similar to the left arrow (←) which indicates movement towards the left, or in this case, towards the source of the pull.
+CONCEPT: ←
+pulled	↑, →, ↓, ←	Pulling is often associated with bringing something closer to oneself or moving it in the opposite direction. In terms of the given concepts, this action is best represented by the downward arrow (↓). This is because when we pull something, we often exert force in a direction opposite to its initial position, similar to the downward motion indicated by the arrow.
+
+CONCEPT: ↓
+pulled	↑, →, ←, ↓	Pulling an object often involves moving it towards oneself. This action is best represented by the concept of '←', which signifies a movement or direction towards the left or, in this context, towards the person performing the action.
+
+CONCEPT: ←
+pulled	↓, ↑, ←, →	Pulling an object often involves a force that brings the object closer to the source of the force. This is similar to the left arrow symbol (←) which indicates movement towards the left, or in this case, towards the source of the force.
+CONCEPT: ←
+pulled	↓, ↑, →, ←	When something is pulled, it is typically drawn towards the source of the pulling force. This can be likened to the arrow pointing to the left, which signifies movement or direction towards the left, similar to how an object is moved towards the source when it is pulled.
+CONCEPT: ←
+pulled	↓, ←, ↑, →	When something is pulled, it is typically drawn towards the source of the pulling force. This is similar to the left arrow (←) which indicates movement towards the left, or in this case, towards the source of the pull.
+CONCEPT: ←
+pulled	↓, ←, →, ↑	When something is pulled, it is typically drawn towards the source of the pulling force. This can be represented by the left arrow (←), as it signifies movement towards the source, similar to how an object is pulled.
+
+CONCEPT: ←
+pulled	↓, →, ↑, ←	Pulling an object often involves a force that draws it closer to the source, similar to the way gravity pulls objects downward. 
+CONCEPT: ↓
+pulled	↓, →, ←, ↑	When something is pulled, it is typically drawn towards the source of the pulling force. This is similar to the left arrow (←) which points towards the direction from where it starts. 
+CONCEPT: ←
+pulled	←, ↑, ↓, →	Pulling is often associated with bringing something closer to oneself, which can be represented by the concept of moving in the opposite direction of where the object initially is. This is similar to the arrow pointing to the left, which indicates a movement or direction towards the left, or in this case, towards oneself.
+
+CONCEPT: ←
+pulled	←, ↑, →, ↓	When something is pulled, it is typically drawn towards the source of the pulling force. This is similar to the left arrow (←) which points towards the direction from where it originates, indicating a movement or direction towards the source. 
+CONCEPT: ←
+pulled	←, ↓, ↑, →	Pulling is often associated with bringing something closer to oneself, which can be represented by the concept of moving in the opposite direction of where the object initially is. This is similar to the arrow pointing to the left, which indicates a movement or direction towards the left, or backwards from a certain perspective.
+
+CONCEPT: ←
+pulled	←, ↓, →, ↑	Pulling is often associated with a backward motion, as when you pull something, it typically moves towards you. This is similar to the leftward arrow, which is often used to denote moving backwards or undoing in digital interfaces.
+
+CONCEPT: ←
+pulled	←, →, ↑, ↓	Pulling is often associated with bringing something closer to oneself, which can be represented by the concept of moving in the opposite direction of the initial position. This is similar to the arrow pointing to the left, which indicates a movement or direction towards the left or backwards from the initial position.
+
+CONCEPT: ←
+pulled	←, →, ↓, ↑	Pulling is often associated with bringing something closer to oneself, which can be represented by the concept of moving in the opposite direction of where the object initially is. This is similar to the arrow pointing to the left, which indicates a movement or direction towards the left, or in this case, towards oneself.
+
+CONCEPT: ←
+pulled	→, ↑, ↓, ←	Pulling an object often involves moving it towards oneself. If we consider the starting point as the puller and the direction of the pull towards the puller, the best representation would be the left arrow (←). This is because, in a standard left-to-right reading pattern, the left arrow indicates a movement towards the origin or starting point, which is similar to the action of pulling.
+
+CONCEPT
+pulled	→, ↑, ←, ↓	Pulling an object often involves moving it towards oneself. This action is best represented by the left arrow (←) if we assume that the person is facing the right side of the screen or page. The left arrow indicates a movement or direction towards the left, which can be seen as a metaphor for pulling something closer.
+
+CONCEPT: ←
+pulled	→, ↓, ↑, ←	Pulling is often associated with drawing something closer to oneself. If we consider ourselves as a reference point, pulling something would mean bringing it towards us. In the context of the given concepts, the arrow pointing towards the left (←) can be seen as representing this action, if we assume that we are facing the right side. This is because the left arrow indicates movement towards us (the observer),
+pulled	→, ↓, ←, ↑	Pulling an object often involves a force that moves the object towards the source of the force. This is similar to the left arrow symbol (←) which indicates movement or direction towards the left, or in this case, towards the source of the pull.
+
+CONCEPT: ←
+pulled	→, ←, ↑, ↓	When something is pulled, it is typically drawn towards the source of the pulling force. This is similar to the left arrow symbol (←) which points towards the direction from which it originates. 
+CONCEPT: ←
+pulled	→, ←, ↓, ↑	When something is pulled, it is typically drawn towards the source of the pulling force. This is similar to the left arrow, which points towards the direction from which it originates, indicating a movement towards the source.
+CONCEPT: ←
+pushed	↑, ↓, ←, →	Pushing an object typically involves applying force in a specific direction to move it away from you. This action can be represented by any of the given concepts depending on the direction of the push. However, in a general sense, we often visualize pushing as a forward motion, which is typically represented by the rightward arrow in a standard left-to-right reading culture.
+
+CONCEPT: →
+pushed	↑, ↓, →, ←	Pushing an object typically involves applying force in a specific direction to move it away from you. This action is most commonly performed in a forward direction, from your perspective.
+
+CONCEPT: →
+pushed	↑, ←, ↓, →	Pushing an object often results in the object moving forward from its original position. This forward motion can be represented by the right arrow (→), which typically signifies moving ahead or progressing.
+
+CONCEPT: →
+pushed	↑, ←, →, ↓	Pushing an object often results in the object moving forward from its original position. This forward motion can be represented by the right arrow symbol, which typically signifies moving ahead or progressing forward in many contexts.
+
+CONCEPT: →
+pushed	↑, →, ↓, ←	When something is pushed, it moves forward from its original position. This action is similar to the concept of moving to the right, as it also represents forward movement or progress.
+
+CONCEPT: →
+pushed	↑, →, ←, ↓	Pushing an object typically involves applying force in a specific direction to move it away from you. This action is most commonly performed in a forward direction, from your perspective.
+
+CONCEPT: →
+pushed	↓, ↑, ←, →	Pushing an object typically involves applying force in a specific direction to move it away from you. This action can be represented by the concept of the right arrow (→), which signifies forward movement or direction.
+
+CONCEPT: →
+pushed	↓, ↑, →, ←	Pushing an object typically involves applying force in a specific direction, causing the object to move away from the source of the force. This is similar to the concept of the right arrow (→), which represents movement or direction towards the right.
+
+CONCEPT: →
+pushed	↓, ←, ↑, →	When something is pushed, it moves in the direction of the force applied to it. This can be likened to the arrow symbol which points in a certain direction, indicating movement or progression.
+
+CONCEPT: →
+pushed	↓, ←, →, ↑	When something is pushed, it moves in the direction of the force applied. This can be any direction, but for the sake of this analogy, let's consider a common scenario where an object is pushed forward. This forward motion can be represented by the right arrow (→) if we consider the standard left-to-right reading and progression direction.
+
+CONCEPT: →
+pushed	↓, →, ↑, ←	Pushing an object typically results in the object moving forward or away from the source of the push. This is similar to the right arrow (→) which is often used to indicate forward movement or progression.
+
+CONCEPT: →
+pushed	↓, →, ←, ↑	Pushing an object typically results in the object moving forward from its original position. This forward motion can be represented by the right arrow symbol (→), which indicates a direction or movement to the right or forward.
+
+CONCEPT: →
+pushed	←, ↑, ↓, →	Pushing is often associated with forward motion or movement in a specific direction. It involves applying force to move something from its current position to a new one. 
+
+CONCEPT: →
+pushed	←, ↑, →, ↓	When something is pushed, it moves away from the source of the force. This is similar to the concept of the left arrow (←), which indicates movement away from a point in a leftward direction. 
+CONCEPT: ←
+pushed	←, ↓, ↑, →	Pushing an object typically involves applying force in a specific direction, causing the object to move away from the source of the force. This can be represented by the arrow pointing to the right, as we often visualize or depict motion or progression from left to right in diagrams or illustrations.
+
+CONCEPT: →
+pushed	←, ↓, →, ↑	When something is pushed, it moves away from the source of the force. This is similar to the concept of the left arrow (←), which indicates movement away from a point of reference on the right. 
+CONCEPT: ←
+pushed	←, →, ↑, ↓	Pushing an object typically involves applying force in a specific direction, causing the object to move away from the source of the force. This can be represented by the arrow pointing to the right (→), which signifies forward or outward motion.
+
+CONCEPT: →
+pushed	←, →, ↓, ↑	Pushing an object typically involves applying force in a specific direction, causing the object to move away from the source of the force. This can be represented by the arrow pointing to the right, as it signifies forward or outward movement.
+
+CONCEPT: →
+pushed	→, ↑, ↓, ←	Pushing is often associated with forward motion or movement in a direction away from the origin point. It's like when you push a box, it moves forward from its original position.
+
+CONCEPT: →
+pushed	→, ↑, ←, ↓	When something is pushed, it moves forward from its original position. This action is best represented by the concept of the right arrow (→), which signifies forward or rightward movement. 
+
+CONCEPT: →
+pushed	→, ↓, ↑, ←	Pushing an object typically results in the object moving forward from its original position. This forward motion can be best represented by the right arrow (→) as it signifies moving ahead or progressing from one point to another.
+CONCEPT: →
+pushed	→, ↓, ←, ↑	Pushing an object typically results in the object moving forward from its original position. This forward motion can be best represented by the right arrow (→) as it signifies moving ahead or progressing forward.
+CONCEPT: →
+pushed	→, ←, ↑, ↓	Pushing an object typically results in the object moving away from the source of the force. This is similar to the forward motion indicated by the right arrow.
+CONCEPT: →
+pushed	→, ←, ↓, ↑	When you push something, it moves away from you in the direction you are exerting force. This is similar to the forward motion represented by the right arrow (→).
+CONCEPT: →
+walked	↑, ↓, ←, →	Walking is a forward motion, it involves moving from one place to another in a linear direction. It's about progression and advancement, similar to the way the right arrow (→) points towards a direction, indicating movement or progress.
+
+CONCEPT: →
+walked	↑, ↓, →, ←	Walking is often associated with moving forward, whether it's in a physical or metaphorical sense. It's a progression, a movement from one place to another, often in a straight line. 
+
+CONCEPT: →
+walked	↑, ←, ↓, →	Walking is a forward motion, it involves moving from one place to another in a specific direction. It's about progress and moving ahead. 
+CONCEPT: →
+walked	↑, ←, →, ↓	Walking is a forward motion, it involves moving from one place to another in a specific direction. It's not about going up or down (like ↑ or ↓ might suggest), nor is it about going backwards (like ← might suggest). Instead, it's about moving ahead, progressing from the current position to a new one.
+
+CONCEPT: →
+walked	↑, →, ↓, ←	Walking is a forward motion, it involves moving from one place to another in a specific direction. It's not about going up or down (unless we're talking about stairs, but that's not specified here), and it's not about going backwards. Therefore, the best representation for the event 'walked' would be the right arrow (→), which typically signifies moving forward or progressing.
+
+CONCEPT
+walked	↑, →, ←, ↓	Walking is a forward motion, it involves moving from one place to another in a specific direction. It's not about going up or down (like ↑ or ↓ might suggest), nor is it about going backwards (like ← might suggest). 
+
+CONCEPT: →
+walked	↓, ↑, ←, →	Walking is a forward motion, it involves moving from one place to another in a linear direction. It's about progress and moving ahead. 
+CONCEPT: →
+walked	↓, ↑, →, ←	Walking is generally associated with moving forward. It is a progression, a movement from one place to another in a specific direction. It is not typically associated with moving backwards, upwards, or downwards. 
+
+CONCEPT: →
+walked	↓, ←, ↑, →	Walking is a forward motion, it involves moving from one place to another in a forward direction. 
+CONCEPT: →
+walked	↓, ←, →, ↑	Walking is a forward motion, it involves moving from one place to another in a specific direction. It's not about going up or down (like in a lift), or going backwards. It's about progressing ahead, moving forward.
+
+CONCEPT: →
+walked	↓, →, ↑, ←	Walking is generally associated with moving forward. It's a progression, a movement from one place to another, often in a straight line. It's not typically associated with moving backwards, or up and down. 
+
+CONCEPT: →
+walked	↓, →, ←, ↑	Walking is a forward motion, it involves moving from one place to another in a specific direction. It's not about going up or down (like in a lift), or going backwards. It's about progressing ahead, moving forward.
+
+CONCEPT: →
+walked	←, ↑, ↓, →	Walking is a forward motion, it involves moving from one place to another in a linear direction. It's about progression and moving ahead. 
+CONCEPT: →
+walked	←, ↑, →, ↓	Walking is a forward motion, typically moving from one place to another in a linear direction. It's a progression, not a regression or a vertical movement. 
+
+CONCEPT: →
+walked	←, ↓, ↑, →	Walking is a forward motion, a progression from one point to another. It's a linear movement that takes you from where you are to where you want to be. 
+CONCEPT: →
+walked	←, ↓, →, ↑	Walking is generally associated with moving forward or making progress. It's a linear motion that takes you from one place to another, often in a straight line or on a set path. 
+
+CONCEPT: →
+walked	←, →, ↑, ↓	Walking is generally associated with forward movement or progress. It's a linear action that takes you from one point to another, often implying advancement or moving ahead.
+
+CONCEPT: →
+walked	←, →, ↓, ↑	Walking is a forward motion, it involves moving from one place to another in a linear direction. It's about progression and moving ahead. 
+CONCEPT: →
+walked	→, ↑, ↓, ←	Walking is a forward motion, it involves moving from one place to another in a linear direction. It's not about moving up or down (vertically), but rather advancing forward (horizontally). 
+
+CONCEPT: →
+walked	→, ↑, ←, ↓	Walking is generally associated with moving forward, progressing from one point to another. It's a linear motion that takes you from your current position to a new one, much like the direction indicated by the arrow →.
+
+CONCEPT: →
+walked	→, ↓, ↑, ←	Walking is a forward motion, it involves moving from one place to another in a linear direction. It's about progress and moving ahead. 
+CONCEPT: →
+walked	→, ↓, ←, ↑	Walking is a forward motion, it involves moving from one place to another in a linear direction. It's about progress and moving ahead. 
+CONCEPT: →
+walked	→, ←, ↑, ↓	Walking is generally associated with moving forward, progressing from one place to another. It's a linear motion that usually takes us from point A to point B, similar to the way the arrow '→' points from one end to another.
+CONCEPT: →
+walked	→, ←, ↓, ↑	Walking is generally associated with moving forward, progressing from one place to another. It's a linear motion that usually takes us from a starting point to a destination. 
+
+CONCEPT: →
+hunted	↑, ↓, ←, →	Being hunted often involves a sense of danger and a need to escape or evade, which can be associated with the concept of moving away or retreating. This can be represented by the left arrow (←), which is often used to denote going back or moving away from something.
+
+CONCEPT: ←
+hunted	↑, ↓, →, ←	Being hunted often involves a sense of danger and a need to escape or evade, which can be associated with the concept of moving away or trying to escape. This can be represented by the left arrow (←), which can symbolize moving away from something or trying to escape.
+
+CONCEPT: ←
+hunted	↑, ←, ↓, →	Being hunted often involves a sense of being pursued or chased, which implies movement away from something. This can be best represented by the concept of '←' which signifies moving or looking backwards, as one would do when being hunted.
+
+CONCEPT: ←
+hunted	↑, ←, →, ↓	Being hunted often involves a sense of being pursued or chased, which implies a direction away from the threat. This can be represented by the concept of "↓" which signifies moving downwards or retreating. 
+
+CONCEPT: ↓
+hunted	↑, →, ↓, ←	Being hunted often involves a sense of danger and a downward spiral in terms of safety and security. It can be seen as a negative event, which is often associated with a downward direction. 
+CONCEPT: ↓
+hunted	↑, →, ←, ↓	Being hunted often involves a sense of being pursued or chased, which implies a direction or movement away from the threat. This can be represented by the concept of '←', which symbolizes moving or looking backwards, as one might do when being hunted.
+
+CONCEPT: ←
+hunted	↓, ↑, ←, →	Being hunted often involves a sense of danger and a downward spiral into fear and vulnerability. It can also represent a decline in safety and security. 
+CONCEPT: ↓
+hunted	↓, ↑, →, ←	Being hunted often involves a sense of being pursued or chased, which implies a direction or movement away from something. This can be best represented by the concept of '←'. This symbol typically represents moving or going backwards, which can be analogous to the act of retreating or running away, often associated with being hunted.
+
+CONCEPT: ←
+hunted	↓, ←, ↑, →	Being hunted often involves a sense of danger and a downward spiral in terms of safety and security. It can be seen as a negative event, which is often associated with a downward direction. 
+CONCEPT: ↓
+hunted	↓, ←, →, ↑	Being hunted often involves a sense of danger and a downward spiral in terms of safety and security. It can be seen as a decline or a fall in a metaphorical sense. 
+CONCEPT: ↓
+hunted	↓, →, ↑, ←	Being hunted often involves a sense of being pursued or chased, which implies a forward motion or progression. This can be likened to the concept of moving forward or advancing in a certain direction.
+
+CONCEPT: →
+hunted	↓, →, ←, ↑	Being hunted often involves a sense of danger and a downward spiral in terms of safety and security. It can be seen as a decline in a positive state, much like how the downward arrow (↓) often represents a decrease or decline in various contexts.
+
+CONCEPT: ↓
+hunted	←, ↑, ↓, →	Being hunted often involves being pursued or chased, which implies a direction towards the one being hunted. This can be represented by the concept of '→' which signifies moving forward or advancing towards a certain direction. 
+
+CONCEPT: →
+hunted	←, ↑, →, ↓	Being hunted often involves being pursued or chased, which implies a direction or movement. The arrow pointing to the left (←) can represent this concept, as it is often associated with moving backwards or retreating, which is a common reaction when one is being hunted.
+
+CONCEPT: ←
+hunted	←, ↓, ↑, →	Being hunted often involves being pursued or chased, which implies a direction or movement away from the hunter. This can be best represented by the concept of '←' which signifies moving or going backwards, similar to how a prey tries to escape or move away from its predator.
+
+CONCEPT: ←
+hunted	←, ↓, →, ↑	Being hunted often involves a sense of being pursued or chased, which can be associated with a backward movement or trying to escape. This can be represented by the concept of '←' which signifies moving or looking backward.
+
+CONCEPT: ←
+hunted	←, →, ↑, ↓	Being hunted often involves being pursued or chased, which implies a direction or movement away from the hunter. This can be represented by the concept of '←', which symbolizes moving or going backwards, as if trying to escape from something.
+
+CONCEPT: ←
+hunted	←, →, ↓, ↑	Being hunted often involves a sense of danger and a feeling of being pursued or chased. It can be associated with a backward movement or regression as the one being hunted tries to escape or avoid the hunter. 
+
+CONCEPT: ←
+hunted	→, ↑, ↓, ←	Being hunted often involves being pursued or chased, which implies a forward motion or progression. This can be represented by the concept of '→' which signifies moving forward or advancing in a certain direction.
+
+CONCEPT: →
+hunted	→, ↑, ←, ↓	Being hunted often involves being pursued or chased, which implies a forward motion or progression. This can be associated with the concept of moving forward or advancing, which is represented by the right arrow (→).
+
+CONCEPT: →
+hunted	→, ↓, ↑, ←	Being hunted often involves a sense of being pursued or chased, which can be associated with a forward motion or direction. This is similar to the concept of the right arrow (→), which typically represents moving forward or progressing in a certain direction.
+
+CONCEPT: →
+hunted	→, ↓, ←, ↑	Being hunted often involves a sense of being pursued or chased, which implies a forward motion or progression. This can be associated with the concept of moving forward or advancing, which is represented by the right arrow (→).
+
+CONCEPT: →
+hunted	→, ←, ↑, ↓	Being hunted often involves a sense of being pursued or chased, which implies a forward motion or progression. This can be represented by the concept of '→' which signifies moving forward or advancing in a certain direction. 
+
+CONCEPT: →
+hunted	→, ←, ↓, ↑	When an animal is being hunted, it is pursued or chased, often with the intention of capturing or killing it. This can be likened to the forward motion or progression represented by the concept →. Just as a hunter moves forward in pursuit of its prey, the event of being hunted involves a forward motion or progression, whether in terms of the hunter moving towards its target or the prey trying to move
+impacted	↑, ↓, ←, →	When something is impacted, it is usually hit or struck with force, causing a change in its current state or direction. This can be likened to the concept of an arrow pointing downwards (↓), which represents a force or action being exerted downwards, causing a change or impact.
+
+CONCEPT: ↓
+impacted	↑, ↓, →, ←	When something is impacted, it is usually hit or affected by another force, causing a change in its current state or direction. This can be likened to the concept of an arrow pointing downwards (↓), which symbolizes a force or influence coming from above and causing a change or impact.
+
+CONCEPT: ↓
+impacted	↑, ←, ↓, →	When something is impacted, it is usually hit or affected from a certain direction. The concept that best represents this is ←. This is because the arrow points towards the left, symbolizing an external force coming in that direction, similar to how an impact comes from an external source.
+
+CONCEPT: ←
+impacted	↑, ←, →, ↓	The event 'impacted' can be represented by the concept '↓'. This is because when something is impacted, it is usually hit or struck with force, which is often associated with a downward motion or direction. Just like when a meteor impacts the earth, it comes from above and moves downwards. 
+
+CONCEPT: ↓
+impacted	↑, →, ↓, ←	When something is impacted, it is usually hit or affected by another force, causing a change in its current state or direction. This can be likened to the concept of an arrow pointing downwards (↓), which symbolizes a force or action being exerted downwards, causing a change or impact.
+
+CONCEPT: ↓
+impacted	↑, →, ←, ↓	The event 'impacted' can be represented by the concept '↓'. This is because when something is impacted, there is usually a force coming down on it, similar to the downward arrow. This can be seen in situations such as a meteor impacting the earth, a hammer impacting a nail, or even a sudden realization impacting a person's thoughts. 
+
+CONCEPT: ↓
+impacted	↓, ↑, ←, →	When something is impacted, it is usually hit or affected in a way that forces it to change direction or state. This can be likened to the left arrow (←) which signifies a change in direction or movement away from the usual path. 
+
+CONCEPT: ←
+impacted	↓, ↑, →, ←	When something is impacted, it is usually hit or affected by another force, causing a change in its current state or direction. This can be likened to the concept of an arrow pointing downwards (↓), which can symbolize a force or influence coming from above and causing a change or impact.
+
+CONCEPT: ↓
+impacted	↓, ←, ↑, →	When something is impacted, it is usually hit or affected by another force, causing it to change direction or state. This can be likened to the left arrow (←) which signifies a change in direction or movement away from the original path.
+
+CONCEPT: ←
+impacted	↓, ←, →, ↑	When something is impacted, it is usually hit or affected in a way that forces it to move or change direction. This can be likened to the concept of '←' which represents a force or movement to the left. Just like an impact can cause a shift or movement, the arrow '←' signifies a change or movement in a specific direction.
+
+CONCEPT: '←'
+impacted	↓, →, ↑, ←	When something is impacted, it is usually hit or affected by another force, causing a change in its current state or direction. This can be likened to the concept of an arrow pointing downwards (↓), which symbolizes a force or action being exerted downwards, causing a change in position or state.
+
+CONCEPT: ↓
+impacted	↓, →, ←, ↑	When something is impacted, it is usually hit or affected by another force, causing a change in its current state or direction. This can be likened to the concept of an arrow pointing downwards (↓), which can symbolize a force or influence coming from above and causing a change or impact.
+
+CONCEPT: ↓
+impacted	←, ↑, ↓, →	When something is impacted, it is usually hit or affected by another object or event, causing a change in its current state or direction. This can be likened to the action of an arrow hitting a target and causing it to move or change direction.
+
+CONCEPT: →
+impacted	←, ↑, →, ↓	The event 'impacted' can be represented by the concept '→'. This is because when something is impacted, there is usually a force or influence that pushes or moves it in a certain direction. This is similar to the arrow '→' which symbolizes movement or direction towards the right or forward. 
+
+CONCEPT: →
+impacted	←, ↓, ↑, →	When something is impacted, it is usually hit or affected by another force, causing it to change direction or state. This can be likened to the action of an arrow hitting a target and causing it to move or change in some way. 
+
+CONCEPT: →
+impacted	←, ↓, →, ↑	When something is impacted, it is usually hit or affected by another force, causing it to change direction or state. This can be likened to the action of an arrow pointing downwards (↓), which symbolizes a force or action being exerted downwards, causing an impact.
+
+CONCEPT: ↓
+impacted	←, →, ↑, ↓	The event 'impacted' can be represented by the concept '→'. This is because when something is impacted, there is usually a force or influence that is exerted in a specific direction, causing a change or effect. This is similar to the arrow '→' which symbolizes movement or direction towards something.
+
+CONCEPT: →
+impacted	←, →, ↓, ↑	When something is impacted, it is usually hit or affected by another force coming towards it. This can be represented by the concept of an arrow pointing towards a certain direction, indicating the movement or force coming towards something. 
+
+CONCEPT: →
+impacted	→, ↑, ↓, ←	The event 'impacted' can be represented by the concept '→'. This is because when something is impacted, there is usually a force or influence that pushes or moves it in a certain direction. This is similar to the arrow '→' which symbolizes movement or direction towards the right. 
+
+CONCEPT: →
+impacted	→, ↑, ←, ↓	The event 'impacted' can be represented by the concept '→'. This is because when something is impacted, there is usually a force or influence that pushes or moves it in a certain direction. This is similar to the arrow '→' which symbolizes movement or direction towards the right. 
+
+CONCEPT: →
+impacted	→, ↓, ↑, ←	When something is impacted, it is usually hit or affected by another force, causing a change in its current state or direction. This can be likened to the concept of an arrow pointing downwards (↓), which symbolizes a force or action being exerted downwards, causing a change or impact.
+
+CONCEPT: ↓
+impacted	→, ↓, ←, ↑	When something is impacted, it is usually hit or affected by another force, causing a change in its current state or direction. This can be likened to the concept of an arrow pointing downwards (↓), which symbolizes a force or action being exerted downwards, causing a change or impact.
+
+CONCEPT: ↓
+impacted	→, ←, ↑, ↓	The event 'impacted' can be represented by the concept '→'. This is because when something is impacted, there is usually a force or influence moving it forward or causing a change in its current state. This forward motion or influence can be symbolized by the arrow pointing to the right, which typically represents forward movement or progression in Western cultures.
+
+CONCEPT: →
+impacted	→, ←, ↓, ↑	When something is impacted, it is usually hit or affected by another force, causing a change in its current state or direction. This can be likened to the concept of an arrow pointing downwards (↓), which symbolizes a force or action being exerted downwards, causing a change or impact.
+
+CONCEPT: ↓
+perched	↑, ↓, ←, →	Perching is similar to the action of moving downwards to land on a spot, much like a bird would descend to perch on a branch. 
+CONCEPT: ↓
+perched	↑, ↓, →, ←	Perching is similar to the concept of going upwards because it involves an upward movement, usually by a bird, to settle on a branch or other high place.
+
+CONCEPT: ↑
+perched	↑, ←, ↓, →	Perching is similar to the concept of '↑' as it involves an upward movement or position, much like a bird flying upwards to perch on a tree branch.
+CONCEPT: ↑
+perched	↑, ←, →, ↓	Perching is similar to the concept of '↑' as it involves an upward movement or position, much like a bird flying up to perch on a tree branch.
+CONCEPT: ↑
+perched	↑, →, ↓, ←	Perching is similar to the concept of going upwards because it involves an upward movement, usually by a bird, to rest on a branch or other elevated position. 
+CONCEPT: ↑
+perched	↑, →, ←, ↓	Perching is similar to the concept of going upwards because birds usually fly upwards to perch on a tree or any high place. 
+CONCEPT: ↑
+perched	↓, ↑, ←, →	Perching is similar to the action of moving upwards to rest or settle on a high or elevated position, much like a bird perching on a tree branch. 
+CONCEPT: ↑
+perched	↓, ↑, →, ←	Perching is often associated with birds landing on a branch or a ledge, which usually involves a downward motion. However, once perched, the bird is in a state of rest or stability, not moving in any particular direction. 
+
+CONCEPT: ↓
+perched	↓, ←, ↑, →	Perching is often associated with birds landing on a branch or a ledge, which involves a downward motion. Therefore, the concept of '↓' can be used to represent 'perched'. 
+
+CONCEPT: ↓
+perched	↓, ←, →, ↑	Perching is similar to the concept of '↑' as it involves an upward movement or position, much like a bird flying upwards to perch on a tree branch.
+CONCEPT: ↑
+perched	↓, →, ↑, ←	Perching is similar to the concept of '↑' as it involves an upward movement or position, much like a bird flying upwards to perch on a tree branch.
+CONCEPT: ↑
+perched	↓, →, ←, ↑	Perching is similar to the concept of 'up' because when a bird perches, it usually flies up to a higher place such as a tree branch or a ledge. It's a movement towards an elevated position, which can be represented by the upward direction.
+CONCEPT: ↑
+perched	←, ↑, ↓, →	Perching is similar to the action of moving upwards to rest or settle on a high or elevated position, much like a bird perching on a tree branch. 
+
+CONCEPT: ↑
+perched	←, ↑, →, ↓	Perching is an action where a bird or any creature settles itself on a branch or a high place. This action involves an upward movement before the creature can settle or perch. Therefore, the concept that best represents 'perched' is the upward arrow (↑).
+
+CONCEPT: ↑
+perched	←, ↓, ↑, →	Perching is similar to the action of moving downwards to land on a spot, much like a bird would descend to perch on a branch. 
+CONCEPT: ↓
+perched	←, ↓, →, ↑	Perching is similar to the action of moving downwards to land on a spot, much like a bird would descend to perch on a branch. 
+CONCEPT: ↓
+perched	←, →, ↑, ↓	Perching is an action that involves moving upwards onto a higher position, often used to describe birds landing on a branch. It involves an upward movement before settling down.
+
+CONCEPT: ↑
+perched	←, →, ↓, ↑	Perching is similar to the action of moving downwards to land on a spot, much like a bird perching on a branch. It involves a downward motion before coming to rest.
+CONCEPT: ↓
+perched	→, ↑, ↓, ←	Perching is similar to the action of moving upwards to rest or settle on a high or elevated position, much like a bird perching on a tree branch. 
+CONCEPT: ↑
+perched	→, ↑, ←, ↓	Perching is similar to the concept of going upwards and then stopping at a certain point. Birds, for example, fly upwards (↑) to perch on a tree branch and then they stop moving. They don't continue to go up indefinitely, but they reach a certain point and then they stay there. 
+CONCEPT: ↑
+perched	→, ↓, ↑, ←	Perching is similar to the action of moving downwards to land on a spot, much like a bird perching on a branch. It involves a downward motion before coming to rest.
+CONCEPT: ↓
+perched	→, ↓, ←, ↑	Perching is similar to the action of moving downwards to land on a spot, much like a bird perching on a branch. It involves a downward motion before settling in a place.
+CONCEPT: ↓
+perched	→, ←, ↑, ↓	Perching is similar to the concept of going upwards and then stopping at a certain point. Birds, for example, fly upwards (↑) and then perch on a branch, stopping their upward movement.
+
+CONCEPT: ↑
+perched	→, ←, ↓, ↑	Perching is an action where birds or other creatures settle or rest somewhere, especially on something high or narrow. This can be likened to the upward movement or direction, as birds often fly upwards to perch on trees or other high places.
+
+CONCEPT: ↑
+showed	↑, ↓, ←, →	The event 'showed' can be likened to the act of revealing or directing attention towards something. This is similar to the function of the arrow pointing right (→), which is often used to indicate direction or to point towards something.
+
+CONCEPT: →
+showed	↑, ↓, →, ←	The event 'showed' can be likened to the concept of pointing towards a direction where something is revealed or displayed. It's like directing someone's attention to a particular object or event.
+
+CONCEPT: →
+showed	↑, ←, ↓, →	The event 'showed' can be represented by the concept '→'. This is because when something is shown, it is typically directed or pointed out to someone else, much like the right arrow which indicates direction or pointing towards something.
+CONCEPT: →
+showed	↑, ←, →, ↓	The event 'showed' can be represented by the concept '→'. This is because when something is shown, it is typically directed or pointed out to someone else, much like the right arrow which indicates direction or pointing towards something.
+CONCEPT: →
+showed	↑, →, ↓, ←	The event 'showed' can be likened to the act of directing or pointing something out, much like an arrow pointing in a certain direction. It's about guiding attention towards something specific.
+
+CONCEPT: →
+showed	↑, →, ←, ↓	The event 'showed' can be seen as a process of revealing or directing attention towards something. It's like pointing towards a certain direction where the object or subject of interest is located. 
+
+CONCEPT: →
+showed	↓, ↑, ←, →	The event 'showed' can be represented by the concept '→'. This is because when something is shown, it is typically directed or pointed out to someone else, much like the right arrow which indicates direction or pointing towards something.
+CONCEPT: →
+showed	↓, ↑, →, ←	The event 'showed' can be represented by the concept '→'. This is because when something is shown, it is typically directed or pointed out to someone else, much like the right arrow which indicates direction or pointing towards something.
+CONCEPT: →
+showed	↓, ←, ↑, →	The event 'showed' can be represented by the concept '→'. This is because when something is shown, it is typically presented or directed towards someone or something else, much like the right arrow pointing towards a direction or object. 
+CONCEPT: →
+showed	↓, ←, →, ↑	The event 'showed' can be represented by the concept '→'. This is because when something is shown, it is typically presented or directed towards someone or something, much like the right arrow pointing towards a direction or object. 
+
+CONCEPT: →
+showed	↓, →, ↑, ←	The event 'showed' can be represented as the act of directing or pointing something out, much like an arrow pointing in a certain direction. It's about guiding someone's attention towards a specific thing or event.
+
+CONCEPT: →
+showed	↓, →, ←, ↑	The event 'showed' can be represented by the concept '→'. This is because when something is shown, it is typically directed or pointed out to someone else, much like the right arrow which indicates direction or pointing towards something.
+CONCEPT: →
+showed	←, ↑, ↓, →	The event 'showed' can be represented as the act of directing or pointing something out, similar to how an arrow points in a certain direction. 
+
+CONCEPT: →
+showed	←, ↑, →, ↓	The event 'showed' can be represented as the act of directing or pointing something out, similar to how an arrow points in a certain direction. 
+
+CONCEPT: →
+showed	←, ↓, ↑, →	The event 'showed' can be represented as the act of directing or pointing something out, similar to how an arrow points in a certain direction. 
+
+CONCEPT: →
+showed	←, ↓, →, ↑	The event 'showed' can be represented as the act of directing or pointing something out, similar to how an arrow points in a certain direction. 
+
+CONCEPT: →
+showed	←, →, ↑, ↓	When someone shows something, they are directing attention towards it, much like an arrow pointing towards a specific direction. 
+
+CONCEPT: →
+showed	←, →, ↓, ↑	The event 'showed' can be represented as a process of directing attention from one point to another, similar to how an arrow points from one location to another. 
+
+CONCEPT: →
+showed	→, ↑, ↓, ←	The event 'showed' can be represented as a process of directing or leading someone's attention towards something. It's like pointing in a certain direction to indicate or reveal something. 
+
+CONCEPT: →
+showed	→, ↑, ←, ↓	The event 'showed' can be represented as the act of directing or pointing something out to someone. It involves a forward motion, a progression from not knowing to knowing, similar to how an arrow points towards a direction. 
+
+CONCEPT: →
+showed	→, ↓, ↑, ←	The event 'showed' can be likened to the act of directing or pointing something out, which is a forward motion. This is similar to the concept of '→' which represents moving or pointing forward or to the right direction.
+
+CONCEPT: →
+showed	→, ↓, ←, ↑	The event 'showed' can be represented by the concept '→'. This is because 'showing' something often involves directing attention towards it, much like an arrow pointing in a certain direction. It indicates a transfer or movement of information from one entity to another, similar to how an arrow '→' points from one place to another.
+
+CONCEPT: →
+showed	→, ←, ↑, ↓	The event 'showed' can be represented as the act of directing or pointing something out, similar to how an arrow points in a certain direction. 
+
+CONCEPT: →
+showed	→, ←, ↓, ↑	The event 'showed' can be represented as a process of transferring information or revealing something from one entity to another. It's like a direction of flow from the source to the receiver.
+
+CONCEPT: →
+smashed	↑, ↓, ←, →	Smashing is often associated with a downward force or action, such as smashing a glass on the floor or a hammer smashing down on a nail. 
+CONCEPT: ↓
+smashed	↑, ↓, →, ←	Smashing is often associated with a downward force or action, such as smashing a glass on the floor or a hammer smashing down on a nail. 
+CONCEPT: ↓
+smashed	↑, ←, ↓, →	Smashing is often associated with a downward force or action, such as smashing a glass on the floor or a hammer smashing down on a nail. 
+CONCEPT: ↓
+smashed	↑, ←, →, ↓	The event 'smashed' can be represented as a forceful, direct impact, similar to a sudden downward motion. This is because when something is smashed, it is typically hit or crushed with a lot of force, often in a downward direction, such as when a hammer smashes down onto an object.
+CONCEPT: ↓
+smashed	↑, →, ↓, ←	The event 'smashed' can be represented by the concept '↓'. The analogy is that when something is smashed, it is typically hit or crushed with a force that drives it downward. This is similar to the downward direction indicated by the '↓' symbol.
+
+CONCEPT: ↓
+smashed	↑, →, ←, ↓	Smashing is a forceful action that often results in something being pushed downwards or broken apart. It's a downward motion, similar to a hammer hitting a nail or a hand smashing a bug.
+
+CONCEPT: ↓
+smashed	↓, ↑, ←, →	The event 'smashed' can be represented by the concept of '↓'. This is because when something is smashed, it is typically forced or broken downwards due to the impact of a heavy object or force. The downward direction symbolizes the act of smashing or breaking something, similar to how an object would fall or be pushed down when smashed.
+
+CONCEPT: ↓
+smashed	↓, ↑, →, ←	The event 'smashed' can be represented by the concept of '↓'. This is because when something is smashed, it is typically forced or broken downwards with great force. The action of smashing often involves a downward motion, similar to the direction indicated by '↓'.
+
+CONCEPT: ↓
+smashed	↓, ←, ↑, →	Smashing is often associated with a downward force or action, similar to how an object is smashed onto a surface. This downward motion can be represented by the downward arrow (↓).
+CONCEPT: ↓
+smashed	↓, ←, →, ↑	Smashing is often associated with a downward force or action, similar to how an object is smashed onto a surface. It implies a downward movement or direction.
+CONCEPT: ↓
+smashed	↓, →, ↑, ←	The event 'smashed' can be represented by the concept of '↓'. This is because when something is smashed, it is typically forced or broken downwards due to the impact of a heavy blow or pressure. The downward arrow symbolizes this forceful downward movement or action.
+CONCEPT: ↓
+smashed	↓, →, ←, ↑	The event 'smashed' can be represented by the concept '↓'. The analogy is that when something is smashed, it is typically hit or crushed with a force that drives it downward. This is similar to the downward direction indicated by '↓'. 
+
+CONCEPT: ↓
+smashed	←, ↑, ↓, →	The event 'smashed' can be represented by the concept '↓'. The analogy is that when something is smashed, it is typically hit or crushed downwards with force. This action is similar to the downward direction indicated by the '↓' symbol.
+CONCEPT: ↓
+smashed	←, ↑, →, ↓	The event 'smashed' can be represented by the concept '↓'. The analogy is that when something is smashed, it is typically hit or crushed with a forceful downward motion, similar to the direction indicated by the downward arrow '↓'.
+
+CONCEPT: ↓
+smashed	←, ↓, ↑, →	Smashing is often associated with a forceful downward action, such as smashing a glass on the floor or a hammer smashing down on a nail. Therefore, the downward arrow best represents the event 'smashed'.
+CONCEPT: ↓
+smashed	←, ↓, →, ↑	Smashing is often associated with a downward force or action, such as smashing a glass on the floor or a hammer smashing down on a nail. 
+
+CONCEPT: ↓
+smashed	←, →, ↑, ↓	The event 'smashed' can be represented as a forceful, direct action that results in a change or impact. It's similar to the concept of moving forward without any deviation or hesitation, much like an arrow pointing straight ahead.
+
+CONCEPT: →
+smashed	←, →, ↓, ↑	Smashing is often associated with a downward force or action, such as smashing a glass on the floor or a hammer smashing down on a nail. 
+CONCEPT: ↓
+smashed	→, ↑, ↓, ←	The event 'smashed' can be represented by the concept '↓'. The analogy is that when something is smashed, it is typically hit or crushed with a force that drives it downward. This is similar to the downward direction indicated by the arrow '↓'.
+
+CONCEPT: ↓
+smashed	→, ↑, ←, ↓	Smashing is a forceful action that often results in an object being pushed or moved from its original position. It's a strong, direct action that causes change in a straight line, similar to the way an arrow points in a straight line.
+
+CONCEPT: →
+smashed	→, ↓, ↑, ←	Smashing is a forceful action that often results in something moving downward or being pushed down, similar to the way gravity pulls things down. 
+
+CONCEPT: ↓
+smashed	→, ↓, ←, ↑	Smashing is often associated with a downward force or action, such as smashing a glass on the floor or a hammer smashing down on a nail. 
+CONCEPT: ↓
+smashed	→, ←, ↑, ↓	The event 'smashed' can be represented by the concept '↓'. The analogy is that when something is smashed, it is typically hit or crushed downwards with force. This downward force is similar to the downward direction indicated by the arrow '↓'.
+CONCEPT: ↓
+smashed	→, ←, ↓, ↑	The event 'smashed' can be represented by the concept of '↓'. This is because when something is smashed, it is typically hit or crushed with a force that drives it downwards. The action of smashing often involves a downward motion, similar to the direction indicated by '↓'.
+
+CONCEPT: ↓
+bombed	↑, ↓, ←, →	When a place is bombed, it typically results in destruction and a downward trajectory in terms of prosperity, safety, and overall condition. This is similar to the downward arrow symbol, which often represents a decrease or decline in a certain aspect.
+CONCEPT: ↓
+bombed	↑, ↓, →, ←	Bombed is often associated with a downfall or a negative impact. It's like something falling from a high place to a low place, similar to how a bomb falls from the sky and causes destruction.
+
+CONCEPT: ↓
+bombed	↑, ←, ↓, →	Bombed is often associated with a downward motion, as bombs are typically dropped from above and fall downwards due to gravity. 
+CONCEPT: ↓
+bombed	↑, ←, →, ↓	Bombed is often associated with a downward motion, as bombs are typically dropped from above and fall downwards due to gravity. 
+CONCEPT: ↓
+bombed	↑, →, ↓, ←	Bombed is often associated with a downward motion, as bombs are typically dropped from above and fall downwards due to gravity. 
+CONCEPT: ↓
+bombed	↑, →, ←, ↓	Bombs are typically dropped from an aircraft, which means they come from above and move downwards towards their target. Therefore, the event 'bombed' can be represented by the downward arrow.
+CONCEPT: ↓
+bombed	↓, ↑, ←, →	When a place is bombed, it typically results in a downward trajectory of destruction and decline. The bombing leads to a decrease in stability, safety, and overall wellbeing of the area. 
+CONCEPT: ↓
+bombed	↓, ↑, →, ←	When a place is bombed, it typically results in a downward trajectory of destruction and decline. The bombing brings about a decrease in stability, safety, and overall condition of the area. 
+
+CONCEPT: ↓
+bombed	↓, ←, ↑, →	When a place is bombed, it is typically from an aerial attack where bombs are dropped from above to the ground. This downward motion can be represented by the downward arrow.
+CONCEPT: ↓
+bombed	↓, ←, →, ↑	When a place is bombed, it is typically from an aerial attack where bombs are dropped from above to the ground. This action is a downward movement, similar to the direction represented by the downward arrow.
+
+CONCEPT: ↓
+bombed	↓, →, ↑, ←	When a place is bombed, it is typically hit from above, with the bombs descending downwards onto the target. This is similar to the downward direction represented by the ↓ symbol.
+CONCEPT: ↓
+bombed	↓, →, ←, ↑	When a place is bombed, it is typically from an aerial attack where bombs are dropped from above to the ground. This action is a downward movement, similar to the direction indicated by the downward arrow.
+CONCEPT: ↓
+bombed	←, ↑, ↓, →	Bombs are typically dropped from an aircraft, which means they move in a downward direction towards their target. Therefore, the event 'bombed' can be represented by the downward arrow.
+CONCEPT: ↓
+bombed	←, ↑, →, ↓	Bombs are typically dropped from an aircraft, which means they move in a downward direction towards their target. 
+CONCEPT: ↓
+bombed	←, ↓, ↑, →	Bombs are typically dropped from an aircraft, which means they move in a downward direction towards their target. Therefore, the event 'bombed' can be represented by the downward arrow.
+CONCEPT: ↓
+bombed	←, ↓, →, ↑	Bombs are typically dropped from an aircraft, which means they move in a downward direction towards their target. Therefore, the event 'bombed' can be represented by the downward arrow.
+CONCEPT: ↓
+bombed	←, →, ↑, ↓	Bombs are typically dropped from an aircraft, which means they come from above and move downwards. Therefore, the event 'bombed' can be represented by the downward arrow. 
+
+CONCEPT: ↓
+bombed	←, →, ↓, ↑	When a place is bombed, it is typically from an aircraft or missile that is above the target, and the bomb is dropped or sent downwards to the target. Therefore, the downward direction best represents the event 'bombed'.
+CONCEPT: ↓
+bombed	→, ↑, ↓, ←	Bombed is often associated with a downward motion, as bombs are typically dropped from an elevated position and fall due to gravity. 
+CONCEPT: ↓
+bombed	→, ↑, ←, ↓	Bombed is often associated with a downward motion, as bombs are typically dropped from above and fall downwards due to gravity. 
+CONCEPT: ↓
+bombed	→, ↓, ↑, ←	When a bomb is dropped, it falls from the sky to the ground, indicating a downward motion or direction. 
+CONCEPT: ↓
+bombed	→, ↓, ←, ↑	When a bomb is dropped, it falls from the sky to the ground, indicating a downward motion or direction. 
+CONCEPT: ↓
+bombed	→, ←, ↑, ↓	Bombs are typically dropped from an aircraft, which means they come from above and move downwards. Therefore, the event 'bombed' can be represented by the downward arrow. 
+
+CONCEPT: ↓
+bombed	→, ←, ↓, ↑	When a place is bombed, it is typically from an aerial attack where bombs are dropped from above to the ground. This downward motion can be represented by the downward arrow.
+CONCEPT: ↓
+flew	↑, ↓, ←, →	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents 'flew' is the upward arrow. 
+CONCEPT: ↑
+flew	↑, ↓, →, ←	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents 'flew' is the upward arrow. 
+
+CONCEPT: ↑
+flew	↑, ←, ↓, →	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents 'flew' is the upward arrow. 
+CONCEPT: ↑
+flew	↑, ←, →, ↓	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents 'flew' is the upward arrow. 
+CONCEPT: ↑
+flew	↑, →, ↓, ←	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents 'flew' is the upward arrow. 
+
+CONCEPT: ↑
+flew	↑, →, ←, ↓	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents 'flew' is the upward arrow. 
+
+CONCEPT: ↑
+flew	↓, ↑, ←, →	When a bird or an airplane flies, it moves upward into the sky. Therefore, the concept that best represents the event 'flew' is the upward arrow. 
+CONCEPT: ↑
+flew	↓, ↑, →, ←	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents the event 'flew' would be ↑. This is because the upward arrow symbolizes ascension or moving upwards, which is what happens when something flies.
+
+CONCEPT: ↑
+flew	↓, ←, ↑, →	When we think about the action of 'flying', it is often associated with movement upwards or in a forward direction. Birds, airplanes, and other flying objects usually ascend into the sky and move forward. Therefore, the concept that best represents 'flew' would be the upward arrow or the forward arrow.
+
+CONCEPT: ↑ or →
+flew	↓, ←, →, ↑	When we think about the action of 'flying', it is often associated with movement in an upward direction, such as a bird taking off from the ground or an airplane ascending into the sky. Therefore, the upward arrow (↑) best represents the event 'flew'. 
+
+CONCEPT: ↑
+flew	↓, →, ↑, ←	The event 'flew' is often associated with upward movement, especially in the context of birds or airplanes. This is because these entities defy gravity and ascend into the sky when they fly. 
+
+CONCEPT: ↑
+flew	↓, →, ←, ↑	When we think about the action of 'flying', it is often associated with movement in an upward direction, such as a bird taking off from the ground or an airplane ascending into the sky. Therefore, the upward arrow (↑) can be seen as a representation of this action. 
+
+CONCEPT: ↑
+flew	←, ↑, ↓, →	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents the event 'flew' would be ↑. This is because the upward arrow symbolizes ascension or moving upwards, which is what happens when something flies.
+
+CONCEPT: ↑
+flew	←, ↑, →, ↓	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents the event 'flew' would be ↑. This is because the upward arrow symbolizes the direction of flight, which is typically upwards.
+
+CONCEPT: ↑
+flew	←, ↓, ↑, →	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents 'flew' would be the upward arrow. 
+CONCEPT: ↑
+flew	←, ↓, →, ↑	The event 'flew' is often associated with upward movement, especially in the context of birds or airplanes. This is because when something flies, it generally moves upwards into the sky.
+
+CONCEPT: ↑
+flew	←, →, ↑, ↓	When we think about the action of 'flying', it is often associated with movement in an upward direction, such as a bird taking off from the ground and soaring into the sky. Therefore, the upward arrow best represents this action.
+CONCEPT: ↑
+flew	←, →, ↓, ↑	When we think about the action of 'flying', it is often associated with movement in an upward direction, such as a bird taking off from the ground and soaring into the sky. Therefore, the upward arrow best represents this event.
+CONCEPT: ↑
+flew	→, ↑, ↓, ←	When we think about the action of 'flying', it is often associated with movement upwards into the sky. Birds, airplanes, and other flying objects usually ascend into the air, which is a direction that we perceive as 'up'. 
+
+CONCEPT: ↑
+flew	→, ↑, ←, ↓	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents 'flew' is the upward arrow. 
+CONCEPT: ↑
+flew	→, ↓, ↑, ←	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents the event 'flew' would be the upward arrow. 
+CONCEPT: ↑
+flew	→, ↓, ←, ↑	Flying is often associated with moving upwards or ascending into the sky. Birds, airplanes, and other objects that fly usually start from the ground and move upwards into the air.
+CONCEPT: ↑
+flew	→, ←, ↑, ↓	When we think about the action of 'flying', it is often associated with movement in an upward direction. Birds fly up into the sky, airplanes ascend upwards when they take off. Therefore, the concept that best represents 'flew' would be the upward arrow.
+
+CONCEPT: ↑
+flew	→, ←, ↓, ↑	When a bird or an airplane flies, it generally moves upward into the sky. Therefore, the concept that best represents 'flew' would be the upward arrow. 
+CONCEPT: ↑
+floated	↑, ↓, ←, →	Floating is often associated with rising or moving upwards, especially in the context of floating in water or air. It is the opposite of sinking or moving downwards. Therefore, the concept that best represents 'floated' would be ↑.
+CONCEPT: ↑
+floated	↑, ↓, →, ←	Floating is often associated with rising or moving upwards against gravity, similar to how a balloon filled with helium floats up in the air. 
+
+CONCEPT: ↑
+floated	↑, ←, ↓, →	Floating is often associated with rising or moving upwards, especially in the context of floating in water or air. Therefore, the concept that best represents 'floated' would be ↑. This is because when something floats, it doesn't sink or go downwards, but rather stays on the surface or moves upwards, similar to the direction indicated by ↑.
+
+CONCEPT: ↑
+floated	↑, ←, →, ↓	Floating is often associated with rising or moving upwards, especially in the context of objects in water or air. When something floats, it doesn't sink but stays on the surface or moves upward, similar to the direction indicated by the '↑' symbol.
+
+CONCEPT: ↑
+floated	↑, →, ↓, ←	Floating is often associated with rising or moving upwards, especially in the context of floating in water or air. Therefore, the concept that best represents 'floated' would be ↑. This is because when an object floats, it doesn't move sideways or downwards, but instead, it moves upwards against the force of gravity, similar to the direction indicated by ↑.
+
+CONCEPT: ↑
+floated	↑, →, ←, ↓	Floating is often associated with rising or moving upwards against gravity, similar to how a balloon filled with helium floats up in the air. 
+CONCEPT: ↑
+floated	↓, ↑, ←, →	Floating is often associated with the act of moving upwards or staying suspended in the air or water, defying the force of gravity. It is not about moving downwards, left, or right, but about rising or staying up.
+
+CONCEPT: ↑
+floated	↓, ↑, →, ←	Floating is often associated with the act of moving upwards or staying suspended in the air or water, defying the force of gravity. It is not about moving forward, backward, or downward, but rather about rising or staying up.
+
+CONCEPT: ↑
+floated	↓, ←, ↑, →	Floating is often associated with the idea of moving upwards or being suspended in the air, defying gravity. It's not a downward motion, which would suggest falling, nor does it typically involve moving left or right unless there's a force like wind. 
+
+CONCEPT: ↑
+floated	↓, ←, →, ↑	Floating is often associated with upward movement, especially in the context of floating in air or water. It's the opposite of sinking or moving downward, and it doesn't typically involve moving to the left or right unless there's some other force involved (like wind or a current). Therefore, the upward arrow best represents the concept of floating.
+
+CONCEPT: ↑
+floated	↓, →, ↑, ←	Floating is often associated with rising or being suspended in the air or water, which is opposite to the downward direction. Therefore, the upward direction can be used to represent the event 'floated'.
+CONCEPT: ↑
+floated	↓, →, ←, ↑	Floating is often associated with upward movement or staying in the same place, defying the force of gravity. It's like the motion of a balloon filled with helium, which rises up in the air, or a boat that stays on the surface of the water, not sinking down.
+
+CONCEPT: ↑
+floated	←, ↑, ↓, →	Floating is often associated with the act of moving upwards or staying suspended in the air or water, defying the force of gravity. It is not going down, nor is it moving horizontally. 
+
+CONCEPT: ↑
+floated	←, ↑, →, ↓	Floating is often associated with rising or moving upwards, against the force of gravity. It's not a downward motion, nor does it typically represent a forward or backward movement. Therefore, the concept that best represents 'floated' would be ↑.
+
+CONCEPT: ↑
+floated	←, ↓, ↑, →	Floating is often associated with upward movement or staying suspended in the air or water, defying the force of gravity. It's not necessarily a forward, backward, or downward motion.
+
+CONCEPT: ↑
+floated	←, ↓, →, ↑	Floating is often associated with upward movement, especially in the context of floating in water or air. This is because when an object floats, it resists being pulled down by gravity and instead stays on the surface or moves upwards. 
+
+CONCEPT: ↑
+floated	←, →, ↑, ↓	Floating is often associated with upward movement, especially in the context of floating in air or water. It's the act of moving or existing in a space without any apparent effort or force, which is similar to the upward movement, where things rise or go up.
+
+CONCEPT: ↑
+floated	←, →, ↓, ↑	Floating is often associated with upward movement, especially in the context of floating in air or water. This is because when an object floats, it resists being pulled down by gravity and instead stays at the surface or moves upward. 
+
+CONCEPT: ↑
+floated	→, ↑, ↓, ←	Floating is often associated with the act of moving upwards or being suspended above ground, similar to how a balloon floats in the air. It does not sink or move downwards, nor does it necessarily move in a straight line forward or backward. Instead, it rises or stays aloft, defying gravity.
+
+CONCEPT: ↑
+floated	→, ↑, ←, ↓	Floating is often associated with rising or moving upwards, against the force of gravity. It's like when a balloon filled with helium is released, it floats or rises up in the air. 
+CONCEPT: ↑
+floated	→, ↓, ↑, ←	Floating is often associated with rising or moving upwards, against the force of gravity. It's like a balloon filled with helium that rises in the air, or a piece of wood that floats on the surface of the water, not sinking down but staying on top.
+
+CONCEPT: ↑
+floated	→, ↓, ←, ↑	Floating is often associated with upward movement or staying in the same place, defying gravity. It's not going down, not moving forward or backward, but either staying in the same place or moving upward.
+
+CONCEPT: ↑
+floated	→, ←, ↑, ↓	Floating is often associated with rising or moving upwards, against the force of gravity. It's like a balloon filled with helium that rises in the air, or a piece of wood that floats to the surface of the water. 
+
+CONCEPT: ↑
+floated	→, ←, ↓, ↑	Floating often involves moving upwards or staying suspended in the air or water, defying the force of gravity. It is not necessarily moving forward, backward, or downward. Therefore, the concept that best represents 'floated' would be ↑.
+CONCEPT: ↑
+lifted	↑, ↓, ←, →	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the upward arrow symbol (↑) which represents moving or going up.
+
+CONCEPT: ↑
+lifted	↑, ↓, →, ←	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the concept of the upward arrow (↑) which also represents movement or direction from a lower point to a higher point.
+
+CONCEPT: ↑
+lifted	↑, ←, ↓, →	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the concept of '↑' which represents upward direction or movement.
+
+CONCEPT: ↑
+lifted	↑, ←, →, ↓	Lifting is associated with upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the concept of '↑' which represents upward direction or movement.
+
+CONCEPT: ↑
+lifted	↑, →, ↓, ←	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the concept of '↑' which represents upward direction or movement.
+
+CONCEPT: ↑
+lifted	↑, →, ←, ↓	Lifting is associated with upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the concept of '↑' which represents upward direction or movement.
+
+CONCEPT: ↑
+lifted	↓, ↑, ←, →	Lifting is associated with upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the upward arrow (↑) which points from a lower position to a higher one, indicating an upward direction or movement.
+
+CONCEPT: ↑
+lifted	↓, ↑, →, ←	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the upward arrow which represents moving or going up.
+
+CONCEPT: ↑
+lifted	↓, ←, ↑, →	Lifting is associated with upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the upward arrow which represents moving in an upward direction.
+
+CONCEPT: ↑
+lifted	↓, ←, →, ↑	Lifting is associated with an upward movement or direction. It is the act of raising something from a lower position to a higher one. 
+
+CONCEPT: ↑
+lifted	↓, →, ↑, ←	The event 'lifted' can be represented by the concept of '↑'. This is because when something is lifted, it moves in an upward direction, similar to the arrow pointing upwards. 
+
+CONCEPT: ↑
+lifted	↓, →, ←, ↑	Lifting is a motion that goes against gravity, moving from a lower position to a higher one. It is the opposite of falling or moving downwards. 
+CONCEPT: ↑
+lifted	←, ↑, ↓, →	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the concept of the upward arrow, which also represents movement or direction from a lower position to a higher one.
+CONCEPT: ↑
+lifted	←, ↑, →, ↓	Lifting is an action that involves moving something from a lower position to a higher one. This upward movement is best represented by the concept of '↑' as it signifies going up or rising.
+
+CONCEPT: ↑
+lifted	←, ↓, ↑, →	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the concept of the upward arrow (↑) which also represents movement or direction from a lower position to a higher one.
+CONCEPT: ↑
+lifted	←, ↓, →, ↑	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. 
+
+CONCEPT: ↑
+lifted	←, →, ↑, ↓	Lifting is an action that involves moving something from a lower position to a higher one. This is similar to the upward movement represented by the symbol ↑.
+
+CONCEPT: ↑
+lifted	←, →, ↓, ↑	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the upward arrow (↑) which points from a lower position to a higher one, indicating an upward direction or movement.
+
+CONCEPT: ↑
+lifted	→, ↑, ↓, ←	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the concept of the upward arrow (↑) which also represents movement or direction from a lower position to a higher one.
+CONCEPT: ↑
+lifted	→, ↑, ←, ↓	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the upward arrow (↑) which points from a lower position to a higher one, indicating an upward direction or movement.
+
+CONCEPT: ↑
+lifted	→, ↓, ↑, ←	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. 
+CONCEPT: ↑
+lifted	→, ↓, ←, ↑	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the upward arrow which points from a lower position to a higher one, indicating an upward direction or movement.
+
+CONCEPT: ↑
+lifted	→, ←, ↑, ↓	Lifting is associated with an upward movement or direction. When you lift something, you raise it from a lower position to a higher one. This is similar to the upward arrow symbol (↑) which also represents movement or direction going up.
+
+CONCEPT: ↑
+lifted	→, ←, ↓, ↑	Lifting is an action that involves moving something upwards against gravity. It's a movement from a lower position to a higher one. 
+CONCEPT: ↑
+sank	↑, ↓, ←, →	Sinking is associated with a downward movement, similar to how an object or a ship sinks towards the bottom of a body of water. 
+CONCEPT: ↓
+sank	↑, ↓, →, ←	Sinking is associated with a downward movement or direction, similar to how an object sinks towards the bottom when placed in a body of water.
+
+CONCEPT: ↓
+sank	↑, ←, ↓, →	Sinking is associated with a downward movement or direction, similar to the way a ship sinks to the bottom of the sea or a stone sinks in water.
+CONCEPT: ↓
+sank	↑, ←, →, ↓	The event 'sank' is best represented by the concept '↓'. This is because when something sinks, it moves in a downward direction, similar to the direction indicated by the '↓' symbol.
+CONCEPT: ↓
+sank	↑, →, ↓, ←	Sinking is associated with a downward movement or direction. Just like when a ship sinks, it goes down into the water.
+
+CONCEPT: ↓
+sank	↑, →, ←, ↓	The event 'sank' is best represented by the concept '↓'. This is because when something sinks, it moves in a downward direction, similar to the direction indicated by the '↓' symbol.
+
+CONCEPT: ↓
+sank	↓, ↑, ←, →	The event 'sank' is best represented by the concept of '↓'. This is because when something sinks, it moves in a downward direction. This is similar to the downward arrow '↓' which also represents a movement or direction going down.
+
+CONCEPT: ↓
+sank	↓, ↑, →, ←	Sinking is associated with a downward movement or direction. When something sinks, it goes down below the surface of something, especially a liquid. Hence, it is moving in a downward direction.
+CONCEPT: ↓
+sank	↓, ←, ↑, →	Sinking is a process that involves moving from a higher position to a lower one, similar to the downward direction indicated by the arrow ↓. 
+CONCEPT: ↓
+sank	↓, ←, →, ↑	The event 'sank' is best represented by the concept '↓'. This is because sinking is associated with a downward movement or direction, similar to the way the arrow '↓' points downwards. 
+
+CONCEPT: ↓
+sank	↓, →, ↑, ←	Sinking is a process that involves moving downwards. It is the opposite of rising or moving upwards. When something sinks, it goes from a higher position to a lower one, much like the direction indicated by the downward arrow.
+
+CONCEPT: ↓
+sank	↓, →, ←, ↑	Sinking is a process that involves movement in a downward direction. When something sinks, it goes from a higher position to a lower one, similar to the direction indicated by the downward arrow.
+
+CONCEPT: ↓
+sank	←, ↑, ↓, →	Sinking is associated with a downward movement or direction, similar to how an object sinks towards the bottom when placed in a body of water. 
+CONCEPT: ↓
+sank	←, ↑, →, ↓	When something sinks, it moves in a downward direction. This is similar to the downward arrow symbol, which also represents a downward movement or direction.
+CONCEPT: ↓
+sank	←, ↓, ↑, →	Sinking is associated with a downward movement or direction, similar to how an object sinks to the bottom when dropped in water. 
+CONCEPT: ↓
+sank	←, ↓, →, ↑	When something sinks, it moves in a downward direction. This is similar to the downward arrow symbol (↓) which also represents a downward movement or direction. 
+CONCEPT: ↓
+sank	←, →, ↑, ↓	Sinking is a process of moving downwards, often used to describe objects falling to the bottom of a body of water. It is the opposite of rising or moving upwards.
+
+CONCEPT: ↓
+sank	←, →, ↓, ↑	When something sinks, it moves from a higher position to a lower one, similar to the direction indicated by the downward arrow. 
+CONCEPT: ↓
+sank	→, ↑, ↓, ←	Sinking is associated with a downward movement or direction. Just like when a ship sinks, it goes down into the water.
+
+CONCEPT: ↓
+sank	→, ↑, ←, ↓	Sinking is associated with a downward movement or direction. It is the process of descending or falling to the bottom, similar to the way a stone sinks in water.
+CONCEPT: ↓
+sank	→, ↓, ↑, ←	When something sinks, it moves in a downward direction. This is similar to the downward arrow (↓) which also represents a downward movement or direction. 
+CONCEPT: ↓
+sank	→, ↓, ←, ↑	The event 'sank' is best represented by the concept '↓'. This is because when something sinks, it moves in a downward direction, similar to the direction indicated by the '↓' symbol.
+CONCEPT: ↓
+sank	→, ←, ↑, ↓	Sinking is associated with a downward movement or direction, similar to how an object or substance sinks towards the bottom when placed in a liquid.
+
+CONCEPT: ↓
+sank	→, ←, ↓, ↑	Sinking is associated with a downward movement or direction, similar to how an object or a ship sinks towards the bottom of a body of water.
+
+CONCEPT: ↓
+argued with	↑, ↓, ←, →	Arguing can be seen as a conflict or a clash, which often involves two opposing forces. It's not a forward progression (→), nor is it a retreat or backing down (←). It's not an elevation or improvement (↑), but rather a situation that can bring down the mood or atmosphere (↓).
+
+CONCEPT: ↓
+argued with	↑, ↓, →, ←	Arguing can be seen as a conflict or a clash, which often involves two opposing forces. It's not a straightforward process, but rather a back-and-forth exchange, much like the left and right arrows (←, →) which represent opposing directions.
+
+CONCEPT: ←, →
+argued with	↑, ←, ↓, →	Arguing can be seen as a process of going back and forth, exchanging differing viewpoints, much like the left and right movement. It's not a straightforward process and often involves revisiting previous points, similar to the leftward motion.
+CONCEPT: ←
+argued with	↑, ←, →, ↓	Arguing can be seen as a back and forth exchange, similar to the left and right movement. It involves two or more parties pushing their points of view, much like the opposing directions of left and right. 
+CONCEPT: ← or →
+argued with	↑, →, ↓, ←	Arguing can be seen as a conflict or a clash, which often involves two opposing forces. It's not a forward progression, nor is it an upward elevation. It's also not a retreat or a downward fall. Instead, it's more like two forces pushing against each other, similar to the left and right directions in a tug of war.
+
+CONCEPT: ←
+argued with	↑, →, ←, ↓	Arguing can be seen as a back-and-forth exchange, similar to the way the left and right arrows point in opposite directions, indicating a reciprocal or alternating movement. This can represent the dynamic of an argument where one person speaks, then the other responds, and so forth.
+CONCEPT: ←
+argued with	↓, ↑, ←, →	Arguing can be seen as a conflict or a clash, which often involves two or more parties pushing against each other. This can be represented by the concept of '←', which signifies a movement or force in the opposite direction. 
+
+CONCEPT: '←'
+argued with	↓, ↑, →, ←	Arguing can be seen as a conflict or a clash, which often involves two opposing forces. This can be likened to the concept of two arrows pointing towards each other, indicating a head-on collision or confrontation. However, since we only have to choose one concept, I would choose the left arrow (←). This is because an argument often involves a push back against another's point of view,
+argued with	↓, ←, ↑, →	Arguing with someone often involves going back and forth, exchanging points of view, and not necessarily moving forward in a productive way. It can also feel like you're going against someone, pushing in the opposite direction. 
+CONCEPT: ←
+argued with	↓, ←, →, ↑	Arguing can be seen as a conflict or a clash, which often involves pushing back against another person's ideas or opinions. It's not a forward progression (→), nor an upward lift (↑). It's not necessarily a downward spiral (↓), but it does involve a certain level of back-and-forth exchange, similar to moving back or returning to a point repeatedly. 
+
+CONCEPT:
+argued with	↓, →, ↑, ←	Arguing can be seen as a back and forth exchange, similar to the left and right movement. It's not a straightforward process like moving forward (→) or a downward spiral (↓), nor is it an upward progression (↑). It involves two or more parties exchanging viewpoints, often without a clear forward progression, much like the left and right arrows indicating a back and forth movement.
+CONCEPT
+argued with	↓, →, ←, ↑	Arguing with someone often involves a back-and-forth exchange, similar to the way the left and right arrows point in opposite directions. This can represent the opposing viewpoints and the exchange of ideas or arguments between two parties.
+CONCEPT: ←
+argued with	←, ↑, ↓, →	Arguing can be seen as a back-and-forth exchange, similar to the way the left and right arrows indicate movement in opposite directions. It's not a straightforward process, but rather one that involves a lot of back and forth, much like an argument.
+CONCEPT: ←
+argued with	←, ↑, →, ↓	Arguing can be seen as a back-and-forth exchange, similar to the way the left arrow (←) indicates a movement or direction back towards something. It's not a straightforward process like the right arrow might suggest, nor is it an upward or downward progression. It's a reciprocal action, often involving two parties exchanging differing viewpoints.
+
+CONCEPT: ←
+argued with	←, ↓, ↑, →	Arguing can be seen as a back-and-forth exchange, similar to the left and right movement. It involves two or more parties expressing their views, often with a sense of opposition or disagreement. This can be likened to the leftward arrow (←) which can symbolize a push back or a return of ideas or points in a debate.
+CONCEPT: ←
+argued with	←, ↓, →, ↑	Arguing with someone often involves a back-and-forth exchange, similar to the way the left arrow ← indicates a movement or direction going back. 
+CONCEPT: ←
+argued with	←, →, ↑, ↓	Arguing with someone often involves a back-and-forth exchange of differing viewpoints. It's not a one-way interaction, but rather a dynamic process where both parties are actively involved, much like a ping-pong match. 
+
+CONCEPT: ←→
+argued with	←, →, ↓, ↑	Arguing with someone often involves a back-and-forth exchange, similar to the way the left and right arrows point in opposite directions, indicating a reciprocal or alternating movement. 
+
+CONCEPT: ← or →
+argued with	→, ↑, ↓, ←	Arguing with someone often involves a back-and-forth exchange, similar to the way the left and right arrows ← and → indicate movement in opposite directions. However, since we need to choose one concept, I would choose ←. This is because when we argue, we often revert or "go back" to past issues, disagreements, or points of contention. 
+CONCEPT: ←
+argued with	→, ↑, ←, ↓	Arguing with someone often involves a back-and-forth exchange, similar to moving in opposite directions. 
+CONCEPT: ←
+argued with	→, ↓, ↑, ←	Arguing with someone often involves a back-and-forth exchange, similar to the way left and right arrows point in opposite directions, indicating a reciprocal or alternating movement. 
+CONCEPT: ←
+argued with	→, ↓, ←, ↑	Arguing with someone often involves a back-and-forth exchange, similar to the way the left and right arrows point in opposite directions, indicating a reciprocal or alternating movement. 
+
+CONCEPT: ←
+argued with	→, ←, ↑, ↓	Arguing with someone often involves a back-and-forth exchange, similar to the way the left and right arrows point in opposite directions, indicating a reciprocal or alternating movement. 
+
+CONCEPT: ←
+argued with	→, ←, ↓, ↑	Arguing with someone often involves a back-and-forth exchange, similar to the way the left and right arrows point in opposite directions, indicating a reciprocal or alternating movement.
+
+CONCEPT: ←
+gave to	↑, ↓, ←, →	The event 'gave to' can be represented as a transfer of something from one entity to another. This can be visualized as a movement from one place to another. In this context, the right arrow (→) can be used to represent this event. The right arrow signifies movement or direction towards something, similar to how 'gave to' signifies the transfer of something from the giver to
+gave to	↑, ↓, →, ←	The event 'gave to' can be represented as a transfer or movement from one entity to another. This is similar to the concept of moving in a certain direction. 
+
+CONCEPT: →
+gave to	↑, ←, ↓, →	The event 'gave to' can be represented as a transfer of something from one entity to another. This can be visualized as a movement from one point to another, similar to the direction indicated by an arrow. 
+
+CONCEPT: →
+gave to	↑, ←, →, ↓	The event 'gave to' can be represented as a transfer of something from one entity to another. This can be visualized as a movement from one point to another. 
+
+CONCEPT: →
+gave to	↑, →, ↓, ←	The event 'gave to' can be represented as a transfer or movement from one entity to another. This is similar to the concept of the right arrow (→) which signifies direction or movement from left to right.
+
+CONCEPT: →
+gave to	↑, →, ←, ↓	The event 'gave to' can be represented as a transfer or movement from one entity to another. This is similar to the concept of the right arrow (→) which signifies direction or movement from one place to another.
+
+CONCEPT: →
+gave to	↓, ↑, ←, →	The event 'gave to' can be represented as a transfer of something from one entity to another. This can be visualized as a movement from one place to another, similar to the direction indicated by an arrow. 
+
+CONCEPT: →
+gave to	↓, ↑, →, ←	The event 'gave to' can be represented as a transfer of something from one entity to another. This can be likened to the concept of moving in a certain direction. In this case, the direction is from the giver to the receiver. 
+
+CONCEPT: →
+gave to	↓, ←, ↑, →	The event 'gave to' can be represented as a transfer of something from one entity to another. This can be likened to the concept of moving in a certain direction. 
+
+CONCEPT: → 
+
+The right arrow (→) can symbolize this event. Just as the arrow points from one place to another, 'gave to' involves a transfer from one person (the giver)
+gave to	↓, ←, →, ↑	The act of giving can be seen as a transfer of something from one entity to another. This can be represented by the right arrow (→) which signifies movement or direction from one place (the giver) to another (the receiver).
+CONCEPT: →
+gave to	↓, →, ↑, ←	The event 'gave to' can be seen as a transfer of something from one entity to another. This can be represented by the concept of moving in a certain direction. 
+
+CONCEPT: →
+gave to	↓, →, ←, ↑	The event 'gave to' can be seen as a transfer of something from one entity to another. This is similar to the concept of direction where something moves from one point to another. 
+
+CONCEPT: →
+gave to	←, ↑, ↓, →	The event 'gave to' can be represented as a transfer of something from one entity to another. This can be visualized as a movement from one point to another. 
+
+CONCEPT: →
+gave to	←, ↑, →, ↓	The event 'gave to' can be represented as a transfer or movement of something from one person to another. This can be likened to the arrow pointing to the right (→) which signifies a direction or movement towards something or someone.
+
+CONCEPT: →
+gave to	←, ↓, ↑, →	The event 'gave to' can be represented as a transfer of something from one entity to another. This can be visualized as a movement from one point to another. The right arrow (→) can symbolize this movement, as it indicates a direction from a starting point (the giver) to an endpoint (the receiver).
+
+CONCEPT: →
+gave to	←, ↓, →, ↑	The event 'gave to' can be represented as a transfer of something from one entity to another. This can be visualized as a movement from one point to another, similar to the direction indicated by an arrow. 
+
+CONCEPT: →
+gave to	←, →, ↑, ↓	The event 'gave to' can be represented as a transfer or movement of something from one person to another. This can be likened to the concept of direction where something moves from one point to another.
+
+CONCEPT: →
+gave to	←, →, ↓, ↑	The event 'gave to' can be represented as a transfer or movement of something from one person to another. This can be likened to the direction of an arrow pointing from the giver to the receiver. 
+
+CONCEPT: →
+gave to	→, ↑, ↓, ←	The event 'gave to' can be represented as a transfer or movement from one entity to another. This is similar to the concept of direction where something moves from one point to another.
+
+CONCEPT: →
+gave to	→, ↑, ←, ↓	The event 'gave to' can be represented as a transfer or movement from one entity to another. This is similar to the concept of the right arrow (→) which signifies direction or movement from left to right. 
+
+CONCEPT: →
+gave to	→, ↓, ↑, ←	The event 'gave to' can be represented as a transfer or movement from one entity to another. This is similar to the concept of direction where something moves from one point to another. 
+
+CONCEPT: →
+gave to	→, ↓, ←, ↑	The event 'gave to' can be represented as a transfer or movement from one entity to another. This is similar to the concept of direction where something moves from one point to another. 
+
+CONCEPT: →
+gave to	→, ←, ↑, ↓	The event 'gave to' can be represented as a transfer or movement of something from one person to another. This is similar to the concept of direction where something moves from one point to another.
+
+CONCEPT: →
+gave to	→, ←, ↓, ↑	The event 'gave to' can be represented as a transfer or movement from one entity to another. This is similar to the concept of direction where something moves from one point to another. 
+
+CONCEPT: →
+offended	↑, ↓, ←, →	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, which symbolizes a decrease or negative change. 
+CONCEPT: ↓
+offended	↑, ↓, →, ←	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, which symbolizes a decrease or negative change. 
+CONCEPT: ↓
+offended	↑, ←, ↓, →	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, which symbolizes a decrease or downward movement. 
+CONCEPT: ↓
+offended	↑, ←, →, ↓	When someone is offended, they often withdraw or pull back from the situation or person that caused the offense. This can be likened to moving backwards or away from something.
+CONCEPT: ←
+offended	↑, →, ↓, ←	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, which symbolizes a decrease or negative change.
+CONCEPT: ↓
+offended	↑, →, ←, ↓	When someone is offended, they often feel pushed away or distanced from the person or situation that caused the offense. This can be likened to the concept of moving backwards or away from something.
+CONCEPT: ←
+offended	↓, ↑, ←, →	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, which typically symbolizes a decrease or downward movement. 
+CONCEPT: ↓
+offended	↓, ↑, →, ←	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, as it symbolizes a decrease in positive emotions or a downward shift in mood.
+CONCEPT: ↓
+offended	↓, ←, ↑, →	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, as it symbolizes a decrease in mood or happiness.
+CONCEPT: ↓
+offended	↓, ←, →, ↑	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, which symbolizes a decrease or downward movement. 
+CONCEPT: ↓
+offended	↓, →, ↑, ←	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, which symbolizes a decrease or downward movement. 
+CONCEPT: ↓
+offended	↓, →, ←, ↑	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, as it symbolizes a decrease in positive emotions or a downward shift in mood.
+CONCEPT: ↓
+offended	←, ↑, ↓, →	When someone is offended, they often feel pushed back or taken aback by the offensive comment or action. It's as if they've been forced to take a step back emotionally or mentally. 
+CONCEPT: ←
+offended	←, ↑, →, ↓	When someone is offended, they often feel pushed back or taken aback by the offensive comment or action. It's as if they've been forced to take a step back emotionally or mentally. 
+CONCEPT: ←
+offended	←, ↓, ↑, →	When someone is offended, they often feel pushed back or taken aback by the offensive comment or action. It's as if they've been forced to take a step back emotionally or mentally. 
+CONCEPT: ←
+offended	←, ↓, →, ↑	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, as it symbolizes a decrease in mood or happiness. 
+CONCEPT: ↓
+offended	←, →, ↑, ↓	When someone is offended, they often feel pushed back or taken aback by the offensive comment or action. It's as if they've been forced to take a step back emotionally or mentally. 
+CONCEPT: ←
+offended	←, →, ↓, ↑	When someone is offended, they often feel pushed away or distanced from the person or situation that caused the offense. This can be seen as a backward movement, away from the source of offense.
+CONCEPT: ←
+offended	→, ↑, ↓, ←	When someone is offended, they often feel pushed away or distanced from the person or situation that caused the offense. This can be likened to the concept of moving backwards or away from something.
+CONCEPT: ←
+offended	→, ↑, ←, ↓	When someone is offended, they often retreat or pull back from the person or situation that caused the offense. This can be seen as a step back or a move away from a forward direction. 
+CONCEPT: ←
+offended	→, ↓, ↑, ←	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, which symbolizes a decrease or downward movement. 
+CONCEPT: ↓
+offended	→, ↓, ←, ↑	When someone is offended, they often feel down or upset. This can be represented by the downward arrow, which symbolizes a decrease or downward movement. 
+CONCEPT: ↓
+offended	→, ←, ↑, ↓	When someone is offended, they often pull away or retreat from the person or situation that caused the offense. This can be seen as a step back or a movement away from a previously held position or relationship. 
+
+CONCEPT: ←
+offended	→, ←, ↓, ↑	When someone is offended, they often feel pushed away or distanced from the person or situation that caused the offense. This can be seen as a negative or backward movement in the relationship or interaction.
+
+CONCEPT: ←
+rushed	↑, ↓, ←, →	Rushing is often associated with moving forward quickly or making progress at a fast pace. It implies a sense of urgency and forward motion.
+CONCEPT: →
+rushed	↑, ↓, →, ←	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progress and momentum, often in a straight line towards a goal or destination. 
+CONCEPT: →
+rushed	↑, ←, ↓, →	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progression and moving towards a goal or destination at a fast pace. 
+CONCEPT: →
+rushed	↑, ←, →, ↓	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progress and moving towards a goal or destination. Therefore, the concept that best represents 'rushed' is →. This symbol typically represents moving forward or progressing in a certain direction, which aligns with the concept of rushing.
+
+CONCEPT: →
+rushed	↑, →, ↓, ←	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progress and moving towards a goal or destination. 
+
+CONCEPT: →
+rushed	↑, →, ←, ↓	Rushing is often associated with moving forward quickly, without hesitation or delay. It implies a sense of urgency and progression, similar to the way an arrow pointing to the right (→) suggests forward movement or progress.
+
+CONCEPT: →
+rushed	↓, ↑, ←, →	Rushing often implies moving forward quickly, without hesitation or delay. It's about progress and moving towards a goal or destination at a fast pace. 
+CONCEPT: →
+rushed	↓, ↑, →, ←	Rushing is often associated with moving forward quickly, without hesitation or delay. It's a forward motion, often without taking the time to look back or consider other directions. 
+
+CONCEPT: →
+rushed	↓, ←, ↑, →	When someone is rushing, they are moving forward quickly, often with a sense of urgency or haste. This can be likened to the forward motion indicated by the right arrow (→). Just as the arrow points towards a direction, rushing also involves moving towards a direction, often as fast as possible. 
+CONCEPT: →
+rushed	↓, ←, →, ↑	Rushing often implies moving forward quickly, without hesitation or delay. It's about progress and forward momentum, often in a straight line towards a goal or destination. 
+CONCEPT: →
+rushed	↓, →, ↑, ←	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progression and moving towards a goal or destination at a fast pace. 
+CONCEPT: →
+rushed	↓, →, ←, ↑	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progress and momentum, often in a straight line towards a goal or destination. 
+CONCEPT: →
+rushed	←, ↑, ↓, →	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progression and moving towards a goal or destination at a fast pace. 
+CONCEPT: →
+rushed	←, ↑, →, ↓	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progression and moving towards a certain direction or goal. 
+CONCEPT: →
+rushed	←, ↓, ↑, →	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progression and moving towards a goal or destination at a fast pace. 
+
+CONCEPT: →
+rushed	←, ↓, →, ↑	Rushing often implies moving forward quickly, without hesitation or delay. It's about progression and moving towards a goal or destination at a fast pace. 
+CONCEPT: →
+rushed	←, →, ↑, ↓	When someone is rushing, they are moving forward quickly, often in a straight line towards their goal. This can be represented by the concept of →, which symbolizes forward motion or progress.
+CONCEPT: →
+rushed	←, →, ↓, ↑	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progression and advancement, similar to the way an arrow pointing right (→) signifies moving forward or progressing in many cultures, especially in those that read and write from left to right.
+
+CONCEPT: →
+rushed	→, ↑, ↓, ←	Rushing is often associated with moving forward quickly, without hesitation or delay. It implies a sense of urgency and progression, similar to the way an arrow pointing to the right (→) signifies moving forward or advancing in a certain direction.
+
+CONCEPT: →
+rushed	→, ↑, ←, ↓	Rushing is often associated with moving forward quickly, without hesitation or delay. It implies a sense of urgency and progression, similar to the way an arrow pointing to the right (→) signifies moving forward or advancing in a certain direction.
+
+CONCEPT: →
+rushed	→, ↓, ↑, ←	Rushing is often associated with moving forward quickly, without hesitation or delay. It's about progression and advancement, similar to the way an arrow pointing right (→) suggests movement in a forward direction.
+
+CONCEPT: →
+rushed	→, ↓, ←, ↑	Rushing is often associated with moving forward quickly, without hesitation or delay. It implies a sense of urgency and progression, similar to the way an arrow pointing to the right (→) suggests forward movement or advancement.
+
+CONCEPT: →
+rushed	→, ←, ↑, ↓	Rushing is often associated with moving forward quickly, without hesitation or delay. It implies a sense of urgency and progression, similar to the forward motion represented by the right arrow.
+
+CONCEPT: →
+rushed	→, ←, ↓, ↑	Rushing is often associated with moving forward quickly, without hesitation or delay. It implies a sense of urgency and progression, similar to the forward motion represented by the right arrow.
+
+CONCEPT: →
+warned	↑, ↓, ←, →	When someone is warned, they are usually advised to stop or avoid a certain action. This can be seen as a halt or a need to change direction. Therefore, the concept that best represents 'warned' could be the left arrow (←). This is because the left arrow can symbolize a need to turn back or change course, similar to how a warning advises someone to stop or change their
+warned	↑, ↓, →, ←	When someone is warned, they are usually alerted about a potential danger or problem ahead. This is similar to the concept of an arrow pointing upwards (↑), which can symbolize an alert or a need for attention. It's like saying "pay attention to this" or "be aware of what's coming".
+
+CONCEPT: ↑
+warned	↑, ←, ↓, →	When someone is warned, they are usually advised to stop or avoid a certain action, which can be seen as a halt or a need to change direction. This is similar to the concept of '←', which represents going back or changing direction.
+
+CONCEPT: ←
+warned	↑, ←, →, ↓	When someone is warned, it often means they need to stop or change their current direction to avoid potential danger or harm. This can be likened to the left arrow (←) which signifies a change in direction or a need to turn back.
+
+CONCEPT: ←
+warned	↑, →, ↓, ←	When someone is warned, it often means they need to stop or change their current direction to avoid potential danger or harm. This can be likened to the concept of '←', which represents going back or reversing one's steps.
+
+CONCEPT: '←'
+warned	↑, →, ←, ↓	When someone is warned, they are usually advised to stop or avoid a certain action. This can be seen as a halt or a need to go back, which is best represented by the concept of '←'. This symbol typically represents going back or returning, which is often the action taken after a warning is given.
+
+CONCEPT: ←
+warned	↓, ↑, ←, →	When someone is warned, they are usually advised to stop or avoid a certain action, which can be seen as a halt or a need to change direction. This can be best represented by the concept of '←', which signifies going back or reconsidering a decision.
+
+CONCEPT: '←'
+warned	↓, ↑, →, ←	When someone is warned, it often means that they need to stop or change their current course of action to avoid a potential negative outcome. This can be likened to the concept of the left arrow (←), which often represents a need to go back or reconsider the current path.
+
+CONCEPT: ←
+warned	↓, ←, ↑, →	When someone is warned, it often means they need to stop or change their current direction to avoid potential danger or harm. This can be likened to the left arrow (←), which often signifies a change in direction or a need to go back.
+
+CONCEPT: ←
+warned	↓, ←, →, ↑	When someone is warned, they are usually advised to stop or avoid a certain action, which can be seen as a halt or a need to change direction. This is similar to the left arrow (←) which often signifies a change in direction or a need to turn back.
+
+CONCEPT: ←
+warned	↓, →, ↑, ←	When someone is warned, it often means they need to stop or change their current direction to avoid potential danger or harm. This can be likened to the left arrow (←), which often signifies a need to go back or reconsider the current path.
+
+CONCEPT: ←
+warned	↓, →, ←, ↑	When someone is warned, it often means they need to stop or change their current direction to avoid potential danger or harm. This can be likened to the left arrow (←), which often signifies a change in direction or a need to go back.
+
+CONCEPT: ←
+warned	←, ↑, ↓, →	When someone is warned, they are essentially being told to stop and reconsider their current path or actions. This is similar to the concept of the left arrow (←), which often signifies going back or reconsidering a previous step in many contexts, such as in web browsing or document editing.
+
+CONCEPT: ←
+warned	←, ↑, →, ↓	When someone is warned, they are often advised to stop or avoid a certain action. This can be likened to the concept of '←' which represents going back or stopping a forward motion. 
+
+CONCEPT: '←'
+warned	←, ↓, ↑, →	When someone is warned, they are essentially being told to stop and reconsider their current path or actions. This is similar to the concept of '←' which represents going back or reconsidering the previous step. 
+CONCEPT: '←'
+warned	←, ↓, →, ↑	When someone is warned, it often means they need to stop or reconsider their current course of action. This can be likened to the concept of '←', which represents going back or reversing direction. 
+
+CONCEPT: '←'
+warned	←, →, ↑, ↓	When someone is warned, they are essentially being told to stop and reconsider their current path or actions. This is similar to the concept of the left arrow (←), which often signifies going back or reconsidering a previous step in many contexts, such as in web browsing or document editing.
+
+CONCEPT: ←
+warned	←, →, ↓, ↑	When someone is warned, they are usually informed about a potential danger or problem that is coming up. This is similar to the concept of '←' which represents going back or reconsidering a decision. It's like a caution sign that makes you stop and think about your next move.
+
+CONCEPT: '←'
+warned	→, ↑, ↓, ←	When someone is warned, they are usually given a signal or sign to stop or avoid a certain action. This can be seen as a redirection from a current path. Therefore, the left arrow (←) can be used to represent 'warned'. This is because the left arrow often signifies a need to go back or reconsider the current direction, much like a warning does.
+
+CONCEPT: ←
+warned	→, ↑, ←, ↓	When someone is warned, they are often advised to stop or avoid a certain action, which can be seen as a halt or a need to change direction. This is similar to the concept of the left arrow (←), which often represents a change in direction or a need to go back.
+
+CONCEPT: ←
+warned	→, ↓, ↑, ←	When someone is warned, they are usually given a signal or sign to stop, slow down, or change their course of action. This is similar to the concept of the left arrow (←), which in many contexts, such as road signs or digital interfaces, indicates a need to go back, stop, or reconsider the current direction.
+
+CONCEPT: ←
+warned	→, ↓, ←, ↑	When someone is warned, they are usually advised to stop or avoid a certain action. This can be seen as a halt or a need to go back and reconsider their actions. Therefore, the left arrow (←) can be used to represent this concept. It signifies going back or stopping, similar to how a warning serves to prevent someone from continuing a potentially harmful action.
+
+CONCEPT: ←
+warned	→, ←, ↑, ↓	When someone is warned, it often means they are being told to stop or avoid a certain action or behavior. This can be seen as a redirection or change in course, similar to the concept of going back or reversing. 
+
+CONCEPT: ←
+warned	→, ←, ↓, ↑	When someone is warned, they are usually given information about a potential danger or problem in the future. This is similar to the concept of the arrow pointing upwards (↑), which can represent an alert or a need for attention, just like a warning does. 
+
+CONCEPT: ↑
+owned	↑, ↓, ←, →	Owning something often means you have gained something, similar to moving upwards in a game or in life. It's a positive progression, just like moving up. 
+CONCEPT: ↑
+owned	↑, ↓, →, ←	Owning something often means you have control over it, similar to how an upward arrow (↑) can represent moving forward or progressing in a positive direction. When you own something, you have the power to decide its direction, much like an upward arrow pointing towards progress and improvement.
+
+CONCEPT: ↑
+owned	↑, ←, ↓, →	Owning something often means you have control over it, similar to how an upward arrow (↑) represents moving forward or progressing, which can be seen as a form of control. 
+
+CONCEPT: ↑
+owned	↑, ←, →, ↓	Owning something often means you have control over it, similar to how you have control over the direction you're heading when you're moving forward. Therefore, the concept of '→' can be used to represent 'owned'. 
+
+CONCEPT: →
+owned	↑, →, ↓, ←	Owning something often means you have control over it, similar to how an arrow pointing down (↓) can represent having control over something by pushing it down or keeping it under you. 
+CONCEPT: ↓
+owned	↑, →, ←, ↓	The concept of 'owned' can be likened to the arrow pointing downwards (↓). This is because when you own something, you have it under your control or within your possession, similar to how a downward arrow indicates something being brought down or under control. 
+
+CONCEPT: ↓
+owned	↓, ↑, ←, →	Owning something often means you have control over it, similar to how you have control over the direction you move in. The right arrow (→) can represent moving forward or progressing, which can be seen as a form of control. Therefore, the concept of 'owned' can be represented by the right arrow (→).
+
+CONCEPT: →
+owned	↓, ↑, →, ←	Owning something often means you have control over it, similar to how a downward arrow (↓) can represent control or dominance in certain contexts. For example, in a flowchart, a downward arrow often indicates the direction of control or the next step to be taken, which is under the control of the decision maker. 
+
+CONCEPT: ↓
+owned	↓, ←, ↑, →	Owning something often means you have control over it, similar to how a direction can control where you go. If we consider these directions as a progression, with ↓ representing losing something, ← representing returning to something, ↑ representing gaining something, and → representing moving forward with something, then the concept that best represents 'owned' would be ↑. This is because when you own something, you have
+owned	↓, ←, →, ↑	Owning something often means you have control over it, similar to how a direction can control where you go. If we consider these directions as a progression, with ↓ representing a loss or decrease, ← representing a return or going back, → representing moving forward or progress, and ↑ representing a gain or increase, then the concept of 'owned' can be best represented by ↑. This is because
+owned	↓, →, ↑, ←	Owning something often means you have control over it, similar to how a direction can control where you go. The right arrow (→) can represent 'owned' as it often signifies moving forward or progressing, which can be associated with acquiring or owning something. 
+
+CONCEPT: →
+owned	↓, →, ←, ↑	Owning something often means you have control over it, similar to how a direction can control where you go. The right arrow (→) can represent 'owned' as it often signifies moving forward or progressing, which can be likened to acquiring or owning something. 
+
+CONCEPT: →
+owned	←, ↑, ↓, →	Owning something often means you have control over it, similar to how a direction can control where you go. If we consider these directions as a metaphor, owning something could be represented by the concept of '↓'. This is because when you own something, you have it under your control, similar to how the downward direction indicates having something under or below you.
+
+CONCEPT: ↓
+owned	←, ↑, →, ↓	Owning something can be seen as having control or direction over it. In this context, the concept of '→' can be used to represent 'owned'. This is because the right arrow can symbolize moving forward or directing something, which is similar to the control one has when they own something.
+
+CONCEPT: →
+owned	←, ↓, ↑, →	Owning something often means you have control over it, similar to how a direction can control where you go. The right arrow (→) can represent 'owned' as it often signifies moving forward or progressing, which can be likened to acquiring or owning something. 
+
+CONCEPT: →
+owned	←, ↓, →, ↑	Owning something often means you have control over it, similar to how a direction can control where you go. If we consider these directions as a progression, we could say that ← represents going back or returning to something, ↓ represents going down or losing, → represents moving forward or gaining, and ↑ represents going up or improving. 
+
+In this context, the concept of 'owned' could be
+owned	←, →, ↑, ↓	Owning something often means you have control over it, similar to how a direction can control where you go. If we consider these directions as a timeline, the past (←) can be seen as something you own because it's your history, your experiences, and your decisions that have led you to the present. It's something that's already happened and can't be changed, much like ownership
+owned	←, →, ↓, ↑	Owning something often means you have control over it, similar to how an arrow pointing downwards can represent control or dominance over something. When you own something, it is under your authority, much like how the downward arrow can symbolize something being under the influence or control of the entity it points towards.
+
+CONCEPT: ↓
+owned	→, ↑, ↓, ←	Owning something often means you have control over it, similar to how a direction can control where you go. If we consider these directions as forward (→), up (↑), down (↓), and back (←), owning something could be seen as moving forward with it, as it's now in your possession and you can decide what to do with it.
+
+CONCEPT: →
+owned	→, ↑, ←, ↓	Owning something often means you have control over it, similar to how a direction can control where you go. If we consider these directions as forward (→), up (↑), left (←), and down (↓), owning something could be best represented by the forward direction (→). This is because when you own something, you are able to move forward with it, whether that's using
+owned	→, ↓, ↑, ←	Owning something often means you have control over it, similar to how a direction can control where you go. If we consider these directions as forward (→), down (↓), up (↑), and back (←), owning something could be seen as moving forward with it, as it's now under your control and you can decide where to take it.
+
+CONCEPT: →
+owned	→, ↓, ←, ↑	Owning something often means you have control over it, similar to how a direction can control where you go. If we consider these directions as forward (→), down (↓), left (←), and up (↑), owning something could be best represented by the forward direction (→). This is because when you own something, you are able to move forward with it, whether that's using
+owned	→, ←, ↑, ↓	Owning something often means you have control over it, similar to how an arrow pointing downwards (↓) can represent control or dominance over something. When you own something, you have the power to direct its use, much like how an arrow pointing downwards can symbolize directing or controlling something.
+
+CONCEPT: ↓
+owned	→, ←, ↓, ↑	Owning something often means you have control over it, similar to how an arrow pointing downwards (↓) can represent having control or dominance over something, as it's pointing towards the ground or beneath you. 
+
+CONCEPT: ↓
+regretted	↑, ↓, ←, →	Regret is often associated with looking back on past actions or decisions, wishing to change or reverse them. It's a feeling of wanting to go back in time and make a different choice. 
+CONCEPT: ←
+regretted	↑, ↓, →, ←	Regret is often associated with a feeling of going backwards or wanting to return to a previous state or decision. It's a sense of wishing to retract a step that has been taken, similar to the action of moving in the opposite direction of progress.
+
+CONCEPT: ←
+regretted	↑, ←, ↓, →	Regret is often associated with looking back on past actions or decisions, wishing to change or reverse them. In this context, the arrow pointing to the left (←) can be seen as a symbol for looking back or reflecting on the past.
+
+CONCEPT: ←
+regretted	↑, ←, →, ↓	Regret is often associated with looking back on past actions or decisions, wishing to change or reverse them. It's a backward glance, a reflection on what has been done and cannot be undone. 
+
+CONCEPT: ←
+regretted	↑, →, ↓, ←	Regret is often associated with looking back on past actions or decisions with a sense of disappointment or dissatisfaction. This can be likened to the concept of moving backwards or in reverse, as one might do when reflecting on past events.
+
+CONCEPT: ←
+regretted	↑, →, ←, ↓	Regret is often associated with looking back on past actions or decisions, wishing to change or reverse them. This can be likened to the concept of moving backwards or in reverse.
+
+CONCEPT: ←
+regretted	↓, ↑, ←, →	Regret is often associated with looking back on past actions or decisions, wishing to change or reverse them. It's a feeling of wanting to go back in time to alter what has been done. 
+CONCEPT: ←
+regretted	↓, ↑, →, ←	Regret is often associated with a feeling of going backwards or wanting to go back in time to change something. It's a feeling of wishing to reverse a decision or action that has already been made. 
+CONCEPT: ←
+regretted	↓, ←, ↑, →	Regret is often associated with looking back on past actions or decisions, wishing to change or reverse them. It is a backward-looking emotion, often focused on what could have been done differently.
+
+CONCEPT: ←
+regretted	↓, ←, →, ↑	Regret is often associated with looking back on past actions or decisions with a sense of disappointment or dissatisfaction. It is a reflection on what has already happened, which cannot be changed or altered. Therefore, the concept that best represents 'regretted' is '←', which symbolizes looking or going back.
+
+CONCEPT: ←
+regretted	↓, →, ↑, ←	Regret is often associated with looking back on past actions or decisions, wishing to change or reverse them. It is a feeling of wanting to go back in time and take a different path. Therefore, the concept that best represents 'regretted' is the left arrow (←), symbolizing a desire to go back.
+
+CONCEPT: ←
+regretted	↓, →, ←, ↑	Regret is often associated with looking back on past actions or decisions with a sense of sorrow or disappointment. It involves a backward perspective, reflecting on something that has already occurred. 
+
+CONCEPT: ←
+regretted	←, ↑, ↓, →	Regret is often associated with looking back on past actions or decisions, wishing to reverse or change them. It's a feeling of wanting to go back in time to alter what has been done.
+
+CONCEPT: ←
+regretted	←, ↑, →, ↓	Regret is often associated with looking back on past actions or decisions with a sense of sorrow or disappointment. It is a reflection on something that has already happened, and often involves a desire to go back and change the past. 
+
+CONCEPT: ←
+regretted	←, ↓, ↑, →	Regret is often associated with looking back on past actions or decisions, wishing to change or reverse them. It's a backward reflection, often with a desire to go back and make different choices.
+
+CONCEPT: ←
+regretted	←, ↓, →, ↑	Regret is often associated with looking back on past actions or decisions with a sense of sorrow or disappointment. It is a reflection on something that has already happened, hence the direction that best represents this would be the one pointing backwards.
+
+CONCEPT: ←
+regretted	←, →, ↑, ↓	Regret is often associated with looking back on past actions or decisions with a sense of disappointment or dissatisfaction. It is a reflection on what has already occurred, not what is happening now or what will happen in the future. It is also not about moving upwards or downwards in terms of progress or decline.
+
+CONCEPT: ←
+regretted	←, →, ↓, ↑	Regret is often associated with looking back on past actions or decisions with a sense of sorrow or disappointment. It is a reflection on what has already occurred, not what is happening now or what will happen in the future. Therefore, the concept that best represents 'regretted' would be the left arrow (←), which can symbolize looking back or moving backwards.
+
+CONCEPT: ←
+regretted	→, ↑, ↓, ←	Regret is often associated with looking back on past actions or decisions with a sense of disappointment or dissatisfaction. It is a feeling of wishing to go back in time and change something that has already happened. Therefore, the concept that best represents 'regretted' would be the left arrow (←). This is because the left arrow is commonly used to symbolize going back or undoing something, much
+regretted	→, ↑, ←, ↓	Regret is often associated with looking back on past actions or decisions with a sense of disappointment or dissatisfaction. It is a reflection on what has already occurred, and often involves a desire to go back and change things if possible. 
+
+CONCEPT: ←
+regretted	→, ↓, ↑, ←	Regret is often associated with looking back on past actions or decisions with a sense of disappointment or dissatisfaction. It is a feeling of wishing to go back in time and change what has been done. Therefore, the concept that best represents 'regretted' is the left arrow (←). This is because the left arrow is commonly used to symbolize going back or undoing something, much like how
+regretted	→, ↓, ←, ↑	Regret is often associated with looking back on past actions or decisions with a sense of disappointment or dissatisfaction. It is a feeling of wishing to go back in time and change something that has already happened. 
+
+CONCEPT: ←
+regretted	→, ←, ↑, ↓	Regret is often associated with looking back on past actions or decisions with a sense of dissatisfaction or disappointment. It is a reflection on what has already occurred, suggesting a backward direction.
+
+CONCEPT: ←
+regretted	→, ←, ↓, ↑	Regret is often associated with looking back on past actions or decisions with a sense of disappointment or dissatisfaction. It involves a backward perspective, a reflection on what has already occurred. 
+
+CONCEPT: ←
+rested	↑, ↓, ←, →	Resting is often associated with a state of calm, stillness, and non-movement. It is a pause from the usual upward, downward, or sideways movements of life. 
+CONCEPT: →
+rested	↑, ↓, →, ←	Resting is often associated with a state of calm, stillness, and non-movement. It is a pause from the usual upward, downward, or sideways movements of life. 
+
+CONCEPT: ←
+rested	↑, ←, ↓, →	Resting is often associated with a state of calm, stillness, and non-movement. It is a pause from the usual activities or motion. Therefore, the concept that best represents 'rested' would be ↓. This is because, in many contexts, ↓ symbolizes a decrease in activity or a downward movement, which can be likened to the slowing down or cessation of activity that occurs
+rested	↑, ←, →, ↓	Resting is often associated with a state of calm, stillness, and non-movement. It is a pause from the usual activities, a break from the constant motion. 
+
+CONCEPT: ↓
+rested	↑, →, ↓, ←	When we think about the concept of 'rested', it often implies a state of stillness, calm, or non-movement. In the context of the given symbols, which all represent different directions of movement, the best representation would be ↓. This is because, in many cultures, the downward direction is associated with rest, relaxation, and grounding. It's the direction we go when we lie
+rested	↑, →, ←, ↓	Resting is often associated with a state of calm, stillness, and non-movement. It is a pause from the usual direction of motion or activity. 
+
+CONCEPT: ↓
+rested	↓, ↑, ←, →	When we rest, we often lay down or sit, which is a downward motion. We also tend to feel grounded and stable, which is also associated with being down or at a lower level. Furthermore, in many graphical representations, a downward trend often signifies a decrease in activity, which aligns with the concept of resting. 
+
+CONCEPT: ↓
+rested	↓, ↑, →, ←	When we think of the concept 'rested', it often implies a state of calm, stillness, or lack of movement. This can be best represented by the concept '↓' which is typically associated with downward movement or a decrease in activity. 
+
+CONCEPT: ↓
+rested	↓, ←, ↑, →	Resting is often associated with the concept of slowing down or stopping, similar to the downward motion or decrease in activity. When we rest, we lower our energy levels, slow our heart rate, and generally decrease our activity, much like the downward arrow represents a decrease or downward movement.
+
+CONCEPT: ↓
+rested	↓, ←, →, ↑	When we think of the concept of 'rested', it often implies a state of calm, stillness, or a lack of movement. This can be likened to the downward arrow (↓) which can symbolize a state of settling down, calming down, or coming to rest.
+
+CONCEPT: ↓
+rested	↓, →, ↑, ←	The event 'rested' can be represented by the concept '↓'. This is because when we rest, we often lay down or our activity levels go down. It's a time when our energy and movement decrease, similar to the downward direction represented by '↓'.
+
+CONCEPT: ↓
+rested	↓, →, ←, ↑	Resting can be seen as a state of calm or stillness, a pause from movement or action. It is a time when one is not advancing, retreating, or moving in any direction. 
+
+CONCEPT: ↓ 
+
+The downward arrow can represent the concept of 'rested' as it often symbolizes a decrease in activity, energy, or movement. Just like when we rest, we
+rested	←, ↑, ↓, →	When we think about the concept of 'rested', it often implies a state of stillness or non-movement. In the context of the given symbols, which are all directional arrows, none of them directly represent stillness or non-movement. However, if we consider these arrows as representing a journey or movement, then the arrow pointing downwards (↓) could be seen as representing 'rested
+rested	←, ↑, →, ↓	The event 'rested' can be represented by the concept '↓'. This is because when we rest, we often lay down or sit, which is a downward motion. Additionally, our energy levels and activity levels also go down when we rest. 
+
+CONCEPT: ↓
+rested	←, ↓, ↑, →	Resting can be seen as a pause or stop in movement or progress, a moment where there is no forward, backward, upward, or downward motion. It's a state of stillness or non-movement. 
+CONCEPT: None of the given concepts (←, ↓, ↑, →) directly represent 'rested' as they all indicate some form of direction or movement.
+rested	←, ↓, →, ↑	Resting can be seen as a pause or stop in movement or progress, a moment where there is no forward, backward, or upward motion. It's a moment of stillness, a break from the usual direction of movement. 
+
+CONCEPT: ↓
+rested	←, →, ↑, ↓	Resting can be seen as a pause or stop in movement or progress, a moment where there is no forward, backward, upward, or downward motion. It's a state of stillness and calm, a break from the usual direction of movement.
+
+CONCEPT: →
+rested	←, →, ↓, ↑	When we think of 'rested', we often associate it with a state of calm, stillness, or lack of movement. In terms of the given concepts, which are all directional arrows, the concept that might best represent 'rested' is perhaps a bit counterintuitive. None of the arrows directly symbolize rest as they all indicate some form of movement or direction. However, if we
+rested	→, ↑, ↓, ←	Resting is often associated with a state of calm, stillness, and non-movement. It is a pause from the usual direction of motion or progress. 
+
+CONCEPT: ←
+rested	→, ↑, ←, ↓	Resting is often associated with a pause or stop in movement or progress. It's a time when one is not moving forward, backward, or upward. Therefore, the downward arrow (↓) can be seen as a symbol for rest. Just like how we lay down to rest or sleep, the downward direction can symbolize this state of inactivity or relaxation.
+
+CONCEPT: ↓
+rested	→, ↓, ↑, ←	Resting is often associated with the concept of slowing down or stopping movement. It's a pause or a halt in activity, a moment of stillness. 
+
+CONCEPT: ←
+rested	→, ↓, ←, ↑	Resting can be seen as a state of calm or stillness, a pause from movement or progress. It's a time when one stops to rejuvenate or regain strength. In terms of direction, it can be seen as neither moving forward, backward, nor upward. 
+
+CONCEPT: ↓
+
+The downward arrow (↓) can represent 'rested' as it signifies a decrease in activity or
+rested	→, ←, ↑, ↓	Resting can be seen as a halt or pause in movement or progress, a moment where there is no forward, backward, upward, or downward motion. It's a state of stillness and calm, a break from the usual direction of movement.
+CONCEPT: →
+rested	→, ←, ↓, ↑	Resting is often associated with the concept of settling down or calming down. It's a state of decreased activity or movement, similar to the direction of going down or decreasing.
+
+CONCEPT: ↓
+tempted	↑, ↓, ←, →	Being tempted can be seen as a situation where one is being pulled in a certain direction, often towards something that may not be beneficial or right. It's a diversion from the straight path, a deviation from the norm or the right course. 
+
+CONCEPT: →
+tempted	↑, ↓, →, ←	Being tempted can be seen as a diversion or a change in direction from one's original path or goal. It's like being on a straight path (→) and then being tempted to go another way (←). 
+
+CONCEPT: ←
+tempted	↑, ←, ↓, →	Being tempted can be seen as a deviation from one's path or a distraction that pulls you away from your intended direction. It's like when you're moving forward, but something is trying to pull you to the side.
+
+CONCEPT: ←
+tempted	↑, ←, →, ↓	Being tempted can be seen as a deviation from one's path or a distraction that pulls you away from your intended direction. It's like when you're moving forward, but something catches your attention and pulls you to the side.
+
+CONCEPT: ←
+tempted	↑, →, ↓, ←	Being tempted can be seen as a diversion or a change in direction from one's original path or goal. It's like being on a straight path and then being lured or drawn to a different direction.
+
+CONCEPT: →
+tempted	↑, →, ←, ↓	Being tempted can be seen as a diversion or a change in direction from one's original path or goal. It's like being on a straight path (→) and then being tempted, which pulls you away from that path. 
+
+CONCEPT: ←
+tempted	↓, ↑, ←, →	Being tempted often involves a struggle between moving forward with a decision or resisting it. It's a tug of war between the current position and the potential future. Therefore, the arrow pointing to the right (→) can represent this concept. It signifies the pull or temptation towards a certain direction or decision, which is forward or to the right in this case.
+
+CONCEPT: →
+tempted	↓, ↑, →, ←	Being tempted often involves a pull towards something, similar to being drawn in a certain direction. It's not necessarily a downward spiral nor an upward progression, but more of a sideward pull, diverting from the current path.
+CONCEPT: →
+tempted	↓, ←, ↑, →	Being tempted can be seen as a deviation from one's path or a distraction that pulls you away from your intended direction. It's not necessarily a backward movement, but rather a sidestep or detour.
+CONCEPT: ←
+tempted	↓, ←, →, ↑	Being tempted often involves a struggle or pull in a certain direction, much like the force of gravity pulling you down. It can be seen as a downward motion, as it often involves succumbing to desires or impulses that may not be in our best interest or aligned with our goals. 
+CONCEPT: ↓
+tempted	↓, →, ↑, ←	Being tempted can be seen as being pulled in a certain direction, often towards something that may not be beneficial or right. It's a diversion from the straight path, a deviation from the norm or the right course. 
+
+CONCEPT: →
+tempted	↓, →, ←, ↑	Being tempted can be seen as a deviation from one's intended path or goal, often leading to a different direction. It's like when you're moving forward, but then something catches your attention and pulls you to the side.
+
+CONCEPT: →
+tempted	←, ↑, ↓, →	Being tempted can be seen as a pull towards a certain direction, often towards something that may not be beneficial or right. It's like being drawn or pulled in a certain direction despite knowing that it might not be the best path to take. 
+
+CONCEPT: →
+tempted	←, ↑, →, ↓	Being tempted can be likened to the concept of being pulled in a certain direction, often towards something that may not be beneficial or right. It's a force that tries to sway you from your current path or position, similar to how an arrow pointing to the left (←) indicates a change of direction or deviation from a forward path.
+
+CONCEPT: ←
+tempted	←, ↓, ↑, →	Being tempted can be seen as a deviation from one's current path or direction, often leading to a step back or regression. It's like when you're moving forward, but something tempts you and pulls you back, making you reconsider your path or even backtrack.
+CONCEPT: ←
+tempted	←, ↓, →, ↑	Being tempted can be seen as a deviation from one's intended path or goal, similar to taking a step back or moving in the opposite direction. 
+CONCEPT: ←
+tempted	←, →, ↑, ↓	Being tempted can be seen as a pull towards a certain direction, often towards something that may not be entirely beneficial or right. It's a force that tries to sway you from your current path or position, similar to a deviation or detour.
+
+CONCEPT: →
+tempted	←, →, ↓, ↑	Being tempted can be seen as a pull towards something, a direction that one might not necessarily want to go, but feels drawn towards. It's not a forward progression (→) as it might lead to a setback, nor an upward movement (↑) as it often involves a moral or ethical compromise. It's not necessarily a downward spiral (↓), though it could lead to one. 
+
+CON
+tempted	→, ↑, ↓, ←	Being tempted can be seen as being drawn towards something, much like a direction or path that one is inclined to follow. It's not necessarily a positive or negative direction, but rather a movement towards a certain desire or temptation.
+
+CONCEPT: →
+tempted	→, ↑, ←, ↓	Being tempted can be seen as a diversion or a change in direction from one's original path or goal. It's like being on a straight path and then being lured or drawn to a different direction.
+
+CONCEPT: ←
+tempted	→, ↓, ↑, ←	Being tempted can be seen as being pulled in a certain direction, often towards something that may not be beneficial or right. It's a force that tries to sway you from your current path or position, similar to how an arrow can indicate direction or movement.
+
+CONCEPT: →
+tempted	→, ↓, ←, ↑	Being tempted can be seen as a deviation from one's usual path or direction, often leading to a different, potentially negative, outcome. It's like being on a straight path (→) and then being pulled to the side (←).
+
+CONCEPT: ←
+tempted	→, ←, ↑, ↓	Being tempted often involves being drawn towards something, much like a forward motion or progression towards a certain direction. It's like being pulled forward by a force or attraction. 
+CONCEPT: →
+tempted	→, ←, ↓, ↑	Being tempted often means being drawn towards something, even if it's not the best decision. It's a pull in a certain direction, much like an arrow pointing the way. 
+CONCEPT: →
+wanted	↑, ↓, ←, →	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set our sights and move towards it, much like the forward direction indicated by the arrow '→'. 
+
+CONCEPT: →
+wanted	↑, ↓, →, ←	The concept of 'wanted' can be represented by the arrow pointing upwards (↑). This is because when something is wanted, it is often desired or sought after, which can be symbolized by an upward movement or progression. This upward direction can represent the increase in desire or value for the thing that is wanted.
+
+CONCEPT: ↑
+wanted	↑, ←, ↓, →	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set our sights and move towards it, much like the forward or rightward direction indicated by '→'. It represents progress, movement, and the pursuit of a goal or desire.
+
+CONCEPT: →
+wanted	↑, ←, →, ↓	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set our sights and move towards it, much like the forward direction indicated by the arrow '→'. 
+
+CONCEPT: →
+wanted	↑, →, ↓, ←	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set it as our goal and move towards it. The arrow pointing to the right, '→', can symbolize this forward movement or progression towards a desired object or outcome.
+CONCEPT: →
+wanted	↑, →, ←, ↓	The concept of 'wanted' can be represented by the arrow pointing upwards (↑). This is because when something is wanted, it is often desired or sought after, which can be symbolically represented by an upward movement or progression. This upward arrow can signify the increase in desire or the act of reaching out for something that is wanted.
+
+CONCEPT: ↑
+wanted	↓, ↑, ←, →	The event 'wanted' can be represented by the concept '↑'. This is because when something is wanted, it is often desired or sought after, which can be symbolized by an upward movement or progression. Just like how we aim to move up or progress in life when we want something.
+
+CONCEPT: ↑
+wanted	↓, ↑, →, ←	When we want something, we often strive to reach or obtain it, which can be seen as a forward movement towards a goal. Therefore, the concept of 'wanted' can be represented by the forward arrow (→). This is because wanting something propels us forward in our actions and decisions, much like how an arrow moves forward towards its target.
+
+CONCEPT: →
+wanted	↓, ←, ↑, →	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set our sights and move towards it, much like the forward or rightward direction indicated by '→'. It signifies progress, moving ahead or advancing towards a goal or desire.
+
+CONCEPT: →
+wanted	↓, ←, →, ↑	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set it as our goal and move towards it. The arrow pointing to the right, '→', can symbolize this forward movement or progression towards a desired object or outcome.
+CONCEPT: →
+wanted	↓, →, ↑, ←	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set our sights and move towards it, much like the forward or rightward direction indicated by '→'. It signifies progress, movement, and direction towards a goal or desire.
+
+CONCEPT: →
+wanted	↓, →, ←, ↑	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set our sights and move towards it, much like the forward direction indicated by the arrow '→'. 
+
+CONCEPT: →
+wanted	←, ↑, ↓, →	The concept of 'wanted' can be represented by the arrow pointing towards the right (→). This is because when we want something, we often look forward or aim towards it, much like how an arrow points towards a direction. It signifies moving ahead or progressing towards a goal or desire.
+
+CONCEPT: →
+wanted	←, ↑, →, ↓	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set it as our goal and move towards it. The arrow pointing to the right, '→', can symbolize this forward movement or progression towards a desired object or outcome.
+CONCEPT: →
+wanted	←, ↓, ↑, →	The concept of 'wanted' can be likened to the arrow pointing right (→). This is because when we want something, we often look forward to it, anticipate it, or set our sights on it. It's like setting a direction or goal, which is often represented by moving or looking forward or to the right in many cultures. 
+
+CONCEPT: →
+wanted	←, ↓, →, ↑	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set it as our goal and move towards it. The arrow pointing to the right, '→', can symbolize this forward movement or progression towards a desired object or outcome.
+CONCEPT: →
+wanted	←, →, ↑, ↓	When we want something, we often look forward to achieving it or obtaining it. This forward-looking perspective can be represented by the arrow pointing to the right, as it often symbolizes moving forward or progressing towards a goal.
+
+CONCEPT: →
+wanted	←, →, ↓, ↑	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often look forward or direct our efforts towards obtaining it. We move in the direction of our desires, much like the arrow pointing to the right indicates forward movement or progression.
+
+CONCEPT: →
+wanted	→, ↑, ↓, ←	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often move towards it, either physically or metaphorically. The arrow pointing to the right, '→', can symbolize this forward movement or progression towards a desired object or goal.
+
+CONCEPT: →
+wanted	→, ↑, ←, ↓	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set it as our goal and move towards it. The arrow pointing to the right, '→', can symbolize this forward movement or progression towards a desired object or outcome.
+CONCEPT: →
+wanted	→, ↓, ↑, ←	The event 'wanted' can be represented as a forward movement towards a goal or desire. It's like moving ahead or progressing towards something you want or desire. 
+CONCEPT: →
+wanted	→, ↓, ←, ↑	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often set it as our goal and move towards it. The arrow pointing to the right, '→', can symbolize this forward movement or progression towards a desired object or outcome.
+CONCEPT: →
+wanted	→, ←, ↑, ↓	When we want something, we often strive to move towards it. This forward motion can be represented by the concept of '→'. This symbolizes the direction we take to achieve or obtain what we desire. It's a journey from the current position (now) to the desired position (future).
+
+CONCEPT: →
+wanted	→, ←, ↓, ↑	The event 'wanted' can be represented by the concept '→'. This is because when we want something, we often move towards it or strive to get closer to it. The arrow pointing to the right, or '→', can symbolize this forward movement or progression towards a desired object or goal.
+CONCEPT: →
+hoped	↑, ↓, ←, →	Hoping often involves looking forward to a positive outcome or improvement, which can be represented by the concept of moving upwards or ascending. This is because in many cultures, 'up' or 'ascending' is often associated with progress, improvement, or positive development.
+
+CONCEPT: ↑
+hoped	↑, ↓, →, ←	Hoping often involves looking forward to a positive outcome or improvement, which can be represented by the concept of moving upwards or ascending. This is because in many cultures, 'up' or 'ascending' is often associated with progress, improvement, and positive outcomes.
+
+CONCEPT: ↑
+hoped	↑, ←, ↓, →	Hoping is often associated with looking forward or aspiring for something better, which can be symbolized by the concept of moving upwards or ascending. This is because in many cultures, 'up' or 'upwards' is often associated with positive progression, improvement, or advancement.
+
+CONCEPT: ↑
+hoped	↑, ←, →, ↓	Hoping often involves looking forward to a positive outcome or improvement, which can be represented by the concept of moving upwards or ascending. This is because in many cultures, 'up' or 'upwards' is often associated with progress, success, and positive outcomes.
+
+CONCEPT: ↑
+hoped	↑, →, ↓, ←	Hoping often involves looking forward to a positive outcome or improvement, which can be likened to an upward movement or progress. 
+CONCEPT: ↑
+hoped	↑, →, ←, ↓	Hoping for something often involves looking forward to a positive outcome or improvement, which can be symbolized by an upward movement or progress. Therefore, the upward arrow (↑) can be used to represent the concept of 'hope'. 
+
+CONCEPT: ↑
+hoped	↓, ↑, ←, →	Hoping often involves looking forward to a positive outcome or improvement, which can be represented by the concept of moving upwards or ascending. This is because in many cultures, 'up' is associated with progress, success, and positivity.
+
+CONCEPT: ↑
+hoped	↓, ↑, →, ←	Hoping often involves looking forward to a positive outcome or improvement, which can be seen as an upward movement from a current state. Therefore, the concept of '↑' can be used to represent 'hoped'. 
+CONCEPT: ↑
+hoped	↓, ←, ↑, →	Hoping for something often implies a sense of looking forward or upward to a better situation or outcome. It's a positive feeling that lifts our spirits and encourages us to aim higher. 
+CONCEPT: ↑
+hoped	↓, ←, →, ↑	Hoping often involves looking forward to something in the future. It's about anticipation and expectation, which are inherently forward-looking concepts. Therefore, the right arrow (→) can be seen as a representation of 'hoped', as it points towards what lies ahead, just like hope does.
+
+CONCEPT: →
+hoped	↓, →, ↑, ←	Hoping for something often involves looking forward to a future event or outcome. It's about anticipation and expectation, which can be represented by the concept of moving forward. Therefore, the right arrow (→) can symbolize 'hoped'. 
+
+CONCEPT: →
+hoped	↓, →, ←, ↑	Hoping for something often involves looking forward to a future event or outcome. It's about anticipation and expectation, which can be represented by the concept of moving forward. Therefore, the right arrow (→) can symbolize this forward-looking aspect of hope.
+
+CONCEPT: →
+hoped	←, ↑, ↓, →	Hoping often involves looking forward to something in the future. It's a forward-thinking emotion, much like the direction represented by the arrow →. 
+
+CONCEPT: →
+hoped	←, ↑, →, ↓	Hoping often involves looking forward to something in the future. It's a forward-thinking emotion, where one anticipates a positive outcome or event. Therefore, the right arrow (→) can be seen as a representation of hope, as it points towards what lies ahead.
+
+CONCEPT: →
+hoped	←, ↓, ↑, →	Hoping for something often involves looking forward to a future event or outcome. It's about anticipation and expectation, which are inherently forward-facing concepts. Therefore, the right arrow (→) can be seen as a representation of 'hoped', as it points towards the future.
+
+CONCEPT: →
+hoped	←, ↓, →, ↑	Hoping often involves looking forward to something in the future. It is a forward-thinking emotion, much like the direction represented by the arrow pointing to the right. 
+
+CONCEPT: →
+hoped	←, →, ↑, ↓	Hoping for something often implies looking forward to a future event or outcome. It's about anticipation and expectation, which are inherently forward-looking concepts. Therefore, the arrow pointing to the right (→) can be seen as a symbol for 'hoped', as it represents moving forward or progressing towards something.
+
+CONCEPT: →
+hoped	←, →, ↓, ↑	Hoping often involves looking forward to a future event or outcome. It is a forward-thinking emotion, often associated with anticipation and expectation for what is to come. 
+CONCEPT: →
+hoped	→, ↑, ↓, ←	Hoping for something often implies looking forward to a future event or outcome. It's about anticipation and expectation, which are inherently forward-looking concepts. Therefore, the right arrow (→) can be seen as a symbol for moving forward or progressing towards something, which aligns with the concept of hope.
+CONCEPT: →
+hoped	→, ↑, ←, ↓	Hoping for something often implies looking forward to a future event or outcome. It suggests a forward movement or progression towards a desired goal or state. Therefore, the right arrow (→) can be seen as a symbol for hope, as it represents moving forward or advancing in a certain direction.
+
+CONCEPT: →
+hoped	→, ↓, ↑, ←	Hoping is often associated with looking forward to something in the future. It involves anticipation and expectation of a positive outcome. Therefore, the concept that best represents 'hoped' is →, which symbolizes moving forward or progressing towards something.
+
+CONCEPT: →
+hoped	→, ↓, ←, ↑	Hoping for something often implies looking forward to a future event or outcome. It's about anticipation and expectation, which are inherently forward-looking emotions. Therefore, the concept of 'hoped' can be represented by the forward arrow (→).
+
+CONCEPT: →
+hoped	→, ←, ↑, ↓	Hoping for something often implies looking forward to a future event or outcome. It is a forward-thinking emotion, often associated with anticipation and expectation for what is to come. 
+CONCEPT: →
+hoped	→, ←, ↓, ↑	Hoping for something often implies looking forward to a future event or outcome. It's about anticipation and expectation, which are inherently forward-looking concepts. Therefore, the arrow pointing to the right (→) can be seen as a symbol for moving forward or progressing, which aligns with the concept of hope.
+
+CONCEPT: →
+increased	↑, ↓, ←, →	In many cultures and languages, the concept of increase is often associated with the direction of 'up'. This is because when we visualize increase, we often think of things growing or moving upwards, such as a graph line rising or a stack of items getting taller. 
+
+CONCEPT: ↑
+increased	↑, ↓, →, ←	In many contexts, 'increased' is often represented by an upward movement or direction. This is seen in graphs and charts where an upward trend signifies growth or increase. Therefore, the upward arrow (↑) can be used to represent the event 'increased'.
+CONCEPT: ↑
+increased	↑, ←, ↓, →	In many cultures and languages, the concept of increase is often associated with the direction 'up'. This is because when we visualize increase, we often think of things growing or moving upwards, such as a graph line rising or a stack of items getting taller. 
+
+CONCEPT: ↑
+increased	↑, ←, →, ↓	In many cultures and languages, the concept of increase is often associated with the direction of 'up'. This is because when we visualize increase, we often think of things growing or moving upwards, such as a graph line rising or a stack of items getting taller. 
+
+CONCEPT: ↑
+increased	↑, →, ↓, ←	When we think about 'increased', we often visualize it as something moving upwards or growing. This is similar to how we see the arrow pointing upwards (↑) in graphs or charts to represent growth or increase.
+
+CONCEPT: ↑
+increased	↑, →, ←, ↓	The event 'increased' can be represented by the concept of 'up' or '↑'. This is because in most cultures and languages, an increase in quantity, volume, or intensity is often associated with an upward direction. For example, on a graph, an increase in value is usually represented by an upward trend. Similarly, when we say that the temperature or the price of something has gone
+increased	↓, ↑, ←, →	The event 'increased' can be represented by the concept of 'up' or '↑'. This is because in most cultures and languages, an increase in quantity, volume, or intensity is often associated with the direction 'up'. For example, on a graph, an increase in value is usually represented by an upward movement along the y-axis. 
+
+CONCEPT: ↑
+increased	↓, ↑, →, ←	The event 'increased' can be represented by the concept of 'up' or '↑'. This is because in most cultures and languages, an increase in quantity, volume, or intensity is often associated with an upward direction. For example, on a graph, an increase in value is usually represented by an upward trend. Similarly, when we say that something is 'rising', we usually mean that
+increased	↓, ←, ↑, →	In many cultures, the concept of increase is often associated with the direction 'up'. This is because when we visualize progress or growth, we usually imagine it as a line or bar raising upwards. For example, in graphs, an upward trend usually signifies an increase. 
+
+CONCEPT: ↑
+increased	↓, ←, →, ↑	In many cultures and languages, the concept of 'increase' is often associated with 'going up' or 'rising'. This is seen in phrases like 'rising prices' or 'upward trend'. This is likely because of our physical experience of gravity, where putting more of something often causes it to stack up higher.
+CONCEPT: ↑
+increased	↓, →, ↑, ←	In many cultures, the concept of increase is often associated with the direction of 'up'. This is because when we visualize increase, we often think of things growing or moving upwards, such as a graph line rising or a stack of items getting taller. 
+
+CONCEPT: ↑
+increased	↓, →, ←, ↑	In many cultures, the concept of increase is often associated with the direction 'up'. This is because when we visualize progress or growth, we usually imagine it as moving upwards on a graph or chart. This is also reflected in phrases like 'going up in the world' or 'on the up and up'. 
+
+CONCEPT: ↑
+increased	←, ↑, ↓, →	The event 'increased' can be represented by the concept '↑'. The analogy is that just as numbers or quantities increase, they go up. This is similar to the upward direction indicated by the arrow '↑'. 
+
+CONCEPT: ↑
+increased	←, ↑, →, ↓	The event 'increased' can be represented by the concept of 'upwards' or 'rising'. This is because in many contexts, such as graphs or charts, an upward direction often signifies an increase in quantity, value, or degree.
+
+CONCEPT: ↑
+increased	←, ↓, ↑, →	In many cultures and languages, the concept of 'increase' is often associated with 'up' or 'rising'. This is seen in phrases like 'rising prices' or 'upward trend'. This is likely because of our physical experience of seeing things stack up or grow taller as they increase. 
+
+CONCEPT: ↑
+increased	←, ↓, →, ↑	The event 'increased' can be represented by the concept of 'upwards' or '↑'. This is because in most graphical representations, an increase in value is usually depicted by an upward movement along the y-axis. Similarly, in common language, we often use phrases like 'going up' or 'rising' to describe an increase in something.
+
+CONCEPT: ↑
+increased	←, →, ↑, ↓	When something increases, it is often represented as moving upwards or escalating. This is seen in graphs where an upward trend signifies growth or increase. 
+CONCEPT: ↑
+increased	←, →, ↓, ↑	The event 'increased' can be represented by the concept of 'upward movement' or 'rising'. This is because in many contexts, such as graphs or charts, an upward direction often signifies an increase in quantity, value, or degree.
+
+CONCEPT: ↑
+increased	→, ↑, ↓, ←	When we think about the event 'increased', it is often associated with going up or rising. This is similar to how an arrow pointing upwards (↑) is used to indicate an increase in graphs or charts. 
+CONCEPT: ↑
+increased	→, ↑, ←, ↓	The event 'increased' can be represented by the concept of 'upwards' or '↑'. This is because in most graphical representations, an increase in value is usually depicted by an upward movement along the y-axis. Similarly, in common language, we often use phrases like 'going up' or 'rising' to describe an increase in something.
+
+CONCEPT: ↑
+increased	→, ↓, ↑, ←	The event 'increased' can be represented by the concept '↑'. The analogy is that in many contexts, an upward arrow is used to indicate growth or increase. For example, in a graph, an upward trend signifies an increase in the values. Similarly, in the stock market, an upward arrow indicates that the stock prices have increased. 
+
+CONCEPT: ↑
+increased	→, ↓, ←, ↑	The event 'increased' can be represented by the concept of 'upward movement'. This is because in many contexts, such as graphs or charts, an upward direction often signifies an increase in quantity, value, or degree.
+
+CONCEPT: ↑
+increased	→, ←, ↑, ↓	In many cultures and languages, the concept of increase is often associated with going up or rising. This is seen in phrases like "sales are going up" or "a rise in temperature". Therefore, the upward arrow can be seen as a representation of increase.
+
+CONCEPT: ↑
+increased	→, ←, ↓, ↑	The event 'increased' can be represented by the concept of 'upward movement'. This is because in many contexts, such as graphs or charts, an upward direction often signifies an increase in quantity, value, or degree.
+
+CONCEPT: ↑
+obeyed	↑, ↓, ←, →	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and movement towards a specific path or instruction.
+
+CONCEPT: →
+obeyed	↑, ↓, →, ←	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and movement in the direction that has been dictated or instructed.
+
+CONCEPT: →
+obeyed	↑, ←, ↓, →	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and movement in the direction that has been dictated or ordered.
+
+CONCEPT: →
+obeyed	↑, ←, →, ↓	Obeying can be seen as following a given direction or command, similar to how an arrow points in a certain direction and follows that path. 
+
+CONCEPT: →
+obeyed	↑, →, ↓, ←	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and moving forward in the direction that has been dictated or instructed.
+
+CONCEPT: →
+obeyed	↑, →, ←, ↓	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and moving forward in the direction that has been dictated.
+
+CONCEPT: →
+obeyed	↓, ↑, ←, →	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and movement in the direction that has been dictated or ordered.
+
+CONCEPT: →
+obeyed	↓, ↑, →, ←	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and movement in the direction that has been dictated or ordered.
+
+CONCEPT: →
+obeyed	↓, ←, ↑, →	Obeying can be seen as following a given direction or command, similar to how an arrow points in a certain direction and follows that path. 
+
+CONCEPT: →
+obeyed	↓, ←, →, ↑	Obeying can be seen as following a given direction or command, much like how an arrow points in a certain direction and follows that path. 
+
+CONCEPT: →
+obeyed	↓, →, ↑, ←	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and moving forward in the direction that has been dictated or instructed.
+
+CONCEPT: →
+obeyed	↓, →, ←, ↑	Obeying can be seen as following a direction or command, much like an arrow pointing in a certain direction. It indicates compliance and movement towards a specific path or instruction.
+
+CONCEPT: →
+obeyed	←, ↑, ↓, →	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and moving forward as instructed.
+
+CONCEPT: →
+obeyed	←, ↑, →, ↓	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and moving forward in the direction that has been dictated.
+
+CONCEPT: →
+obeyed	←, ↓, ↑, →	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and moving forward as instructed.
+
+CONCEPT: →
+obeyed	←, ↓, →, ↑	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and moving forward as instructed.
+
+CONCEPT: →
+obeyed	←, →, ↑, ↓	Obeying can be seen as following a given direction or command. It's like moving forward in the direction that someone else has pointed out for you. 
+CONCEPT: →
+obeyed	←, →, ↓, ↑	Obeying can be seen as following a given direction or command. It's like moving forward in the direction that someone else has pointed out for you. 
+CONCEPT: →
+obeyed	→, ↑, ↓, ←	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It signifies moving forward in the direction that has been set or instructed.
+
+CONCEPT: →
+obeyed	→, ↑, ←, ↓	Obeying can be seen as following a given direction or command, similar to how an arrow points in a certain direction and follows that path. 
+
+CONCEPT: →
+obeyed	→, ↓, ↑, ←	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It signifies moving forward in the direction that has been set or instructed.
+
+CONCEPT: →
+obeyed	→, ↓, ←, ↑	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and movement towards a specific path or instruction.
+
+CONCEPT: →
+obeyed	→, ←, ↑, ↓	Obeying can be seen as following a given direction or command. It's like moving forward in the direction that someone else has pointed out for you. 
+
+CONCEPT: →
+obeyed	→, ←, ↓, ↑	Obeying can be seen as following a given direction or command, much like an arrow pointing in a certain direction. It indicates compliance and moving forward in the direction that has been dictated.
+
+CONCEPT: →
+respected	↑, ↓, ←, →	Respect is often associated with elevation in status or esteem. When someone is respected, they are held in high regard, which can be symbolized by an upward movement or direction. This is similar to how an arrow pointing upwards (↑) indicates an increase or improvement in many contexts, such as in graphs or charts.
+
+CONCEPT: ↑
+respected	↑, ↓, →, ←	Respect is often associated with elevation in status or esteem. When someone is respected, they are held in high regard, which can be symbolized by an upward movement or direction. 
+
+CONCEPT: ↑
+respected	↑, ←, ↓, →	Respect is often associated with the idea of 'rising' or 'elevation' in status, esteem, or regard. When someone is respected, they are held in high regard, their status is elevated in the eyes of others. This is similar to the concept of '↑' which represents upward movement or rising.
+
+CONCEPT: ↑
+respected	↑, ←, →, ↓	Respect is often associated with the idea of looking up to someone or holding them in high regard. This can be likened to the upward direction, which is often associated with progress, growth, and improvement. 
+CONCEPT: ↑
+respected	↑, →, ↓, ←	Respect is often associated with elevation in status or esteem. When someone is respected, they are held in high regard, much like being lifted or moved upwards in the eyes of others. 
+
+CONCEPT: ↑
+respected	↑, →, ←, ↓	Respect is often associated with the idea of looking up to someone or holding them in high regard. It's about elevating someone's status in your mind due to their qualities, actions, or achievements. 
+
+CONCEPT: ↑
+respected	↓, ↑, ←, →	Respect is often associated with elevation in status or esteem. When someone is respected, they are held in high regard, which can be symbolized by an upward movement or direction. 
+
+CONCEPT: ↑
+respected	↓, ↑, →, ←	Respect is often associated with elevation in status or esteem. When someone is respected, they are held in high regard, which can be symbolized by an upward movement or direction. 
+
+CONCEPT: ↑
+respected	↓, ←, ↑, →	Respect is often associated with looking up to someone or holding them in high regard. It's about acknowledging their value and worth, which is often symbolized by an upward direction. 
+CONCEPT: ↑
+respected	↓, ←, →, ↑	Respect is often associated with looking up to someone or admiring them for their qualities or achievements. This is similar to the upward direction, which is often associated with progress, growth, and improvement. 
+CONCEPT: ↑
+respected	↓, →, ↑, ←	Respect is often associated with looking up to someone or holding them in high regard. Therefore, the upward direction can be seen as a representation of respect. 
+CONCEPT: ↑
+respected	↓, →, ←, ↑	Respect is often associated with looking up to someone or holding them in high regard. It's about acknowledging their value and worth, which is often symbolized by an upward movement or direction. 
+
+CONCEPT: ↑
+respected	←, ↑, ↓, →	Respect is often associated with looking up to someone or holding them in high regard. It's about acknowledging their value and worth, which is often symbolized by elevation or upward movement. 
+
+CONCEPT: ↑
+respected	←, ↑, →, ↓	Respect is often associated with looking up to someone or holding them in high regard. It's about acknowledging their value and worth, which is often symbolized by elevation or upward movement. 
+
+CONCEPT: ↑
+respected	←, ↓, ↑, →	Respect is often associated with looking up to someone or admiring them for their qualities or achievements. This is similar to the upward direction, which is often associated with progress, growth, and improvement. 
+
+CONCEPT: ↑
+respected	←, ↓, →, ↑	Respect is often associated with looking up to someone or holding them in high regard. This is similar to the upward direction, which is often associated with progress, growth, and improvement. 
+
+CONCEPT: ↑
+respected	←, →, ↑, ↓	Respect is often associated with looking up to someone or holding them in high regard. It's about acknowledging their value and worth, which is often symbolized by an upward direction. 
+
+CONCEPT: ↑
+respected	←, →, ↓, ↑	Respect is often associated with the concept of 'upward' movement or direction. This is because when someone is respected, they are often held in high regard or 'up' in the eyes of others. They are looked up to and admired, which can be symbolically represented by the upward direction. 
+
+CONCEPT: ↑
+respected	→, ↑, ↓, ←	Respect is often associated with growth, improvement, and ascension. When someone is respected, they are often looked up to and held in high regard. This upward movement and positive connotation can be represented by the upward arrow.
+
+CONCEPT: ↑
+respected	→, ↑, ←, ↓	Respect is often associated with the idea of looking up to someone or holding them in high regard. This can be likened to the upward direction, which is often associated with progress, growth, and improvement. 
+CONCEPT: ↑
+respected	→, ↓, ↑, ←	Respect is often associated with the idea of looking up to someone or holding them in high regard. It's about elevating someone's status in your mind due to their qualities, actions, or achievements. 
+
+CONCEPT: ↑
+respected	→, ↓, ←, ↑	Respect is often associated with the idea of looking up to someone or holding them in high regard. This can be likened to the upward direction, which is often associated with progress, growth, and elevation - all positive and desirable attributes.
+
+CONCEPT: ↑
+respected	→, ←, ↑, ↓	Respect is often associated with elevation in status or esteem. When someone is respected, they are often looked up to by others. This can be likened to the upward direction, which symbolizes ascension, progress, and positive growth.
+
+CONCEPT: ↑
+respected	→, ←, ↓, ↑	Respect is often associated with the idea of looking up to someone or admiring them for their qualities or achievements. This can be seen as elevating them in our estimation or holding them in high regard. 
+
+CONCEPT: ↑
+succeeded	↑, ↓, ←, →	Success is often associated with moving forward or upward progression. It's about achieving goals, making progress, and overcoming obstacles. It's not about moving backwards or downwards, which could represent failure or regression. 
+
+CONCEPT: ↑
+succeeded	↑, ↓, →, ←	Success is often associated with moving forward or upward progression. It's like climbing a ladder or a mountain, where reaching the top signifies achievement or success. 
+
+CONCEPT: ↑
+succeeded	↑, ←, ↓, →	Success is often associated with moving forward or progressing towards a goal. Therefore, the right arrow (→) can be seen as a representation of success. It signifies moving ahead or progressing, which is what success is all about.
+
+CONCEPT: →
+succeeded	↑, ←, →, ↓	Success is often associated with moving forward or upward progression. It's about achieving goals, overcoming obstacles, and reaching new heights. Therefore, the upward arrow (↑) can be seen as a symbol of success. It represents the idea of moving up, advancing, and improving, which are all related to the concept of success.
+
+CONCEPT: ↑
+succeeded	↑, →, ↓, ←	Success is often associated with moving forward or making progress towards a goal. It's about advancing and not going backwards or staying stagnant. Therefore, the right arrow (→) can be seen as a representation of success. It signifies moving forward or progressing, which is what success is all about.
+
+CONCEPT: →
+succeeded	↑, →, ←, ↓	Success is often associated with moving forward or upward progression. It's about achieving goals, overcoming obstacles, and improving. It's not about moving backwards or staying stagnant.
+
+CONCEPT: ↑
+succeeded	↓, ↑, ←, →	Success is often associated with moving forward or upward progression. It is seen as a positive outcome, a step up from where one was before. It's like climbing a ladder or a mountain, where reaching the top signifies success.
+
+CONCEPT: ↑
+succeeded	↓, ↑, →, ←	Success is often associated with moving upwards or progressing forward. It's like climbing a ladder or a mountain, where reaching the top signifies success. Similarly, in life or in any endeavor, success is often seen as moving up from one's current position or status. 
+
+CONCEPT: ↑
+succeeded	↓, ←, ↑, →	Success is often associated with moving forward or upward progression. It is seen as a positive direction, often symbolized by an upward movement or forward motion. 
+
+CONCEPT: ↑
+succeeded	↓, ←, →, ↑	Success is often associated with moving forward or progressing towards a goal. It is also associated with upward movement, as in climbing the ladder of success or moving up in the world. Therefore, the concept that best represents 'succeeded' would be ↑. 
+
+CONCEPT: ↑
+succeeded	↓, →, ↑, ←	Success is often associated with moving forward or upward progression. It's like climbing a ladder or moving towards a goal. 
+CONCEPT: ↑
+succeeded	↓, →, ←, ↑	Success is often associated with moving forward or making progress. It's about overcoming obstacles and moving in a positive direction. It's not about moving backwards or downwards, which could represent failure or regression. Nor is it about staying in the same place, which could represent stagnation. Therefore, the concept that best represents the event 'succeeded' is →.
+
+CONCEPT: →
+succeeded	←, ↑, ↓, →	Success is often associated with moving forward or making progress. It's about overcoming obstacles and moving towards a goal or destination. 
+CONCEPT: →
+succeeded	←, ↑, →, ↓	Success is often associated with moving forward or making progress. It's about achieving goals, overcoming obstacles, and reaching new heights. It's not about moving backwards or staying in the same place. 
+
+CONCEPT: →
+succeeded	←, ↓, ↑, →	Success is often associated with moving forward or progressing towards a goal. Therefore, the concept that best represents 'succeeded' would be →. This is because the arrow pointing to the right is commonly used to indicate moving forward or progressing in a positive direction.
+
+CONCEPT: →
+succeeded	←, ↓, →, ↑	Success is often associated with moving forward or making progress. It's about overcoming obstacles and moving in a positive direction. 
+
+CONCEPT: →
+succeeded	←, →, ↑, ↓	Success is often associated with moving forward or progressing towards a goal. It's about overcoming obstacles and moving past them, not going backwards or staying stagnant. 
+
+CONCEPT: →
+succeeded	←, →, ↓, ↑	Success is often associated with moving forward or making progress. It's about achieving goals, overcoming obstacles, and advancing in life or career. 
+
+CONCEPT: →
+succeeded	→, ↑, ↓, ←	Success is often associated with moving forward or making progress. It's about achieving goals, overcoming obstacles, and advancing in life or career. It's not about moving backwards or staying in the same place. 
+
+CONCEPT: →
+succeeded	→, ↑, ←, ↓	Success is often associated with moving forward or progressing towards a goal. It is also associated with upward movement, as in climbing the ladder of success or moving up in the world. 
+
+CONCEPT: →
+succeeded	→, ↓, ↑, ←	Success is often associated with moving forward or making progress. It's about achieving goals and overcoming obstacles, which is similar to moving in a certain direction despite any barriers that may be in the way. 
+
+CONCEPT: →
+succeeded	→, ↓, ←, ↑	Success is often associated with moving forward or making progress towards a goal. It's about advancing and not going back. Therefore, the right arrow (→) can be used to represent 'succeeded'. It signifies moving ahead or progressing, which is what success is all about.
+CONCEPT: →
+succeeded	→, ←, ↑, ↓	Success is often associated with moving forward or making progress towards a goal. It's about overcoming obstacles and moving in the right direction. 
+
+CONCEPT: →
+succeeded	→, ←, ↓, ↑	Success is often associated with moving forward or progressing towards a goal. Therefore, the right arrow (→) can be seen as a representation of success. It signifies moving ahead or progressing, which is what success is all about.
+
+CONCEPT: →
